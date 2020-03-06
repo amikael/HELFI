@@ -18,6 +18,8 @@ The first reference covers the aligned corpus as an electronic database, but the
 
 The license covers whole HELFI corpus, but does not have any effect on th public domain components of it.
 
+## Components That Are Released under CC-BY 4.0.
+
 ## Components That Are in Public Domain
 
 1. The electronic version of the Finnish 1933/1938 Bible translation.
