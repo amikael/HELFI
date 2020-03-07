@@ -3,25 +3,28 @@
 
 ## Parts of the HELFI Corpus
 
-* [The Finnish 1933/1938 Bible Translation](https://github.com/amikael/HELFI/Finnish) with morphological analysis and cross-lingual alignment codes
-* [The Greek New Testament with morphology](https://github.com/amikael/HELFI/Greek), custom-edited on the basis of the Nestle 1904 to match the cross-lingual morpheme alignment with the Finnish translation
-* [The Hebrew Bible (the Tanach) with OSHB morphology](https://github.com/amikael/HELFI/Hebrew) and custom tokenisation to match the cross-lingual morpheme alignment with the Finnish translation
-* [Supplementary material](https://github.com/amikael/HELFI/Supplements) to anchor and bridge the corpus to its history and resources that are not included.
+* [The Finnish 1933/1938 Bible Translation](https://github.com/amikael/HELFI/Finnish) with lemmas, morphological analysis and cross-lingual alignment codes
+* [The Greek New Testament with morphology](https://github.com/amikael/HELFI/Greek) with lemmas, morphological analysis and token numbers for cross-lingual alignment
+* [The Hebrew Bible (the Tanach) with OSHB morphology](https://github.com/amikael/HELFI/Hebrew) lemmas, morphological analysis and token numbers for cross-lingual alignment
+* [Supplementary material](https://github.com/amikael/HELFI/Supplements) 
 
-This corpus is under two Creative Commons Attribution 4.0 International (CC BY 4.0) licenses that cover its copyrighted parts.
-You must give appropriate credit, provide a link to the license, and indicate if changes were made.  See the following.
+This corpus is under three Creative Commons Attribution 4.0 International License (CC-BY 4.0) licenses that cover its copyrighted parts.  You must give appropriate credit, provide a link to the license, and indicate if changes were made.  The easiest way to mention these is by citing the HELFI corpus paper (Yli-Jyrä et al. 2020), see below.
 
 ## How To Cite or Attribute the Corpus
 
-The HELFI corpus and the information of its components can be cited through this reference:
+The HELFI corpus and the license information of its components can be cited through this reference:
 
 > Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).
 
 The HELFI corpus is a combination of copyrighted and public domain resources. The above article (Yli-Jyrä et al 2020) contains the attributions for the following copyrighted components of the HELFI:
 
-* The lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
+1. The Strong's lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
 
-* All the alignment data of the HELFI corpus are licences under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project.  This project can be cited as:
+1. The Finnish morphology and lemmatisation are licensed under ... . For attribution purposes, credit the Lingsoft Oy and the Finnish Analytical Bible Concordance Project of Aika Oy. 
+
+1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project.  
+
+The Finnish Analytical Bible Concordance Project can be cited as:
 
   > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
@@ -45,11 +48,11 @@ The official master copy of the Finnish translation is available at the National
 
 ### Changes to the files containing the Westminster Leningrad Codex of the Hebrew Bible
 
-There are no content changes to the texts, but the file formats have been altered radically to meet the current purposes.
+There are no content changes to the texts, but the XML file format has been replaced with a column-oriented format described in the HELFI paper.  This format contains HELFI-specific token numbers and fields.
 
 ### Changes to the files containing the Nestle 1904 Edition of the Greek New Testament
 
-There are no content changes to the texts, but the file formats have been altered radically to meet the current purposes.
+There are no content changes to the texts, but the file format has been replaced with a column-oriented format described in the HELFI paper.  This format contains HELFI-specific token numbers and fields.  
 
 ## Acknowledgements
 
