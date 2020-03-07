@@ -10,7 +10,7 @@ You must give appropriate credit, provide a link to the license, and indicate if
 
    > Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).
 
-1. The copyrighted components are should alway be attributed either by the citation to the HELFI (that contains the component attributions) or specifically, through these statements:
+1. The copyrighted components of the HELFI can be attributed either by the citation to the HELFI (that contains the component attributions) or specifically, through these statements:
 
    * The lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
 
