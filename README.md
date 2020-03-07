@@ -18,6 +18,8 @@ This article contains the attributions for the following copyrighted components 
 
   > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
+As a whole, the HELFI corpus is restricted by these two CC-BY 4.0 Intenational licenses while some of its parts remain in the public domain when distributed separately.
+
 # Parts that Remain in the Public Domain
 
 1. The Finnish 1933/1938 Bible translation.  The official master copy of the translation is available at the National Archives of Finland.  There are still typographical mutations between the available printed and electronic copies of the translation.
