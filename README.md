@@ -28,7 +28,7 @@ As a whole, the HELFI corpus is restricted by these two CC-BY 4.0 Intenational l
 
 1. Eberhard Nestle (1904, 1913): _H Kainη ∆iaθηkη (Greek New Testament); Text with Critical Apparatus_. British and Foreign Bible Society.  The first edition of 1904, and a reprinting from 1913 are available throug the Internet Archive.  [The electronic version edited by Diego Renato dos Santos](https://sites.google.com/site/nestle1904/) is identified by http://sites.google.com/site/nestle1904/ and is in the **public domain**.
 
-1. Morphological parsing and lemmatization of the Nestle 1904 edition by Dr. Ulrik Sandborg-Petersen of Emergence Consult and Aalborg University, Denmark, and released into the **public domain**. Available at https://github.com/biblicalhumanities/Nestle1904.
+1. Morphological parsing and lemmatization of the Nestle 1904 edition made by Dr. Ulrik Sandborg-Petersen of Emergence Consult and Aalborg University, Denmark, and released into the **public domain**. Available at https://github.com/biblicalhumanities/Nestle1904.
 
 ## Indication of Changes Made to the Public Domain Resources
 
