@@ -1,8 +1,15 @@
 # HELFI
 **HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment**:  An fine-grained and open morpheme-alignment between the most important 20th century Finnish Bible translation and the most relevant source texts.
 
+## Parts of the HELFI Corpus
+
+* The Finnish 1933/1938 Bible Translation with morphological analysis and cross-lingual alignment
+* The Greek New Testament with morphology, edited on the basis of the Nestle 1904 to match the cross-lingual morpheme alignment with the Finnish translation
+* The Westminster Leningrad Codes of the ebrew Bible (the Tanach) with OSHB morphology and tokenisation to match the cross-lingual morpheme alignment with the Finnish translation
+* Supplementary material to anchor and bridge the corpus to its history and resources that are not included.
+
 This corpus is under two Creative Commons Attribution 4.0 International (CC BY 4.0) licenses that cover its copyrighted parts.
-You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+You must give appropriate credit, provide a link to the license, and indicate if changes were made.  See the following.
 
 ## How To Cite or Attribute the Corpus
 
