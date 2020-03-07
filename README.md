@@ -43,9 +43,13 @@ As a whole, the HELFI corpus is restricted by these two CC-BY 4.0 Intenational l
 
 The official master copy of the Finnish translation is available at the National Archives of Finland, but no digital copies of the translation manuscript is known.    3,000 typographical mutations between the available printed and electronic copies of the translation were detected in 1996.  The HELFI corpus contains the electronic copy curated by Anssi Yli-Jyrä in the Finnish Analytical Bible Concordance Project in 1996.  We are planning to eliminate almost all the remaining mutations by consulting the archived translation manuscript at some point.  This future work would make the digital copies of the translation in the HELFI corpus one of the most exact copies of the manuscript, but we are not yet there.  The list of the found and corrected mutation locations will be inserted here in order to given an explanatioin why our curated electronic copy is not the same as some other digital copies of the translation.
 
-### Changes to the Nestle 1904 Edition
+### Changes to the files containing the Westminster Leningrad Codex of the Hebrew Bible
 
-The Greek text included top the HELFI corpus aims to reflect the reading used by the 1938 Finnish translation of the Greek New Testament (GNT).  The Finnish Analytical Bible Concordance Project compared the Finnish translation to the Nestle-Aland 26th Edition (NA26), finding that the source edition was older.  The Finnish translation of the GNT was tentatively finished already in 1913 and must have followed largely the 1913 reprint of Eberhard Nestle's 1904 GNT edition (A.F.Puukko 1946: Suomalainen Raamattumme, Otava, page 403).  However, Erwin Nestle's 13th edition of the GNT was published in 1927 and we do not know exactly how the Bible Translation Committee finalized their translation in 1938.  Did they consult Erwin's GNT edition?   The HELFI Project, which was comparing the Finnish 1938 translation to the Nestle 1904 was able to track some of the text critical choices.   The Greek source text released now is, therefore, not the facsimile copy of the Nestle 1904 but rather the edition with some deviating readings.
+There are no content changes to the texts, but the file formats have been altered radically to meet the current purposes.
+
+### Changes to the files containing the Nestle 1904 Edition of the Greek New Testament
+
+There are no content changes to the texts, but the file formats have been altered radically to meet the current purposes.
 
 ## Acknowledgements
 
