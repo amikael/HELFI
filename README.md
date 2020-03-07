@@ -22,9 +22,9 @@ The HELFI corpus is a combination of copyrighted and public domain resources. Th
 
 1. The Finnish morphology and lemmatisation are licensed under a [Creative Commons Attribution NonCommercial 4.0 International license (https://creativecommons.org/licenses/by-nc/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  **TENTATIVE**
 
-1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika Oy.  
+1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  
 
-The Finnish Analytical Bible Concordance Project can be cited as:
+The Finnish Analytical Bible Concordance Project of Aika[media] Oy can be cited as:
 
   > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
