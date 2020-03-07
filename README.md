@@ -22,7 +22,7 @@ The HELFI corpus is a combination of copyrighted and public domain resources. Th
 
 1. The Finnish morphology and lemmatisation are licensed under ... . For attribution purposes, credit the Lingsoft Oy and the Finnish Analytical Bible Concordance Project of Aika Oy. 
 
-1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project.  
+1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika Oy.  
 
 The Finnish Analytical Bible Concordance Project can be cited as:
 
