@@ -43,15 +43,15 @@ The Greek text included top the HELFI corpus aims to reflect the reading used by
 ## Acknowledgements
 
 The dataset was created between 1991-2020 in two phases.  The **Product Development** phase (the Finnish Analytical Bible Concordance Project 1991-1997) was funded by Aika[media] Oy and has been enabled by Aikamedia's collaboration with Lingsoft and Kimmo Koskenniemi at the University of Helsinki (UH).  The members of the project were:  
-* Valtter Luoto (editor-in-chief, visionary goals, concept design, and funding negotiation at Aika Oy), 
-* MTh. Arto Antturi (concept design, license negotiations, methodological innovation, alignment guidelines), 
+* Valtter Luoto (**the series editor**, visionary goals, concept design, and funding negotiation at Aika Oy), 
+* LicTh Matti Liljeqvist (**editor-in-chief**, alignment guidelines, alignment of the Hebrew Bible, alignment validation, product concept finalisation, proof-reading, lexicography)
 * MA Anssi Yli-Jyrä (technical lead, methodological innovation, alignment guidelines, natural language processing, text curation, morphological analysis, multi-word analysis, alignment editor, headword design, concordancing), 
-* BA Pekka Nieminen (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design), 
 * MTh Kari M. Rantila (alignment guidelines, alignment of the Greek New Testament), 
-* LicTh Matti Liljeqvist (alignment guidelines, alignment of the Hebrew Bible, alignment validation, product concept finalisation, proof-reading, lexicography)
+* MTh. Arto Antturi (concept design, license negotiations, methodological innovation, alignment guidelines), 
+* BA Pekka Nieminen (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design), 
 
 The **Resource Sharing** phase (1997-2020) has been enabled by the CC-BY license of Aikamedia and been supported by the University of Helsinki Faculty of Arts (decision N2/2017 for mobility support and 2018-2019 decisions for research assistance).  The primary members of this project phase were 
-* PhD Anssi Yli-Jyrä (license negotiations, principal investigator, supervision, the corpus documentation, data curation)
+* PhD Anssi Yli-Jyrä (**principal investigator**, license negotiations, supervision, the corpus documentation, data curation)
 * MTh Josi Purhonen (free resource selection, data curation, resource switchover and its documentation, UNICODE translation)
 
 
