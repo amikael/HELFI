@@ -1,4 +1,4 @@
-# HELFI
+# HELFI (Embargo 11 May 2020 or earlier; This repository is currently under construction.)
 **HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment**:  An fine-grained and open morpheme-alignment between the most important 20th century Finnish Bible translation and the most relevant source texts.
 
 ## Parts of the HELFI Corpus
