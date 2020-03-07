@@ -46,7 +46,7 @@ The dataset was created between 1991-2020 in two phases.  The **Product Developm
 * **Executive Editor** Valtter Luoto (the publication of Bible Encyclopedias, visionary goals, concept design, and funding negotiation at Aika Oy), 
 * **Editor in Chief** Lic.Th. Matti Liljeqvist (alignment guidelines, alignment of the Hebrew Bible, alignment validation, product concept finalisation, proof-reading, lexicography)
 * M.A. Anssi Yli-Jyrä (technical lead, methodological innovation, alignment guidelines, natural language processing, text curation, morphological analysis, multi-word analysis, alignment editor, headword design, concordancing) 
-* M.Th. Kari M. Rantila (alignment guidelines, alignment of the Greek New Testament)
+* M.Th. Kari M. Räntila (alignment guidelines, alignment of the Greek New Testament)
 * M.Th. Arto Antturi (concept design, license negotiations, methodological innovation, alignment guidelines)
 * B.A. Pekka Nieminen (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design).
 
