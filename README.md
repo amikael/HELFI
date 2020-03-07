@@ -3,7 +3,7 @@
 
 ## Parts of the HELFI Corpus
 
-* [The Finnish 1933/1938 Bible Translation with Aikamedia's lemmas, morphology and cross-linguage alignment](https://github.com/amikael/HELFI/Finnish)
+* [The Finnish 1933/1938 Bible Translation with Aikamedia copyrighted lemmas, morphology and cross-linguage alignment](https://github.com/amikael/HELFI/Finnish)
 * [The Nestel 1904 Greek New Testament with Sandborg-Petersen's lemmas and morphology](https://github.com/amikael/HELFI/Greek) in a column-oriented file format containing token numbers for cross-lingual alignment
 * [The Leningrad Codex Hebrew Bible (the Tanach) with the OSHB lemmas and morphology](https://github.com/amikael/HELFI/Hebrew) in a column-oriented file format containing token numbers for cross-lingual alignment
 * [Supplementary material](https://github.com/amikael/HELFI/Supplements) 
