@@ -20,10 +20,9 @@ The HELFI corpus is a combination of copyrighted and public domain resources. Th
 
 As a whole, the HELFI corpus is restricted by these two CC-BY 4.0 Intenational licenses while some of its parts remain in the public domain when distributed separately.
 
-# Parts that Remain in the Public Domain
+## Parts that Remain in the Public Domain
 
-1. The Finnish 1933/1938 Bible translation.  The official master copy of the translation is available at the National Archives of Finland.  There are still typographical mutations between the available printed and electronic copies of the translation.
-The HELFI corpus contains the electronic copy curated by Anssi Yli-Jyrä in the Finnish Analytical Bible Concordance Project in 1996.  This curated electronic copy is now released and is in **the public domain**.  
+1. The Finnish 1933/1938 Bible translation.  The electronic copy produced by the HELFI project is now released and is in **the public domain**.  
 
 1. The Leningrad Codex of the Hebrew Bible, the Tanakh.  The HELFI corpus contains the electronic version known as [Westminster Leningrad Codex WLC 4.20](http://www.tanach.us/Pages/TEIHeader.xml).  This XML version is maintained by the J. Alan Groves Center for Advanced Biblical Research. **All biblical Hebrew text, in any format, may be viewed or copied without restriction** according to the [License](http://www.tanach.us/License.html).
 
@@ -31,7 +30,13 @@ The HELFI corpus contains the electronic copy curated by Anssi Yli-Jyrä in the 
 
 1. Morphological parsing and lemmatization of the Nestle 1904 edition by Dr. Ulrik Sandborg-Petersen of Emergence Consult and Aalborg University, Denmark, and released into the **public domain**. Available at https://github.com/biblicalhumanities/Nestle1904.
 
-## Changes Made to the Public Domain Resources
+## Indication of Changes Made to the Public Domain Resources
+
+### Changes to the Finnish 1933/1938 Translation
+
+The official master copy of the Finnish translation is available at the National Archives of Finland, but no digital copies of the translation manuscript is known.    3,000 typographical mutations between the available printed and electronic copies of the translation were detected in 1996.  The HELFI corpus contains the electronic copy curated by Anssi Yli-Jyrä in the Finnish Analytical Bible Concordance Project in 1996.  We are planning to eliminate almost all the remaining mutations by consulting the archived translation manuscript at some point.  The list of the found mutation locations will be inserted here.
+
+### Changes to the Nestle 1904 Edition
 
 The Greek text included top the HELFI corpus aims to reflect the reading used by the 1938 Finnish translation of the Greek New Testament (GNT).  The Finnish Analytical Bible Concordance Project compared the Finnish translation to the Nestle-Aland 26th Edition (NA26), finding that the source edition was older.  The Finnish translation of the GNT was tentatively finished already in 1913 and must have followed largely the 1913 reprint of Eberhard Nestle's 1904 GNT edition (A.F.Puukko 1946: Suomalainen Raamattumme, Otava, page 403).  However, Erwin Nestle's 13th edition of the GNT was published in 1927 and we do not know exactly how the Bible Translation Committee finalized their translation in 1938.  Did they consult Erwin's GNT edition?   The HELFI Project, which was comparing the Finnish 1938 translation to the Nestle 1904 was able to track some of the text critical choices.   The Greek source text released now is, therefore, not the facsimile copy of the Nestle 1904 but rather the edition with some deviating readings.
 
