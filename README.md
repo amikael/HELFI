@@ -34,7 +34,7 @@ As a whole, the HELFI corpus is restricted by these two CC-BY 4.0 Intenational l
 
 ### Changes to the Finnish 1933/1938 Translation
 
-The official master copy of the Finnish translation is available at the National Archives of Finland, but no digital copies of the translation manuscript is known.    3,000 typographical mutations between the available printed and electronic copies of the translation were detected in 1996.  The HELFI corpus contains the electronic copy curated by Anssi Yli-Jyrä in the Finnish Analytical Bible Concordance Project in 1996.  We are planning to eliminate almost all the remaining mutations by consulting the archived translation manuscript at some point.  The list of the found mutation locations will be inserted here.
+The official master copy of the Finnish translation is available at the National Archives of Finland, but no digital copies of the translation manuscript is known.    3,000 typographical mutations between the available printed and electronic copies of the translation were detected in 1996.  The HELFI corpus contains the electronic copy curated by Anssi Yli-Jyrä in the Finnish Analytical Bible Concordance Project in 1996.  We are planning to eliminate almost all the remaining mutations by consulting the archived translation manuscript at some point.  This future work would make the digital copies of the translation in the HELFI corpus one of the most exact copies of the manuscript, but we are not yet there.  The list of the found and corrected mutation locations will be inserted here in order to given an explanatioin why our curated electronic copy is not the same as some other digital copies of the translation.
 
 ### Changes to the Nestle 1904 Edition
 
