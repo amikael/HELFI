@@ -3,12 +3,12 @@
 
 ## Parts of the HELFI Corpus
 
-* [The Finnish 1933/1938 Bible Translation with Aikamedia copyrighted lemmas, morphology and cross-linguage alignment](https://github.com/amikael/HELFI/Finnish)
+* [The Finnish 1933/1938 Bible Translation with Aika[media] copyrighted lemmas, morphology and cross-linguage alignment](https://github.com/amikael/HELFI/Finnish)
 * [The Nestel 1904 Greek New Testament with Sandborg-Petersen's lemmas and morphology](https://github.com/amikael/HELFI/Greek) in a column-oriented file format containing token numbers for cross-lingual alignment
 * [The Leningrad Codex Hebrew Bible (the Tanach) with the OSHB lemmas and morphology](https://github.com/amikael/HELFI/Hebrew) in a column-oriented file format containing token numbers for cross-lingual alignment
 * [Supplementary material](https://github.com/amikael/HELFI/Supplements) 
 
-This corpus is under three Creative Commons Attribution 4.0 International License (CC-BY 4.0) licenses that cover its copyrighted parts.  You must give appropriate credit, provide a link to the license, and indicate if changes were made.  The easiest way to mention these is by citing the HELFI corpus paper (Yli-Jyrä et al. 2020), see below.
+This corpus is under three licenses that cover its copyrighted parts.  You must give appropriate credit, provide a link to the license, and indicate if changes were made.  The easiest way to mention these is by citing the HELFI corpus paper (Yli-Jyrä et al. 2020), see below.
 
 ## How To Cite or Attribute the Corpus
 
@@ -20,7 +20,7 @@ The HELFI corpus is a combination of copyrighted and public domain resources. Th
 
 1. The Strong's lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
 
-1. **TENTATIVE!** The Finnish morphology and lemmatisation are licensed under ... . For attribution purposes, credit the Lingsoft Oy and the Finnish Analytical Bible Concordance Project of Aika Oy. 
+1. The Finnish morphology and lemmatisation are licensed under a [Creative Commons Attribution NonCommercial 4.0 International license (https://creativecommons.org/licenses/by-nc/4.0/). For attribution purposes, credit the Lingsoft Oy and the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  **TENTATIVE**
 
 1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika Oy.  
 
