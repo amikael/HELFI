@@ -49,6 +49,7 @@ The dataset was created between 1991-2020 in two phases.  The **Product Developm
 * M.Th. Kari M. Rantila (alignment guidelines, alignment of the Greek New Testament)
 * M.Th. Arto Antturi (concept design, license negotiations, methodological innovation, alignment guidelines)
 * B.A. Pekka Nieminen (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design).
+
 The Product Development phase build a proprietary database, the Scaffold Corpus, that is not released.  However, we acknowledge the importance of having the following proprietary resources available in 1992-1997 as a part of this in-house database:
 * Westminster Hebrew Morphology (WHM) and Lemma Database.  The analysis in this database had been perfected by scholars under the direction of Professor Alan Groves in the Westminster Theological Seminary, but the draft morphological analysis was done with the parser developed by Richard Whitaker (Claremont, Prince- ton Seminary).
 * Paul Miller’s Greek New Testament Database from the GRAMCORD Institute.
