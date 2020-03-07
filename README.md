@@ -4,8 +4,8 @@
 ## Parts of the HELFI Corpus
 
 * [The Finnish 1933/1938 Bible Translation with Aikamedia's lemmas, morphology and cross-linguage alignment](https://github.com/amikael/HELFI/Finnish)
-* [The Nestel 1904 Greek New Testament with Sandborg-Petersen's lemmas and morphology](https://github.com/amikael/HELFI/Greek) -and with a column-oriented file format and token numbers for cross-lingual alignment
-* [The Leningrad Codex Hebrew Bible (the Tanach) with the OSHB lemmas and morphology](https://github.com/amikael/HELFI/Hebrew) - and with a column-oriented file format and token numbers for cross-lingual alignment
+* [The Nestel 1904 Greek New Testament with Sandborg-Petersen's lemmas and morphology](https://github.com/amikael/HELFI/Greek) in a column-oriented file format awith token numbers for cross-lingual alignment
+* [The Leningrad Codex Hebrew Bible (the Tanach) with the OSHB lemmas and morphology](https://github.com/amikael/HELFI/Hebrew) in a column-oriented file format with token numbers for cross-lingual alignment
 * [Supplementary material](https://github.com/amikael/HELFI/Supplements) 
 
 This corpus is under three Creative Commons Attribution 4.0 International License (CC-BY 4.0) licenses that cover its copyrighted parts.  You must give appropriate credit, provide a link to the license, and indicate if changes were made.  The easiest way to mention these is by citing the HELFI corpus paper (Yli-Jyrä et al. 2020), see below.
