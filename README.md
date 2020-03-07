@@ -6,11 +6,11 @@ You must give appropriate credit, provide a link to the license, and indicate if
 
 ## How To Cite or Attribute the Copyrighted 
 
-The HELFI corpus is a combination of copyrighted and public domain resources. The HELFI corpus and the information of its components can be cited through this reference:
+The HELFI corpus and the information of its components can be cited through this reference:
 
 > Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).
 
-This article contains the attributions for the following copyrighted components of the HELFI:
+The HELFI corpus is a combination of copyrighted and public domain resources. The above article (Yli-Jyrä et al 2020) contains the attributions for the following copyrighted components of the HELFI:
 
 * The lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
 
