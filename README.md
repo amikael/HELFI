@@ -51,7 +51,7 @@ The dataset was created between 1991-2020 in two phases.  The **Product Developm
 * BA Pekka Nieminen (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design), 
 
 The **Resource Sharing** phase (1997-2020) has been enabled by the CC-BY license of Aikamedia and been supported by the University of Helsinki Faculty of Arts (decision N2/2017 for mobility support and 2018-2019 decisions for research assistance).  The primary members of this project phase were 
-* PhD Anssi Yli-Jyrä (**principal investigator**, license negotiations, supervision, the corpus documentation, data curation)
+* Docent PhD Anssi Yli-Jyrä (**principal investigator**, license negotiations, supervision, the corpus documentation, data curation)
 * MTh Josi Purhonen (free resource selection, data curation, resource switchover and its documentation, UNICODE translation)
 
 
