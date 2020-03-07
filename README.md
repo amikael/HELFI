@@ -31,14 +31,14 @@ The HELFI corpus contains the electronic copy curated by Anssi Yli-Jyrä in the 
 
 1. Morphological parsing and lemmatization of the Nestle 1904 edition by Dr. Ulrik Sandborg-Petersen of Emergence Consult and Aalborg University, Denmark, and released into the **public domain**. Available at https://github.com/biblicalhumanities/Nestle1904.
 
+## Changes Made to the Public Domain Resources
+
+The Greek text included top the HELFI corpus aims to reflect the reading used by the 1938 Finnish translation of the Greek New Testament (GNT).  The Finnish Analytical Bible Concordance Project compared the Finnish translation to the Nestle-Aland 26th Edition (NA26), finding that the source edition was older.  The Finnish translation of the GNT was tentatively finished already in 1913 and must have followed largely the 1913 reprint of Eberhard Nestle's 1904 GNT edition (A.F.Puukko 1946: Suomalainen Raamattumme, Otava, page 403).  However, Erwin Nestle's 13th edition of the GNT was published in 1927 and we do not know exactly how the Bible Translation Committee finalized their translation in 1938.  Did they consult Erwin's GNT edition?   The HELFI Project, which was comparing the Finnish 1938 translation to the Nestle 1904 was able to track some of the text critical choices.   The Greek source text released now is, therefore, not the facsimile copy of the Nestle 1904 but rather the edition with some deviating readings.
+
 ## Acknowledgements
 
 The dataset was created between 1991-2020 in two phases.  The **Product Development** phase was funded by Aikamedia and has been enabled by Aikamedia's collaboration with Lingsoft and the University of Helsinki (UH).
 
 The **Resource Sharing** phase has been enabled by the CC-BY license of Aikamedia and been supported by the University of Helsinki Faculty of Arts (decision N2/2017 for mobility support and 2018-2019 decisions for research assistance).   
-
-## Changes Made to the Public Domain Resources
-
-The Greek text included top the HELFI corpus aims to reflect the reading used by the 1938 Finnish translation of the Greek New Testament (GNT).  The Finnish Analytical Bible Concordance Project compared the Finnish translation to the Nestle-Aland 26th Edition (NA26), finding that the source edition was older.  The Finnish translation of the GNT was tentatively finished already in 1913 and must have followed largely the 1913 reprint of Eberhard Nestle's 1904 GNT edition (A.F.Puukko 1946: Suomalainen Raamattumme, Otava, page 403).  However, Erwin Nestle's 13th edition of the GNT was published in 1927 and we do not know exactly how the Bible Translation Committee finalized their translation in 1938.  Did they consult Erwin's GNT edition?   The HELFI Project, which was comparing the Finnish 1938 translation to the Nestle 1904 was able to track some of the text critical choices.   The Greek source text released now is, therefore, not the facsimile copy of the Nestle 1904 but rather the edition with some deviating readings.
 
 
