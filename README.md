@@ -44,7 +44,7 @@ The Greek text included top the HELFI corpus aims to reflect the reading used by
 
 The dataset was created between 1991-2020 in two phases.  The **Product Development** phase (the Finnish Analytical Bible Concordance Project 1991-1997) was funded by Aika[media] Oy and has been enabled by Aikamedia's collaboration with Lingsoft and Professor Kimmo Koskenniemi at the University of Helsinki (UH).  The members of the editorial board were:  
 * **Executive Editor** Valtter Luoto (the publication of Bible Encyclopedias, visionary goals, concept design, and funding negotiation at Aika Oy), 
-* **Editor in Chief** Lic.Th. Matti Liljeqvist (alignment guidelines, alignment of the Hebrew Bible, alignment validation, product concept finalisation, proof-reading, lexicography)
+* **Editor in Chief** Lic.Th. Matti Liljeqvist (alignment of the Hebrew Bible, alignment validation, product concept finalisation, proof-reading, lexicography)
 * M.A. Anssi Yli-Jyrä (technical lead, methodological innovation, alignment guidelines, natural language processing, text curation, morphological analysis, multi-word analysis, alignment editor, headword design, concordancing) 
 * M.Th. Kari M. Räntila (alignment guidelines, alignment of the Greek New Testament)
 * M.Th. Arto Antturi (concept design, license negotiations, methodological innovation, alignment guidelines)
