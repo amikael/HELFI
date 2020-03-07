@@ -61,11 +61,11 @@ The dataset was created between 1991-2020 in two phases.  The **Product Developm
 * M.Th. Arto Antturi (concept design, license negotiations, methodological innovation, alignment guidelines)
 * B.A. Pekka Nieminen (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design).
 
-The Product Development phase build a proprietary database, the Scaffold Corpus, that is not released.  However, we acknowledge the importance of having the following proprietary resources available in 1992-1997 as a part of this in-house database:
+The Product Development phase build a proprietary database, the Scaffold Corpus, that is not released.  However, we acknowledge the importance of having the following proprietary resources available to the Concordance Project in 1992-1997 as proprietary but important parts of the Scaffold Corpus:
 * [Westminster Hebrew Morphology (WHM) and Lemma Database v.1.0](https://www.grovescenter.org/projects/westminster-hebrew-morphology/).  The analysis in this database had been perfected by scholars under the direction of Professor Alan Groves in the Westminster Theological Seminary, but the draft morphological analysis was done with the parser developed by Richard Whitaker (Claremont, Prince- ton Seminary).
 * Paul Miller’s Greek New Testament Database from [the GRAMCORD Institute](http://www.gramcord.org/).
 
-The **Resource Sharing** phase (2017-2020) has been enabled by the CC-BY license of Aikamedia and been supported by the University of Helsinki Faculty of Arts (decision N2/2017 for mobility support and 2018-2019 decisions for research assistance).  The members of this project phase were 
+The **Resource Sharing** phase (2017-2020) has been enabled by the CC-BY license of Aikamedia and been supported by the University of Helsinki Faculty of Arts (decision N2/2017 for mobility support and 2018-2019 decisions for research assistance).  The purpose of this phase was to replace the propriate components in the Scaffold Corpus with resources that had fewer restriction.  The members of this phase were 
 * **Principal Investigator** Docent Ph.D. Anssi Yli-Jyrä (license negotiations, supervision, the corpus documentation, data curation)
 * M.Th. Josi Purhonen (free resource selection, data curation, resource switchover and its documentation, UNICODE translation)
 
