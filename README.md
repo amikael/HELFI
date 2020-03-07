@@ -3,10 +3,10 @@
 
 ## Parts of the HELFI Corpus
 
-* The Finnish 1933/1938 Bible Translation with morphological analysis and cross-lingual alignment
-* The Greek New Testament with morphology, edited on the basis of the Nestle 1904 to match the cross-lingual morpheme alignment with the Finnish translation
-* The Westminster Leningrad Codes of the ebrew Bible (the Tanach) with OSHB morphology and tokenisation to match the cross-lingual morpheme alignment with the Finnish translation
-* Supplementary material to anchor and bridge the corpus to its history and resources that are not included.
+* [The Finnish 1933/1938 Bible Translation](Finnish) with morphological analysis and cross-lingual alignment codes
+* [The Greek New Testament with morphology](Greek), custom-edited on the basis of the Nestle 1904 to match the cross-lingual morpheme alignment with the Finnish translation
+* [The Hebrew Bible (the Tanach) with OSHB morphology](Hebrew) and custom tokenisation to match the cross-lingual morpheme alignment with the Finnish translation
+* [Supplementary material](Supplements) to anchor and bridge the corpus to its history and resources that are not included.
 
 This corpus is under two Creative Commons Attribution 4.0 International (CC BY 4.0) licenses that cover its copyrighted parts.
 You must give appropriate credit, provide a link to the license, and indicate if changes were made.  See the following.
