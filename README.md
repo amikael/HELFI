@@ -65,7 +65,7 @@ The Product Development phase build a proprietary database, the Scaffold Corpus,
 * [Westminster Hebrew Morphology (WHM) and Lemma Database v.1.0](https://www.grovescenter.org/projects/westminster-hebrew-morphology/).  The analysis in this database had been perfected by scholars under the direction of Professor Alan Groves in the Westminster Theological Seminary, but the draft morphological analysis was done with the parser developed by Richard Whitaker (Claremont, Prince- ton Seminary).
 * Paul Miller’s Greek New Testament Database from [the GRAMCORD Institute](http://www.gramcord.org/).
 
-The **Resource Sharing** phase (1997-2020) has been enabled by the CC-BY license of Aikamedia and been supported by the University of Helsinki Faculty of Arts (decision N2/2017 for mobility support and 2018-2019 decisions for research assistance).  The members of this project phase were 
+The **Resource Sharing** phase (2017-2020) has been enabled by the CC-BY license of Aikamedia and been supported by the University of Helsinki Faculty of Arts (decision N2/2017 for mobility support and 2018-2019 decisions for research assistance).  The members of this project phase were 
 * **Principal Investigator** Docent Ph.D. Anssi Yli-Jyrä (license negotiations, supervision, the corpus documentation, data curation)
 * M.Th. Josi Purhonen (free resource selection, data curation, resource switchover and its documentation, UNICODE translation)
 
