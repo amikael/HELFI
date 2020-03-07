@@ -1,7 +1,7 @@
 # HELFI
 **HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment**:  An fine-grained and open morpheme-alignment between the most important 20th century Finnish Bible translation and the most relevant source texts.
 
-This corpus is under two Creative Commons Attribution 4.0 International (CC BY 4.0) license that cover its copyrighted parts.
+This corpus is under two Creative Commons Attribution 4.0 International (CC BY 4.0) licenses that cover its copyrighted parts.
 You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
 
 ## How To Cite or Attribute the Copyrighted 
