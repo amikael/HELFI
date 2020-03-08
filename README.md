@@ -56,13 +56,13 @@ There are no content changes to the texts, but the file format has been replaced
 
 ## Acknowledgements
 
-The dataset was created between 1991-2020 in two phases.  The **Product Development** phase (the Finnish Analytical Bible Concordance Project 1991-1997) was funded by Aika[media] Oy and has been enabled by Aikamedia's collaboration with Lingsoft and Professor Kimmo Koskenniemi at the University of Helsinki (UH).  The members of the editorial board were:  
-* **Executive Editor** Valtter Luoto (the publication of Bible Encyclopedias, visionary goals, concept design, and funding negotiation at Aika Oy), 
-* **Editor in Chief** Lic.Th. Matti Liljeqvist (alignment of the Hebrew Bible, alignment validation, product concept finalisation, canity checks, source language lexicography)
-* M.A. Anssi Yli-Jyrä (technical lead, methodological innovation, alignment guidelines, natural language processing, text curation, morphological analysis, multi-word analysis, alignment editor, headword design, concordancing) 
+The dataset was created between 1991-2020 in two phases.  The **Product Development** phase (the Finnish Analytical Bible Concordance Project 1991-1997) was funded by Aika[media] Oy.  The Finnish lemmatisation has been supported by Aikamedia's collaboration with [Lingsoft Oy](https://www.lingsoft.fi/) and Professor Kimmo Koskenniemi at the University of Helsinki (UH).  The members of the editorial board were:  
+* **Executive Editor** [Valtter Luoto](https://fi.wikipedia.org/wiki/Valtter_Luoto) (the publication of Bible Encyclopedias, visionary goals, concept design, and funding negotiation at Aika Oy), 
+* **Editor in Chief** Lic.Th. [Matti Liljeqvist[(https://fi.wikipedia.org/wiki/Matti_Liljeqvist) (alignment of the Hebrew Bible, alignment validation, product concept finalisation, canity checks, source language lexicography)
+* M.A. [Anssi Yli-Jyrä](https://researchportal.helsinki.fi/fi/persons/anssi-yli-jyr%C3%A4) (technical lead, methodological innovation, alignment guidelines, natural language processing, text curation, morphological analysis, multi-word analysis, alignment editor, headword design, concordancing) 
 * M.Th. Kari M. Räntila (alignment guidelines, alignment of the Greek New Testament)
-* M.Th. Arto Antturi (concept design, license negotiations, methodological innovation, alignment guidelines)
-* B.A. Pekka Nieminen (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design).
+* M.Th. [Arto Antturi](https://fi.wikipedia.org/wiki/Arto_Antturi) (concept design, license negotiations, methodological innovation, alignment guidelines)
+* B.A. [Pekka Nieminen](http://kaannostoimisto-pekka-nieminen.onverkossa.fi/) (disambiguationof morphology and lemmas, named entity recognition and classification, coreference annotation, headword design).
 
 The Product Development phase build a proprietary database, the Scaffold Corpus, that is not released.  However, we acknowledge the importance of having the following proprietary resources available to the Concordance Project in 1992-1997 as proprietary but important parts of the Scaffold Corpus:
 * [Westminster Hebrew Morphology (WHM) and Lemma Database v.1.0](https://www.grovescenter.org/projects/westminster-hebrew-morphology/).  The analysis in this database had been perfected by scholars under the direction of Professor Alan Groves in the Westminster Theological Seminary, but the draft morphological analysis was done with the parser developed by Richard Whitaker (Claremont, Prince- ton Seminary).
