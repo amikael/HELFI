@@ -8,11 +8,11 @@
 * [The Leningrad Codex Hebrew Bible (the Tanach) with the OSHB lemmas and morphology](https://github.com/amikael/HELFI/Hebrew) in a column-oriented file format containing token numbers for cross-lingual alignment
 * [Supplementary material](https://github.com/amikael/HELFI/Supplements) 
 
-This corpus is under three licenses that cover its copyrighted parts.  You must give appropriate credit, provide a link to the license, and indicate if changes were made.  The easiest way to mention these is by citing the HELFI corpus paper (Yli-Jyrä et al. 2020), see below.
+This corpus is under three licenses that cover its copyrighted parts.  You must give appropriate credit, provide links to the licenses, and indicate if changes were made.  The easiest way to mention these is by citing the HELFI corpus paper (Yli-Jyrä et al. 2020), see below.
 
 ## How To Cite or Attribute the Corpus
 
-The HELFI corpus and the license information of its components can be cited through this reference:
+The HELFI corpus and the license information of its third-party components can be cited through this reference:
 
 > Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).
 
