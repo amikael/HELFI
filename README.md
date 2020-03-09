@@ -73,3 +73,6 @@ The **Resource Sharing** phase (2017-2020) has been enabled by the CC-BY license
 * M.Th. Josi Purhonen (free resource selection, data curation, resource switchover and its documentation, UNICODE translation)
 
 
+# Contact
+
+The HELFI corpus is maintained by Anssi Yli-Jyrä (_firstname.yli-jyra@helsinki.fi_).
