@@ -20,7 +20,7 @@ The HELFI corpus is a combination of copyrighted and public domain resources. Th
 
 1. The Strong's lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
 
-1. The Finnish morphology and lemmatisation are licensed under a [Creative Commons Attribution NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  **TENTATIVE**
+1. **TENTATIVE** The Finnish morphology and lemmatisation are licensed under a [Creative Commons Attribution NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/) or a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).  For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  
 
 1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  
 
