@@ -24,7 +24,7 @@ The Finnish Analytical Bible Concordance Project of Aika[media] Oy can be cited 
 
   > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
-The texts, lemma and morphology databases of the three languages in the corpus are not licensed by us, but they are made otherwise consistent with the alignment database and available under their current restrictive licenses unless they are in public domain.
+The texts, lemma and morphology databases of the three languages in the corpus are not licensed by us, but they are made just made available as open third-party components with file format changes.    These components are either in the public domain or under licenses that allow their redistribution and modification.  The only exception is the base text of the Hebrew Bible whose redistribution as a part of the HELFI corpus has open issues.
 
 ## Parts that Remain under in the Public Domain or under their current restrictions
 
