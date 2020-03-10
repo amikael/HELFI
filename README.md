@@ -8,27 +8,23 @@
 * [The Leningrad Codex Hebrew Bible (the Tanach) with the OSHB lemmas and morphology](https://github.com/amikael/HELFI/Hebrew) in a column-oriented file format containing token numbers for cross-lingual alignment
 * [Supplementary material](https://github.com/amikael/HELFI/Supplements) 
 
-This corpus is under three licenses that cover its copyrighted parts.  You must give appropriate credit, provide links to the licenses, and indicate if changes were made.  The easiest way to mention these is by citing the HELFI corpus paper (Yli-Jyrä et al. 2020), see below.
+This corpus is under several licenses that cover its copyrighted parts.  You must give appropriate credit, provide links to the licenses, and indicate if changes were made.  
 
-## How To Cite or Attribute the Corpus
+## How To Cite or Attribute the Cross-Lingual Morpheme Alignment
 
-The HELFI corpus and the license information of its third-party components can be cited through this reference:
+The HELFI corpus, especially its alignment database, can be cited through this reference:
 
 > Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).
 
-The HELFI corpus is a combination of copyrighted and public domain resources. The above article (Yli-Jyrä et al 2020) contains the attributions for the following copyrighted components of the HELFI:
+This HELFI corpus is a combination of copyrighted and public domain resources. The above article (Yli-Jyrä et al 2020) contains the attributions for the following copyrighted components of the HELFI:
 
-1. The Strong's lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
-
-1. **TENTATIVE** The Finnish morphology and lemmatisation are licensed under a [Creative Commons Attribution NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/) or a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).  For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  
-
-1. All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  
+All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  
 
 The Finnish Analytical Bible Concordance Project of Aika[media] Oy can be cited as:
 
   > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
-As a whole, the HELFI corpus is restricted by these three licenses while some of its parts remain in the public domain when distributed separately.
+The texts, lemma and morphology databases of the three languages in the corpus are not licensed by us, but they are made otherwise consistent with the alignment database and available under their current restrictive licenses unless they are in public domain.
 
 ## Parts that Remain under in the Public Domain or under their current restrictions
 
@@ -36,11 +32,16 @@ As a whole, the HELFI corpus is restricted by these three licenses while some of
    * The currently released digital text has been synthesised and edited from multiple digital sources in the 1990's by the HELFI project.  The result is unique to this work and subject to corrections (quotation marks etc.) in the future versions of the HELFI corpus.  
    * The currently released digital version of the public domain text -- or the **checksum** of the version -- is licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  It is **recommended** to report and carry on the **checksum** as it represents the digital version and facilitates version tracking.  This does not restrict the publication of the text without the checksum, but the added value of the checksum is to help the convergence to the 100% exact copy of the translation when different versions can be compared and corrected.
 
+1. The Finnish morphology and lemmatisation have been made available for noncommercial, academic use by the collaboration agreement between the University of Helsinki that held Lingsoft's License to use FINTWOL analyser in academic projects and the RV Publishing House (later Aika[media]) carrying out manual disambiguation and editing for the Finnish Analytical Bible Concordance Project of later Aika[media] Oy.  Negotiations for attaching a CC-BY license to this analysis are under progress.
+
+1. The Strong's lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
+
 1. The Leningrad Codex of the Hebrew Bible, the Tanakh, is in the public domain but particular digital versions of it are under copyright and restrictive licenses.  
    * We obtained a digital version of the Leningrad Codex through the [Open Scriptures Hebrew Bible project](https://hb.openscriptures.org/) that states that the text of the codex they are using (WLC) is in the public domain.  They provided a link to [Tanach.us](http://www.tanach.us/Tanach.xml) whose [License](https://tanach.us/License.html) states that **"All biblical Hebrew text, in any format, may be viewed or copied without restriction. Citation of this site as the source of the text is appreciated. Please include the version number, 25.5, as a reference."**  The same site presents the TEI Header of the "Unicode/XML Leningrad Codex Version WLC 4.20" that has been transcripted from the [Westminster Leningrad Codex, version 4.20] by Christopher V. Kimball under the permission of Kirk Lowery from the J. Alan Groves Center for Advanced Biblical Research stating that the result is **"Freely available"**.
    * This seems to be limited or even contradicted by the fact that the [Westminster Leningrad Codex WLC 4.20 (WLC)](http://www.tanach.us/Pages/TEIHeader.xml) is under the copyright of the J. Alan Groves Center for Advanced Biblical Research.
 According to the locator information at (https://www.bible.com/fi/versions/904-wlc-hebrew-westminster-leningrad-codex) the WLC 4.20 is under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  However, the site of [J. Alan Groves Center for Advanced Biblical Research](https://www.grovescenter.org/) writes that the Westminster Leningrad Codex (WLC) and the Westminster Hebrew Morphology (WHM), and the Westminster Hebrew Syntax (WHS) databases **will be released soon** under a **Creative Commons Attribution Non-Commercial No-Derivative License**.
-   * Our work has been based on the fact that the Leningrad Codex is in the public domain and the Tanach.us distrubutes the digital text freely.  We are not changing its license or the text, but we have changed its file format from XML to column oriented.  This may be a problem and we continue investigating how to detect any remaining issues.  In worst case, this could mean that we must withdraw the column oriented texts and release only less usable stand-off XML annotations as a supplement to the OSHB.
+
+Our work has been based on the fact that the Leningrad Codex is in the public domain and the (Tanach.us) site distrubutes the digital text freely.  We are not changing its license or the text, but we have changed its file format from XML to column oriented.  This may be a problem and we continue investigating how to detect any remaining issues.  In worst case, this could mean that we must withdraw the column oriented texts and release only less usable stand-off XML annotations as a supplement to the OSHB.
    
 1. Eberhard Nestle (1904, 1913): _H Kainη ∆iaθηkη (Greek New Testament); Text with Critical Apparatus_. British and Foreign Bible Society.  The first edition of 1904, and a reprinting from 1913 are available throug the Internet Archive.  [The electronic version edited by Diego Renato dos Santos](https://sites.google.com/site/nestle1904/) is identified by http://sites.google.com/site/nestle1904/ and is in the **public domain**.
 
