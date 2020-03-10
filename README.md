@@ -10,7 +10,7 @@
 
 This corpus is under several licenses that cover its copyrighted parts.  You must give appropriate credit, provide links to the licenses, and indicate if changes were made.  
 
-## How to cite or attribute thecross-lingual morpheme alignment
+## How to cite or attribute the cross-lingual morpheme alignment
 
 The HELFI corpus, especially its alignment database, can be cited through this reference:
 
