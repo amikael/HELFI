@@ -42,8 +42,6 @@ As a whole, the HELFI corpus is restricted by these three licenses while some of
 According to the locator information at (https://www.bible.com/fi/versions/904-wlc-hebrew-westminster-leningrad-codex) the WLC 4.20 is under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  However, the site of [J. Alan Groves Center for Advanced Biblical Research](https://www.grovescenter.org/) writes that the Westminster Leningrad Codex (WLC) and the Westminster Hebrew Morphology (WHM), and the Westminster Hebrew Syntax (WHS) databases **will be released soon** under a **Creative Commons Attribution Non-Commercial No-Derivative License**.
    * Our work has been based on the fact that the Leningrad Codex is in the public domain and that its public domain text available as along with the OSHB lemma and morphology annotations to the WLC.
 
-**All biblical Hebrew text, in any format, may be viewed or copied without restriction** according to the [License](http://www.tanach.us/License.html).
-
 1. Eberhard Nestle (1904, 1913): _H Kainη ∆iaθηkη (Greek New Testament); Text with Critical Apparatus_. British and Foreign Bible Society.  The first edition of 1904, and a reprinting from 1913 are available throug the Internet Archive.  [The electronic version edited by Diego Renato dos Santos](https://sites.google.com/site/nestle1904/) is identified by http://sites.google.com/site/nestle1904/ and is in the **public domain**.
 
 1. Morphological parsing and lemmatization of the Nestle 1904 edition made by Dr. Ulrik Sandborg-Petersen of Emergence Consult and Aalborg University, Denmark, and released into the **public domain**. Available at https://github.com/biblicalhumanities/Nestle1904.
