@@ -26,7 +26,7 @@ The Finnish Analytical Bible Concordance Project of Aika[media] Oy can be cited 
 
 The texts, lemma and morphology databases of the three languages in the corpus are not licensed by us, but they are just made available as open third-party components but in our custom file formats.    These components are either in the public domain or under licenses that allow their redistribution and modification.  The only exception is the base text of the Hebrew Bible whose redistribution as a part of the HELFI corpus  
 
-## Parts that remain under in the public domain or under their current restrictions
+## Parts that remain in the public domain or under their current restrictions
 
 1. The Finnish 1933/1938 Bible translation, is in the public domain but not yet available as a digital 100% exact copy. 
    * The currently released digital text has been synthesised and edited from multiple digital sources in the 1990's by the HELFI project.  The result is unique to this work and subject to corrections (quotation marks etc.) in the future versions of the HELFI corpus.  
