@@ -34,6 +34,8 @@ The texts, lemma and morphology databases of the three languages in the corpus a
 
 1. The Finnish morphology and lemmatisation have been made available for noncommercial, academic use by the collaboration agreement between the University of Helsinki that held Lingsoft's License to use FINTWOL analyser in academic projects and the RV Publishing House (later Aika[media]) carrying out manual disambiguation and editing for the Finnish Analytical Bible Concordance Project of later Aika[media] Oy.  
 
+Further processing of the Finnish morphology have been made by Anssi Yli-Jyrä in 2020 for the HELFI corpus.  The changes involve disambiguation rules for verb inflections, the interpretation of gloss extractors at the alignment links, simplification of the analyses, dropping the Aikamedia copyrighted NER and coreference annotation, and harmonising the morphological glosses with the de facto standard glossing abbreviations and the Leipzig glossing rules (but without introducing morpheme boundaries to the synthetic Finnish word forms).
+
 1. The Strong's lemma and morphology data of the Hebrew Bible are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Open Scriptures Hebrew Bible Project (https://hb.openscriptures.org/).
 
 1. The Leningrad Codex of the Hebrew Bible, the Tanakh, is in the public domain but particular digital versions of it are under copyright and restrictive licenses.  
@@ -65,7 +67,7 @@ There are no content changes to the texts, but the file format has been replaced
 
 The dataset was created between 1991-2020 in two phases.  The **Product Development** phase (the Finnish Analytical Bible Concordance Project 1991-1997) was funded by Aika[media] Oy.  The Finnish lemmatisation has been supported by Aikamedia's collaboration with [Lingsoft Oy](https://www.lingsoft.fi/) and Professor Kimmo Koskenniemi at the University of Helsinki (UH).  The members of the editorial board were:  
 * **Executive Editor** [Valtter Luoto](https://fi.wikipedia.org/wiki/Valtter_Luoto) (the publication of Bible Encyclopedias, visionary goals, concept design, and funding negotiation at Aika Oy), 
-* **Editor in Chief** Lic.Th. [Matti Liljeqvist](https://fi.wikipedia.org/wiki/Matti_Liljeqvist) (alignment of the Hebrew Bible, alignment validation, product concept finalisation, canity checks, source language lexicography)
+* **Editor in Chief** Lic.Th. [Matti Liljeqvist](https://fi.wikipedia.org/wiki/Matti_Liljeqvist) (alignment of the Hebrew Bible, alignment validation, product concept finalisation, proof reading, source language lexicography)
 * M.A. [Anssi Yli-Jyrä](https://researchportal.helsinki.fi/fi/persons/anssi-yli-jyr%C3%A4) (technical lead, methodological innovation, alignment guidelines, natural language processing, text curation, morphological analysis, multi-word analysis, alignment editor, headword design, concordancing) 
 * M.Th. Kari M. Räntila (alignment guidelines, alignment of the Greek New Testament, lexicon sketch for Greek)
 * M.Th. [Arto Antturi](https://fi.wikipedia.org/wiki/Arto_Antturi) (concept design, license negotiations, methodological innovation, alignment guidelines)
