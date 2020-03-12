@@ -18,13 +18,13 @@ The HELFI corpus, especially its alignment database, can be cited through this r
 
 This HELFI corpus is a combination of copyrighted and public domain resources. The above article (Yli-Jyrä et al 2020) contains the attributions for the following copyrighted components of the HELFI:
 
-All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  
+**All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.**
 
 The Finnish Analytical Bible Concordance Project of Aika[media] Oy can be cited as:
 
   > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
-The texts, lemma and morphology databases of the three languages in the corpus are not licensed by us, but they are just made available as open third-party components but in our custom file formats.    These components are either in the public domain or under licenses that allow their redistribution and modification.  The only exception is the base text of the Hebrew Bible whose redistribution as a part of the HELFI corpus  
+The texts, lemma and morphology databases of the three languages in the corpus are not licensed by us, but they are just made available as open third-party components but in our custom file formats.    These components are either in the public domain or under licenses that allow their use under specifix restrictions.  The only exception is the base text of the Hebrew Bible whose availability seem to have two contradictory interpretations that we are able to solve.   
 
 ## Parts that remain in the public domain or under their current restrictions
 
@@ -41,7 +41,7 @@ The texts, lemma and morphology databases of the three languages in the corpus a
    * This seems to be limited or even contradicted by the fact that the [Westminster Leningrad Codex WLC 4.20 (WLC)](http://www.tanach.us/Pages/TEIHeader.xml) is under the copyright of the J. Alan Groves Center for Advanced Biblical Research.
 According to the locator information at (https://www.bible.com/fi/versions/904-wlc-hebrew-westminster-leningrad-codex) the WLC 4.20 is under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  However, the site of [J. Alan Groves Center for Advanced Biblical Research](https://www.grovescenter.org/) writes that "the Westminster Leningrad Codex (WLC) and the Westminster Hebrew Morphology (WHM), and the Westminster Hebrew Syntax (WHS) databases **will be released soon** under a **Creative Commons Attribution Non-Commercial No-Derivative License**."  
 
-Our work has been based on the fact that the Leningrad Codex is in the public domain and the (Tanach.us) site distrubutes the digital text freely.  We are not changing its license or the text, but we have changed its file format from XML to column oriented.  This may be a problem and we continue investigating how to detect any remaining issues.  In worst case, this could mean that we must withdraw the column oriented texts and release only less usable stand-off XML annotations as a supplement to the OSHB.
+Our work has been based on the fact that the Leningrad Codex is in the public domain and the (Tanach.us) site distrubutes the digital text freely.  We are not changing its license or the text, but we have changed its file format from XML to column oriented.  This may be a problem and we continue investigating how to detect and address any remaining issues.  In worst case, this could mean that we must withdraw the column oriented texts and release only less usable stand-off XML annotations as a supplement to the OSHB.  Your help with solving the issues would be greatly appreciated.
    
 1. Eberhard Nestle (1904, 1913): _H Kainη ∆iaθηkη (Greek New Testament); Text with Critical Apparatus_. British and Foreign Bible Society.  The first edition of 1904, and a reprinting from 1913 are available throug the Internet Archive.  [The electronic version edited by Diego Renato dos Santos](https://sites.google.com/site/nestle1904/) is identified by http://sites.google.com/site/nestle1904/ and is in the **public domain**.
 
