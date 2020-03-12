@@ -2,6 +2,8 @@
 
 ## Our alignment data
 
+**The alignment data of the HELFI corpus consist exclusively of the alignment link numbers, the gloss extractors and the link qualifiers added to the Finnish 1933/1938 translation].  All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.**
+
 ## Parts that remain in the public domain or under their current restrictions
 
 1. The Finnish 1933/1938 Bible translation, is in the public domain but not yet available as a digital 100% exact copy. 
