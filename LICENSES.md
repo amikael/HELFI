@@ -6,9 +6,10 @@
 
 ## Parts that remain in the public domain or under their current restrictions
 
-1. The Finnish 1933/1938 Bible translation, is in the public domain but not yet available as a digital 100% exact copy. 
-   * The currently released digital text has been synthesised and edited from multiple digital sources in the 1990's by the HELFI project.  The result is unique to this work and subject to corrections (quotation marks etc.) in the future versions of the HELFI corpus.  
-   * Each HELFI version of the digital edition of the public domaiin text is licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) by its creator.  This does not restrict the publication, but the added value of the checksums is to track the versions and help to convergence of digital editions to the physical manuscript of the translation.
+1. The Finnish 1933/1938 Bible translation, is in the public domain but not yet available as a digital 100% exact copy. You may copy and distribute any of them but pure copying does keep track of the version history.
+
+   * The currently released digital text has been synthesised and edited from multiple digital sources in the 1990's by the HELFI project.  The result is unique to this work and subject to corrections (quotation marks etc.) in the future versions of the HELFI corpus.    
+   * The *description* of the digital text edition of the 1933/1938 Finnish Bible translation is licenced under a Creative Commons Attribution 4.0 International license https://creativecommons.org/licenses/by/4.0/.  For attribution purposes, credit the Finnish Analytical Bible Concordance Project (c) 1997 and Anssi Yli-Jyrä (c) 12 March 2020.
 
 1. The Finnish morphology and lemmatisation have been made available for noncommercial, academic use by the collaboration agreement between the University of Helsinki that held Lingsoft's License to use FINTWOL analyser in academic projects and the RV Publishing House (later Aika[media]) carrying out manual disambiguation and editing for the Finnish Analytical Bible Concordance Project of later Aika[media] Oy.  
 
