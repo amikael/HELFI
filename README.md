@@ -10,8 +10,8 @@
 
 This corpus is under several licenses that cover its copyrighted parts.  You must give appropriate credit, provide links to the licenses, and indicate if changes were made.  
 
-* [How to cite or attribute the cross-lingual morpheme alignment](https://github.com/amikael/HELFI/CITING.md)
-* [Parts that remain in the public domain or under their current restrictions](https://github.com/amikael/HELFI/LICENSES.md)
+* [How to cite or attribute the cross-lingual morpheme alignment](https://github.com/amikael/HELFI/blob/master/CITING.md)
+* [The license and the parts that remain in the public domain or under their current restrictions](https://github.com/amikael/HELFI/blob/master/LICENSES.md)
 
 ## The changes made to the public domain resources
 
