@@ -1,4 +1,4 @@
-# How to Cite or Attribute the Cross-lingual Morpheme Alignment
+# How to Cite 
 
 ## The HELFI Corpus
 
