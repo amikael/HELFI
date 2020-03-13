@@ -1,18 +1,23 @@
-# How to cite or attribute the cross-lingual morpheme alignment
+# How to Cite or Attribute the Cross-lingual Morpheme Alignment
 
-The HELFI corpus, especially its alignment database, can be cited through this reference:
+## The HELFI Corpus
+
+The HELFI Corpus in an open-source reconstruction of the proprietary Scaffold Corpus using only openly available resources.  The corpus is a combination of copyrighted and public domain resources and it can be cited as
 
 > Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).
 
-This HELFI corpus is a combination of copyrighted and public domain resources. 
+## The Alignment Data of the HELFI Corpus
 
-**All the alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.**
+The alignment data of the HELFI corpus consist exclusively of **the alignment link numbers**, **the gloss extractors** and **the link qualifiers** added to the Finnish 1933/1938 translation, and **source-side token numbers** added to the Hebrew and Greed source texts.  **The alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.**
 
-The above article (Yli-Jyrä et al 2020) contains an attribution to the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  The attribution to the project be done also by citing the actual concordance.  This concordance is the first product of the Finnish Analytical Bible Concordance Project but not part of the HELFI corpus.
+The alignment excludes and data does not include the Hebrew, Greek and Finnish base texts, their lemmatisation and morphological analysis.  Therefore, **the texts, lemma and morphology databases of the three languages in the corpus are not covered by our current license.**  They are just made available as open third-party components (essentially available as downloads through other open efforts) but in our custom file formats.   
 
-  > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
+## The In-House Version of the Alignment Database
 
-**The texts, lemma and morphology databases of the three languages in the corpus are not covered by our license.**  They are just made available as open third-party components but in our custom file formats.    These components are either in the public domain or under licenses that allow their use under specifix restrictions.  The only exception is the base text of the Hebrew Bible whose availability seem to have two contradictory interpretations that we are not able to solve.  However, we are working towards an explicit exception to the NoDerivatives clause with the provider.  Until that, you may use the Hebrew Bible alignment and its source text only at your own risk.
+The in-house version of the alignment database was first included to a proprietary Scaffold Corpus.  The Finnish Analytical Bible Concordance Project of Aika[media] used the Scaffold Corpus to produce a handbook:
+
+> Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
+
 
 
 
