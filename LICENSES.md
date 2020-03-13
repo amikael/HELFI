@@ -18,7 +18,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
 1. **The Greek New Testament**.  Eberhard Nestle's (1904, 1913): _H Kainη ∆iaθηkη (Greek New Testament); Text with Critical Apparatus_. British and Foreign Bible Society.  The first edition of 1904, and a reprinting from 1913 are available throug the Internet Archive.  [The electronic version edited by Diego Renato dos Santos](https://sites.google.com/site/nestle1904/) is identified by http://sites.google.com/site/nestle1904/.
 
-> The body text of the Greek New Testament (GNT) in the HELFI corpus is in the **public domain**.
+   > The body text of the Greek New Testament (GNT) in the HELFI corpus is in the **public domain**.
 
 1. **The Open Scriptures Hebrew Bible**. 
 
@@ -26,7 +26,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
 1. **The Greek Lemmas and Morphology**.  The lemmas and morphological parsing of the Nestle 1904 edition have been created by Dr. Ulrik Sandborg-Petersen of Emergence Consult and Aalborg University, Denmark, and released into the **public domain**. Available at https://github.com/biblicalhumanities/Nestle1904.
 
-> The lemmas and morphology of the GNT in the HELFI corpus are in the **public doman**.
+   > The lemmas and morphology of the GNT in the HELFI corpus are in the **public doman**.
 
 ## Third-Party Components That Remian under Their Current Licenses
 
