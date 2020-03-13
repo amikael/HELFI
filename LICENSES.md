@@ -6,7 +6,7 @@
 
 The texts, lemma and morphology databases of the three languages in the corpus **are NOT covered by the above license**.  They are just made available as open third-party components but in our custom file formats.    These components are either in the public domain or under licenses that allow their use under specific restrictions.  The only exception is the base text of the Hebrew Bible whose availability seem to have contradictory interpretations until we have obtained an explicit permit. 
 
-## Components That Remain in the Public Domain Resources
+## Components That Remain in the Public Domain
 
 1. **The Pyhä Raamattu Finnish Bible**.  The Finnish 1933/1938 Bible translation (Pyhä Raamattu) is in the public domain but not available as a digital 100% exact copy. 
 
