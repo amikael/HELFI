@@ -8,9 +8,9 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
 ## Components That Remain in the Public Domain Resources
 
-1. **The Pyhä Raamattu Finnish Bible**.  The Finnish 1933/1938 Bible translation (Pyhä Raamattu), is in the public domain but not yet available as a digital 100% exact copy. 
+1. **The Pyhä Raamattu Finnish Bible**.  The Finnish 1933/1938 Bible translation (Pyhä Raamattu) is in the public domain but not available as a digital 100% exact copy. 
 
-   > You may copy and distribute the text freely.
+   > You may copy and distribute the digital form of the Bible in the public domain. 
 
 1. **The Leningrad Codex of the Hebrew Bible, the Tanakh.**  We obtained a digital version of the Leningrad Codex through the [Open Scriptures Hebrew Bible project](https://hb.openscriptures.org/) that states that the text remains in the public domain.  They provided a link to [Tanach.us](http://www.tanach.us/Tanach.xml) whose [License](https://tanach.us/License.html) states that **"All biblical Hebrew text, in any format, may be viewed or copied without restriction. Citation of this site as the source of the text is appreciated. Please include the version number, 25.5, as a reference."**  The same site presents the TEI Header of the "Unicode/XML Leningrad Codex Version WLC 4.20" that has been transcripted from the [Westminster Leningrad Codex, version 4.20] by Christopher V. Kimball under the permission of Kirk Lowery from the J. Alan Groves Center for Advanced Biblical Research stating that the result is **"Freely available"**.
 
