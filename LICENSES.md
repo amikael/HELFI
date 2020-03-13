@@ -46,4 +46,6 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
    We are now seeking, together with the J. Alan Groves Center, an explicit exception to the NoDerivatives clause to allow us to use our column oriented file format and add a specific token numbering.  Currently, the Hebrew Text in the HELFI corpus must be seen as a close derivative of a public domain text, having no official relationship and integrity with the WLC.  In other words, you are using it at your own risk.
 
+## Invitation for Contributions
+
 Licensing of the Components of the HELFI Corpus have been perhaps the most difficult part of the project.  The above is the result of our best effort to follow the principled thinking and best practices.  If you observe any problems we have not recognised or if you have suggestions to make the licensing easier, please contact us.  Any help in improving the HELFI corpus and its licensing conditions will be greatly appreciated.
