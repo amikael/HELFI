@@ -38,7 +38,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
    > If you need an explicit license to use the Finnish lemmas or morphology, please contact the sales in Aika[media] Oy, Keuruu. 
 
-1. Further processing of the Finnish morphology have been made by Anssi Yli-Jyrä in 2020 for the HELFI corpus.  The changes involve disambiguation rules for verb inflections, the interpretation of gloss extractors at the alignment links, simplification of the analyses, dropping the Aikamedia copyrighted NER and coreference annotation, and harmonising the morphological glosses with the de facto standard glossing abbreviations and the Leipzig glossing rules (but without introducing morpheme boundaries to the synthetic Finnish word forms).  These changes to the ealier analyses are available for noncommercial, academic use.
+   Further processing of the Finnish morphology have been made by Anssi Yli-Jyrä in 2020 for the HELFI corpus.  The changes involve disambiguation rules for verb inflections, the interpretation of gloss extractors at the alignment links, simplification of the analyses, dropping the Aikamedia copyrighted NER and coreference annotation, and harmonising the morphological glosses with the de facto standard glossing abbreviations and the Leipzig glossing rules (but without introducing morpheme boundaries to the synthetic Finnish word forms).  These changes to the ealier analyses are available for noncommercial, academic use.
 
    > If you need a reformatted or extended version fo the Finnish text, you should be in touch with Anssi Yli-Jyrä for technical support. 
 
