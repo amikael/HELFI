@@ -30,11 +30,11 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
 ## Third-Party Components That Remian under Their Current Licenses
 
-1. The currently released digital text edition of the 1933/1938 Finnish Bible translation has been synthesised and edited from multiple digital sources in the 1990's by the HELFI project.  The result is unique to this work and subject to corrections (quotation marks etc.) in the future versions of the HELFI corpus.    
+1. **The Finnish Bible Digital Edition**.  The currently released digital text edition of the 1933/1938 Finnish Bible translation has been synthesised and edited from multiple digital sources in the 1990's by the HELFI project.  The result is unique to this work and subject to corrections (quotation marks etc.) in the future versions of the HELFI corpus.    
 
    > The *description* of the digital text edition of the 1933/1938 Finnish Bible translation is licenced under a Creative Commons Attribution 4.0 International license https://creativecommons.org/licenses/by/4.0/.  For attribution purposes, credit the Finnish Analytical Bible Concordance Project (c) 1997 and Anssi Yli-Jyrä (c) 12 March 2020.
 
-1. The Finnish morphology and lemmatisation have been made available for noncommercial, academic use by the collaboration agreement between the University of Helsinki that held Lingsoft's License to use FINTWOL analyser in academic projects and the RV Publishing House (later Aika[media]) carrying out manual disambiguation and editing for the Finnish Analytical Bible Concordance Project of later Aika[media] Oy.  
+1. **The Finnish Bible Lemmas and Morphology**.  The Finnish lemmas and morphology have been made available for noncommercial, academic use by the collaboration agreement between the University of Helsinki that held Lingsoft's License to use FINTWOL analyser in academic projects and the RV Publishing House (later Aika[media]) carrying out manual disambiguation and editing for the Finnish Analytical Bible Concordance Project of later Aika[media] Oy.  
 
    > If you need an explicit license to use the Finnish lemmas or morphology, please contact the sales in Aika[media] Oy, Keuruu. 
 
@@ -42,7 +42,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
    > If you need a reformatted or extended version fo the Finnish text, you should be in touch with Anssi Yli-Jyrä for technical support. 
 
-1. We obtained a digital version of the Leningrad Codex through the [Open Scriptures Hebrew Bible project](https://hb.openscriptures.org/) that actually claims to include the Westminster Leningrad Codex (WLC).(http://www.tanach.us/Pages/TEIHeader.xml) whose copyright of the J. Alan Groves Center for Advanced Biblical Research.
+1. **The Leningrad Codex Digital Edition**.  We obtained a digital version of the Leningrad Codex through the [Open Scriptures Hebrew Bible project](https://hb.openscriptures.org/) that actually claims to include the Westminster Leningrad Codex (WLC).(http://www.tanach.us/Pages/TEIHeader.xml) whose copyright of the J. Alan Groves Center for Advanced Biblical Research.
 The site of [J. Alan Groves Center for Advanced Biblical Research](https://www.grovescenter.org/) writes that "the Westminster Leningrad Codex (WLC) and the Westminster Hebrew Morphology (WHM), and the Westminster Hebrew Syntax (WHS) databases **will be released soon** under a **Creative Commons Attribution Non-Commercial No-Derivative License**."  
 However, the locator information at (https://www.bible.com/fi/versions/904-wlc-hebrew-westminster-leningrad-codex) states that the WLC 4.20 is already under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  
 We are now seeking an explicit exception to the NoDerivatives clause to allow us to use our column oriented file format and add a specific token numbering.  Currently, the Hebrew Text in the HELFI corpus must be seen as a close derivative of a public domain text, having no official relationship and integrity with the WLC.  In other words, you are using it at your own risk.
