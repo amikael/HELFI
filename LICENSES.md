@@ -28,7 +28,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
    > The lemmas and morphology of the GNT in the HELFI corpus are in the **public doman**.
 
-## Third-Party Components That Remian under Their Current Licenses
+## Third-Party Components That Remain under Their Current Licenses
 
 1. **The Finnish Bible Digital Edition**.  The currently released digital text edition of the 1933/1938 Finnish Bible translation has been synthesised and edited from multiple digital sources in the 1990's by the HELFI project.  The result is unique to this work and subject to corrections (quotation marks etc.) in the future versions of the HELFI corpus.    
 
