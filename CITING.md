@@ -12,6 +12,7 @@ The above article (Yli-Jyrä et al 2020) contains an attribution to the Finnish 
 
   > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
-**The texts, lemma and morphology databases of the three languages in the corpus are not covered by our license.**  They are just made available as open third-party components but in our custom file formats.    These components are either in the public domain or under licenses that allow their use under specifix restrictions.  The only exception is the base text of the Hebrew Bible whose availability seem to have two contradictory interpretations that we are able to solve.   
+**The texts, lemma and morphology databases of the three languages in the corpus are not covered by our license.**  They are just made available as open third-party components but in our custom file formats.    These components are either in the public domain or under licenses that allow their use under specifix restrictions.  The only exception is the base text of the Hebrew Bible whose availability seem to have two contradictory interpretations that we are not able to solve.  However, we are working towards an explicit exception to the NoDerivatives clause with the provider.  Until that, you may use the Hebrew Bible alignment and its source text only at your own risk.
+
 
 
