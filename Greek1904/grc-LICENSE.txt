@@ -1,0 +1,21 @@
+    The Greek New Testament with Lemma and Morphology Data
+
+The Greek New Testament. Eberhard Nestle's (1904, 1913): H Kainη
+∆iaθηkη (Greek New Testament); Text with Critical Apparatus. British
+and Foreign Bible Society. The first edition of 1904, and a reprinting
+from 1913 are available through the Internet Archive. The electronic
+version edited by Diego Renato dos Santos is identified by
+http://sites.google.com/site/nestle1904/.  The body text of the Greek
+New Testament (GNT) is in the public domain.
+
+The Greek Lemmas and Morphology. The lemmas and morphological parsing
+of the Nestle 1904 edition have been created by Professor Maurice
+A. Robinson at Southeastern Baptist Theological Seminary, North
+Carolina, and Dr. Ulrik Sandborg-Petersen at the Emergence Consult and
+the Aalborg University, Denmark, and released into the public
+domain. Available at https://github.com/biblicalhumanities/Nestle1904.
+
+The lemmas and morphology of the GNT in the HELFI corpus are in the
+public doman.
+
+
