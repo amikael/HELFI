@@ -1,0 +1,2784 @@
+1j001:001	1j001:001	1j001:001	VERSE	1Jh␣1:1␣
+1j001:001	1	mikä	INT.REL.INDEF.SG.NOM	Mikä␣
+1j001:001	2	(olla)	COP.ACT.PRES.3S	on␣
+1j001:001	4a	alku	SG.ELA	alusta␣
+1j001:001	3	%case	LOC	
+1j001:001	2	olla	COP.ACT.PCP2.PERF	ollut
+1j001:001	4b	,	PUNC	,␣
+1j001:001	5	mikä	INT.REL.SG.GEN	minkä␣
+1j001:001	6a	(olla)	COP.ACT.PRES.1P	olemme␣
+1j001:001	6a	kuulla	ACT.PCP2.PERF	kuulleet
+1j001:001	6b	,	PUNC	,␣
+1j001:001	7	mikä	INT.REL.SG.GEN	minkä␣
+1j001:001	11a	oma	ADJ.PL.INS	omin␣
+1j001:001	10 (9)	silmä	PL.INS	silmin␣
+1j001:001	8	nähdä	ACT.PCP2.PERF	nähneet
+1j001:001	11b	,	PUNC	,␣
+1j001:001	12	mikä	INT.REL.SG.PTV	mitä␣
+1j001:001	13	katsella	ACT.PAST.1P	katselimme␣
+1j001:001	14	ja	CNJ	ja␣
+1j001:001	(15) 16	käsi	PL.INS	käsin␣
+1j001:001	17	%pers	?	
+1j001:001	18	koskettaa	ACT.PAST.1P	kosketimme
+1j001:001	-	(,)	PUNC	,␣
+1j001:001	-	(se)	DEM.SG.ELA	siitä␣
+1j001:001	-	(me)	PERS.PL.NOM	me␣
+1j001:001	-	(puhua)	ACT.PRES.1P	puhumme
+1j001:001	-	(:)	PUNC	:␣
+1j001:001	(22) 23a	elämä	DER.SG.GEN	elämän␣
+1j001:001	(20) 21	Sana	SG.ELA	Sanasta␣
+1j001:001	19	%case	LOC	
+1j001:001	23b	-	PUNC	-␣
+1j001:002	1j001:002	1j001:002	VERSE	1Jh␣1:2␣
+1j001:002	1	ja	CNJ	ja␣
+1j001:002	(2) 3	elämä	DER.SG.NOM	elämä␣
+1j001:002	4a	ilmestyä	ACT.PAST.3S	ilmestyi
+1j001:002	4b	,	PUNC	,␣
+1j001:002	5	ja	CNJ	ja␣
+1j001:002	6	(me)	PERS.PL.NOM	me␣
+1j001:002	6	(olla)	COP.ACT.PRES.1P	olemme␣
+1j001:002	6	nähdä	ACT.PCP2.PERF	nähneet␣
+1j001:002	-	(se)	DEM.SG.GEN	sen␣
+1j001:002	7	ja	CNJ	ja␣
+1j001:002	8	todistaa	ACT.PRES.1P	todistamme␣
+1j001:002	-	(se)	DEM.SG.ELA	siitä␣
+1j001:002	9	ja	CNJ	ja␣
+1j001:002	10	julistaa	ACT.PRES.1P	julistamme␣
+1j001:002	11	te	PERS.PL.ALL	teille␣
+1j001:002	12	se	DEM.SG.GEN	sen␣
+1j001:002	(14) 15	iankaikkinen	ADJ.SG.GEN	iankaikkisen␣
+1j001:002	13	elämä	DER.SG.GEN	elämän
+1j001:002	-	(,)	PUNC	,␣
+1j001:002	16	joka	REL.INDEF.SG.NOM	joka␣
+1j001:002	17	olla	COP.ACT.PAST.3S	oli␣
+1j001:002	(19) 20	Isä	SG.GEN	Isän␣
+1j001:002	18	tykönä	POST	tykönä␣
+1j001:002	21	ja	CNJ	ja␣
+1j001:002	22	ilmestyä	ACT.PAST.3S	ilmestyi␣
+1j001:002	23a	me	PERS.PL.ALL	meille␣
+1j001:002	23b	-	PUNC	-␣
+1j001:003	1j001:003	1j001:003	VERSE	1Jh␣1:3␣
+1j001:003	1	mikä	INT.REL.SG.GEN	minkä␣
+1j001:003	2	(olla)	COP.ACT.PRES.1P	olemme␣
+1j001:003	2	nähdä	ACT.PCP2.PERF	nähneet␣
+1j001:003	3	ja	CNJ	ja␣
+1j001:003	4a	kuulla	ACT.PCP2.PERF	kuulleet
+1j001:003	-	(,)	PUNC	,␣
+1j001:003	-	(se)	DEM.SG.GEN	sen␣
+1j001:003	5	(me)	PERS.PL.NOM	me␣
+1j001:003	6	myös	ADV	myös␣
+1j001:003	7a	te	PERS.PL.ALL	teille␣
+1j001:003	5	julistaa	ACT.PRES.1P	julistamme
+1j001:003	7b	,	PUNC	,␣
+1j001:003	8	että	SUBORD	että␣
+1j001:003	10	te	PERS.PL.ADE.-CLITIC	teilläkin␣
+1j001:003	9	%clitic	kin	
+1j001:003	12	olla	COP.ACT.COND.3S	olisi␣
+1j001:003	11	yhteys	SG.NOM	yhteys␣
+1j001:003	14a	me	PERS.PL.GEN	meidän␣
+1j001:003	13	kanssa	POST.-1	kanssamme
+1j001:003	14b	;	PUNC	;␣
+1j001:003	15	ja	CNJ	ja␣
+1j001:003	(19) 20	me	PERS.PL.ADE	meillä␣
+1j001:003	-	(olla)	COP.ACT.PRES.3S	on␣
+1j001:003	(18)	-	UNTRANSLATED	
+1j001:003	(16) 17	yhteys	SG.NOM	yhteys␣
+1j001:003	(22) 23	Isä	SG.GEN	Isän␣
+1j001:003	21	%case	GEN	
+1j001:003	24	ja	CNJ	ja␣
+1j001:003	28	hän	PERS.SG.GEN	hänen␣
+1j001:003	(26) 27	Poika	NOM&SGGEN.-3	Poikansa
+1j001:003	-	(,)	PUNC	,␣
+1j001:003	29	Jeesus	PR.SG.GEN	Jeesuksen␣
+1j001:003	30a	Kristus	PR.SG.GEN	Kristuksen
+1j001:003	-	(,)	PUNC	,␣
+1j001:003	25	kanssa	POST	kanssa
+1j001:003	30b	.	PUNC	.␣
+1j001:004	1j001:004	1j001:004	VERSE	1Jh␣1:4␣
+1j001:004	1	ja	CNJ	Ja␣
+1j001:004	2	tämä	DEM.SG.GEN	tämän␣
+1j001:004	4a	me	PERS.PL.NOM	me␣
+1j001:004	3	kirjoittaa	ACT.PRES.1P	kirjoitamme
+1j001:004	4b	,	PUNC	,␣
+1j001:004	5	että	SUBORD	että␣
+1j001:004	8	me	PERS.PL.GEN	meidän␣
+1j001:004	(6) 7	ilo	NOM&SGGEN.-1	ilomme␣
+1j001:004	9	olla	COP.ACT.COND.3S	olisi␣
+1j001:004	10a	täydellinen	ADJ.SG.NOM	täydellinen
+1j001:004	10b	.	PUNC	.␣
+1j001:005	1j001:005	1j001:005	VERSE	1Jh␣1:5␣
+1j001:005	1	ja	CNJ	Ja␣
+1j001:005	3	tämä	DEM.SG.NOM	tämä␣
+1j001:005	2	olla	COP.ACT.PRES.3S	on␣
+1j001:005	4	se	DEM.SG.NOM	se␣
+1j001:005	5	sanoma	DER.SG.NOM	sanoma
+1j001:005	-	(,)	PUNC	,␣
+1j001:005	6	joka	REL.SG.GEN	jonka␣
+1j001:005	7	(olla)	COP.ACT.PRES.1P	olemme␣
+1j001:005	9	hän	PERS.SG.ABL	häneltä␣
+1j001:005	8	%case	LOC	
+1j001:005	7	kuulla	ACT.PCP2.PERF	kuulleet␣
+1j001:005	10	ja	CNJ	ja␣
+1j001:005	-	(joka)	REL.SG.GEN	jonka␣
+1j001:005	11	(me)	PERS.PL.NOM	me␣
+1j001:005	12a	te	PERS.PL.ALL	teille␣
+1j001:005	11	julistaa	ACT.PRES.1P	julistamme
+1j001:005	12b	:	PUNC	:␣
+1j001:005	13	että	SUBORD	että␣
+1j001:005	(14) 15	Jumala	SG.NOM	Jumala␣
+1j001:005	17	olla	COP.ACT.PRES.3S	on␣
+1j001:005	16	valkeus	DER.SG.NOM	valkeus␣
+1j001:005	18	ja	CNJ	ja␣
+1j001:005	22	ettei	NEGV.3S	ettei␣
+1j001:005	21	hän	PERS.SG.INE	hänessä␣
+1j001:005	20	%case	LOC	
+1j001:005	23	olla	COP.ACT.PRES.NEG	ole␣
+1j001:005	24a	mikään	INDEF.SG.PTV	mitään␣
+1j001:005	19	pimeys	DER.SG.PTV	pimeyttä
+1j001:005	24b	.	PUNC	.␣
+1j001:006	1j001:006	1j001:006	VERSE	1Jh␣1:6␣
+1j001:006	1	jos	SUBORD	Jos␣
+1j001:006	2	sanoa	ACT.PRES.1P	sanomme
+1j001:006	-	(,)	PUNC	,␣
+1j001:006	3	että	SUBORD	että␣
+1j001:006	5	(me)	PERS.PL.ADE	meillä␣
+1j001:006	5	olla	COP.ACT.PRES.3S	on␣
+1j001:006	4	yhteys	SG.NOM	yhteys␣
+1j001:006	7	hän	PERS.SG.GEN	hänen␣
+1j001:006	6	kanssa	POST.-3	kanssaan
+1j001:006	-	(,)	PUNC	,␣
+1j001:006	8	mutta	CNJ	mutta␣
+1j001:006	12a	vaeltaa	ACT.PRES.1P	vaellamme␣
+1j001:006	(10) 11	pimeys	DER.SG.INE	pimeydessä
+1j001:006	9	%case	LOC	
+1j001:006	-	(,)	PUNC	,␣
+1j001:006	-	(niin)	ADV.AD-A	niin␣
+1j001:006	13	(me)	PERS.PL.NOM	me␣
+1j001:006	13	valhetella	ACT.PRES.1P	valhettelemme␣
+1j001:006	15	ei	NEGV.1P.-CLITIC	emmekä␣
+1j001:006	14	%clitic	kA	
+1j001:006	16	tehdä	ACT.PRES.NEG	tee␣
+1j001:006	(17) 18a	totuus	SG.PTV	totuutta
+1j001:006	18b	.	PUNC	.␣
+1j001:007	1j001:007	1j001:007	VERSE	1Jh␣1:7␣
+1j001:007	1	mutta	CNJ	Mutta␣
+1j001:007	2	jos	SUBORD	jos␣
+1j001:007	6	(me)	PERS.PL.NOM	me␣
+1j001:007	(4) 5	valkeus	DER.SG.INE	valkeudessa␣
+1j001:007	3	%case	LOC	
+1j001:007	6	vaeltaa	ACT.PRES.1P	vaellamme
+1j001:007	-	(,)	PUNC	,␣
+1j001:007	7	niin_kuin	SUBORD	niinkuin␣
+1j001:007	8	hän	PERS.SG.NOM	hän␣
+1j001:007	9	olla	COP.ACT.PRES.3S	on␣
+1j001:007	(11) 12a	valkeus	DER.SG.INE	valkeudessa
+1j001:007	10	%case	LOC	
+1j001:007	-	(,)	PUNC	,␣
+1j001:007	-	(niin)	ADV.AD-A	niin␣
+1j001:007	14	(me)	PERS.PL.ADE	meillä␣
+1j001:007	14	olla	COP.ACT.PRES.3S	on␣
+1j001:007	13	yhteys	SG.NOM	yhteys␣
+1j001:007	16	keskenään	ADV.-1	keskenämme
+1j001:007	15	%case	?	
+1j001:007	-	(,)	PUNC	,␣
+1j001:007	17	ja	CNJ	ja␣
+1j001:007	20a	Jeesus	PR.SG.GEN	Jeesuksen␣
+1j001:007	20b	Kristus	PR.SG.GEN	Kristuksen
+1j001:007	-	(,)	PUNC	,␣
+1j001:007	23	hän	PERS.SG.GEN	hänen␣
+1j001:007	(21) 22	Poika	NOM&SGGEN.-3	Poikansa
+1j001:007	-	(,)	PUNC	,␣
+1j001:007	(18) 19	veri	SG.NOM	veri␣
+1j001:007	24	puhdistaa	ACT.PRES.3S	puhdistaa␣
+1j001:007	25	me	PERS.PL.ACC	meidät␣
+1j001:007	27	kaikki	INDEF.SG.ELA	kaikesta␣
+1j001:007	28a	synti	SG.ELA	synnistä
+1j001:007	26	%case	LOC	
+1j001:007	-	(.)	PUNC	.␣
+1j001:008	1j001:008	1j001:008	VERSE	1Jh␣1:8␣
+1j001:008	1	jos	SUBORD	Jos␣
+1j001:008	2	sanoa	ACT.PRES.1P	sanomme
+1j001:008	-	(,)	PUNC	,␣
+1j001:008	3 5	ettei	NEGV.3S	ettei␣
+1j001:008	6a	(me)	PERS.PL.ADE	meillä␣
+1j001:008	6a	olla	COP.ACT.PRES.NEG	ole␣
+1j001:008	4	synti	SG.PTV	syntiä
+1j001:008	-	(,)	PUNC	,␣
+1j001:008	-	(niin)	ADV.AD-A	niin␣
+1j001:008	8	(me)	PERS.PL.NOM	me␣
+1j001:008	8	eksyttää	DER.ACT.PRES.1P	eksytämme␣
+1j001:008	7	itse	REFL.NOM&SGGEN.-1	itsemme
+1j001:008	-	(,)	PUNC	,␣
+1j001:008	9	ja	CNJ	ja␣
+1j001:008	(10) 11	totuus	SG.NOM	totuus␣
+1j001:008	12	ei	NEGV.3S	ei␣
+1j001:008	13	olla	COP.ACT.PRES.NEG	ole␣
+1j001:008	15a	me	PERS.PL.INE	meissä
+1j001:008	14	%case	LOC	
+1j001:008	15b	.	PUNC	.␣
+1j001:009	1j001:009	1j001:009	VERSE	1Jh␣1:9␣
+1j001:009	1	jos	SUBORD	Jos␣
+1j001:009	2	(me)	PERS.PL.NOM	me␣
+1j001:009	2	tunnustaa	ACT.PRES.1P	tunnustamme␣
+1j001:009	(3) 4	synti	NOM&SGGEN.-1	syntimme
+1j001:009	5a	%pers	?	
+1j001:009	5b	,	PUNC	,␣
+1j001:009	7	olla	COP.ACT.PRES.3S	on␣
+1j001:009	7	(hän)	PERS.SG.NOM	hän␣
+1j001:009	6	uskollinen	DER.ADJ.SG.NOM	uskollinen␣
+1j001:009	8	ja	CNJ	ja␣
+1j001:009	9a	vanhurskas	ADJ.SG.NOM	vanhurskas
+1j001:009	9b	,	PUNC	,␣
+1j001:009	10	niin	ADV.AD-A	niin␣
+1j001:009	10	että	SUBORD	että␣
+1j001:009	11	(hän)	PERS.SG.NOM	hän␣
+1j001:009	11	antaa	ACT.PRES.3S	antaa␣
+1j001:009	12	me	PERS.PL.ALL	meille␣
+1j001:009	(13) 14	synti	PL.NOM	synnit␣
+1j001:009	11	anteeksi	DER.ADV	anteeksi␣
+1j001:009	15	ja	CNJ	ja␣
+1j001:009	16	puhdistaa	ACT.PRES.3S	puhdistaa␣
+1j001:009	17	me	PERS.PL.ACC	meidät␣
+1j001:009	19	kaikki	INDEF.SG.ELA	kaikesta␣
+1j001:009	20a	vääryys	SG.ELA	vääryydestä
+1j001:009	18	%case	LOC	
+1j001:009	20b	.	PUNC	.␣
+1j001:010	1j001:010	1j001:010	VERSE	1Jh␣1:10␣
+1j001:010	1	jos	SUBORD	Jos␣
+1j001:010	2	sanoa	ACT.PRES.1P	sanomme
+1j001:010	-	(,)	PUNC	,␣
+1j001:010	3 4	ettei	NEGV.1P	ettemme␣
+1j001:010	5a	(olla)	COP.ACT.PRES.NEG	ole␣
+1j001:010	5a	synti	SG.PTV	syntiä␣
+1j001:010	5a	tehdä	ACT.PAST.PL	tehneet
+1j001:010	-	(,)	PUNC	,␣
+1j001:010	-	(niin)	ADV.AD-A	niin␣
+1j001:010	7	(me)	PERS.PL.NOM	me␣
+1j001:010	7	tehdä	ACT.PRES.1P	teemme␣
+1j001:010	8	hän	PERS.SG.ACC	hänet␣
+1j001:010	6	valhettelija	DER.SG.TRA	valhettelijaksi
+1j001:010	-	(,)	PUNC	,␣
+1j001:010	9	ja	CNJ	ja␣
+1j001:010	12	hän	PERS.SG.GEN	hänen␣
+1j001:010	(10) 11	sana	NOM&SGGEN.-3	sanansa␣
+1j001:010	13	ei	NEGV.3S	ei␣
+1j001:010	14	olla	COP.ACT.PRES.NEG	ole␣
+1j001:010	16a	me	PERS.PL.INE	meissä
+1j001:010	15	%case	LOC	
+1j001:010	16b	.	PUNC	.␣
+1j002:001	1j002:001	1j002:001	VERSE	1Jh␣2:1␣
+1j002:001	1	lapsukainen	NOM&SGGEN.-1	Lapsukaiseni
+1j002:001	2a	%pers	?	
+1j002:001	2b	,	PUNC	,␣
+1j002:001	3	tämä	DEM.SG.GEN	tämän␣
+1j002:001	4	(minä)	PERS.SG.NOM	minä␣
+1j002:001	4	kirjoittaa	ACT.PRES.1S	kirjoitan␣
+1j002:001	5	te	PERS.PL.ALL	teille
+1j002:001	-	(,)	PUNC	,␣
+1j002:001	6 7	ettei	NEGV.2P	ettette␣
+1j002:001	8a	synti	SG.PTV	syntiä␣
+1j002:001	8a	tehdä	ACT.COND.NEG	tekisi
+1j002:001	8b	;	PUNC	;␣
+1j002:001	9	mutta	CNJ	mutta␣
+1j002:001	10	jos	SUBORD	jos␣
+1j002:001	11	joku	INDEF.SG.NOM	joku␣
+1j002:001	12a	synti	SG.PTV	syntiä␣
+1j002:001	12a	tehdä	ACT.PRES.3S.-CLITIC	tekeekin
+1j002:001	-	(,)	PUNC	,␣
+1j002:001	-	(niin)	ADV.AD-A	niin␣
+1j002:001	14	(me)	PERS.PL.ADE	meillä␣
+1j002:001	14	olla	COP.ACT.PRES.3S	on␣
+1j002:001	13	puolustaja	DER.SG.NOM	puolustaja␣
+1j002:001	(16) 17	Isä	SG.GEN	Isän␣
+1j002:001	15	tykönä	POST	tykönä
+1j002:001	-	(,)	PUNC	,␣
+1j002:001	18	Jeesus	PR.SG.NOM	Jeesus␣
+1j002:001	19	Kristus	PR.SG.NOM	Kristus
+1j002:001	-	(,)	PUNC	,␣
+1j002:001	-	(joka)	REL.INDEF.SG.NOM	joka␣
+1j002:001	-	(olla)	COP.ACT.PRES.3S	on␣
+1j002:001	20a	vanhurskas	ADJ.SG.NOM	vanhurskas
+1j002:001	20b	.	PUNC	.␣
+1j002:002	1j002:002	1j002:002	VERSE	1Jh␣2:2␣
+1j002:002	1	ja	CNJ	Ja␣
+1j002:002	2	hän	PERS.SG.NOM	hän␣
+1j002:002	4	olla	COP.ACT.PRES.3S	on␣
+1j002:002	8a	me	PERS.PL.GEN	meidän␣
+1j002:002	(6) 7	synti	PL.GEN.-1	syntiemme␣
+1j002:002	5	%case	GEN	
+1j002:002	3	sovitus	DER.SG.NOM	sovitus
+1j002:002	8b	;	PUNC	;␣
+1j002:002	9	ei	NEGV.3S.-CLITIC	eikä␣
+1j002:002	13	%clitic	kA	
+1j002:002	14	ainoastaan	ADV	ainoastaan␣
+1j002:002	(11) 12	me	PERS.PL.GEN	meidän
+1j002:002	10	%case	GEN	
+1j002:002	-	(,)	PUNC	,␣
+1j002:002	15	vaan	SUBORD	vaan␣
+1j002:002	16	myös	ADV	myös␣
+1j002:002	18	koko	ADJ	koko␣
+1j002:002	(19) 20a	maailma	SG.GEN	maailman␣
+1j002:002	17	%case	GEN	
+1j002:002	-	(synti)	PL.GEN	syntien
+1j002:002	20b	.	PUNC	.␣
+1j002:003	1j002:003	1j002:003	VERSE	1Jh␣2:3␣
+1j002:003	1	ja	CNJ	Ja␣
+1j002:003	3	se	DEM.SG.ELA	siitä␣
+1j002:003	2	%case	LOC	
+1j002:003	4	(me)	PERS.PL.NOM	me␣
+1j002:003	4	tietää	ACT.PRES.1P	tiedämme␣
+1j002:003	7a	hän	PERS.SG.ACC	hänet␣
+1j002:003	6	tuntea	ACT.PCP1.-1.REFR	tuntevamme
+1j002:003	5	%inflection	ACT.PCP1.-1.REFR	
+1j002:003	7b	,	PUNC	,␣
+1j002:003	8	että	SUBORD	että␣
+1j002:003	12a	pitää	ACT.PRES.1P	pidämme␣
+1j002:003	11	hän	PERS.SG.GEN	hänen␣
+1j002:003	10 (9)	käsky	NOM&SGGEN.-3	käskynsä
+1j002:003	12b	.	PUNC	.␣
+1j002:004	1j002:004	1j002:004	VERSE	1Jh␣2:4␣
+1j002:004	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j002:004	2	sanoa	ACT.PRES.3S	sanoo
+1j002:004	3	:	PUNC	:␣
+1j002:004	-	(")	PUNC.LEFT	"
+1j002:004	4	(minä)	PERS.SG.NOM	Minä␣
+1j002:004	4	tuntea	ACT.PRES.1S	tunnen␣
+1j002:004	5	hän	PERS.SG.ACC	hänet
+1j002:004	-	(")	PUNC.RIGHT	"
+1j002:004	-	(,)	PUNC	,␣
+1j002:004	10	ei	NEGV.3S.-CLITIC	eikä␣
+1j002:004	6	%clitic	kA	
+1j002:004	11a	pitää	ACT.PRES.NEG	pidä␣
+1j002:004	9	hän	PERS.SG.GEN	hänen␣
+1j002:004	(7) 8	käsky	PL.PTV.-3	käskyjänsä
+1j002:004	-	(,)	PUNC	,␣
+1j002:004	13	(se)	DEM.SG.NOM	se␣
+1j002:004	13	olla	COP.ACT.PRES.3S	on␣
+1j002:004	12	valhettelija	DER.SG.NOM	valhettelija
+1j002:004	-	(,)	PUNC	,␣
+1j002:004	14	ja	CNJ	ja␣
+1j002:004	(17) 18	totuus	SG.NOM	totuus␣
+1j002:004	19	ei	NEGV.3S	ei␣
+1j002:004	20a	olla	COP.ACT.PRES.NEG	ole␣
+1j002:004	16	hän	PERS.SG.INE	hänessä
+1j002:004	15	%case	LOC	
+1j002:004	20b	.	PUNC	.␣
+1j002:005	1j002:005	1j002:005	VERSE	1Jh␣2:5␣
+1j002:005	2	mutta	CNJ	Mutta␣
+1j002:005	1	joka	REL.INDEF.SG.NOM	joka␣
+1j002:005	4	pitää	ACT.PRES.3S	pitää␣
+1j002:005	3	%modus	IND	
+1j002:005	5	hän	PERS.SG.GEN	hänen␣
+1j002:005	(6) 7a	sana	NOM&SGGEN.-3	sanansa
+1j002:005	7b	,	PUNC	,␣
+1j002:005	10	hän	PERS.SG.INE	hänessä␣
+1j002:005	9	%case	LOC	
+1j002:005	15a	(olla)	COP.ACT.PRES.3S	on␣
+1j002:005	(13) 14	Jumala	SG.GEN	Jumalan␣
+1j002:005	(11) 12	rakkaus	DER.SG.NOM	rakkaus␣
+1j002:005	8	totisesti	DER.ADV.POS	totisesti␣
+1j002:005	15a	täydellinen	ADJ.SG.TRA	täydelliseksi␣
+1j002:005	15a	tulla	ACT.PCP2.PERF	tullut
+1j002:005	15b	.	PUNC	.␣
+1j002:005	17	se	DEM.SG.ELA	Siitä␣
+1j002:005	16	%case	LOC	
+1j002:005	18	(me)	PERS.PL.NOM	me␣
+1j002:005	18	tietää	ACT.PRES.1P	tiedämme
+1j002:005	-	(,)	PUNC	,␣
+1j002:005	19	että	SUBORD	että␣
+1j002:005	22a	(me)	PERS.PL.NOM	me␣
+1j002:005	21	hän	PERS.SG.INE	hänessä␣
+1j002:005	20	%case	LOC	
+1j002:005	22a	olla	COP.ACT.PRES.1P	olemme
+1j002:005	22b	.	PUNC	.␣
+1j002:006	1j002:006	1j002:006	VERSE	1Jh␣2:6␣
+1j002:006	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j002:006	2	sanoa	ACT.PRES.3S	sanoo␣
+1j002:006	4	hän	PERS.SG.INE	hänessä␣
+1j002:006	3	%case	LOC	
+1j002:006	5	pysyä	ACT.PCP1.-3.REFR	pysyvänsä
+1j002:006	-	(,)	PUNC	,␣
+1j002:006	6	olla	COP.ACT.PRES.3S	on␣
+1j002:006	6	velvollinen	ADJ.SG.NOM	velvollinen␣
+1j002:006	13a	vaeltaa	INF3.ILL	vaeltamaan
+1j002:006	-	(,)	PUNC	,␣
+1j002:006	7	niin_kuin	SUBORD	niinkuin␣
+1j002:006	8	hän	PERS.SG.NOM	hän␣
+1j002:006	9	vaeltaa	ACT.PAST.3S	vaelsi
+1j002:006	(10) (11a) (12a)	-	UNTRANSLATED	
+1j002:006	13b	.	PUNC	.␣
+1j002:007	1j002:007	1j002:007	VERSE	1Jh␣2:7␣
+1j002:007	1a	rakas	ADJ.NOM&SGGEN.-1	Rakkaani
+1j002:007	1b	,	PUNC	,␣
+1j002:007	2	ei	NEGV.1S	en␣
+1j002:007	5	(minä)	PERS.SG.NOM	minä␣
+1j002:007	5	kirjoittaa	ACT.PRES.NEG	kirjoita␣
+1j002:007	6	te	PERS.PL.ALL	teille␣
+1j002:007	4	uusi	ADJ.SG.PTV	uutta␣
+1j002:007	3	käsky	SG.PTV	käskyä
+1j002:007	-	(,)	PUNC	,␣
+1j002:007	7	vaan	SUBORD	vaan␣
+1j002:007	9	vanha	ADJ.SG.GEN	vanhan␣
+1j002:007	8	käsky	SG.GEN	käskyn
+1j002:007	-	(,)	PUNC	,␣
+1j002:007	10	joka	REL.INDEF.SG.NOM	joka␣
+1j002:007	11	(te)	PERS.PL.ADE	teillä␣
+1j002:007	11	(olla)	COP.ACT.PRES.3S	on␣
+1j002:007	13a	alku	SG.ELA	alusta␣
+1j002:007	12	%case	LOC	
+1j002:007	11	olla	COP.ACT.PCP2.PERF	ollut
+1j002:007	-	(;)	PUNC	;␣
+1j002:007	16	tämä	DEM.SG.NOM	tämä␣
+1j002:007	17	vanha	ADJ.SG.NOM	vanha␣
+1j002:007	(14) 15	käsky	SG.NOM	käsky␣
+1j002:007	18	olla	COP.ACT.PRES.3S	on␣
+1j002:007	19	se	DEM.SG.NOM	se␣
+1j002:007	20	sana	SG.NOM	sana
+1j002:007	-	(,)	PUNC	,␣
+1j002:007	21	joka	REL.SG.GEN	jonka␣
+1j002:007	22a	(te)	PERS.PL.NOM	te␣
+1j002:007	22a	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:007	22a	kuulla	ACT.PCP2.PERF	kuulleet
+1j002:007	22b	.	PUNC	.␣
+1j002:008	1j002:008	1j002:008	VERSE	1Jh␣2:8␣
+1j002:008	-	(ja)	CNJ	Ja␣
+1j002:008	1	kuitenkin	ADV	kuitenkin␣
+1j002:008	4	(minä)	PERS.SG.NOM	minä␣
+1j002:008	4	kirjoittaa	ACT.PRES.1S	kirjoitan␣
+1j002:008	5a	te	PERS.PL.ALL	teille␣
+1j002:008	3	uusi	ADJ.SG.GEN	uuden␣
+1j002:008	2	käsky	SG.GEN	käskyn
+1j002:008	5b	,	PUNC	,␣
+1j002:008	6	se	DEM.SG.GEN	sen
+1j002:008	-	(,)	PUNC	,␣
+1j002:008	6	mikä	INT.REL.INDEF.SG.NOM	mikä␣
+1j002:008	7	olla	COP.ACT.PRES.3S	on␣
+1j002:008	8	tosi	ADJ.SG.PTV	totta␣
+1j002:008	10	hän	PERS.SG.INE	hänessä␣
+1j002:008	9	%case	LOC	
+1j002:008	11	ja	CNJ	ja␣
+1j002:008	13a	te	PERS.PL.INE	teissä
+1j002:008	12	%case	LOC	
+1j002:008	13b	;	PUNC	;␣
+1j002:008	14	sillä	SUBORD	sillä␣
+1j002:008	(15) 16	pimeys	DER.SG.NOM	pimeys␣
+1j002:008	17	kadota	ACT.PRES.3S	katoaa
+1j002:008	-	(,)	PUNC	,␣
+1j002:008	18	ja	CNJ	ja␣
+1j002:008	(21) 22	totinen	ADJ.SG.NOM	totinen␣
+1j002:008	(19) 20	valkeus	DER.SG.NOM	valkeus␣
+1j002:008	23	jo	ADV	jo␣
+1j002:008	24a	loistaa	ACT.PRES.3S	loistaa
+1j002:008	24b	.	PUNC	.␣
+1j002:009	1j002:009	1j002:009	VERSE	1Jh␣2:9␣
+1j002:009	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j002:009	2	sanoa	ACT.PRES.3S	sanoo␣
+1j002:009	(4) 5	valkeus	DER.SG.INE	valkeudessa␣
+1j002:009	3	%case	LOC	
+1j002:009	6	olla	COP.ACT.PCP1.-3.REFR	olevansa
+1j002:009	-	(,)	PUNC	,␣
+1j002:009	7	mutta	CNJ	mutta␣
+1j002:009	11	vihata	ACT.PRES.3S	vihaa␣
+1j002:009	(8) 9	veli	SG.PTV.-3	veljeänsä
+1j002:009	10	%pers	3	
+1j002:009	-	(,)	PUNC	,␣
+1j002:009	15	(se)	DEM.SG.NOM	se␣
+1j002:009	15	olla	COP.ACT.PRES.3S	on␣
+1j002:009	17a	yhä	ADV	yhä␣
+1j002:009	17a	vielä	ADV	vielä␣
+1j002:009	16	%case	?	
+1j002:009	(13) 14	pimeys	DER.SG.INE	pimeydessä
+1j002:009	12	%case	LOC	
+1j002:009	17b	.	PUNC	.␣
+1j002:010	1j002:010	1j002:010	VERSE	1Jh␣2:10␣
+1j002:010	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j002:010	2	rakastaa	ACT.PRES.3S	rakastaa␣
+1j002:010	(3) 4	veli	SG.PTV.-3	veljeänsä
+1j002:010	5	%pers	3	
+1j002:010	-	(,)	PUNC	,␣
+1j002:010	9	(se)	DEM.SG.NOM	se␣
+1j002:010	9	pysyä	ACT.PRES.3S	pysyy␣
+1j002:010	(7) 8	valkeus	DER.SG.INE	valkeudessa
+1j002:010	6	%case	LOC	
+1j002:010	-	(,)	PUNC	,␣
+1j002:010	10	ja	CNJ	ja␣
+1j002:010	13	hän	PERS.SG.INE	hänessä␣
+1j002:010	12	%case	LOC	
+1j002:010	14	ei	NEGV.3S	ei␣
+1j002:010	15a	olla	COP.ACT.PRES.NEG	ole␣
+1j002:010	11	pahennus	DER.SG.PTV	pahennusta
+1j002:010	15b	.	PUNC	.␣
+1j002:011	1j002:011	1j002:011	VERSE	1Jh␣2:11␣
+1j002:011	2	mutta	CNJ	Mutta␣
+1j002:011	1	joka	REL.INDEF.SG.NOM	joka␣
+1j002:011	3	vihata	ACT.PRES.3S	vihaa␣
+1j002:011	(4) 5	veli	SG.PTV.-3	veljeänsä
+1j002:011	6	%pers	3	
+1j002:011	-	(,)	PUNC	,␣
+1j002:011	10	(se)	DEM.SG.NOM	se␣
+1j002:011	10	olla	COP.ACT.PRES.3S	on␣
+1j002:011	(8) 9	pimeys	DER.SG.INE	pimeydessä␣
+1j002:011	7	%case	LOC	
+1j002:011	11	ja	CNJ	ja␣
+1j002:011	15	vaeltaa	ACT.PRES.3S	vaeltaa␣
+1j002:011	(13) 14	pimeys	DER.SG.INE	pimeydessä
+1j002:011	12	%case	LOC	
+1j002:011	-	(,)	PUNC	,␣
+1j002:011	17	ei	NEGV.3S.-CLITIC	eikä␣
+1j002:011	16	%clitic	kA	
+1j002:011	18	(hän)	PERS.SG.NOM	hän␣
+1j002:011	18	tietää	ACT.PRES.NEG	tiedä
+1j002:011	-	(,)	PUNC	,␣
+1j002:011	19	mikä	INT.REL.SG.ILL	mihin␣
+1j002:011	20a	mennä	ACT.PRES.3S	menee
+1j002:011	20b	;	PUNC	;␣
+1j002:011	21	sillä	SUBORD	sillä␣
+1j002:011	(22) 23	pimeys	DER.SG.NOM	pimeys␣
+1j002:011	24	(olla)	COP.ACT.PRES.3S	on␣
+1j002:011	24	sokaista	ACT.PCP2.PERF	sokaissut␣
+1j002:011	27a	hän	PERS.SG.GEN	hänen␣
+1j002:011	(25) 26	silmä	NOM&SGGEN.-3	silmänsä
+1j002:011	27b	.	PUNC	.␣
+1j002:012	1j002:012	1j002:012	VERSE	1Jh␣2:12␣
+1j002:012	1	(minä)	PERS.SG.NOM	Minä␣
+1j002:012	1	kirjoittaa	ACT.PRES.1S	kirjoitan␣
+1j002:012	2a	te	PERS.PL.ALL	teille
+1j002:012	2b	,	PUNC	,␣
+1j002:012	3a	lapsukainen	PL.NOM	lapsukaiset
+1j002:012	3b	,	PUNC	,␣
+1j002:012	4	sillä	SUBORD	sillä␣
+1j002:012	(7) 8	synti	PL.NOM	synnit␣
+1j002:012	5	(olla)	COP.ACT.PRES.3P	ovat␣
+1j002:012	6	te	PERS.PL.ALL	teille␣
+1j002:012	5	anteeksi	DER.ADV	anteeksi␣
+1j002:012	5	antaa:annettu	PSS.PCP2.PL.NOM	annetut␣
+1j002:012	12a	hän	PERS.SG.GEN	hänen␣
+1j002:012	(10) 11	nimi	NOM&SGGEN.-3	nimensä␣
+1j002:012	9	tähden	POST	tähden
+1j002:012	12b	.	PUNC	.␣
+1j002:013	1j002:013	1j002:013	VERSE	1Jh␣2:13␣
+1j002:013	1	(minä)	PERS.SG.NOM	Minä␣
+1j002:013	1	kirjoittaa	ACT.PRES.1S	kirjoitan␣
+1j002:013	2a	te	PERS.PL.ALL	teille
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	3a	isä	PL.NOM	isät
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	4	sillä	SUBORD	sillä␣
+1j002:013	5	(te)	PERS.PL.NOM	te␣
+1j002:013	5	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:013	5	oppia	ACT.PCP2.PERF	oppineet␣
+1j002:013	5	tuntea	INF3.ILL	tuntemaan␣
+1j002:013	6	hän	PERS.SG.ACC	hänet
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	6	joka	REL.INDEF.SG.NOM	joka␣
+1j002:013	8a	alku	SG.ELA	alusta␣
+1j002:013	7	%case	LOC	
+1j002:013	-	(olla)	COP.ACT.PRES.3S	on␣
+1j002:013	-	(olla)	COP.ACT.PCP2.PERF	ollut
+1j002:013	-	(.)	PUNC	.␣
+1j002:013	9	(minä)	PERS.SG.NOM	Minä␣
+1j002:013	9	kirjoittaa	ACT.PRES.1S	kirjoitan␣
+1j002:013	10a	te	PERS.PL.ALL	teille
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	11a	nuorukainen	PL.NOM	nuorukaiset
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	12	sillä	SUBORD	sillä␣
+1j002:013	13	(te)	PERS.PL.NOM	te␣
+1j002:013	13	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:013	13	voittaa	ACT.PCP2.PERF	voittaneet␣
+1j002:013	14	se	DEM.SG.GEN	sen
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	14	joka	REL.INDEF.SG.NOM	joka␣
+1j002:013	-	(olla)	COP.ACT.PRES.3S	on␣
+1j002:013	15a	paha	ADJ.SG.NOM	paha
+1j002:013	-	(.)	PUNC	.␣
+1j002:013	1/14	(minä)	PERS.SG.NOM	Minä␣
+1j002:013	1/14	(olla)	COP.ACT.PRES.1S	olen␣
+1j002:013	1/14	kirjoittaa	ACT.PCP2.PERF	kirjoittanut␣
+1j002:013	2a/14	te	PERS.PL.ALL	teille
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	3a/14	lapsukainen	PL.NOM	lapsukaiset
+1j002:013	-	(,)	PUNC	,␣
+1j002:013	4/14	sillä	SUBORD	sillä␣
+1j002:013	5/14	(te)	PERS.PL.NOM	te␣
+1j002:013	5/14	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:013	5/14	oppia	ACT.PCP2.PERF	oppineet␣
+1j002:013	5/14	tuntea	INF3.ILL	tuntemaan␣
+1j002:013	(6/14) 7a/14	Isä	SG.GEN	Isän
+1j002:013	15b	.	PUNC	.␣
+1j002:014	1j002:014	1j002:014	VERSE	1Jh␣2:14␣
+1j002:014	8	(minä)	PERS.SG.NOM	Minä␣
+1j002:014	8	(olla)	COP.ACT.PRES.1S	olen␣
+1j002:014	8	kirjoittaa	ACT.PCP2.PERF	kirjoittanut␣
+1j002:014	9a	te	PERS.PL.ALL	teille
+1j002:014	-	(,)	PUNC	,␣
+1j002:014	10a	isä	PL.NOM	isät
+1j002:014	-	(,)	PUNC	,␣
+1j002:014	11	sillä	SUBORD	sillä␣
+1j002:014	12	(te)	PERS.PL.NOM	te␣
+1j002:014	12	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:014	12	oppia	ACT.PCP2.PERF	oppineet␣
+1j002:014	12	tuntea	INF3.ILL	tuntemaan␣
+1j002:014	13	hän	PERS.SG.ACC	hänet
+1j002:014	-	(,)	PUNC	,␣
+1j002:014	13	joka	REL.INDEF.SG.NOM	joka␣
+1j002:014	15a	alku	SG.ELA	alusta␣
+1j002:014	14	%case	LOC	
+1j002:014	-	(olla)	COP.ACT.PRES.3S	on␣
+1j002:014	-	(olla)	COP.ACT.PCP2.PERF	ollut
+1j002:014	-	(.)	PUNC	.␣
+1j002:014	16	(minä)	PERS.SG.NOM	Minä␣
+1j002:014	16	(olla)	COP.ACT.PRES.1S	olen␣
+1j002:014	16	kirjoittaa	ACT.PCP2.PERF	kirjoittanut␣
+1j002:014	17a	te	PERS.PL.ALL	teille
+1j002:014	17b	,	PUNC	,␣
+1j002:014	18a	nuorukainen	PL.NOM	nuorukaiset
+1j002:014	18b	,	PUNC	,␣
+1j002:014	19	sillä	SUBORD	sillä␣
+1j002:014	21	(te)	PERS.PL.NOM	te␣
+1j002:014	21	olla	COP.ACT.PRES.2P	olette␣
+1j002:014	20	väkevä	ADJ.PL.NOM	väkevät
+1j002:014	-	(,)	PUNC	,␣
+1j002:014	22	ja	CNJ	ja␣
+1j002:014	(25) 26	Jumala	SG.GEN	Jumalan␣
+1j002:014	(23) 24	sana	SG.NOM	sana␣
+1j002:014	29	pysyä	ACT.PRES.3S	pysyy␣
+1j002:014	28	te	PERS.PL.INE	teissä
+1j002:014	27	%case	LOC	
+1j002:014	-	(,)	PUNC	,␣
+1j002:014	30	ja	CNJ	ja␣
+1j002:014	31	(te)	PERS.PL.NOM	te␣
+1j002:014	31	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:014	31	voittaa	ACT.PCP2.PERF	voittaneet␣
+1j002:014	32	se	DEM.SG.GEN	sen
+1j002:014	-	(,)	PUNC	,␣
+1j002:014	32	joka	REL.INDEF.SG.NOM	joka␣
+1j002:014	-	(olla)	COP.ACT.PRES.3S	on␣
+1j002:014	33a	paha	ADJ.SG.NOM	paha
+1j002:014	33b	.	PUNC	.␣
+1j002:015	1j002:015	1j002:015	VERSE	1Jh␣2:15␣
+1j002:015	1	älä	NEGV.ACT.IMP.2P	Älkää␣
+1j002:015	2	rakastaa	ACT.IMP.NEG	rakastako␣
+1j002:015	(3) 4	maailma	SG.PTV	maailmaa␣
+1j002:015	5	älä	NEGV.ACT.IMP.2P.-CLITIC	älkääkä␣
+1j002:015	6	se	DEM.SG.PTV	sitä
+1j002:015	-	(,)	PUNC	,␣
+1j002:015	6	mikä	INT.REL.INDEF.SG.NOM	mikä␣
+1j002:015	(8) 9a	maailma	SG.INE	maailmassa␣
+1j002:015	7	%case	LOC	
+1j002:015	-	(olla)	COP.ACT.PRES.3S	on
+1j002:015	9b	.	PUNC	.␣
+1j002:015	10	jos	SUBORD	Jos␣
+1j002:015	11	joku	INDEF.SG.NOM	joku␣
+1j002:015	(13) 14a	maailma	SG.PTV	maailmaa␣
+1j002:015	12	rakastaa	ACT.PRES.3S	rakastaa
+1j002:015	-	(,)	PUNC	,␣
+1j002:015	-	(niin)	ADV.AD-A	niin␣
+1j002:015	(19) 20	Isä	SG.GEN	Isän␣
+1j002:015	(17) 18	rakkaus	DER.SG.NOM	rakkaus␣
+1j002:015	15	ei	NEGV.3S	ei␣
+1j002:015	16	olla	COP.ACT.PRES.NEG	ole␣
+1j002:015	22a	hän	PERS.SG.INE	hänessä
+1j002:015	21	%case	LOC	
+1j002:015	22b	.	PUNC	.␣
+1j002:016	1j002:016	1j002:016	VERSE	1Jh␣2:16␣
+1j002:016	1	sillä	SUBORD	Sillä␣
+1j002:016	2	kaikki	INDEF.SG.NOM	kaikki
+1j002:016	-	(,)	PUNC	,␣
+1j002:016	3	mikä	INT.REL.INDEF.SG.NOM	mikä␣
+1j002:016	(5) 6a	maailma	SG.INE	maailmassa␣
+1j002:016	4	%case	LOC	
+1j002:016	-	(olla)	COP.ACT.PRES.3S	on
+1j002:016	-	(,)	PUNC	,␣
+1j002:016	10 (9)	liha	SG.GEN	lihan␣
+1j002:016	(7) 8	himo	SG.NOM	himo
+1j002:016	-	(,)	PUNC	,␣
+1j002:016	(11)	-	UNTRANSLATED	
+1j002:016	(14) 15	silmä	PL.GEN	silmäin␣
+1j002:016	(12) 13	pyyntö	SG.NOM	pyyntö␣
+1j002:016	16	ja	CNJ	ja␣
+1j002:016	(19) 20a	elämä	DER.SG.GEN	elämän␣
+1j002:016	(17) 18	korskeus	DER.SG.NOM	korskeus
+1j002:016	-	(,)	PUNC	,␣
+1j002:016	-	(se)	DEM.SG.NOM	se␣
+1j002:016	21	ei	NEGV.3S	ei␣
+1j002:016	22	olla	COP.ACT.PRES.NEG	ole␣
+1j002:016	(24) 25	Isä	SG.ELA	Isästä
+1j002:016	23	%case	LOC	
+1j002:016	-	(,)	PUNC	,␣
+1j002:016	26	vaan	SUBORD	vaan␣
+1j002:016	(28) 29	maailma	SG.ELA	maailmasta
+1j002:016	27	%case	LOC	
+1j002:016	(30a)	-	UNTRANSLATED	
+1j002:016	-	(.)	PUNC	.␣
+1j002:017	1j002:017	1j002:017	VERSE	1Jh␣2:17␣
+1j002:017	1	ja	CNJ	Ja␣
+1j002:017	(2) 3	maailma	SG.NOM	maailma␣
+1j002:017	4	kadota	ACT.PRES.3S	katoaa␣
+1j002:017	5	ja	CNJ	ja␣
+1j002:017	8a	se	DEM.SG.GEN	sen␣
+1j002:017	(6) 7	himo	SG.NOM	himo
+1j002:017	8b	;	PUNC	;␣
+1j002:017	10	mutta	CNJ	mutta␣
+1j002:017	9	joka	REL.INDEF.SG.NOM	joka␣
+1j002:017	11	tehdä	ACT.PRES.3S	tekee␣
+1j002:017	(14) 15	Jumala	SG.GEN	Jumalan␣
+1j002:017	(12) 13	tahto	SG.GEN	tahdon
+1j002:017	-	(,)	PUNC	,␣
+1j002:017	16	(se)	DEM.SG.NOM	se␣
+1j002:017	16	pysyä	ACT.PRES.3S	pysyy␣
+1j002:017	(18) 19a	iankaikkisesti	DER.ADV.POS	iankaikkisesti
+1j002:017	17	%case	MAN	
+1j002:017	19b	.	PUNC	.␣
+1j002:018	1j002:018	1j002:018	VERSE	1Jh␣2:18␣
+1j002:018	1a	lapsukainen	PL.NOM	Lapsukaiset
+1j002:018	-	(,)	PUNC	,␣
+1j002:018	-	(nyt)	ADV	nyt␣
+1j002:018	4a	olla	COP.ACT.PRES.3S	on␣
+1j002:018	2	viimeinen	ADJ.SG.NOM	viimeinen␣
+1j002:018	3	aika	SG.NOM	aika
+1j002:018	4b	.	PUNC	.␣
+1j002:018	5	ja	CNJ	Ja␣
+1j002:018	6	niin_kuin	SUBORD	niinkuin␣
+1j002:018	7	(te)	PERS.PL.NOM	te␣
+1j002:018	7	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:018	7	kuulla	ACT.PCP2.PERF	kuulleet
+1j002:018	-	(,)	PUNC	,␣
+1j002:018	8	että	SUBORD	että␣
+1j002:018	9	anti_kristus	SG.NOM	antikristus␣
+1j002:018	10a	tulla	ACT.PRES.3S	tulee
+1j002:018	10b	,	PUNC	,␣
+1j002:018	11	niin	ADV.AD-A	niin␣
+1j002:018	15a	(olla)	COP.ACT.PRES.3S.-CLITIC	onkin␣
+1j002:018	12	nyt	ADV	nyt␣
+1j002:018	14	moni	INDEF.SG.PTV	monta␣
+1j002:018	13	anti_kristus	SG.PTV	antikristusta␣
+1j002:018	15a	ilmaantua	ACT.PCP2.PERF	ilmaantunut
+1j002:018	15b	;	PUNC	;␣
+1j002:018	16	se	DEM.SG.ELA	siitä␣
+1j002:018	17	(me)	PERS.PL.NOM	me␣
+1j002:018	17	tietää	ACT.PRES.1P	tiedämme
+1j002:018	-	(,)	PUNC	,␣
+1j002:018	18	että	SUBORD	että␣
+1j002:018	-	(nyt)	ADV	nyt␣
+1j002:018	21a	olla	COP.ACT.PRES.3S	on␣
+1j002:018	19	viimeinen	ADJ.SG.NOM	viimeinen␣
+1j002:018	20	aika	SG.NOM	aika
+1j002:018	21b	.	PUNC	.␣
+1j002:019	1j002:019	1j002:019	VERSE	1Jh␣2:19␣
+1j002:019	2	me	PERS.PL.ELA	Meistä␣
+1j002:019	1	%case	LOC	
+1j002:019	3	(he)	PERS.PL.NOM	he␣
+1j002:019	3	(olla)	COP.ACT.PRES.3P	ovat␣
+1j002:019	3	lähteä	ACT.PCP2.PERF	lähteneet
+1j002:019	-	(,)	PUNC	,␣
+1j002:019	4	mutta	CNJ	mutta␣
+1j002:019	6	(he)	PERS.PL.NOM	he␣
+1j002:019	5	ei	NEGV.3P	eivät␣
+1j002:019	6	olla	COP.ACT.PAST.PL	olleet␣
+1j002:019	7	yhtä	AD-A	yhtä␣
+1j002:019	8a	me	PERS.PL.GEN	meidän␣
+1j002:019	case%8a	kanssa	POST.-1	kanssamme
+1j002:019	8b	;	PUNC	;␣
+1j002:019	10	sillä	SUBORD	sillä␣
+1j002:019	9	jos	SUBORD	jos␣
+1j002:019	13a	(he)	PERS.PL.NOM	he␣
+1j002:019	13a	(olla)	COP.ACT.COND.3P	olisivat␣
+1j002:019	13a	olla	COP.ACT.PCP2.PERF	olleet␣
+1j002:019	11	yhtä	AD-A	yhtä␣
+1j002:019	12	me	PERS.PL.GEN	meidän␣
+1j002:019	case%12	kanssa	POST.-1	kanssamme
+1j002:019	-	(,)	PUNC	,␣
+1j002:019	-	(niin)	ADV.AD-A	niin␣
+1j002:019	-	(he)	PERS.PL.NOM	he␣
+1j002:019	14	(olla)	COP.ACT.COND.3P	olisivat␣
+1j002:019	15	%modus	COND	
+1j002:019	17a	me	PERS.PL.GEN	meidän␣
+1j002:019	16	kanssa	POST.-1	kanssamme␣
+1j002:019	14	pysyä	ACT.PCP2.PERF	pysyneet
+1j002:019	17b	;	PUNC	;␣
+1j002:019	18	mutta	CNJ	mutta␣
+1j002:019	20	(he)	PERS.PL.INE	heissä␣
+1j002:019	20	(olla)	COP.ACT.PAST.3S	oli␣
+1j002:019	20	tulla	ACT.PCP1.FUTR	tuleva␣
+1j002:019	20	ilmi	ADV.AD-A	ilmi
+1j002:019	19	%case	?	
+1j002:019	-	(,)	PUNC	,␣
+1j002:019	21	että	SUBORD	että␣
+1j002:019	24	kaikki	INDEF.SG.NOM	kaikki␣
+1j002:019	22	ei	NEGV.3P	eivät␣
+1j002:019	23	olla	COP.ACT.PRES.NEG	ole␣
+1j002:019	25	yhtä	AD-A	yhtä␣
+1j002:019	26a	me	PERS.PL.GEN	meidän␣
+1j002:019	case%26a	kanssa	POST.-1	kanssamme
+1j002:019	26b	.	PUNC	.␣
+1j002:020	1j002:020	1j002:020	VERSE	1Jh␣2:20␣
+1j002:020	2	te	PERS.PL.ADE	Teillä␣
+1j002:020	(1)	-	UNTRANSLATED	
+1j002:020	4	olla	COP.ACT.PRES.3S	on␣
+1j002:020	3	voitelu	DER.SG.NOM	voitelu␣
+1j002:020	(6) 7	Pyhä	ADJ.SG.ABL	Pyhältä
+1j002:020	5	%case	LOC	
+1j002:020	-	(,)	PUNC	,␣
+1j002:020	8	ja	CNJ	ja␣
+1j002:020	10a	kaikki	INDEF.PL.ADE	kaikilla␣
+1j002:020	9	(te)	PERS.PL.ADE	teillä␣
+1j002:020	9	olla	COP.ACT.PRES.3S	on␣
+1j002:020	9	tieto	SG.NOM	tieto
+1j002:020	10b	.	PUNC	.␣
+1j002:021	1j002:021	1j002:021	VERSE	1Jh␣2:21␣
+1j002:021	1	ei	NEGV.1S	En␣
+1j002:021	2	(minä)	PERS.SG.NOM	minä␣
+1j002:021	2	(olla)	COP.ACT.PRES.NEG	ole␣
+1j002:021	2	kirjoittaa	ACT.PCP2.PERF	kirjoittanut␣
+1j002:021	3	te	PERS.PL.ALL	teille␣
+1j002:021	-	(sen_tähden)	ADV	sentähden
+1j002:021	-	(,)	PUNC	,␣
+1j002:021	4 5	ettei	NEGV.2P	ettette␣
+1j002:021	(7) 8	totuus	SG.PTV	totuutta␣
+1j002:021	6	tietää	ACT.PRES.NEG	tiedä
+1j002:021	-	(,)	PUNC	,␣
+1j002:021	9	vaan	SUBORD	vaan␣
+1j002:021	-	(sen_tähden)	ADV	sentähden
+1j002:021	-	(,)	PUNC	,␣
+1j002:021	10	että	SUBORD	että␣
+1j002:021	11	(te)	PERS.PL.NOM	te␣
+1j002:021	11	tietää	ACT.PRES.2P	tiedätte␣
+1j002:021	12	se	DEM.SG.GEN	sen␣
+1j002:021	13	ja	CNJ	ja␣
+1j002:021	14 20	ettei	NEGV.3S	ettei␣
+1j002:021	15	mikään	INDEF.SG.NOM	mikään␣
+1j002:021	16	valhe	SG.NOM	valhe␣
+1j002:021	21a	olla	COP.ACT.PRES.NEG	ole␣
+1j002:021	(18) 19	totuus	SG.ELA	totuudesta
+1j002:021	17	%case	LOC	
+1j002:021	21b	.	PUNC	.␣
+1j002:022	1j002:022	1j002:022	VERSE	1Jh␣2:22␣
+1j002:022	1	kuka	INT.SG.NOM	Kuka␣
+1j002:022	2	olla	COP.ACT.PRES.3S	on␣
+1j002:022	(3) 4	valhettelija	DER.SG.NOM	valhettelija
+1j002:022	-	(,)	PUNC	,␣
+1j002:022	5 6	ellei	NEGV.3S	ellei␣
+1j002:022	7	se	DEM.SG.NOM	se
+1j002:022	-	(,)	PUNC	,␣
+1j002:022	7	joka	REL.INDEF.SG.NOM	joka␣
+1j002:022	8	kieltää	ACT.PRES.3S	kieltää␣
+1j002:022	-	(se)	DEM.SG.GEN	sen
+1j002:022	-	(,)	PUNC	,␣
+1j002:022	9	että	SUBORD	että␣
+1j002:022	10	Jeesus	PR.SG.NOM	Jeesus␣
+1j002:022	(11)	-	UNTRANSLATED	
+1j002:022	12	olla	COP.ACT.PRES.3S	on␣
+1j002:022	(13) 14a	Kristus	PR.SG.NOM	Kristus
+1j002:022	-	(?)	PUNC	?␣
+1j002:022	15	hän	PERS.SG.NOM	Hän␣
+1j002:022	16	olla	COP.ACT.PRES.3S	on␣
+1j002:022	(17) 18a	anti_kristus	SG.NOM	antikristus
+1j002:022	18b	,	PUNC	,␣
+1j002:022	19	se	DEM.SG.NOM	se
+1j002:022	-	(,)	PUNC	,␣
+1j002:022	19	joka	REL.INDEF.SG.NOM	joka␣
+1j002:022	20	kieltää	ACT.PRES.3S	kieltää␣
+1j002:022	(21) 22	Isä	SG.GEN	Isän␣
+1j002:022	23	ja	CNJ	ja␣
+1j002:022	(24) 25a	Poika	SG.GEN	Pojan
+1j002:022	25b	.	PUNC	.␣
+1j002:023	1j002:023	1j002:023	VERSE	1Jh␣2:23␣
+1j002:023	1	kuka	INT.SG.NOM	Kuka␣
+1j002:023	1	ikinä	ADV	ikinä␣
+1j002:023	(2) 3	kieltää	ACT.PRES.3S	kieltää␣
+1j002:023	(4) 5	Poika	SG.GEN	Pojan
+1j002:023	-	(,)	PUNC	,␣
+1j002:023	9a	(hän)	PERS.SG.ADE	hänellä␣
+1j002:023	6	ei	NEGV.3S	ei␣
+1j002:023	9a	olla	COP.ACT.PRES.NEG	ole␣
+1j002:023	(7) 8	Isä	SG.PTV.-CLITIC	Isääkään
+1j002:023	9b	.	PUNC	.␣
+1j002:023	10	joka	REL.INDEF.SG.NOM	Joka␣
+1j002:023	11	tunnustaa	ACT.PRES.3S	tunnustaa␣
+1j002:023	(12) 13	Poika	SG.GEN	Pojan
+1j002:023	-	(,)	PUNC	,␣
+1j002:023	17a	(hän)	PERS.SG.ADE	hänellä␣
+1j002:023	17a	olla	COP.ACT.PRES.3S	on␣
+1j002:023	14	myös	ADV	myös␣
+1j002:023	(15) 16	Isä	SG.NOM	Isä
+1j002:023	17b	.	PUNC	.␣
+1j002:024	1j002:024	1j002:024	VERSE	1Jh␣2:24␣
+1j002:024	2	mikä	INT.REL.SG.GEN	Minkä␣
+1j002:024	1	te	PERS.PL.NOM	te␣
+1j002:024	3	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:024	5a	alku	SG.ELA	alusta␣
+1j002:024	4	asti	POST	asti␣
+1j002:024	3	kuulla	ACT.PCP2.PERF	kuulleet
+1j002:024	-	(,)	PUNC	,␣
+1j002:024	8a	(se)	DEM.SG.NOM	se␣
+1j002:024	8a	pysyä	ACT.IMP.3S	pysyköön␣
+1j002:024	7	te	PERS.PL.INE	teissä
+1j002:024	6	%case	LOC	
+1j002:024	8b	.	PUNC	.␣
+1j002:024	9	jos	SUBORD	Jos␣
+1j002:024	11	te	PERS.PL.INE	teissä␣
+1j002:024	10	%case	LOC	
+1j002:024	12	pysyä	ACT.PRES.3S	pysyy␣
+1j002:024	13	se	DEM.SG.NOM	se
+1j002:024	-	(,)	PUNC	,␣
+1j002:024	13	mikä	INT.REL.SG.GEN	minkä␣
+1j002:024	16a	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:024	15	alku	SG.ELA	alusta␣
+1j002:024	14	asti	POST	asti␣
+1j002:024	16a	kuulla	ACT.PCP2.PERF	kuulleet
+1j002:024	-	(,)	PUNC	,␣
+1j002:024	-	(niin)	ADV.AD-A	niin␣
+1j002:024	18	te	PERS.PL.NOM.-CLITIC	tekin␣
+1j002:024	17	%clitic	kin	
+1j002:024	26a	pysyä	ACT.PRES.2P	pysytte␣
+1j002:024	(20) 21	Poika	SG.INE	Pojassa␣
+1j002:024	19	%case	LOC	
+1j002:024	22	ja	CNJ	ja␣
+1j002:024	(24) 25	Isä	SG.INE	Isässä
+1j002:024	23	%case	LOC	
+1j002:024	26b	.	PUNC	.␣
+1j002:025	1j002:025	1j002:025	VERSE	1Jh␣2:25␣
+1j002:025	1	ja	CNJ	Ja␣
+1j002:025	2	tämä	DEM.SG.NOM	tämä␣
+1j002:025	3	olla	COP.ACT.PRES.3S	on␣
+1j002:025	4	se	DEM.SG.NOM	se␣
+1j002:025	5	lupaus	DER.SG.NOM	lupaus
+1j002:025	-	(,)	PUNC	,␣
+1j002:025	6	mikä	INT.REL.SG.GEN	minkä␣
+1j002:025	7	hän	PERS.SG.NOM	hän␣
+1j002:025	8	(olla)	COP.ACT.PRES.3S	on␣
+1j002:025	9a	me	PERS.PL.ALL	meille␣
+1j002:025	8	luvata	ACT.PCP2.PERF	luvannut
+1j002:025	-	(:)	PUNC	:␣
+1j002:025	(12) 13a	iankaikkinen	ADJ.SG.NOM	iankaikkinen␣
+1j002:025	(10) 11	elämä	DER.SG.NOM	elämä
+1j002:025	13b	.	PUNC	.␣
+1j002:026	1j002:026	1j002:026	VERSE	1Jh␣2:26␣
+1j002:026	1	tämä	DEM.SG.GEN	Tämän␣
+1j002:026	2	(minä)	PERS.SG.NOM	minä␣
+1j002:026	2	(olla)	COP.ACT.PRES.1S	olen␣
+1j002:026	2	kirjoittaa	ACT.PCP2.PERF	kirjoittanut␣
+1j002:026	3	te	PERS.PL.ALL	teille␣
+1j002:026	5	ne	DEM.PL.ELA	niistä
+1j002:026	-	(,)	PUNC	,␣
+1j002:026	5	joka	REL.PL.NOM	jotka␣
+1j002:026	4	%case	NOM	
+1j002:026	7a	te	PERS.PL.PTV	teitä␣
+1j002:026	6	eksyttää	DER.ACT.PRES.3P	eksyttävät
+1j002:026	7b	.	PUNC	.␣
+1j002:027	1j002:027	1j002:027	VERSE	1Jh␣2:27␣
+1j002:027	1	mutta	CNJ	Mutta␣
+1j002:027	2	te	PERS.PL.NOM	te␣
+1j002:027	-	(-)	PUNC	-␣
+1j002:027	11	te	PERS.PL.INE	teissä␣
+1j002:027	10	%case	LOC	
+1j002:027	9	pysyä	ACT.PRES.3S	pysyy␣
+1j002:027	3	se	DEM.SG.NOM	se␣
+1j002:027	4	voitelu	DER.SG.NOM	voitelu
+1j002:027	-	(,)	PUNC	,␣
+1j002:027	5	joka	REL.SG.GEN	jonka␣
+1j002:027	6	(olla)	COP.ACT.PRES.2P	olette␣
+1j002:027	8a	hän	PERS.SG.ABL	häneltä␣
+1j002:027	7	%case	LOC	
+1j002:027	6	saada	ACT.PCP2.PERF	saaneet
+1j002:027	-	(,)	PUNC	,␣
+1j002:027	12	ja	CNJ	ja␣
+1j002:027	19a	te	PERS.PL.NOM	te␣
+1j002:027	13	ei	NEGV.2P	ette␣
+1j002:027	15	olla	COP.ACT.PRES.NEG	ole␣
+1j002:027	17	kukaan	INDEF.SG.GEN	kenenkään␣
+1j002:027	18	opetus	DER.SG.GEN	opetuksen␣
+1j002:027	16	%case	GEN	
+1j002:027	14	tarve	SG.INE	tarpeessa
+1j002:027	19b	;	PUNC	;␣
+1j002:027	20	vaan	SUBORD	vaan␣
+1j002:027	21	niin_kuin	SUBORD	niinkuin␣
+1j002:027	23	hän	PERS.SG.GEN	hänen␣
+1j002:027	(22) 24	voitelu	DER.NOM&SGGEN.-3	voitelunsa␣
+1j002:027	25	opettaa	ACT.PRES.3S	opettaa␣
+1j002:027	26	te	PERS.PL.PTV	teitä␣
+1j002:027	28	kaikki	INDEF.SG.INE	kaikessa
+1j002:027	27	%case	LOC	
+1j002:027	-	(,)	PUNC	,␣
+1j002:027	29	niin	ADV.AD-A	niin␣
+1j002:027	-	(se)	DEM.SG.NOM	se␣
+1j002:027	-	(opetus)	DER.SG.NOM	opetus␣
+1j002:027	31	olla	COP.ACT.PRES.3S	on␣
+1j002:027	-	(myös)	ADV	myös␣
+1j002:027	30	tosi	ADJ.SG.PTV	totta␣
+1j002:027	33	ei	NEGV.3S.-CLITIC	eikä␣
+1j002:027	32	%clitic	kA	
+1j002:027	34	olla	COP.ACT.PRES.NEG	ole␣
+1j002:027	35a	valhe	SG.PTV	valhetta
+1j002:027	35b	;	PUNC	;␣
+1j002:027	36	ja	CNJ	ja␣
+1j002:027	37	niin_kuin	SUBORD	niinkuin␣
+1j002:027	38	(se)	DEM.SG.NOM	se␣
+1j002:027	38	(olla)	COP.ACT.PRES.3S	on␣
+1j002:027	38	opettaa	ACT.PCP2.PERF	opettanut␣
+1j002:027	39a	te	PERS.PL.PTV	teitä
+1j002:027	39b	,	PUNC	,␣
+1j002:027	-	(niin)	ADV.AD-A	niin␣
+1j002:027	41	pysyä	ACT.IMP.2P	pysykää␣
+1j002:027	43a	hän	PERS.SG.INE	hänessä
+1j002:027	42	%case	LOC	
+1j002:027	43b	.	PUNC	.␣
+1j002:028	1j002:028	1j002:028	VERSE	1Jh␣2:28␣
+1j002:028	1	ja	CNJ	Ja␣
+1j002:028	2a	nyt	ADV	nyt
+1j002:028	2b	,	PUNC	,␣
+1j002:028	3a	lapsukainen	PL.NOM	lapsukaiset
+1j002:028	3b	,	PUNC	,␣
+1j002:028	4	pysyä	ACT.IMP.2P	pysykää␣
+1j002:028	6a	hän	PERS.SG.INE	hänessä
+1j002:028	5	%case	LOC	
+1j002:028	6b	,	PUNC	,␣
+1j002:028	7	että	SUBORD	että␣
+1j002:028	10	(me)	PERS.PL.ADE	meillä␣
+1j002:028	9	(hän)	PERS.SG.GEN	hänen␣
+1j002:028	9	ilmestyä	ACT.INF2.INE.-3	ilmestyessään␣
+1j002:028	8	%modus	?	
+1j002:028	10	olla	COP.ACT.COND.3S	olisi␣
+1j002:028	11	turva	SG.NOM	turva␣
+1j002:028	13	ei	NEGV.3S.-CLITIC	eikä␣
+1j002:028	12	%clitic	kA	
+1j002:028	14	(me)	PERS.PL.PTV	meitä␣
+1j002:028	14	häpeä	SG.ADE	häpeällä␣
+1j002:028	14	karkoittaa	PSS.COND.NEG	karkoitettaisi␣
+1j002:028	14	pois	ADV	pois␣
+1j002:028	16	hän	PERS.SG.GEN	hänen␣
+1j002:028	15	tyköä	POST.-3	tyköänsä␣
+1j002:028	20a	hän	PERS.SG.GEN	hänen␣
+1j002:028	(18) 19	tulemus	SG.INE.-3	tulemuksessaan
+1j002:028	17	%case	LOC	
+1j002:028	20b	.	PUNC	.␣
+1j002:029	1j002:029	1j002:029	VERSE	1Jh␣2:29␣
+1j002:029	1	jos	SUBORD	Jos␣
+1j002:029	2	tietää	ACT.PRES.2P	tiedätte
+1j002:029	-	(,)	PUNC	,␣
+1j002:029	3	että	SUBORD	että␣
+1j002:029	5a	(hän)	PERS.SG.NOM	hän␣
+1j002:029	5a	olla	COP.ACT.PRES.3S	on␣
+1j002:029	4	vanhurskas	ADJ.SG.NOM	vanhurskas
+1j002:029	-	(,)	PUNC	,␣
+1j002:029	-	(niin)	ADV.AD-A	niin␣
+1j002:029	6	(te)	PERS.PL.NOM	te␣
+1j002:029	6	ymmärtää	ACT.PRES.2P	ymmärrätte
+1j002:029	-	(,)	PUNC	,␣
+1j002:029	7	että	SUBORD	että␣
+1j002:029	8	myös	ADV	myös␣
+1j002:029	9	jokainen	INDEF.SG.NOM	jokainen
+1j002:029	-	(,)	PUNC	,␣
+1j002:029	10	joka	REL.INDEF.SG.NOM	joka␣
+1j002:029	(12) 13	vanhurskaus	DER.SG.GEN	vanhurskauden␣
+1j002:029	11	tehdä	ACT.PRES.3S	tekee
+1j002:029	-	(,)	PUNC	,␣
+1j002:029	16a	(olla)	COP.ACT.PRES.3S	on␣
+1j002:029	15	hän	PERS.SG.ELA	hänestä␣
+1j002:029	14	%case	LOC	
+1j002:029	16a	syntyä:syntynyt	ACT.PCP2.SG.NOM	syntynyt
+1j002:029	16b	.	PUNC	.␣
+1j003:001	1j003:001	1j003:001	VERSE	1Jh␣3:1␣
+1j003:001	1	katsoa	ACT.IMP.2P	Katsokaa
+1j003:001	-	(,)	PUNC	,␣
+1j003:001	2	minkä_kaltainen	INT.ADJ.SG.GEN	minkäkaltaisen␣
+1j003:001	3	rakkaus	DER.SG.GEN	rakkauden␣
+1j003:001	(6) 7a	Isä	SG.NOM	Isä␣
+1j003:001	4	(olla)	COP.ACT.PRES.3S	on␣
+1j003:001	5	me	PERS.PL.ALL	meille␣
+1j003:001	4	antaa	ACT.PCP2.PERF	antanut
+1j003:001	7b	,	PUNC	,␣
+1j003:001	8	että	SUBORD	että␣
+1j003:001	11a	(me)	PERS.PL.PTV	meitä␣
+1j003:001	11a	kutsua	PSS.PRES	kutsutaan␣
+1j003:001	10	Jumala	SG.GEN	Jumalan␣
+1j003:001	9	lapsi	PL.TRA	lapsiksi
+1j003:001	-	(,)	PUNC	,␣
+1j003:001	-	(joka)	REL.PL.PTV	joita␣
+1j003:001	13a	(me)	PERS.PL.NOM	me␣
+1j003:001	13a	olla	COP.ACT.PRES.1P.-CLITIC	olemmekin
+1j003:001	12	%clitic	kin	
+1j003:001	13b	.	PUNC	.␣
+1j003:001	14 15	sen_tähden	ADV	Sentähden␣
+1j003:001	18	ei	NEGV.3S	ei␣
+1j003:001	(16) 17	maailma	SG.NOM	maailma␣
+1j003:001	19	tuntea	ACT.PRES.NEG	tunne␣
+1j003:001	20a	me	PERS.PL.PTV	meitä
+1j003:001	20b	,	PUNC	,␣
+1j003:001	21	sillä	SUBORD	sillä␣
+1j003:001	23	(se)	DEM.SG.NOM	se␣
+1j003:001	22	ei	NEGV.3S	ei␣
+1j003:001	23	tuntea	ACT.PRES.NEG	tunne␣
+1j003:001	24a	hän	PERS.SG.PTV	häntä
+1j003:001	24b	.	PUNC	.␣
+1j003:002	1j003:002	1j003:002	VERSE	1Jh␣3:2␣
+1j003:002	1a	rakas	ADJ.NOM&SGGEN.-1	Rakkaani
+1j003:002	1b	,	PUNC	,␣
+1j003:002	2	nyt	ADV	nyt␣
+1j003:002	5a	(me)	PERS.PL.NOM	me␣
+1j003:002	5a	olla	COP.ACT.PRES.1P	olemme␣
+1j003:002	4	Jumala	SG.GEN	Jumalan␣
+1j003:002	3	lapsi	PL.PTV	lapsia
+1j003:002	5b	,	PUNC	,␣
+1j003:002	6	ei	NEGV.3S.-CLITIC	eikä␣
+1j003:002	8	(olla)	COP.ACT.PRES.NEG	ole␣
+1j003:002	7	vielä	ADV	vielä␣
+1j003:002	8	käydä	ACT.PCP2.PERF	käynyt␣
+1j003:002	8	ilmi	ADV.AD-A	ilmi
+1j003:002	-	(,)	PUNC	,␣
+1j003:002	9	mikä	INT.REL.SG.PTV	mitä␣
+1j003:002	10a	(me)	PERS.PL.ELA	meistä␣
+1j003:002	10a	tulla	ACT.PRES.3S	tulee
+1j003:002	-	(.)	PUNC	.␣
+1j003:002	11	(me)	PERS.PL.NOM	Me␣
+1j003:002	11	tietää	ACT.PRES.1P	tiedämme␣
+1j003:002	17a	tulla	ACT.PCP1.-1.REFR	tulevamme␣
+1j003:002	16	hän	PERS.SG.GEN	hänen␣
+1j003:002	15	kaltainen	ADJ.PL.TRA.-3	kaltaisikseen
+1j003:002	-	(,)	PUNC	,␣
+1j003:002	12	kun	SUBORD	kun␣
+1j003:002	14a	(hän)	PERS.SG.NOM	hän␣
+1j003:002	14a	ilmestyä	ACT.PRES.3S	ilmestyy
+1j003:002	13	%modus	IND	
+1j003:002	17b	,	PUNC	,␣
+1j003:002	18	sillä	SUBORD	sillä␣
+1j003:002	19	(me)	PERS.PL.NOM	me␣
+1j003:002	tasp%19	saada	ACT.PRES.1P	saamme␣
+1j003:002	19	nähdä	INF1.LAT	nähdä␣
+1j003:002	20	hän	PERS.SG.ACC	hänet␣
+1j003:002	21	sellainen	ADJ.SG.ESS	sellaisena
+1j003:002	-	(,)	PUNC	,␣
+1j003:002	21	kuin	SUBORD	kuin␣
+1j003:002	22a	(hän)	PERS.SG.NOM	hän␣
+1j003:002	22a	olla	COP.ACT.PRES.3S	on
+1j003:002	22b	.	PUNC	.␣
+1j003:003	1j003:003	1j003:003	VERSE	1Jh␣3:3␣
+1j003:003	1	ja	CNJ	Ja␣
+1j003:003	2	jokainen	INDEF.SG.NOM	jokainen
+1j003:003	-	(,)	PUNC	,␣
+1j003:003	3	joka	REL.INDEF.SG.NOM	joka␣
+1j003:003	4	panna	ACT.PRES.3S	panee␣
+1j003:003	9	hän	PERS.SG.ILL	häneen␣
+1j003:003	8	%case	LOC	
+1j003:003	7	tämä	DEM.SG.GEN	tämän␣
+1j003:003	(5) 6	toivo	SG.GEN	toivon
+1j003:003	-	(,)	PUNC	,␣
+1j003:003	10	puhdistaa	ACT.PRES.3S	puhdistaa␣
+1j003:003	11a	itse	REFL.NOM&SGGEN.-3	itsensä
+1j003:003	11b	,	PUNC	,␣
+1j003:003	12	niin_kuin	SUBORD	niinkuin␣
+1j003:003	13	hän	PERS.SG.NOM	hän␣
+1j003:003	15a	olla	COP.ACT.PRES.3S	on␣
+1j003:003	14	puhdas	ADJ.SG.NOM	puhdas
+1j003:003	15b	.	PUNC	.␣
+1j003:004	1j003:004	1j003:004	VERSE	1Jh␣3:4␣
+1j003:004	1	jokainen	INDEF.SG.NOM	Jokainen
+1j003:004	-	(,)	PUNC	,␣
+1j003:004	2	joka	REL.INDEF.SG.NOM	joka␣
+1j003:004	3	tehdä	ACT.PRES.3S	tekee␣
+1j003:004	(4) 5	synti	SG.GEN	synnin
+1j003:004	-	(,)	PUNC	,␣
+1j003:004	9a	tehdä	ACT.PRES.3S	tekee␣
+1j003:004	6	myös	ADV	myös␣
+1j003:004	(7) 8	laittomuus	DER.SG.GEN	laittomuuden
+1j003:004	9b	;	PUNC	;␣
+1j003:004	10	ja	CNJ	ja␣
+1j003:004	(11) 12	synti	SG.NOM	synti␣
+1j003:004	13	olla	COP.ACT.PRES.3S	on␣
+1j003:004	(14) 15a	laittomuus	DER.SG.NOM	laittomuus
+1j003:004	15b	.	PUNC	.␣
+1j003:005	1j003:005	1j003:005	VERSE	1Jh␣3:5␣
+1j003:005	1	ja	CNJ	Ja␣
+1j003:005	2	(te)	PERS.PL.NOM	te␣
+1j003:005	2	tietää	ACT.PRES.2P	tiedätte␣
+1j003:005	4	hän	PERS.SG.GEN	hänen␣
+1j003:005	5a	ilmestyä	ACT.PCP2.REFR	ilmestyneen␣
+1j003:005	3	%inflection	ACT.PCP2.REFR	
+1j003:005	9a	ottaa	INF3.ILL	ottamaan␣
+1j003:005	6	%case	LOC	
+1j003:005	9a	pois	ADV	pois␣
+1j003:005	(7) 8	synti	PL.NOM	synnit
+1j003:005	9b	;	PUNC	;␣
+1j003:005	10	ja	CNJ	ja␣
+1j003:005	13	hän	PERS.SG.INE	hänessä␣
+1j003:005	12	%case	LOC	
+1j003:005	14	ei	NEGV.3S	ei␣
+1j003:005	15a	olla	COP.ACT.PRES.NEG	ole␣
+1j003:005	11	synti	SG.PTV	syntiä
+1j003:005	15b	.	PUNC	.␣
+1j003:006	1j003:006	1j003:006	VERSE	1Jh␣3:6␣
+1j003:006	1	kuka	INT.SG.NOM	Kuka␣
+1j003:006	1	ikinä	ADV	ikinä␣
+1j003:006	4	hän	PERS.SG.INE	hänessä␣
+1j003:006	3	%case	LOC	
+1j003:006	(2) 5	pysyä	ACT.PRES.3S	pysyy
+1j003:006	-	(,)	PUNC	,␣
+1j003:006	7a	(hän)	PERS.SG.NOM	hän␣
+1j003:006	6	ei	NEGV.3S	ei␣
+1j003:006	7a	tehdä	ACT.PRES.NEG	tee␣
+1j003:006	7a	synti	SG.PTV	syntiä
+1j003:006	7b	;	PUNC	;␣
+1j003:006	8	kuka	INT.SG.NOM	kuka␣
+1j003:006	8	ikinä	ADV	ikinä␣
+1j003:006	10 (9)	synti	SG.PTV	syntiä␣
+1j003:006	10 (9)	tehdä	ACT.PRES.3S	tekee
+1j003:006	-	(,)	PUNC	,␣
+1j003:006	12	(hän)	PERS.SG.NOM	hän␣
+1j003:006	11	ei	NEGV.3S	ei␣
+1j003:006	12	(olla)	COP.ACT.PRES.NEG	ole␣
+1j003:006	13	hän	PERS.SG.PTV	häntä␣
+1j003:006	12	nähdä	ACT.PCP2.PERF	nähnyt␣
+1j003:006	14	ei	NEGV.3S.-CLITIC	eikä␣
+1j003:006	16a	hän	PERS.SG.PTV	häntä␣
+1j003:006	15	tuntea	ACT.PCP2.PERF	tuntenut
+1j003:006	16b	.	PUNC	.␣
+1j003:007	1j003:007	1j003:007	VERSE	1Jh␣3:7␣
+1j003:007	1a	lapsukainen	PL.NOM	Lapsukaiset
+1j003:007	1b	,	PUNC	,␣
+1j003:007	2	älä	NEGV.ACT.IMP.3S	älköön␣
+1j003:007	2	kukaan	INDEF.SG.NOM	kukaan␣
+1j003:007	tasp%3	saada	ACT.IMP.NEG	saako␣
+1j003:007	4a	te	PERS.PL.PTV	teitä␣
+1j003:007	3	eksyttää	DER.INF1.LAT	eksyttää
+1j003:007	4b	.	PUNC	.␣
+1j003:007	5	se	DEM.SG.NOM	Se
+1j003:007	-	(,)	PUNC	,␣
+1j003:007	5	joka	REL.INDEF.SG.NOM	joka␣
+1j003:007	(7) 8	vanhurskaus	DER.SG.GEN	vanhurskauden␣
+1j003:007	6	tehdä	ACT.PRES.3S	tekee
+1j003:007	-	(,)	PUNC	,␣
+1j003:007	10a	olla	COP.ACT.PRES.3S	on␣
+1j003:007	9	vanhurskas	ADJ.SG.NOM	vanhurskas
+1j003:007	10b	,	PUNC	,␣
+1j003:007	11	niin_kuin	SUBORD	niinkuin␣
+1j003:007	12	hän	PERS.SG.NOM	hän␣
+1j003:007	14a	olla	COP.ACT.PRES.3S	on␣
+1j003:007	13	vanhurskas	ADJ.SG.NOM	vanhurskas
+1j003:007	14b	.	PUNC	.␣
+1j003:008	1j003:008	1j003:008	VERSE	1Jh␣3:8␣
+1j003:008	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j003:008	(3) 4	synti	SG.PTV	syntiä␣
+1j003:008	2	tehdä	ACT.PRES.3S	tekee
+1j003:008	-	(,)	PUNC	,␣
+1j003:008	8a	(se)	DEM.SG.NOM	se␣
+1j003:008	8a	olla	COP.ACT.PRES.3S	on␣
+1j003:008	(6) 7	perkele	SG.ELA	perkeleestä
+1j003:008	5	%case	LOC	
+1j003:008	8b	,	PUNC	,␣
+1j003:008	9	sillä	SUBORD	sillä␣
+1j003:008	(12) 13	perkele	SG.NOM	perkele␣
+1j003:008	14a	(olla)	COP.ACT.PRES.3S	on␣
+1j003:008	14a	tehdä	ACT.PCP2.PERF	tehnyt␣
+1j003:008	14a	synti	SG.PTV	syntiä␣
+1j003:008	11	alku	SG.ELA	alusta␣
+1j003:008	10	asti	POST	asti
+1j003:008	14b	.	PUNC	.␣
+1j003:008	16	se	DEM.SG.PTV	Sitä␣
+1j003:008	15	varten	POST	varten␣
+1j003:008	(20) 21a	Jumala	SG.GEN	Jumalan␣
+1j003:008	(18) 19	Poika	SG.NOM	Poika␣
+1j003:008	17	ilmestyä	ACT.PAST.3S	ilmestyi
+1j003:008	21b	,	PUNC	,␣
+1j003:008	22	että	SUBORD	että␣
+1j003:008	23	(hän)	PERS.SG.NOM	hän␣
+1j003:008	23	tehdä	ACT.COND.3S	tekisi␣
+1j003:008	23	tyhjä	ADJ.SG.TRA	tyhjäksi␣
+1j003:008	(26) 27a	perkele	SG.GEN	perkeleen␣
+1j003:008	(24) 25	teko	PL.NOM	teot
+1j003:008	27b	.	PUNC	.␣
+1j003:009	1j003:009	1j003:009	VERSE	1Jh␣3:9␣
+1j003:009	8	ei	NEGV.3S	Ei␣
+1j003:009	1	1	NUM.SG.NOM.-CLITIC	yksikään␣
+1j003:009	(5) 6	Jumala	SG.ELA	Jumalasta␣
+1j003:009	4	%case	LOC	
+1j003:009	(2) 3	syntyä:syntynyt	ACT.PCP2.SG.NOM	syntynyt␣
+1j003:009	9a	tehdä	ACT.PRES.NEG	tee␣
+1j003:009	7	synti	SG.PTV	syntiä
+1j003:009	9b	,	PUNC	,␣
+1j003:009	10	sillä	SUBORD	sillä␣
+1j003:009	pro%12	Jumala	SG.GEN	Jumalan␣
+1j003:009	11	siemen	SG.NOM	siemen␣
+1j003:009	15a	pysyä	ACT.PRES.3S	pysyy␣
+1j003:009	14	hän	PERS.SG.INE	hänessä
+1j003:009	13	%case	LOC	
+1j003:009	15b	;	PUNC	;␣
+1j003:009	17	ei	NEGV.3S.-CLITIC	eikä␣
+1j003:009	16	%clitic	kA	
+1j003:009	18	(hän)	PERS.SG.NOM	hän␣
+1j003:009	18	saattaa	ACT.PRES.NEG	saata␣
+1j003:009	19a	synti	SG.PTV	syntiä␣
+1j003:009	19a	tehdä	INF1.LAT	tehdä
+1j003:009	19b	,	PUNC	,␣
+1j003:009	20	sillä	SUBORD	sillä␣
+1j003:009	24a	(hän)	PERS.SG.NOM	hän␣
+1j003:009	24a	(olla)	COP.ACT.PRES.3S	on␣
+1j003:009	(22) 23	Jumala	SG.ELA	Jumalasta␣
+1j003:009	21	%case	LOC	
+1j003:009	24a	syntyä:syntynyt	ACT.PCP2.SG.NOM	syntynyt
+1j003:009	24b	.	PUNC	.␣
+1j003:010	1j003:010	1j003:010	VERSE	1Jh␣3:10␣
+1j003:010	2	se	DEM.SG.ELA	Siitä␣
+1j003:010	1	%case	LOC	
+1j003:010	4	käydä	ACT.PRES.3S	käy␣
+1j003:010	3	ilmi	ADV.AD-A	ilmi
+1j003:010	-	(,)	PUNC	,␣
+1j003:010	-	(kuka)	INT.PL.NOM	ketkä␣
+1j003:010	-	(olla)	COP.ACT.PRES.3P	ovat␣
+1j003:010	(7) 8	Jumala	SG.GEN	Jumalan␣
+1j003:010	(5) 6	lapsi	PL.PTV	lapsia␣
+1j003:010	9	ja	CNJ	ja␣
+1j003:010	-	(kuka)	INT.PL.NOM	ketkä␣
+1j003:010	(12) 13a	perkele	SG.GEN	perkeleen␣
+1j003:010	(10) 11	lapsi	PL.PTV	lapsia
+1j003:010	13b	.	PUNC	.␣
+1j003:010	14	kuka	INT.SG.NOM	Kuka␣
+1j003:010	14	ikinä	ADV	ikinä␣
+1j003:010	16	ei	NEGV.3S	ei␣
+1j003:010	(15) 17	tehdä	ACT.PRES.NEG	tee␣
+1j003:010	18	vanhurskaus	DER.SG.PTV	vanhurskautta
+1j003:010	-	(,)	PUNC	,␣
+1j003:010	20	(hän)	PERS.SG.NOM	hän␣
+1j003:010	19	ei	NEGV.3S	ei␣
+1j003:010	20	olla	COP.ACT.PRES.NEG	ole␣
+1j003:010	(22) 23a	Jumala	SG.ELA	Jumalasta
+1j003:010	21	%case	LOC	
+1j003:010	23b	,	PUNC	,␣
+1j003:010	-	(ei)	NEGV.3S	ei␣
+1j003:010	24	myös	ADV.-CLITIC	myöskään␣
+1j003:010	25	se	DEM.SG.NOM	se
+1j003:010	-	(,)	PUNC	,␣
+1j003:010	25	joka	REL.INDEF.SG.NOM	joka␣
+1j003:010	26	ei	NEGV.3S	ei␣
+1j003:010	(28) 29	veli	SG.PTV.-3	veljeänsä␣
+1j003:010	30a	%pers	3	
+1j003:010	27	rakastaa	ACT.PRES.NEG	rakasta
+1j003:010	-	(.)	PUNC	.␣
+1j003:011	1j003:011	1j003:011	VERSE	1Jh␣3:11␣
+1j003:011	1	sillä	SUBORD	Sillä␣
+1j003:011	2	tämä	DEM.SG.NOM	tämä␣
+1j003:011	3	olla	COP.ACT.PRES.3S	on␣
+1j003:011	4	se	DEM.SG.NOM	se␣
+1j003:011	5	sanoma	DER.SG.NOM	sanoma
+1j003:011	-	(,)	PUNC	,␣
+1j003:011	6	joka	REL.SG.GEN	jonka␣
+1j003:011	7	(te)	PERS.PL.NOM	te␣
+1j003:011	7	(olla)	COP.ACT.PRES.2P	olette␣
+1j003:011	9a	alku	SG.ELA	alusta␣
+1j003:011	8	asti	POST	asti␣
+1j003:011	7	kuulla	ACT.PCP2.PERF	kuulleet
+1j003:011	9b	,	PUNC	,␣
+1j003:011	10	että	SUBORD	että␣
+1j003:011	11	(me)	PERS.PL.GEN	meidän␣
+1j003:011	tasp%11	tulla	ACT.PRES.3S	tulee␣
+1j003:011	11	rakastaa	INF1.LAT	rakastaa␣
+1j003:011	12a	toinen	INDEF.SG.NOM	toinen␣
+1j003:011	12a	toinen	INDEF.SG.PTV.-1	toistamme␣
+1j003:012	1j003:012	1j003:012	VERSE	1Jh␣3:12␣
+1j003:012	1	ei	NEGV.3S.-CLITIC	eikä␣
+1j003:012	-	(olla)	COP.INF1.LAT	olla␣
+1j003:012	3	Kain	PR.SG.GEN	Kainin␣
+1j003:012	2	kaltainen	ADJ.PL.PTV	kaltaisia
+1j003:012	-	(,)	PUNC	,␣
+1j003:012	-	(joka)	REL.INDEF.SG.NOM	joka␣
+1j003:012	7	olla	COP.ACT.PAST.3S	oli␣
+1j003:012	(5) 6	paha	ADJ.SG.ELA	pahasta␣
+1j003:012	4	%case	LOC	
+1j003:012	8	ja	CNJ	ja␣
+1j003:012	9	tappaa	ACT.PAST.3S	tappoi␣
+1j003:012	(10) 11	veli	NOM&SGGEN.-3	veljensä
+1j003:012	12a	%pers	3	
+1j003:012	12b	.	PUNC	.␣
+1j003:012	13	ja	CNJ	Ja␣
+1j003:012	14 15	minkä_tähden	ADV	minkätähden␣
+1j003:012	16	(hän)	PERS.SG.NOM	hän␣
+1j003:012	16	tappaa	ACT.PAST.3S	tappoi␣
+1j003:012	17a	hän	PERS.SG.ACC	hänet
+1j003:012	-	(?)	PUNC	?␣
+1j003:012	18	sen_tähden	ADV	Sentähden
+1j003:012	-	(,)	PUNC	,␣
+1j003:012	18	että	SUBORD	että␣
+1j003:012	21	hän	PERS.SG.GEN	hänen␣
+1j003:012	(19) 20	teko	NOM&SGGEN.-3	tekonsa␣
+1j003:012	23	olla	COP.ACT.PAST.3P	olivat␣
+1j003:012	22	paha	ADJ.PL.NOM	pahat
+1j003:012	-	(,)	PUNC	,␣
+1j003:012	25	mutta	CNJ	mutta␣
+1j003:012	28	hän	PERS.SG.GEN	hänen␣
+1j003:012	(26) 27	veli	NOM&SGGEN.-3	veljensä␣
+1j003:012	pro%24	teko	PL.NOM	teot␣
+1j003:012	29a	vanhurskas	ADJ.PL.NOM	vanhurskaat
+1j003:012	29b	.	PUNC	.␣
+1j003:013	1j003:013	1j003:013	VERSE	1Jh␣3:13␣
+1j003:013	2	älä	NEGV.ACT.IMP.2P	Älkää␣
+1j003:013	(1a)	-	UNTRANSLATED	
+1j003:013	3a	ihmetellä	ACT.IMP.NEG	ihmetelkö
+1j003:013	3b	,	PUNC	,␣
+1j003:013	4a	veli	NOM&SGGEN.-1	veljeni
+1j003:013	4b	,	PUNC	,␣
+1j003:013	5	jos	SUBORD	jos␣
+1j003:013	(8) 9a	maailma	SG.NOM	maailma␣
+1j003:013	7	te	PERS.PL.PTV	teitä␣
+1j003:013	6	vihata	ACT.PRES.3S	vihaa
+1j003:013	9b	.	PUNC	.␣
+1j003:014	1j003:014	1j003:014	VERSE	1Jh␣3:14␣
+1j003:014	1	me	PERS.PL.NOM	Me␣
+1j003:014	2	tietää	ACT.PRES.1P	tiedämme␣
+1j003:014	4	siirtyä	ACT.PCP2.-1.REFR	siirtyneemme␣
+1j003:014	3	%inflection	ACT.PCP2.-1.REFR	
+1j003:014	(6) 7	kuolema	DER.SG.ELA	kuolemasta␣
+1j003:014	5	%case	LOC	
+1j003:014	10a (9)	elämä	DER.SG.ILL	elämään
+1j003:014	8	%case	LOC	
+1j003:014	10b	,	PUNC	,␣
+1j003:014	11	sillä	SUBORD	sillä␣
+1j003:014	12	(me)	PERS.PL.NOM	me␣
+1j003:014	12	rakastaa	ACT.PRES.1P	rakastamme␣
+1j003:014	(13) 14a	veli	PL.PTV	veljiä
+1j003:014	14b	.	PUNC	.␣
+1j003:014	15	joka	REL.INDEF.SG.NOM	Joka␣
+1j003:014	16	ei	NEGV.3S	ei␣
+1j003:014	17	rakastaa	ACT.PRES.NEG	rakasta
+1j003:014	-	(,)	PUNC	,␣
+1j003:014	18	pysyä	ACT.PRES.3S	pysyy␣
+1j003:014	(20) 21a	kuolema	DER.SG.INE	kuolemassa
+1j003:014	19	%case	LOC	
+1j003:014	21b	.	PUNC	.␣
+1j003:015	1j003:015	1j003:015	VERSE	1Jh␣3:15␣
+1j003:015	1	jokainen	INDEF.SG.NOM	Jokainen
+1j003:015	-	(,)	PUNC	,␣
+1j003:015	2	joka	REL.INDEF.SG.NOM	joka␣
+1j003:015	3	vihata	ACT.PRES.3S	vihaa␣
+1j003:015	(4) 5	veli	SG.PTV.-3	veljeänsä
+1j003:015	6	%pers	3	
+1j003:015	-	(,)	PUNC	,␣
+1j003:015	8a	olla	COP.ACT.PRES.3S	on␣
+1j003:015	7	murhaaja	DER.SG.NOM	murhaaja
+1j003:015	8b	;	PUNC	;␣
+1j003:015	9	ja	CNJ	ja␣
+1j003:015	10	(te)	PERS.PL.NOM	te␣
+1j003:015	10	tietää	ACT.PRES.2P	tiedätte
+1j003:015	-	(,)	PUNC	,␣
+1j003:015	11 14	ettei	NEGV.3S	ettei␣
+1j003:015	12	kukaan	INDEF.SG.INE	kenessäkään␣
+1j003:015	13	murhaaja	DER.SG.INE	murhaajassa␣
+1j003:015	15	olla	COP.ACT.PRES.NEG	ole␣
+1j003:015	17	iankaikkinen	ADJ.SG.PTV	iankaikkista␣
+1j003:015	16	elämä	DER.SG.PTV	elämää
+1j003:015	-	(,)	PUNC	,␣
+1j003:015	20a	(joka)	REL.INDEF.SG.NOM	joka␣
+1j003:015	19	hän	PERS.SG.INE	hänessä␣
+1j003:015	18	%case	LOC	
+1j003:015	20a	pysyä	ACT.COND.3S	pysyisi
+1j003:015	20b	.	PUNC	.␣
+1j003:016	1j003:016	1j003:016	VERSE	1Jh␣3:16␣
+1j003:016	2	se	DEM.SG.ELA	Siitä␣
+1j003:016	1	%case	LOC	
+1j003:016	3	(me)	PERS.PL.NOM	me␣
+1j003:016	3	(olla)	COP.ACT.PRES.1P	olemme␣
+1j003:016	3	oppia	ACT.PCP2.PERF	oppineet␣
+1j003:016	3	tuntea	INF3.ILL	tuntemaan␣
+1j003:016	(4) 5a	rakkaus	DER.SG.GEN	rakkauden
+1j003:016	5b	,	PUNC	,␣
+1j003:016	6	että	SUBORD	että␣
+1j003:016	7	hän	PERS.SG.NOM	hän␣
+1j003:016	13a	antaa	ACT.PAST.3S	antoi␣
+1j003:016	(10) 11	henki	NOM&SGGEN.-3	henkensä␣
+1j003:016	12	%pers	3	
+1j003:016	9	me	PERS.PL.GEN	meidän␣
+1j003:016	8	edestä	PREP.-1	edestämme
+1j003:016	13b	;	PUNC	;␣
+1j003:016	15	me	PERS.PL.GEN.-CLITIC	meidänkin␣
+1j003:016	14	%clitic	kin	
+1j003:016	16	tulla	ACT.PRES.3S	tulee␣
+1j003:016	22a	antaa	INF1.LAT	antaa␣
+1j003:016	(20) 21	henki	NOM&SGGEN.-1	henkemme␣
+1j003:016	(18) 19	veli	PL.GEN.-1	veljiemme␣
+1j003:016	17	edestä	PREP	edestä
+1j003:016	22b	.	PUNC	.␣
+1j003:017	1j003:017	1j003:017	VERSE	1Jh␣3:17␣
+1j003:017	2	jos	SUBORD	Jos␣
+1j003:017	2	nyt	ADV	nyt␣
+1j003:017	1	jokin	INDEF.SG.ADE	jollakin␣
+1j003:017	4	olla	COP.ACT.PRES.3S	on␣
+1j003:017	3	%modus	IND	
+1j003:017	7	tämä	DEM.SG.GEN	tämän␣
+1j003:017	8	maailma	SG.GEN	maailman␣
+1j003:017	(5) 6	hyvyys	SG.PTV	hyvyyttä␣
+1j003:017	9	ja	CNJ	ja␣
+1j003:017	10	(hän)	PERS.SG.NOM	hän␣
+1j003:017	10	nähdä	ACT.PRES.3S	näkee␣
+1j003:017	(11) 12	veli	NOM&SGGEN.-3	veljensä␣
+1j003:017	13	%pers	3	
+1j003:017	15	olla	COP.ACT.PCP1.REFR	olevan␣
+1j003:017	14	puute	SG.INE	puutteessa
+1j003:017	-	(,)	PUNC	,␣
+1j003:017	16	mutta	CNJ	mutta␣
+1j003:017	17	sulkea	ACT.PRES.3S	sulkee␣
+1j003:017	22a	hän	PERS.SG.ABL	häneltä␣
+1j003:017	21	%case	LOC	
+1j003:017	(18) 19	sydän	NOM&SGGEN.-3	sydämensä
+1j003:017	20	%pers	3	
+1j003:017	22b	,	PUNC	,␣
+1j003:017	23	kuinka	ADV	kuinka␣
+1j003:017	(26) 27	Jumala	SG.GEN	Jumalan␣
+1j003:017	(24) 25	rakkaus	DER.SG.NOM	rakkaus␣
+1j003:017	tasp%28	saattaa	ACT.PRES.3S	saattaa␣
+1j003:017	28	pysyä	INF1.LAT	pysyä␣
+1j003:017	30a	hän	PERS.SG.INE	hänessä
+1j003:017	29	%case	LOC	
+1j003:017	-	(?)	PUNC	?␣
+1j003:018	1j003:018	1j003:018	VERSE	1Jh␣3:18␣
+1j003:018	1a	lapsukainen	PL.NOM	Lapsukaiset
+1j003:018	1b	,	PUNC	,␣
+1j003:018	2	älä	NEGV.ACT.IMP.1P	älkäämme␣
+1j003:018	3	rakastaa	ACT.IMP.NEG	rakastako␣
+1j003:018	4	sana	SG.ADE	sanalla␣
+1j003:018	5	tai	CNJ	tai␣
+1j003:018	(6) 7	kieli	SG.ADE	kielellä
+1j003:018	-	(,)	PUNC	,␣
+1j003:018	8	vaan	SUBORD	vaan␣
+1j003:018	10	teko	SG.INE	teossa␣
+1j003:018	9	%case	LOC	
+1j003:018	11	ja	CNJ	ja␣
+1j003:018	12a	totuus	SG.INE	totuudessa
+1j003:018	9	%case	LOC	
+1j003:018	12b	.	PUNC	.␣
+1j003:019	1j003:019	1j003:019	VERSE	1Jh␣3:19␣
+1j003:019	3	se	DEM.SG.ELA	Siitä␣
+1j003:019	2	%case	LOC	
+1j003:019	(1a)	-	UNTRANSLATED	
+1j003:019	4	(me)	PERS.PL.NOM	me␣
+1j003:019	4	tietää	ACT.PRES.1P	tiedämme
+1j003:019	-	(,)	PUNC	,␣
+1j003:019	5	että	SUBORD	että␣
+1j003:019	9a	olla	COP.ACT.PRES.1P	olemme␣
+1j003:019	(7) 8	totuus	SG.ELA	totuudesta
+1j003:019	6	%case	LOC	
+1j003:019	9b	,	PUNC	,␣
+1j003:019	10	ja	CNJ	ja␣
+1j003:019	13	(me)	PERS.PL.NOM	me␣
+1j003:019	tasp%13	saattaa	ACT.PRES.1P	saatamme␣
+1j003:019	12	hän	PERS.SG.GEN	hänen␣
+1j003:019	11	edessä	PREP.-3	edessään␣
+1j003:019	13	rauhoittaa	INF1.LAT	rauhoittaa␣
+1j003:019	(14) 15	sydän	NOM&SGGEN.-1	sydämemme␣
+1j003:019	16a	%pers	?	
+1j003:019	-	(se)	DEM.SG.ADE	sillä
+1j003:019	16b	,	PUNC	,␣
+1j003:020	1j003:020	1j003:020	VERSE	1Jh␣3:20␣
+1j003:020	1	että	SUBORD	että␣
+1j003:020	3	jos	SUBORD	jos␣
+1j003:020	(7) 8a	sydän	NOM&SGGEN.-1	sydämemme␣
+1j003:020	6	%pers	?	
+1j003:020	5	syyttää	ACT.PRES.3S	syyttää␣
+1j003:020	-	(me)	PERS.PL.PTV	meitä
+1j003:020	8b	,	PUNC	,␣
+1j003:020	9	niin	ADV.AD-A	niin␣
+1j003:020	(13) 14	Jumala	SG.NOM	Jumala␣
+1j003:020	12	olla	COP.ACT.PRES.3S	on␣
+1j003:020	11	suuri	ADJ.CMP.SG.NOM	suurempi␣
+1j003:020	11	kuin	SUBORD	kuin␣
+1j003:020	17	me	PERS.PL.GEN	meidän␣
+1j003:020	(15) 16	sydän	NOM&SGGEN.-1	sydämemme␣
+1j003:020	18	ja	CNJ	ja␣
+1j003:020	19	tietää	ACT.PRES.3S	tietää␣
+1j003:020	20a	kaikki	INDEF.SG.NOM	kaikki
+1j003:020	20b	.	PUNC	.␣
+1j003:021	1j003:021	1j003:021	VERSE	1Jh␣3:21␣
+1j003:021	1a	rakas	ADJ.NOM&SGGEN.-1	Rakkaani
+1j003:021	1b	,	PUNC	,␣
+1j003:021	2	jos	SUBORD	jos␣
+1j003:021	(3) 4a	sydän	NOM&SGGEN.-1	sydämemme␣
+1j003:021	5a	%pers	?	
+1j003:021	6	ei	NEGV.3S	ei␣
+1j003:021	7a	syyttää	ACT.PRES.NEG	syytä␣
+1j003:021	-	(me)	PERS.PL.PTV	meitä
+1j003:021	-	(,)	PUNC	,␣
+1j003:021	-	(niin)	ADV.AD-A	niin␣
+1j003:021	9	(me)	PERS.PL.ADE	meillä␣
+1j003:021	9	olla	COP.ACT.PRES.3S	on␣
+1j003:021	8	uskallus	DER.SG.NOM	uskallus␣
+1j003:021	(11) 12	Jumala	SG.ILL	Jumalaan
+1j003:021	10	%case	LOC	
+1j003:021	-	(,)	PUNC	,␣
+1j003:022	1j003:022	1j003:022	VERSE	1Jh␣3:22␣
+1j003:022	1	ja	CNJ	ja␣
+1j003:022	2	mikä	INT.REL.SG.PTV	mitä␣
+1j003:022	3	ikinä	ADV	ikinä␣
+1j003:022	4	anoa	ACT.PRES.1P	anomme
+1j003:022	-	(,)	PUNC	,␣
+1j003:022	-	(se)	DEM.SG.GEN	sen␣
+1j003:022	5	(me)	PERS.PL.NOM	me␣
+1j003:022	7a	hän	PERS.SG.ABL	häneltä␣
+1j003:022	6	%case	LOC	
+1j003:022	5	saada	ACT.PRES.1P	saamme
+1j003:022	7b	,	PUNC	,␣
+1j003:022	8	koska	SUBORD	koska␣
+1j003:022	12	pitää	ACT.PRES.1P	pidämme␣
+1j003:022	11	hän	PERS.SG.GEN	hänen␣
+1j003:022	10 (9)	käsky	NOM&SGGEN.-3	käskynsä␣
+1j003:022	13	ja	CNJ	ja␣
+1j003:022	18a	tehdä	ACT.PRES.1P	teemme␣
+1j003:022	14	se	DEM.SG.PTV	sitä
+1j003:022	-	(,)	PUNC	,␣
+1j003:022	14	mikä	INT.REL.INDEF.SG.NOM	mikä␣
+1j003:022	-	(olla)	COP.ACT.PRES.3S	on␣
+1j003:022	17	hän	PERS.SG.ALL	hänelle␣
+1j003:022	16	%case	LOC	
+1j003:022	15	otollinen	DER.ADJ.SG.PTV	otollista
+1j003:022	18b	.	PUNC	.␣
+1j003:023	1j003:023	1j003:023	VERSE	1Jh␣3:23␣
+1j003:023	1	ja	CNJ	Ja␣
+1j003:023	2	tämä	DEM.SG.NOM	tämä␣
+1j003:023	3	olla	COP.ACT.PRES.3S	on␣
+1j003:023	6a	hän	PERS.SG.GEN	hänen␣
+1j003:023	(4) 5	käsky	NOM&SGGEN.-3	käskynsä
+1j003:023	6b	,	PUNC	,␣
+1j003:023	7	että	SUBORD	että␣
+1j003:023	8	(me)	PERS.PL.GEN	meidän␣
+1j003:023	tasp%8	tulla	ACT.PRES.3S	tulee␣
+1j003:023	8	uskoa	INF1.LAT	uskoa␣
+1j003:023	13	hän	PERS.SG.GEN	hänen␣
+1j003:023	(11) 12	Poika	NOM&SGGEN.-3	Poikansa␣
+1j003:023	14	Jeesus	PR.SG.GEN	Jeesuksen␣
+1j003:023	15	Kristus	PR.SG.GEN	Kristuksen␣
+1j003:023	10 (9)	nimi	SG.ILL	nimeen␣
+1j003:023	16	ja	CNJ	ja␣
+1j003:023	17	rakastaa	INF1.LAT	rakastaa␣
+1j003:023	18a	toinen	INDEF.SG.NOM	toinen␣
+1j003:023	18a	toinen	INDEF.SG.PTV.-1	toistamme
+1j003:023	18b	,	PUNC	,␣
+1j003:023	19	niin_kuin	SUBORD	niinkuin␣
+1j003:023	20	(hän)	PERS.SG.NOM	hän␣
+1j003:023	20	(olla)	COP.ACT.PRES.3S	on␣
+1j003:023	22a	me	PERS.PL.ALL	meille␣
+1j003:023	21	käsky	SG.GEN	käskyn␣
+1j003:023	20	antaa	ACT.PCP2.PERF	antanut
+1j003:023	22b	.	PUNC	.␣
+1j003:024	1j003:024	1j003:024	VERSE	1Jh␣3:24␣
+1j003:024	1	ja	CNJ	Ja␣
+1j003:024	2	joka	REL.INDEF.SG.NOM	joka␣
+1j003:024	3	pitää	ACT.PRES.3S	pitää␣
+1j003:024	6	hän	PERS.SG.GEN	hänen␣
+1j003:024	(4) 5	käsky	NOM&SGGEN.-3	käskynsä
+1j003:024	-	(,)	PUNC	,␣
+1j003:024	9	(se)	DEM.SG.NOM	se␣
+1j003:024	9	pysyä	ACT.PRES.3S	pysyy␣
+1j003:024	pro%8	Jumala	SG.INE	Jumalassa␣
+1j003:024	7	%case	LOC	
+1j003:024	10	ja	CNJ	ja␣
+1j003:024	pro%11	Jumala	SG.NOM	Jumala␣
+1j003:024	13a	hän	PERS.SG.INE	hänessä
+1j003:024	12	%case	LOC	
+1j003:024	13b	.	PUNC	.␣
+1j003:024	14	ja	CNJ	Ja␣
+1j003:024	16	se	DEM.SG.ELA	siitä␣
+1j003:024	15	%case	LOC	
+1j003:024	17	(me)	PERS.PL.NOM	me␣
+1j003:024	17	tietää	ACT.PRES.1P	tiedämme␣
+1j003:024	-	(hän)	PERS.SG.GEN	hänen␣
+1j003:024	21a	me	PERS.PL.INE	meissä␣
+1j003:024	20	%case	LOC	
+1j003:024	19	pysyä	ACT.PCP1.REFR	pysyvän
+1j003:024	18	%inflection	ACT.PCP1.REFR	
+1j003:024	21b	,	PUNC	,␣
+1j003:024	23	se	DEM.SG.ELA	siitä␣
+1j003:024	24	Henki	SG.ELA	Hengestä
+1j003:024	22	%case	LOC	
+1j003:024	-	(,)	PUNC	,␣
+1j003:024	25	joka	REL.SG.GEN	jonka␣
+1j003:024	27a	(hän)	PERS.SG.NOM	hän␣
+1j003:024	27a	(olla)	COP.ACT.PRES.3S	on␣
+1j003:024	26	me	PERS.PL.ALL	meille␣
+1j003:024	27a	antaa	ACT.PCP2.PERF	antanut
+1j003:024	27b	.	PUNC	.␣
+1j004:001	1j004:001	1j004:001	VERSE	1Jh␣4:1␣
+1j004:001	1a	rakas	ADJ.NOM&SGGEN.-1	Rakkaani
+1j004:001	1b	,	PUNC	,␣
+1j004:001	2	älä	NEGV.ACT.IMP.2P	älkää␣
+1j004:001	3	jokainen	INDEF.SG.PTV	jokaista␣
+1j004:001	4	henki	SG.PTV	henkeä␣
+1j004:001	5	uskoa	ACT.IMP.NEG	uskoko
+1j004:001	-	(,)	PUNC	,␣
+1j004:001	6	vaan	SUBORD	vaan␣
+1j004:001	7	koetella	DER.ACT.IMP.2P	koetelkaa␣
+1j004:001	(8) 9	henki	PL.NOM	henget
+1j004:001	-	(,)	PUNC	,␣
+1j004:001	14a	olla	COP.ACT.PRES.3P.-CLITIC	ovatko␣
+1j004:001	10	%clitic	kO	
+1j004:001	-	(ne)	DEM.PL.NOM	ne␣
+1j004:001	(12) 13	Jumala	SG.ELA	Jumalasta
+1j004:001	11	%case	LOC	
+1j004:001	14b	;	PUNC	;␣
+1j004:001	15	sillä	SUBORD	sillä␣
+1j004:001	16	moni	INDEF.SG.PTV	monta␣
+1j004:001	17	väärä	ADJ.SG.PTV	väärää␣
+1j004:001	17	profeetta	SG.PTV	profeettaa␣
+1j004:001	18	(olla)	COP.ACT.PRES.3S	on␣
+1j004:001	18	lähteä	ACT.PCP2.PERF	lähtenyt␣
+1j004:001	(20) 21a	maailma	SG.ILL	maailmaan
+1j004:001	19	%case	LOC	
+1j004:001	21b	.	PUNC	.␣
+1j004:002	1j004:002	1j004:002	VERSE	1Jh␣4:2␣
+1j004:002	2	tämä	DEM.SG.ELA	Tästä␣
+1j004:002	1	%case	LOC	
+1j004:002	3	(te)	PERS.PL.NOM	te␣
+1j004:002	3	tuntea	ACT.PRES.2P	tunnette␣
+1j004:002	(6) 7a	Jumala	SG.GEN	Jumalan␣
+1j004:002	(4) 5	Henki	SG.GEN	Hengen
+1j004:002	7b	:	PUNC	:␣
+1j004:002	8	jokainen	INDEF.SG.NOM	jokainen␣
+1j004:002	9	henki	SG.NOM	henki
+1j004:002	-	(,)	PUNC	,␣
+1j004:002	10	joka	REL.INDEF.SG.NOM	joka␣
+1j004:002	11	tunnustaa	ACT.PRES.3S	tunnustaa␣
+1j004:002	12	Jeesus	PR.SG.GEN	Jeesuksen␣
+1j004:002	13	Kristus	PR.SG.TRA	Kristukseksi
+1j004:002	-	(,)	PUNC	,␣
+1j004:002	15	liha	SG.ILL	lihaan␣
+1j004:002	14	%case	LOC	
+1j004:002	16	tulla:tullut	ACT.PCP2.SG.TRA	tulleeksi
+1j004:002	-	(,)	PUNC	,␣
+1j004:002	20a	olla	COP.ACT.PRES.3S	on␣
+1j004:002	(18) 19	Jumala	SG.ELA	Jumalasta
+1j004:002	17	%case	LOC	
+1j004:002	20b	;	PUNC	;␣
+1j004:003	1j004:003	1j004:003	VERSE	1Jh␣4:3␣
+1j004:003	1	ja	CNJ	ja␣
+1j004:003	2	1	NUM.SG.NOM.-CLITIC	yksikään␣
+1j004:003	3	henki	SG.NOM	henki
+1j004:003	-	(,)	PUNC	,␣
+1j004:003	4	joka	REL.INDEF.SG.NOM	joka␣
+1j004:003	5	ei	NEGV.3S	ei␣
+1j004:003	6	tunnustaa	ACT.PRES.NEG	tunnusta␣
+1j004:003	(7) 8	Jeesus	PR.SG.PTV	Jeesusta
+1j004:003	-	(,)	PUNC	,␣
+1j004:003	12	ei	NEGV.3S	ei␣
+1j004:003	13a	olla	COP.ACT.PRES.NEG	ole␣
+1j004:003	(10) 11	Jumala	SG.ELA	Jumalasta
+1j004:003	9	%case	LOC	
+1j004:003	-	(;)	PUNC	;␣
+1j004:003	(14)	-	UNTRANSLATED	
+1j004:003	15	se	DEM.SG.NOM	se␣
+1j004:003	16	olla	COP.ACT.PRES.3S	on␣
+1j004:003	(18) 19a	anti_kristus	SG.GEN	antikristuksen␣
+1j004:003	pro%17	henki	SG.NOM	henki
+1j004:003	19b	,	PUNC	,␣
+1j004:003	20	joka	REL.SG.GEN	jonka␣
+1j004:003	21	(olla)	COP.ACT.PRES.2P	olette␣
+1j004:003	21	kuulla	ACT.PCP2.PERF	kuulleet␣
+1j004:003	23a	(olla)	COP.ACT.PCP1.REFR	olevan␣
+1j004:003	22	%inflection	COP.ACT.PCP1.REFR	
+1j004:003	23a	tulossa	DER.ADV	tulossa
+1j004:003	23b	,	PUNC	,␣
+1j004:003	24	ja	CNJ	ja␣
+1j004:003	29	(se)	DEM.SG.NOM	se␣
+1j004:003	29	olla	COP.ACT.PRES.3S	on␣
+1j004:003	30a	jo	ADV	jo␣
+1j004:003	25	nyt	ADV	nyt␣
+1j004:003	(27) 28	maailma	SG.INE	maailmassa
+1j004:003	26	%case	LOC	
+1j004:003	30b	.	PUNC	.␣
+1j004:004	1j004:004	1j004:004	VERSE	1Jh␣4:4␣
+1j004:004	6a	lapsukainen	PL.NOM	Lapsukaiset
+1j004:004	-	(,)	PUNC	,␣
+1j004:004	1	te	PERS.PL.NOM	te␣
+1j004:004	5a	olla	COP.ACT.PRES.2P	olette␣
+1j004:004	(3) 4	Jumala	SG.ELA	Jumalasta␣
+1j004:004	2	%case	LOC	
+1j004:004	7	ja	CNJ	ja␣
+1j004:004	8	(olla)	COP.ACT.PRES.2P	olette␣
+1j004:004	8	voittaa	ACT.PCP2.PERF	voittaneet␣
+1j004:004	9a	he	PERS.PL.ACC	heidät
+1j004:004	9b	;	PUNC	;␣
+1j004:004	10	sillä	SUBORD	sillä␣
+1j004:004	13	hän	PERS.SG.NOM	hän
+1j004:004	-	(,)	PUNC	,␣
+1j004:004	13	joka	REL.INDEF.SG.NOM	joka␣
+1j004:004	15	te	PERS.PL.INE	teissä␣
+1j004:004	14	%case	LOC	
+1j004:004	-	(olla)	COP.ACT.PRES.3S	on
+1j004:004	-	(,)	PUNC	,␣
+1j004:004	12	olla	COP.ACT.PRES.3S	on␣
+1j004:004	11	suuri	ADJ.CMP.SG.NOM	suurempi␣
+1j004:004	16	kuin	SUBORD	kuin␣
+1j004:004	17	se	DEM.SG.NOM	se
+1j004:004	-	(,)	PUNC	,␣
+1j004:004	17	joka	REL.INDEF.SG.NOM	joka␣
+1j004:004	-	(olla)	COP.ACT.PRES.3S	on␣
+1j004:004	(19) 20a	maailma	SG.INE	maailmassa
+1j004:004	18	%case	LOC	
+1j004:004	20b	.	PUNC	.␣
+1j004:005	1j004:005	1j004:005	VERSE	1Jh␣4:5␣
+1j004:005	1	he	PERS.PL.NOM	He␣
+1j004:005	5a	olla	COP.ACT.PRES.3P	ovat␣
+1j004:005	(3) 4	maailma	SG.ELA	maailmasta
+1j004:005	2	%case	LOC	
+1j004:005	5b	;	PUNC	;␣
+1j004:005	6 7	sen_tähden	ADV	sentähden␣
+1j004:005	11	(he)	PERS.PL.NOM	he␣
+1j004:005	11	puhua	ACT.PRES.3P	puhuvat
+1j004:005	-	(,)	PUNC	,␣
+1j004:005	8	niin_kuin	SUBORD	niinkuin␣
+1j004:005	10 (9)	maailma	SG.NOM	maailma␣
+1j004:005	-	(puhua)	ACT.PRES.3S	puhuu
+1j004:005	-	(,)	PUNC	,␣
+1j004:005	12	ja	CNJ	ja␣
+1j004:005	(13) 14	maailma	SG.NOM	maailma␣
+1j004:005	16a	kuulla	ACT.PRES.3S	kuulee␣
+1j004:005	15	he	PERS.PL.PTV	heitä
+1j004:005	16b	.	PUNC	.␣
+1j004:006	1j004:006	1j004:006	VERSE	1Jh␣4:6␣
+1j004:006	1	me	PERS.PL.NOM	Me␣
+1j004:006	5a	olla	COP.ACT.PRES.1P	olemme␣
+1j004:006	(3) 4	Jumala	SG.ELA	Jumalasta
+1j004:006	2	%case	LOC	
+1j004:006	5b	.	PUNC	.␣
+1j004:006	6	joka	REL.INDEF.SG.NOM	Joka␣
+1j004:006	7	tuntea	ACT.PRES.3S	tuntee␣
+1j004:006	(8) 9	Jumala	SG.GEN	Jumalan
+1j004:006	-	(,)	PUNC	,␣
+1j004:006	10	(se)	DEM.SG.NOM	se␣
+1j004:006	10	kuulla	ACT.PRES.3S	kuulee␣
+1j004:006	11a	me	PERS.PL.PTV	meitä
+1j004:006	11b	;	PUNC	;␣
+1j004:006	12	joka	REL.INDEF.SG.NOM	joka␣
+1j004:006	13	ei	NEGV.3S	ei␣
+1j004:006	14	olla	COP.ACT.PRES.NEG	ole␣
+1j004:006	(16) 17	Jumala	SG.ELA	Jumalasta
+1j004:006	15	%case	LOC	
+1j004:006	-	(,)	PUNC	,␣
+1j004:006	19	(se)	DEM.SG.NOM	se␣
+1j004:006	18	ei	NEGV.3S	ei␣
+1j004:006	19	kuulla	ACT.PRES.NEG	kuule␣
+1j004:006	20a	me	PERS.PL.PTV	meitä
+1j004:006	20b	.	PUNC	.␣
+1j004:006	22	se	DEM.SG.ELA	Siitä␣
+1j004:006	21	%case	LOC	
+1j004:006	23	(me)	PERS.PL.NOM	me␣
+1j004:006	23	tuntea	ACT.PRES.1P	tunnemme␣
+1j004:006	(26) 27	totuus	SG.GEN	totuuden␣
+1j004:006	(24) 25	henki	SG.GEN	hengen␣
+1j004:006	28	ja	CNJ	ja␣
+1j004:006	(31) 32a	eksytys	DER.SG.GEN	eksytyksen␣
+1j004:006	(29) 30	henki	SG.GEN	hengen
+1j004:006	32b	.	PUNC	.␣
+1j004:007	1j004:007	1j004:007	VERSE	1Jh␣4:7␣
+1j004:007	1a	rakas	ADJ.NOM&SGGEN.-1	Rakkaani
+1j004:007	1b	,	PUNC	,␣
+1j004:007	2	rakastaa	ACT.IMP.1P	rakastakaamme␣
+1j004:007	3a	toinen	INDEF.SG.NOM	toinen␣
+1j004:007	3a	toinen	INDEF.SG.PTV.-1	toistamme
+1j004:007	3b	,	PUNC	,␣
+1j004:007	4	sillä	SUBORD	sillä␣
+1j004:007	(5) 6	rakkaus	DER.SG.NOM	rakkaus␣
+1j004:007	10a	olla	COP.ACT.PRES.3S	on␣
+1j004:007	(8) 9	Jumala	SG.ELA	Jumalasta
+1j004:007	7	%case	LOC	
+1j004:007	10b	;	PUNC	;␣
+1j004:007	11	ja	CNJ	ja␣
+1j004:007	12	jokainen	INDEF.SG.NOM	jokainen
+1j004:007	-	(,)	PUNC	,␣
+1j004:007	13	joka	REL.INDEF.SG.NOM	joka␣
+1j004:007	14	rakastaa	ACT.PRES.3S	rakastaa
+1j004:007	-	(,)	PUNC	,␣
+1j004:007	18	(olla)	COP.ACT.PRES.3S	on␣
+1j004:007	(16) 17	Jumala	SG.ELA	Jumalasta␣
+1j004:007	15	%case	LOC	
+1j004:007	18	syntyä:syntynyt	ACT.PCP2.SG.NOM	syntynyt␣
+1j004:007	19	ja	CNJ	ja␣
+1j004:007	20	tuntea	ACT.PRES.3S	tuntee␣
+1j004:007	(21) 22a	Jumala	SG.GEN	Jumalan
+1j004:007	22b	.	PUNC	.␣
+1j004:008	1j004:008	1j004:008	VERSE	1Jh␣4:8␣
+1j004:008	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j004:008	2	ei	NEGV.3S	ei␣
+1j004:008	3	rakastaa	ACT.PRES.NEG	rakasta
+1j004:008	-	(,)	PUNC	,␣
+1j004:008	5	(se)	DEM.SG.NOM	se␣
+1j004:008	4	ei	NEGV.3S	ei␣
+1j004:008	5	tuntea	ACT.PRES.NEG	tunne␣
+1j004:008	(6) 7a	Jumala	SG.PTV	Jumalaa
+1j004:008	7b	,	PUNC	,␣
+1j004:008	8	sillä	SUBORD	sillä␣
+1j004:008	10 (9)	Jumala	SG.NOM	Jumala␣
+1j004:008	12a	olla	COP.ACT.PRES.3S	on␣
+1j004:008	11	rakkaus	DER.SG.NOM	rakkaus
+1j004:008	12b	.	PUNC	.␣
+1j004:009	1j004:009	1j004:009	VERSE	1Jh␣4:9␣
+1j004:009	2	siinä	ADV	Siinä␣
+1j004:009	1	%case	LOC	
+1j004:009	3	ilmestyä	ACT.PAST.3S	ilmestyi␣
+1j004:009	9a	me	PERS.PL.ALL	meille␣
+1j004:009	8	%case	LOC	
+1j004:009	(6) 7	Jumala	SG.GEN	Jumalan␣
+1j004:009	(4) 5	rakkaus	DER.SG.NOM	rakkaus
+1j004:009	9b	,	PUNC	,␣
+1j004:009	10	että	SUBORD	että␣
+1j004:009	(17) 18	Jumala	SG.NOM	Jumala␣
+1j004:009	16	lähettää	ACT.PAST.3S	lähetti␣
+1j004:009	(14) 15	ainokainen	ADJ.SG.GEN	ainokaisen␣
+1j004:009	(11) 12	Poika	NOM&SGGEN.-3	Poikansa␣
+1j004:009	13	%pers	3	
+1j004:009	(20) 21	maailma	SG.ILL	maailmaan
+1j004:009	19	%case	LOC	
+1j004:009	-	(,)	PUNC	,␣
+1j004:009	22	että	SUBORD	että␣
+1j004:009	23	(me)	PERS.PL.NOM	me␣
+1j004:009	23	elää	ACT.COND.1P	eläisimme␣
+1j004:009	25a	hän	PERS.SG.GEN	hänen␣
+1j004:009	24	kautta	PREP.-3	kauttansa
+1j004:009	25b	.	PUNC	.␣
+1j004:010	1j004:010	1j004:010	VERSE	1Jh␣4:10␣
+1j004:010	2	se	DEM.SG.INE	Siinä␣
+1j004:010	1	%case	LOC	
+1j004:010	3	olla	COP.ACT.PRES.3S	on␣
+1j004:010	(4) 5a	rakkaus	DER.SG.NOM	rakkaus␣
+1j004:010	5b	-	PUNC	-␣
+1j004:010	6	ei	NEGV.3S	ei␣
+1j004:010	-	(se)	DEM.SG.INE	siinä
+1j004:010	-	(,)	PUNC	,␣
+1j004:010	7	että	SUBORD	että␣
+1j004:010	8	me	PERS.PL.NOM	me␣
+1j004:010	9	rakastaa	ACT.PAST.1P	rakastimme␣
+1j004:010	(10) 11	Jumala	SG.PTV	Jumalaa
+1j004:010	-	(,)	PUNC	,␣
+1j004:010	12	vaan	SUBORD	vaan␣
+1j004:010	-	(se)	DEM.SG.INE	siinä
+1j004:010	-	(,)	PUNC	,␣
+1j004:010	13	että	SUBORD	että␣
+1j004:010	14	hän	PERS.SG.NOM	hän␣
+1j004:010	15	rakastaa	ACT.PAST.3S	rakasti␣
+1j004:010	16	me	PERS.PL.PTV	meitä␣
+1j004:010	17	ja	CNJ	ja␣
+1j004:010	18	lähettää	ACT.PAST.3S	lähetti␣
+1j004:010	(19) 20	Poika	NOM&SGGEN.-3	Poikansa␣
+1j004:010	21	%pers	3	
+1j004:010	26a	me	PERS.PL.GEN	meidän␣
+1j004:010	(24) 25	synti	PL.GEN.-1	syntiemme␣
+1j004:010	23	%case	GEN	
+1j004:010	22	sovitus	DER.SG.TRA	sovitukseksi
+1j004:010	26b	.	PUNC	.␣
+1j004:011	1j004:011	1j004:011	VERSE	1Jh␣4:11␣
+1j004:011	1a	rakas	ADJ.NOM&SGGEN.-1	Rakkaani
+1j004:011	1b	,	PUNC	,␣
+1j004:011	2	jos	SUBORD	jos␣
+1j004:011	(4) 5	Jumala	SG.NOM	Jumala␣
+1j004:011	6	(olla)	COP.ACT.PRES.3S	on␣
+1j004:011	3	näin	ADV.AD-A	näin␣
+1j004:011	7a	me	PERS.PL.PTV	meitä␣
+1j004:011	6	rakastaa	ACT.PCP2.PERF	rakastanut
+1j004:011	7b	,	PUNC	,␣
+1j004:011	8	niin	ADV.AD-A	niin␣
+1j004:011	9	me	PERS.PL.NOM.-CLITIC	mekin␣
+1j004:011	10	olla	COP.ACT.PRES.1P	olemme␣
+1j004:011	10	velvollinen	ADJ.PL.NOM	velvolliset␣
+1j004:011	12a	rakastaa	INF3.ILL	rakastamaan␣
+1j004:011	11	toinen	INDEF.SG.NOM	toinen␣
+1j004:011	11	toinen	INDEF.SG.PTV.-1	toistamme
+1j004:011	12b	.	PUNC	.␣
+1j004:012	1j004:012	1j004:012	VERSE	1Jh␣4:12␣
+1j004:012	1	Jumala	SG.PTV	Jumalaa␣
+1j004:012	2	ei	NEGV.3S	ei␣
+1j004:012	2	kukaan	INDEF.SG.NOM	kukaan␣
+1j004:012	4a	(olla)	COP.ACT.PRES.NEG	ole␣
+1j004:012	3	koskaan	ADV	koskaan␣
+1j004:012	4a	nähdä	ACT.PCP2.PERF	nähnyt
+1j004:012	4b	.	PUNC	.␣
+1j004:012	5	jos	SUBORD	Jos␣
+1j004:012	6	(me)	PERS.PL.NOM	me␣
+1j004:012	6	rakastaa	ACT.PRES.1P	rakastamme␣
+1j004:012	7a	toinen	INDEF.SG.NOM	toinen␣
+1j004:012	7a	toinen	INDEF.SG.PTV.-1	toistamme
+1j004:012	-	(,)	PUNC	,␣
+1j004:012	-	(niin)	ADV.AD-A	niin␣
+1j004:012	(8) 9	Jumala	SG.NOM	Jumala␣
+1j004:012	12	pysyä	ACT.PRES.3S	pysyy␣
+1j004:012	11	me	PERS.PL.INE	meissä
+1j004:012	10	%case	LOC	
+1j004:012	-	(,)	PUNC	,␣
+1j004:012	13	ja	CNJ	ja␣
+1j004:012	16	hän	PERS.SG.GEN	hänen␣
+1j004:012	(14) 15	rakkaus	DER.NOM&SGGEN.-3	rakkautensa␣
+1j004:012	20a	olla	COP.ACT.PRES.3S	on␣
+1j004:012	19	tulla	ACT.PCP2.PERF	tullut␣
+1j004:012	19	täydellinen	ADJ.SG.TRA	täydelliseksi␣
+1j004:012	18	me	PERS.PL.INE	meissä
+1j004:012	17	%case	LOC	
+1j004:012	20b	.	PUNC	.␣
+1j004:013	1j004:013	1j004:013	VERSE	1Jh␣4:13␣
+1j004:013	2	se	DEM.SG.ELA	Siitä␣
+1j004:013	1	%case	LOC	
+1j004:013	3	(me)	PERS.PL.NOM	me␣
+1j004:013	3	tietää	ACT.PRES.1P	tiedämme␣
+1j004:013	7	pysyä	ACT.PCP1.-1.REFR	pysyvämme␣
+1j004:013	4	%inflection	ACT.PCP1.-1.REFR	
+1j004:013	6	hän	PERS.SG.INE	hänessä␣
+1j004:013	5	%case	LOC	
+1j004:013	8	ja	CNJ	ja␣
+1j004:013	9	hän	PERS.SG.GEN	hänen␣
+1j004:013	-	(pysyä)	ACT.PCP1.REFR	pysyvän␣
+1j004:013	11a	me	PERS.PL.INE	meissä
+1j004:013	10	%case	LOC	
+1j004:013	11b	,	PUNC	,␣
+1j004:013	12	että	SUBORD	että␣
+1j004:013	17	(hän)	PERS.SG.NOM	hän␣
+1j004:013	17	(olla)	COP.ACT.PRES.3S	on␣
+1j004:013	17	antaa	ACT.PCP2.PERF	antanut␣
+1j004:013	18a	me	PERS.PL.ALL	meille␣
+1j004:013	(14) 15	Henki	SG.PTV.-3	Henkeänsä
+1j004:013	16	%pers	3	
+1j004:013	13	%case	PTV	
+1j004:013	18b	.	PUNC	.␣
+1j004:014	1j004:014	1j004:014	VERSE	1Jh␣4:14␣
+1j004:014	1	ja	CNJ	Ja␣
+1j004:014	2	me	PERS.PL.NOM	me␣
+1j004:014	3	(olla)	COP.ACT.PRES.1P	olemme␣
+1j004:014	3	nähdä	ACT.PCP2.PERF	nähneet␣
+1j004:014	4	ja	CNJ	ja␣
+1j004:014	5	todistaa	ACT.PRES.1P	todistamme
+1j004:014	-	(,)	PUNC	,␣
+1j004:014	6	että	SUBORD	että␣
+1j004:014	(7) 8	Isä	SG.NOM	Isä␣
+1j004:014	9	(olla)	COP.ACT.PRES.3S	on␣
+1j004:014	9	lähettää	ACT.PCP2.PERF	lähettänyt␣
+1j004:014	(10) 11	Poika	NOM&SGGEN.-3	Poikansa␣
+1j004:014	(13) 14a	maailma	SG.GEN	maailman␣
+1j004:014	12	Vapahtaja	SG.TRA	Vapahtajaksi
+1j004:014	14b	.	PUNC	.␣
+1j004:015	1j004:015	1j004:015	VERSE	1Jh␣4:15␣
+1j004:015	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j004:015	3	tunnustaa	ACT.PRES.3S	tunnustaa
+1j004:015	2	%modus	IND	
+1j004:015	-	(,)	PUNC	,␣
+1j004:015	4	että	SUBORD	että␣
+1j004:015	5	Jeesus	PR.SG.NOM	Jeesus␣
+1j004:015	6	olla	COP.ACT.PRES.3S	on␣
+1j004:015	10a (9)	Jumala	SG.GEN	Jumalan␣
+1j004:015	(7) 8	Poika	SG.NOM	Poika
+1j004:015	-	(,)	PUNC	,␣
+1j004:015	14	hän	PERS.SG.INE	hänessä␣
+1j004:015	13	%case	LOC	
+1j004:015	(11) 12	Jumala	SG.NOM	Jumala␣
+1j004:015	15	pysyä	ACT.PRES.3S	pysyy
+1j004:015	-	(,)	PUNC	,␣
+1j004:015	16	ja	CNJ	ja␣
+1j004:015	17	hän	PERS.SG.NOM	hän␣
+1j004:015	(19) 20a	Jumala	SG.INE	Jumalassa
+1j004:015	18	%case	LOC	
+1j004:015	20b	.	PUNC	.␣
+1j004:016	1j004:016	1j004:016	VERSE	1Jh␣4:16␣
+1j004:016	1	ja	CNJ	Ja␣
+1j004:016	2	me	PERS.PL.NOM	me␣
+1j004:016	3	(olla)	COP.ACT.PRES.1P	olemme␣
+1j004:016	3	oppia	ACT.PCP2.PERF	oppineet␣
+1j004:016	3	tuntea	INF3.ILL	tuntemaan␣
+1j004:016	4	ja	CNJ	ja␣
+1j004:016	5	(me)	PERS.PL.NOM	me␣
+1j004:016	5	uskoa	ACT.PRES.1P	uskomme␣
+1j004:016	6	se	DEM.SG.GEN	sen␣
+1j004:016	7	rakkaus	DER.SG.GEN	rakkauden
+1j004:016	-	(,)	PUNC	,␣
+1j004:016	8	mikä	INT.REL.INDEF.SG.NOM	mikä␣
+1j004:016	(10) 11	Jumala	SG.ADE	Jumalalla␣
+1j004:016	9	olla	COP.ACT.PRES.3S	on␣
+1j004:016	13a	me	PERS.PL.ILL	meihin
+1j004:016	12	%case	LOC	
+1j004:016	-	(.)	PUNC	.␣
+1j004:016	(14) 15	Jumala	SG.NOM	Jumala␣
+1j004:016	17a	olla	COP.ACT.PRES.3S	on␣
+1j004:016	16	rakkaus	DER.SG.NOM	rakkaus
+1j004:016	17b	,	PUNC	,␣
+1j004:016	18	ja	CNJ	ja␣
+1j004:016	19	joka	REL.INDEF.SG.NOM	joka␣
+1j004:016	20	pysyä	ACT.PRES.3S	pysyy␣
+1j004:016	(22) 23	rakkaus	DER.SG.INE	rakkaudessa
+1j004:016	21	%case	LOC	
+1j004:016	-	(,)	PUNC	,␣
+1j004:016	27	(se)	DEM.SG.NOM	se␣
+1j004:016	27	pysyä	ACT.PRES.3S	pysyy␣
+1j004:016	(25) 26	Jumala	SG.INE	Jumalassa
+1j004:016	24	%case	LOC	
+1j004:016	-	(,)	PUNC	,␣
+1j004:016	28	ja	CNJ	ja␣
+1j004:016	(29) 30	Jumala	SG.NOM	Jumala␣
+1j004:016	33a	pysyä	ACT.PRES.3S	pysyy␣
+1j004:016	32	hän	PERS.SG.INE	hänessä
+1j004:016	31	%case	LOC	
+1j004:016	33b	.	PUNC	.␣
+1j004:017	1j004:017	1j004:017	VERSE	1Jh␣4:17␣
+1j004:017	2	näin	ADV.AD-A	Näin␣
+1j004:017	1	%case	?	
+1j004:017	3	(olla)	COP.ACT.PRES.3S	on␣
+1j004:017	(4) 5	rakkaus	DER.SG.NOM	rakkaus␣
+1j004:017	3	tulla	ACT.PCP2.PERF	tullut␣
+1j004:017	3	täydellinen	ADJ.SG.TRA	täydelliseksi␣
+1j004:017	7a	me	PERS.PL.INE	meissä
+1j004:017	6	%case	LOC	
+1j004:017	7b	,	PUNC	,␣
+1j004:017	8	että	SUBORD	että␣
+1j004:017	10	(me)	PERS.PL.ADE	meillä␣
+1j004:017	10	olla	COP.ACT.COND.3S	olisi␣
+1j004:017	9	turva	SG.NOM	turva␣
+1j004:017	(12) 13 (14) 15a	tuomio_päivä	SG.ESS	tuomiopäivänä
+1j004:017	11	%case	ESS	
+1j004:017	15b	;	PUNC	;␣
+1j004:017	16	sillä	SUBORD	sillä␣
+1j004:017	17	sellainen	ADJ.SG.NOM	sellainen␣
+1j004:017	17	kuin	SUBORD	kuin␣
+1j004:017	18	hän	PERS.SG.NOM	hän␣
+1j004:017	19	olla	COP.ACT.PRES.3S	on
+1j004:017	-	(,)	PUNC	,␣
+1j004:017	-	(sellainen)	ADJ.PL.PTV	sellaisia␣
+1j004:017	21	me	PERS.PL.NOM.-CLITIC	mekin␣
+1j004:017	20	%clitic	kin	
+1j004:017	22	olla	COP.ACT.PRES.1P	olemme␣
+1j004:017	26a	tämä	DEM.SG.INE	tässä␣
+1j004:017	(24) 25	maailma	SG.INE	maailmassa
+1j004:017	23	%case	LOC	
+1j004:017	26b	.	PUNC	.␣
+1j004:018	1j004:018	1j004:018	VERSE	1Jh␣4:18␣
+1j004:018	1	pelko	SG.PTV	Pelkoa␣
+1j004:018	2	ei	NEGV.3S	ei␣
+1j004:018	(5) 6	rakkaus	DER.SG.INE	rakkaudessa␣
+1j004:018	4	%case	LOC	
+1j004:018	3	olla	COP.ACT.PRES.NEG	ole
+1j004:018	-	(,)	PUNC	,␣
+1j004:018	7	vaan	SUBORD	vaan␣
+1j004:018	9	täydellinen	ADJ.SG.NOM	täydellinen␣
+1j004:018	10 (8)	rakkaus	DER.SG.NOM	rakkaus␣
+1j004:018	11 12	karkoittaa	ACT.PRES.3S	karkoittaa␣
+1j004:018	(13) 14a	pelko	SG.GEN	pelon
+1j004:018	14b	,	PUNC	,␣
+1j004:018	15	sillä	SUBORD	sillä␣
+1j004:018	(16) 17	pelko	SG.INE	pelossa␣
+1j004:018	19a	olla	COP.ACT.PRES.3S	on␣
+1j004:018	18	rangaistus	SG.PTV	rangaistusta
+1j004:018	19b	;	PUNC	;␣
+1j004:018	21	ja	CNJ	ja␣
+1j004:018	20	joka	REL.INDEF.SG.NOM	joka␣
+1j004:018	22	pelätä	ACT.PRES.3S	pelkää
+1j004:018	-	(,)	PUNC	,␣
+1j004:018	-	(se)	DEM.SG.NOM	se␣
+1j004:018	23	ei	NEGV.3S	ei␣
+1j004:018	24	(olla)	COP.ACT.PRES.NEG	ole␣
+1j004:018	24	päästä	ACT.PCP2.PERF	päässyt␣
+1j004:018	24	täydellinen	ADJ.SG.TRA	täydelliseksi␣
+1j004:018	(26) 27a	rakkaus	DER.SG.INE	rakkaudessa
+1j004:018	25	%case	LOC	
+1j004:018	27b	.	PUNC	.␣
+1j004:019	1j004:019	1j004:019	VERSE	1Jh␣4:19␣
+1j004:019	1	me	PERS.PL.NOM	Me␣
+1j004:019	2	rakastaa	ACT.PRES.1P	rakastamme
+1j004:019	3b	,	PUNC	,␣
+1j004:019	4	sillä	SUBORD	sillä␣
+1j004:019	5	hän	PERS.SG.NOM	hän␣
+1j004:019	7	(olla)	COP.ACT.PRES.3S	on␣
+1j004:019	6	ensin	ADV	ensin␣
+1j004:019	7	rakastaa	ACT.PCP2.PERF	rakastanut␣
+1j004:019	8a	me	PERS.PL.PTV	meitä
+1j004:019	8b	.	PUNC	.␣
+1j004:020	1j004:020	1j004:020	VERSE	1Jh␣4:20␣
+1j004:020	1	jos	SUBORD	Jos␣
+1j004:020	2	joku	INDEF.SG.NOM	joku␣
+1j004:020	3	sanoa	ACT.PRES.3S	sanoo
+1j004:020	4	:	PUNC	:␣
+1j004:020	-	(")	PUNC.LEFT	"
+1j004:020	5	(minä)	PERS.SG.NOM	Minä␣
+1j004:020	5	rakastaa	ACT.PRES.1S	rakastan␣
+1j004:020	(6) 7	Jumala	SG.PTV	Jumalaa
+1j004:020	-	(")	PUNC.RIGHT	"
+1j004:020	-	(,)	PUNC	,␣
+1j004:020	8	mutta	CNJ	mutta␣
+1j004:020	12a	vihata	ACT.PRES.3S	vihaa␣
+1j004:020	10 (9)	veli	SG.PTV.-3	veljeänsä
+1j004:020	11	%pers	3	
+1j004:020	-	(,)	PUNC	,␣
+1j004:020	-	(niin)	ADV.AD-A	niin␣
+1j004:020	14a	(hän)	PERS.SG.NOM	hän␣
+1j004:020	14a	olla	COP.ACT.PRES.3S	on␣
+1j004:020	13	valhettelija	DER.SG.NOM	valhettelija
+1j004:020	14b	.	PUNC	.␣
+1j004:020	16	sillä	SUBORD	Sillä␣
+1j004:020	15	joka	REL.INDEF.SG.NOM	joka␣
+1j004:020	17	ei	NEGV.3S	ei␣
+1j004:020	18	rakastaa	ACT.PRES.NEG	rakasta␣
+1j004:020	(19) 20	veli	SG.PTV.-3	veljeänsä
+1j004:020	21	%pers	3	
+1j004:020	-	(,)	PUNC	,␣
+1j004:020	22	joka	REL.SG.GEN	jonka␣
+1j004:020	23a	(hän)	PERS.SG.NOM	hän␣
+1j004:020	23a	(olla)	COP.ACT.PRES.3S	on␣
+1j004:020	23a	nähdä	ACT.PCP2.PERF	nähnyt
+1j004:020	-	(,)	PUNC	,␣
+1j004:020	-	(se)	DEM.SG.NOM	se␣
+1j004:020	29	ei	NEGV.3S	ei␣
+1j004:020	30	voida	ACT.PRES.NEG	voi␣
+1j004:020	31a	rakastaa	INF1.LAT	rakastaa␣
+1j004:020	(24) 25	Jumala	SG.PTV	Jumalaa
+1j004:020	-	(,)	PUNC	,␣
+1j004:020	26	joka	REL.SG.PTV	jota␣
+1j004:020	28	(hän)	PERS.SG.NOM	hän␣
+1j004:020	27	ei	NEGV.3S	ei␣
+1j004:020	28	(olla)	COP.ACT.PRES.NEG	ole␣
+1j004:020	28	nähdä	ACT.PCP2.PERF	nähnyt
+1j004:020	31b	.	PUNC	.␣
+1j004:021	1j004:021	1j004:021	VERSE	1Jh␣4:21␣
+1j004:021	1	ja	CNJ	Ja␣
+1j004:021	2	tämä	DEM.SG.NOM	tämä␣
+1j004:021	(3) 4	käsky	SG.NOM	käsky␣
+1j004:021	5	(me)	PERS.PL.ADE	meillä␣
+1j004:021	5	olla	COP.ACT.PRES.3S	on␣
+1j004:021	7a	hän	PERS.SG.ABL	häneltä
+1j004:021	6	%case	LOC	
+1j004:021	7b	,	PUNC	,␣
+1j004:021	8	että	SUBORD	että␣
+1j004:021	9	joka	REL.INDEF.SG.NOM	joka␣
+1j004:021	10	rakastaa	ACT.PRES.3S	rakastaa␣
+1j004:021	(11) 12	Jumala	SG.PTV	Jumalaa
+1j004:021	-	(,)	PUNC	,␣
+1j004:021	13	(se)	DEM.SG.NOM	se␣
+1j004:021	13	rakastaa	ACT.IMP.3S	rakastakoon␣
+1j004:021	14	myös	ADV	myös␣
+1j004:021	(15) 16	veli	SG.PTV.-3	veljeänsä
+1j004:021	17a	%pers	3	
+1j004:021	17b	.	PUNC	.␣
+1j005:001	1j005:001	1j005:001	VERSE	1Jh␣5:1␣
+1j005:001	1	jokainen	INDEF.SG.NOM	Jokainen
+1j005:001	-	(,)	PUNC	,␣
+1j005:001	2	joka	REL.INDEF.SG.NOM	joka␣
+1j005:001	3	uskoa	ACT.PRES.3S	uskoo
+1j005:001	-	(,)	PUNC	,␣
+1j005:001	4	että	SUBORD	että␣
+1j005:001	5	Jeesus	PR.SG.NOM	Jeesus␣
+1j005:001	6	olla	COP.ACT.PRES.3S	on␣
+1j005:001	(7) 8a	Kristus	PR.SG.NOM	Kristus
+1j005:001	8b	,	PUNC	,␣
+1j005:001	12a	(olla)	COP.ACT.PRES.3S	on␣
+1j005:001	(10) 11	Jumala	SG.ELA	Jumalasta␣
+1j005:001	9	%case	LOC	
+1j005:001	12a	syntyä:syntynyt	ACT.PCP2.SG.NOM	syntynyt
+1j005:001	12b	;	PUNC	;␣
+1j005:001	13	ja	CNJ	ja␣
+1j005:001	14	jokainen	INDEF.SG.NOM	jokainen
+1j005:001	-	(,)	PUNC	,␣
+1j005:001	15	joka	REL.INDEF.SG.NOM	joka␣
+1j005:001	16	rakastaa	ACT.PRES.3S	rakastaa␣
+1j005:001	17	hän	PERS.SG.PTV	häntä
+1j005:001	-	(,)	PUNC	,␣
+1j005:001	17	joka	REL.INDEF.SG.NOM	joka␣
+1j005:001	18	(olla)	COP.ACT.PRES.3S	on␣
+1j005:001	18	synnyttää	DER.ACT.PCP2.PERF	synnyttänyt
+1j005:001	-	(,)	PUNC	,␣
+1j005:001	19a	rakastaa	ACT.PRES.3S	rakastaa␣
+1j005:001	20a	myös	ADV.-CLITIC	myöskin␣
+1j005:001	21	se	DEM.SG.PTV	sitä
+1j005:001	-	(,)	PUNC	,␣
+1j005:001	21	joka	REL.INDEF.SG.NOM	joka␣
+1j005:001	24a	hän	PERS.SG.ELA	hänestä␣
+1j005:001	23	%case	LOC	
+1j005:001	22	(olla)	COP.ACT.PRES.3S	on␣
+1j005:001	22	syntyä	ACT.PCP2.PERF	syntynyt
+1j005:001	24b	.	PUNC	.␣
+1j005:002	1j005:002	1j005:002	VERSE	1Jh␣5:2␣
+1j005:002	2	se	DEM.SG.ELA	Siitä␣
+1j005:002	1	%case	LOC	
+1j005:002	3	(me)	PERS.PL.NOM	me␣
+1j005:002	3	tietää	ACT.PRES.1P	tiedämme
+1j005:002	-	(,)	PUNC	,␣
+1j005:002	4	että	SUBORD	että␣
+1j005:002	5	rakastaa	ACT.PRES.1P	rakastamme␣
+1j005:002	(8) 9a	Jumala	SG.GEN	Jumalan␣
+1j005:002	(6) 7	lapsi	PL.PTV	lapsia
+1j005:002	9b	,	PUNC	,␣
+1j005:002	10	kun	SUBORD	kun␣
+1j005:002	13	rakastaa	ACT.PRES.1P	rakastamme␣
+1j005:002	(11) 12	Jumala	SG.PTV	Jumalaa␣
+1j005:002	14	ja	CNJ	ja␣
+1j005:002	18a	noudattaa	ACT.PRES.1P	noudatamme␣
+1j005:002	17	hän	PERS.SG.GEN	hänen␣
+1j005:002	(15) 16	käsky	PL.PTV.-3	käskyjänsä
+1j005:002	18b	.	PUNC	.␣
+1j005:003	1j005:003	1j005:003	VERSE	1Jh␣5:3␣
+1j005:003	2	sillä	SUBORD	Sillä␣
+1j005:003	(4) 5	rakkaus	DER.SG.NOM	rakkaus␣
+1j005:003	(6) 7a	Jumala	SG.ILL	Jumalaan␣
+1j005:003	3	olla	COP.ACT.PRES.3S	on␣
+1j005:003	1	se	DEM.SG.NOM	se
+1j005:003	7b	,	PUNC	,␣
+1j005:003	8	että	SUBORD	että␣
+1j005:003	12a	pitää	ACT.PRES.1P	pidämme␣
+1j005:003	11	hän	PERS.SG.GEN	hänen␣
+1j005:003	10 (9)	käsky	NOM&SGGEN.-3	käskynsä
+1j005:003	12b	.	PUNC	.␣
+1j005:003	13	ja	CNJ	Ja␣
+1j005:003	16	hän	PERS.SG.GEN	hänen␣
+1j005:003	(14) 15	käsky	NOM&SGGEN.-3	käskynsä␣
+1j005:003	18	ei	NEGV.3P	eivät␣
+1j005:003	19a	olla	COP.ACT.PRES.NEG	ole␣
+1j005:003	17	raskas	ADJ.PL.NOM	raskaat
+1j005:003	19b	;	PUNC	;␣
+1j005:004	1j005:004	1j005:004	VERSE	1Jh␣5:4␣
+1j005:004	1	sillä	SUBORD	sillä␣
+1j005:004	2	kaikki	INDEF.SG.NOM	kaikki
+1j005:004	-	(,)	PUNC	,␣
+1j005:004	3	mikä	INT.REL.INDEF.SG.NOM	mikä␣
+1j005:004	4	(olla)	COP.ACT.PRES.3S	on␣
+1j005:004	4	syntyä	ACT.PCP2.PERF	syntynyt␣
+1j005:004	(6) 7	Jumala	SG.ELA	Jumalasta
+1j005:004	5	%case	LOC	
+1j005:004	-	(,)	PUNC	,␣
+1j005:004	8	voittaa	ACT.PRES.3S	voittaa␣
+1j005:004	10a (9)	maailma	SG.GEN	maailman
+1j005:004	10b	;	PUNC	;␣
+1j005:004	11	ja	CNJ	ja␣
+1j005:004	12	tämä	DEM.SG.NOM	tämä␣
+1j005:004	13	olla	COP.ACT.PRES.3S	on␣
+1j005:004	14	se	DEM.SG.NOM	se␣
+1j005:004	15	voitto	SG.NOM	voitto
+1j005:004	-	(,)	PUNC	,␣
+1j005:004	16	joka	REL.INDEF.SG.NOM	joka␣
+1j005:004	17	(olla)	COP.ACT.PRES.3S	on␣
+1j005:004	(18) 19a	maailma	SG.GEN	maailman␣
+1j005:004	17	voittaa	ACT.PCP2.PERF	voittanut
+1j005:004	-	(,)	PUNC	,␣
+1j005:004	22a	me	PERS.PL.GEN	meidän␣
+1j005:004	(20) 21	usko	NOM&SGGEN.-1	uskomme
+1j005:004	22b	.	PUNC	.␣
+1j005:005	1j005:005	1j005:005	VERSE	1Jh␣5:5␣
+1j005:005	1a	kuka	INT.SG.NOM	Kuka␣
+1j005:005	(2a)	-	UNTRANSLATED	
+1j005:005	3	olla	COP.ACT.PRES.3S	on␣
+1j005:005	4	se	DEM.SG.NOM	se
+1j005:005	-	(,)	PUNC	,␣
+1j005:005	4	joka	REL.INDEF.SG.NOM	joka␣
+1j005:005	5	voittaa	ACT.PRES.3S	voittaa␣
+1j005:005	(6) 7	maailma	SG.GEN	maailman
+1j005:005	-	(,)	PUNC	,␣
+1j005:005	8 9	ellei	NEGV.3S	ellei␣
+1j005:005	10	se	DEM.SG.NOM	se
+1j005:005	-	(,)	PUNC	,␣
+1j005:005	10	joka	REL.INDEF.SG.NOM	joka␣
+1j005:005	11	uskoa	ACT.PRES.3S	uskoo
+1j005:005	-	(,)	PUNC	,␣
+1j005:005	12	että	SUBORD	että␣
+1j005:005	13	Jeesus	PR.SG.NOM	Jeesus␣
+1j005:005	14	olla	COP.ACT.PRES.3S	on␣
+1j005:005	(17) 18a	Jumala	SG.GEN	Jumalan␣
+1j005:005	(15) 16	Poika	SG.NOM	Poika
+1j005:005	-	(?)	PUNC	?␣
+1j005:006	1j005:006	1j005:006	VERSE	1Jh␣5:6␣
+1j005:006	1	hän	PERS.SG.NOM	Hän␣
+1j005:006	2	olla	COP.ACT.PRES.3S	on␣
+1j005:006	3	se	DEM.SG.NOM	se
+1j005:006	-	(,)	PUNC	,␣
+1j005:006	3	joka	REL.INDEF.SG.NOM	joka␣
+1j005:006	4	(olla)	COP.ACT.PRES.3S	on␣
+1j005:006	4	tulla	ACT.PCP2.PERF	tullut␣
+1j005:006	6	vesi	SG.GEN	veden␣
+1j005:006	7	ja	CNJ	ja␣
+1j005:006	8a	veri	SG.GEN	veren␣
+1j005:006	5	kautta	PREP	kautta
+1j005:006	8b	,	PUNC	,␣
+1j005:006	9	Jeesus	PR.SG.NOM	Jeesus␣
+1j005:006	10a	Kristus	PR.SG.NOM	Kristus
+1j005:006	10b	,	PUNC	,␣
+1j005:006	11	ei	NEGV.3S	ei␣
+1j005:006	15	ainoastaan	ADV	ainoastaan␣
+1j005:006	(13) 14	vesi	SG.INE	vedessä
+1j005:006	12	%case	LOC	
+1j005:006	-	(,)	PUNC	,␣
+1j005:006	16	vaan	SUBORD	vaan␣
+1j005:006	(18) 19	vesi	SG.INE	vedessä␣
+1j005:006	17	%case	LOC	
+1j005:006	20	ja	CNJ	ja␣
+1j005:006	(22) 23a	veri	SG.INE	veressä
+1j005:006	21	%case	LOC	
+1j005:006	23b	;	PUNC	;␣
+1j005:006	24	ja	CNJ	ja␣
+1j005:006	(25) 26	Henki	SG.NOM	Henki␣
+1j005:006	27	olla	COP.ACT.PRES.3S	on␣
+1j005:006	28	se	DEM.SG.NOM	se
+1j005:006	-	(,)	PUNC	,␣
+1j005:006	28	joka	REL.INDEF.SG.NOM	joka␣
+1j005:006	29a	todistaa	ACT.PRES.3S	todistaa
+1j005:006	29b	,	PUNC	,␣
+1j005:006	30	sillä	SUBORD	sillä␣
+1j005:006	(31) 32	Henki	SG.NOM	Henki␣
+1j005:006	33	olla	COP.ACT.PRES.3S	on␣
+1j005:006	(34) 35a	totuus	SG.NOM	totuus
+1j005:006	35b	.	PUNC	.␣
+1j005:007	1j005:007	1j005:007	VERSE	1Jh␣5:7␣
+1j005:007	1	sillä	SUBORD	Sillä␣
+1j005:007	2	3	NUM.SG.NOM	kolme␣
+1j005:007	3	olla	COP.ACT.PRES.3S	on
+1j005:007	-	(,)	PUNC	,␣
+1j005:007	4	joka	REL.PL.NOM	jotka␣
+1j005:007	5a	todistaa	ACT.PRES.3P	todistavat
+1j005:007	5b	:	PUNC	:␣
+1j005:008	1j005:008	1j005:008	VERSE	1Jh␣5:8␣
+1j005:008	(1) 2	Henki	SG.NOM	Henki␣
+1j005:008	3	ja	CNJ	ja␣
+1j005:008	(4) 5	vesi	SG.NOM	vesi␣
+1j005:008	6	ja	CNJ	ja␣
+1j005:008	(7) 8a	veri	SG.NOM	veri
+1j005:008	8b	,	PUNC	,␣
+1j005:008	9	ja	CNJ	ja␣
+1j005:008	10	ne	DEM.PL.NOM	ne␣
+1j005:008	11	3	NUM.SG.NOM	kolme␣
+1j005:008	15a	pitää	ACT.PRES.3P	pitävät␣
+1j005:008	(13) 14	yhtä	AD-A	yhtä
+1j005:008	12	%case	?	
+1j005:008	15b	.	PUNC	.␣
+1j005:009	1j005:009	1j005:009	VERSE	1Jh␣5:9␣
+1j005:009	1	jos	SUBORD	Jos␣
+1j005:009	6a	(me)	PERS.PL.NOM	me␣
+1j005:009	6a	ottaa	ACT.PRES.1P	otamme␣
+1j005:009	6a	vastaan	POST	vastaan␣
+1j005:009	(4) 5	ihminen	PL.GEN	ihmisten␣
+1j005:009	(2) 3	todistus	DER.SG.GEN	todistuksen
+1j005:009	-	(,)	PUNC	,␣
+1j005:009	-	(niin)	ADV.AD-A	niin␣
+1j005:009	12a	olla	COP.ACT.PRES.3S.-CLITIC	onhan␣
+1j005:009	10 (9)	Jumala	SG.GEN	Jumalan␣
+1j005:009	(7) 8	todistus	DER.SG.NOM	todistus␣
+1j005:009	11	suuri	ADJ.CMP.SG.NOM	suurempi
+1j005:009	12b	.	PUNC	.␣
+1j005:009	13	ja	CNJ	Ja␣
+1j005:009	14	tämä	DEM.SG.NOM	tämä␣
+1j005:009	15	olla	COP.ACT.PRES.3S	on␣
+1j005:009	(18) 19	Jumala	SG.GEN	Jumalan␣
+1j005:009	(16) 17	todistus	DER.SG.NOM	todistus
+1j005:009	-	(,)	PUNC	,␣
+1j005:009	21	sillä	SUBORD	sillä␣
+1j005:009	22	(hän)	PERS.SG.NOM	hän␣
+1j005:009	22	(olla)	COP.ACT.PRES.3S	on␣
+1j005:009	22	todistaa	ACT.PCP2.PERF	todistanut␣
+1j005:009	(24) 25	Poika	SG.ELA.-3	Pojastansa
+1j005:009	26a	%pers	3	
+1j005:009	23	%case	LOC	
+1j005:009	26b	.	PUNC	.␣
+1j005:010	1j005:010	1j005:010	VERSE	1Jh␣5:10␣
+1j005:010	1	joka	REL.INDEF.SG.NOM	Joka␣
+1j005:010	2	uskoa	ACT.PRES.3S	uskoo␣
+1j005:010	(6) 7	Jumala	SG.GEN	Jumalan␣
+1j005:010	(4) 5	Poika	SG.ILL	Poikaan
+1j005:010	3	%case	LOC	
+1j005:010	-	(,)	PUNC	,␣
+1j005:010	8	(hän)	PERS.SG.ADE	hänellä␣
+1j005:010	8	olla	COP.ACT.PRES.3S	on␣
+1j005:010	10 (9)	todistus	DER.SG.NOM	todistus␣
+1j005:010	12a	itse	REFL.SG.INE.-3	itsessänsä
+1j005:010	11	%case	LOC	
+1j005:010	12b	;	PUNC	;␣
+1j005:010	13	joka	REL.INDEF.SG.NOM	joka␣
+1j005:010	14	ei	NEGV.3S	ei␣
+1j005:010	15	uskoa	ACT.PRES.NEG	usko␣
+1j005:010	(16) 17	Jumala	SG.PTV	Jumalaa
+1j005:010	-	(,)	PUNC	,␣
+1j005:010	19	tehdä	ACT.PRES.3S	tekee␣
+1j005:010	20a	hän	PERS.SG.ACC	hänet␣
+1j005:010	18	valhettelija	DER.SG.TRA	valhettelijaksi
+1j005:010	20b	,	PUNC	,␣
+1j005:010	21	koska	SUBORD	koska␣
+1j005:010	23	(hän)	PERS.SG.NOM	hän␣
+1j005:010	22	ei	NEGV.3S	ei␣
+1j005:010	23	uskoa	ACT.PRES.NEG	usko␣
+1j005:010	25	se	DEM.SG.PTV	sitä␣
+1j005:010	26	todistus	DER.SG.PTV	todistusta
+1j005:010	24	%case	PTV	
+1j005:010	-	(,)	PUNC	,␣
+1j005:010	27	joka	REL.SG.GEN	jonka␣
+1j005:010	(29) 30	Jumala	SG.NOM	Jumala␣
+1j005:010	28	(olla)	COP.ACT.PRES.3S	on␣
+1j005:010	28	todistaa	ACT.PCP2.PERF	todistanut␣
+1j005:010	(32) 33	Poika	SG.ELA.-3	Pojastansa
+1j005:010	34a	%pers	3	
+1j005:010	31	%case	LOC	
+1j005:010	34b	.	PUNC	.␣
+1j005:011	1j005:011	1j005:011	VERSE	1Jh␣5:11␣
+1j005:011	1	ja	CNJ	Ja␣
+1j005:011	2	tämä	DEM.SG.NOM	tämä␣
+1j005:011	3	olla	COP.ACT.PRES.3S	on␣
+1j005:011	4	se	DEM.SG.NOM	se␣
+1j005:011	5a	todistus	DER.SG.NOM	todistus
+1j005:011	6	:	PUNC	:␣
+1j005:011	(11) 12a	Jumala	SG.NOM	Jumala␣
+1j005:011	9	(olla)	COP.ACT.PRES.3S	on␣
+1j005:011	9	antaa	ACT.PCP2.PERF	antanut␣
+1j005:011	10	me	PERS.PL.ALL	meille␣
+1j005:011	8	iankaikkinen	ADJ.SG.GEN	iankaikkisen␣
+1j005:011	7	elämä	DER.SG.GEN	elämän
+1j005:011	12b	,	PUNC	,␣
+1j005:011	13	ja	CNJ	ja␣
+1j005:011	14	tämä	DEM.SG.NOM	tämä␣
+1j005:011	(15) 16	elämä	DER.SG.NOM	elämä␣
+1j005:011	21a	olla	COP.ACT.PRES.3S	on␣
+1j005:011	20	hän	PERS.SG.GEN	hänen␣
+1j005:011	(18) 19	Poika	SG.INE.-3	Pojassansa
+1j005:011	17	%case	LOC	
+1j005:011	21b	.	PUNC	.␣
+1j005:012	1j005:012	1j005:012	VERSE	1Jh␣5:12␣
+1j005:012	1	joka	REL.SG.ADE	Jolla␣
+1j005:012	(3) 4	Poika	SG.NOM	Poika␣
+1j005:012	2	olla	COP.ACT.PRES.3S	on
+1j005:012	-	(,)	PUNC	,␣
+1j005:012	5	(se)	DEM.SG.ADE	sillä␣
+1j005:012	5	olla	COP.ACT.PRES.3S	on␣
+1j005:012	(6) 7a	elämä	DER.SG.NOM	elämä
+1j005:012	7b	;	PUNC	;␣
+1j005:012	8	joka	REL.SG.ADE	jolla␣
+1j005:012	(13) 14	Jumala	SG.GEN	Jumalan␣
+1j005:012	(11) 12	Poika	SG.PTV	Poikaa␣
+1j005:012	9	ei	NEGV.3S	ei␣
+1j005:012	10	olla	COP.ACT.PRES.NEG	ole
+1j005:012	-	(,)	PUNC	,␣
+1j005:012	18a	(se)	DEM.SG.ADE	sillä␣
+1j005:012	17	ei	NEGV.3S	ei␣
+1j005:012	18a	olla	COP.ACT.PRES.NEG	ole␣
+1j005:012	(15) 16	elämä	DER.SG.PTV	elämää
+1j005:012	18b	.	PUNC	.␣
+1j005:013	1j005:013	1j005:013	VERSE	1Jh␣5:13␣
+1j005:013	1	tämä	DEM.SG.GEN	Tämän␣
+1j005:013	2	(minä)	PERS.SG.NOM	minä␣
+1j005:013	2	(olla)	COP.ACT.PRES.1S	olen␣
+1j005:013	2	kirjoittaa	ACT.PCP2.PERF	kirjoittanut␣
+1j005:013	3	te	PERS.PL.ALL	teille
+1j005:013	-	(,)	PUNC	,␣
+1j005:013	10	joka	REL.PL.NOM	jotka␣
+1j005:013	11	uskoa	ACT.PRES.2P	uskotte␣
+1j005:013	(17) 18a	Jumala	SG.GEN	Jumalan␣
+1j005:013	(15) 16	Poika	SG.GEN	Pojan␣
+1j005:013	(13) 14	nimi	SG.ILL	nimeen
+1j005:013	12	%case	LOC	
+1j005:013	-	(,)	PUNC	,␣
+1j005:013	5	tietää	INF1.TRA.-2	tietääksenne
+1j005:013	4	%case	TRA	
+1j005:013	-	(,)	PUNC	,␣
+1j005:013	6	että	SUBORD	että␣
+1j005:013	8	(te)	PERS.PL.ADE	teillä␣
+1j005:013	8	olla	COP.ACT.PRES.3S	on␣
+1j005:013	9a	iankaikkinen	ADJ.SG.NOM	iankaikkinen␣
+1j005:013	7	elämä	DER.SG.NOM	elämä
+1j005:013	18b	.	PUNC	.␣
+1j005:014	1j005:014	1j005:014	VERSE	1Jh␣5:14␣
+1j005:014	1	ja	CNJ	Ja␣
+1j005:014	2	tämä	DEM.SG.NOM	tämä␣
+1j005:014	3	olla	COP.ACT.PRES.3S	on␣
+1j005:014	4	se	DEM.SG.NOM	se␣
+1j005:014	5	uskallus	DER.SG.NOM	uskallus
+1j005:014	-	(,)	PUNC	,␣
+1j005:014	6	joka	REL.INDEF.SG.NOM	joka␣
+1j005:014	7	(me)	PERS.PL.ADE	meillä␣
+1j005:014	7	olla	COP.ACT.PRES.3S	on␣
+1j005:014	9	hän	PERS.SG.ILL	häneen
+1j005:014	8	%case	LOC	
+1j005:014	-	(,)	PUNC	,␣
+1j005:014	10	että	SUBORD	että␣
+1j005:014	11	jos	SUBORD	jos␣
+1j005:014	13	(me)	PERS.PL.NOM	me␣
+1j005:014	12	jokin	INDEF.SG.PTV	jotakin␣
+1j005:014	13	anoa	ACT.PRES.1P	anomme␣
+1j005:014	17	hän	PERS.SG.GEN	hänen␣
+1j005:014	(15) 16	tahto	NOM&SGGEN.-3	tahtonsa␣
+1j005:014	14	mukaan	POST	mukaan
+1j005:014	-	(,)	PUNC	,␣
+1j005:014	-	(niin)	ADV.AD-A	niin␣
+1j005:014	18	(hän)	PERS.SG.NOM	hän␣
+1j005:014	18	kuulla	ACT.PRES.3S	kuulee␣
+1j005:014	19a	me	PERS.PL.PTV	meitä
+1j005:014	19b	.	PUNC	.␣
+1j005:015	1j005:015	1j005:015	VERSE	1Jh␣5:15␣
+1j005:015	1	ja	CNJ	Ja␣
+1j005:015	2	jos	SUBORD	jos␣
+1j005:015	3	(me)	PERS.PL.NOM	me␣
+1j005:015	3	tietää	ACT.PRES.1P	tiedämme␣
+1j005:015	5	hän	PERS.SG.GEN	hänen␣
+1j005:015	5	kuulla	ACT.PCP1.REFR	kuulevan␣
+1j005:015	4	%inflection	ACT.PCP1.REFR	
+1j005:015	6	me	PERS.PL.PTV	meitä
+1j005:015	-	(,)	PUNC	,␣
+1j005:015	7 8	mikä	INT.REL.SG.PTV	mitä␣
+1j005:015	7 8	ikinä	ADV	ikinä␣
+1j005:015	9a	anoa	ACT.PRES.1P.-CLITIC	anommekin
+1j005:015	-	(,)	PUNC	,␣
+1j005:015	-	(niin)	ADV.AD-A	niin␣
+1j005:015	10	tietää	ACT.PRES.1P	tiedämme
+1j005:015	-	(,)	PUNC	,␣
+1j005:015	11	että	SUBORD	että␣
+1j005:015	12	(me)	PERS.PL.ADE	meillä␣
+1j005:015	-	(myös)	ADV	myös␣
+1j005:015	12	olla	COP.ACT.PRES.3S	on␣
+1j005:015	(13) 14	kaikki	INDEF.SG.NOM	kaikki␣
+1j005:015	(13) 14	(se)	DEM.SG.NOM	se
+1j005:015	-	(,)	PUNC	,␣
+1j005:015	15	mikä	INT.REL.SG.PTV	mitä␣
+1j005:015	16	(olla)	COP.ACT.PRES.1P	olemme␣
+1j005:015	18a	hän	PERS.SG.ABL	häneltä␣
+1j005:015	17	%case	LOC	
+1j005:015	16	anoa	ACT.PCP2.PERF	anoneet
+1j005:015	18b	.	PUNC	.␣
+1j005:016	1j005:016	1j005:016	VERSE	1Jh␣5:16␣
+1j005:016	1	jos	SUBORD	Jos␣
+1j005:016	2	joku	INDEF.SG.NOM	joku␣
+1j005:016	3	nähdä	ACT.PRES.3S	näkee␣
+1j005:016	(4) 5	veli	NOM&SGGEN.-3	veljensä␣
+1j005:016	6	%pers	3	
+1j005:016	7	tehdä	ACT.PCP1.REFR	tekevän␣
+1j005:016	8	synti	SG.PTV	syntiä
+1j005:016	-	(,)	PUNC	,␣
+1j005:016	-	(joka)	REL.INDEF.SG.NOM	joka␣
+1j005:016	9	ei	NEGV.3S	ei␣
+1j005:016	-	(olla)	COP.ACT.PRES.NEG	ole␣
+1j005:016	11a	kuolema	DER.SG.TRA	kuolemaksi
+1j005:016	10	%case	TRA	
+1j005:016	-	(,)	PUNC	,␣
+1j005:016	-	(niin)	ADV.AD-A	niin␣
+1j005:016	12	rukoilla	ACT.IMP.3S	rukoilkoon
+1j005:016	-	(,)	PUNC	,␣
+1j005:016	13	ja	CNJ	ja␣
+1j005:016	14	(hän)	PERS.SG.NOM	hän␣
+1j005:016	14	(olla)	COP.ACT.PRES.3S	on␣
+1j005:016	14	antaa	ACT.PCP1.FUTR	antava␣
+1j005:016	15	hän	PERS.SG.ALL	hänelle␣
+1j005:016	16a	elämä	DER.SG.GEN	elämän
+1j005:016	16b	,	PUNC	,␣
+1j005:016	17	ne	DEM.PL.ALL	niille␣
+1j005:016	-	(nimittäin)	ADV	nimittäin
+1j005:016	-	(,)	PUNC	,␣
+1j005:016	17	joka	REL.PL.NOM	jotka␣
+1j005:016	19	ei	NEGV.3P	eivät␣
+1j005:016	18	tehdä	ACT.PRES.NEG	tee␣
+1j005:016	18	synti	SG.PTV	syntiä␣
+1j005:016	21a	kuolema	DER.SG.TRA	kuolemaksi
+1j005:016	20	%case	TRA	
+1j005:016	21b	.	PUNC	.␣
+1j005:016	22	olla	COP.ACT.PRES.3S	On␣
+1j005:016	23	synti	SG.PTV	syntiä
+1j005:016	-	(,)	PUNC	,␣
+1j005:016	-	(joka)	REL.INDEF.SG.NOM	joka␣
+1j005:016	-	(olla)	COP.ACT.PRES.3S	on␣
+1j005:016	25a	kuolema	DER.SG.TRA	kuolemaksi
+1j005:016	24	%case	TRA	
+1j005:016	25b	;	PUNC	;␣
+1j005:016	28	se	DEM.SG.ELA	siitä␣
+1j005:016	27	%case	LOC	
+1j005:016	29	(minä)	PERS.SG.NOM	minä␣
+1j005:016	26	ei	NEGV.1S	en␣
+1j005:016	29	sanoa	ACT.PRES.NEG	sano
+1j005:016	-	(,)	PUNC	,␣
+1j005:016	30	että	SUBORD	että␣
+1j005:016	31a	(olla)	COP.ACT.COND.3S	olisi␣
+1j005:016	31a	rukoilla	PSS.PCP1.NECE	rukoiltava
+1j005:016	31b	.	PUNC	.␣
+1j005:017	1j005:017	1j005:017	VERSE	1Jh␣5:17␣
+1j005:017	1	kaikki	INDEF.SG.NOM	Kaikki␣
+1j005:017	2	vääryys	SG.NOM	vääryys␣
+1j005:017	4a	olla	COP.ACT.PRES.3S	on␣
+1j005:017	3	synti	SG.PTV	syntiä
+1j005:017	4b	.	PUNC	.␣
+1j005:017	5	ja	CNJ	Ja␣
+1j005:017	6	olla	COP.ACT.PRES.3S	on␣
+1j005:017	7	synti	SG.PTV	syntiä
+1j005:017	-	(,)	PUNC	,␣
+1j005:017	-	(joka)	REL.INDEF.SG.NOM	joka␣
+1j005:017	8	ei	NEGV.3S	ei␣
+1j005:017	-	(olla)	COP.ACT.PRES.NEG	ole␣
+1j005:017	10a	kuolema	DER.SG.TRA	kuolemaksi
+1j005:017	9	%case	TRA	
+1j005:017	10b	.	PUNC	.␣
+1j005:018	1j005:018	1j005:018	VERSE	1Jh␣5:18␣
+1j005:018	1	(me)	PERS.PL.NOM	Me␣
+1j005:018	1	tietää	ACT.PRES.1P	tiedämme
+1j005:018	-	(,)	PUNC	,␣
+1j005:018	2 9	ettei	NEGV.3S	ettei␣
+1j005:018	3	1	NUM.SG.NOM.-CLITIC	yksikään␣
+1j005:018	(7) 8	Jumala	SG.ELA	Jumalasta␣
+1j005:018	6	%case	LOC	
+1j005:018	(4) 5	syntyä:syntynyt	ACT.PCP2.SG.NOM	syntynyt␣
+1j005:018	10a	tehdä	ACT.PRES.NEG	tee␣
+1j005:018	10a	synti	SG.PTV	syntiä
+1j005:018	10b	;	PUNC	;␣
+1j005:018	11	vaan	SUBORD	vaan␣
+1j005:018	(15) 16	Jumala	SG.ELA	Jumalasta␣
+1j005:018	14	%case	LOC	
+1j005:018	(12) 13	syntyä:syntynyt	ACT.PCP2.SG.NOM	syntynyt␣
+1j005:018	17	pitää	ACT.PRES.3S	pitää␣
+1j005:018	19	itse	REFL.SG.ELA.-3	itsestänsä␣
+1j005:018	17	vaari	DER.ADV	vaarin
+1j005:018	-	(,)	PUNC	,␣
+1j005:018	23	ei	NEGV.3S.-CLITIC	eikä␣
+1j005:018	20	%clitic	kA	
+1j005:018	25a	hän	PERS.SG.ILL	häneen␣
+1j005:018	24	ryhtyä	ACT.PRES.NEG	ryhdy␣
+1j005:018	21	se	DEM.SG.NOM	se␣
+1j005:018	22	paha	ADJ.SG.NOM	paha
+1j005:018	25b	.	PUNC	.␣
+1j005:019	1j005:019	1j005:019	VERSE	1Jh␣5:19␣
+1j005:019	1	(me)	PERS.PL.NOM	Me␣
+1j005:019	1	tietää	ACT.PRES.1P	tiedämme
+1j005:019	-	(,)	PUNC	,␣
+1j005:019	2	että	SUBORD	että␣
+1j005:019	6	olla	COP.ACT.PRES.1P	olemme␣
+1j005:019	(4) 5	Jumala	SG.ELA	Jumalasta
+1j005:019	3	%case	LOC	
+1j005:019	-	(,)	PUNC	,␣
+1j005:019	7	ja	CNJ	ja␣
+1j005:019	10	koko	ADJ	koko␣
+1j005:019	(8) 9	maailma	SG.NOM	maailma␣
+1j005:019	14a	olla	COP.ACT.PRES.3S	on␣
+1j005:019	(12) 13	paha	ADJ.SG.GEN	pahan␣
+1j005:019	11	%case	GEN	
+1j005:019	14a	valta	SG.INE	vallassa
+1j005:019	14b	.	PUNC	.␣
+1j005:020	1j005:020	1j005:020	VERSE	1Jh␣5:20␣
+1j005:020	2	mutta	CNJ	Mutta␣
+1j005:020	1	(me)	PERS.PL.NOM	me␣
+1j005:020	1	tietää	ACT.PRES.1P	tiedämme
+1j005:020	-	(,)	PUNC	,␣
+1j005:020	3	että	SUBORD	että␣
+1j005:020	(6) 7	Jumala	SG.GEN	Jumalan␣
+1j005:020	(4) 5	Poika	SG.NOM	Poika␣
+1j005:020	8	(olla)	COP.ACT.PRES.3S	on␣
+1j005:020	8	tulla	ACT.PCP2.PERF	tullut␣
+1j005:020	9	ja	CNJ	ja␣
+1j005:020	10	antaa	ACT.PCP2.PERF	antanut␣
+1j005:020	11	me	PERS.PL.ALL	meille␣
+1j005:020	12	ymmärrys	DER.SG.GEN	ymmärryksen
+1j005:020	-	(,)	PUNC	,␣
+1j005:020	14	tuntea	INF1.TRA.-1	tunteaksemme␣
+1j005:020	13	%case	TRA	
+1j005:020	15	se	DEM.SG.GEN	sen␣
+1j005:020	16a	Totinen	ADJ.SG.GEN	Totisen
+1j005:020	16b	;	PUNC	;␣
+1j005:020	17	ja	CNJ	ja␣
+1j005:020	18	(me)	PERS.PL.NOM	me␣
+1j005:020	18	olla	COP.ACT.PRES.1P	olemme␣
+1j005:020	20	se	DEM.SG.INE	siinä␣
+1j005:020	21a	Totinen	ADJ.SG.INE	Totisessa
+1j005:020	19	%case	LOC	
+1j005:020	21b	,	PUNC	,␣
+1j005:020	25	hän	PERS.SG.GEN	hänen␣
+1j005:020	(23) 24	Poika	SG.INE.-3	Pojassansa
+1j005:020	22	%case	LOC	
+1j005:020	-	(,)	PUNC	,␣
+1j005:020	26	Jeesus	PR.SG.INE	Jeesuksessa␣
+1j005:020	27a	Kristus	PR.SG.INE	Kristuksessa
+1j005:020	27b	.	PUNC	.␣
+1j005:020	28	hän	PERS.SG.NOM	Hän␣
+1j005:020	29	olla	COP.ACT.PRES.3S	on␣
+1j005:020	31	totinen	ADJ.SG.NOM	totinen␣
+1j005:020	(30) 32	Jumala	SG.NOM	Jumala␣
+1j005:020	33	ja	CNJ	ja␣
+1j005:020	35a	iankaikkinen	ADJ.SG.NOM	iankaikkinen␣
+1j005:020	34	elämä	DER.SG.NOM	elämä
+1j005:020	35b	.	PUNC	.␣
+1j005:021	1j005:021	1j005:021	VERSE	1Jh␣5:21␣
+1j005:021	1a	lapsukainen	PL.NOM	Lapsukaiset
+1j005:021	1b	,	PUNC	,␣
+1j005:021	2	kavahtaa	ACT.IMP.2P	kavahtakaa␣
+1j005:021	3	%case	?	
+1j005:021	(5) 6a	epä_jumala	PL.PTV	epäjumalia
+1j005:021	4	%case	PTV	
+1j005:021	6b	.	PUNC	.␣

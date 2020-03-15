@@ -1,0 +1,1107 @@
+hg001:001	hg001:001	hg001:001	VERSE	Hag␣1:1␣
+hg001:001	(4a) 4b	kuningas	SG.NOM	Kuningas␣
+hg001:001	3b	Daarejaves	PR.SG.GEN	Daarejaveksen␣
+hg001:001	3a	%case	GEN	
+hg001:001	2		ORD.SG.ESS	toisena␣
+hg001:001	1b	vuosi	SG.ESS	vuotena
+hg001:001	1a	%case	ESS	
+hg001:001	-	(,)	PUNC	,␣
+hg001:001	(6a) 6b		ORD.SG.INE	kuudennessa␣
+hg001:001	5b	kuu	SG.INE	kuussa
+hg001:001	5a	%case	LOC	
+hg001:001	-	(,)	PUNC	,␣
+hg001:001	9b	kuu_kausi	SG.GEN	kuukauden␣
+hg001:001	9a	%case	GEN	
+hg001:001	8		ORD.SG.ESS	ensimmäisenä␣
+hg001:001	7b	päivä	SG.ESS	päivänä
+hg001:001	7a	%case	ESS	
+hg001:001	-	(,)	PUNC	,␣
+hg001:001	10	tulla	ACT.PAST.3S	tuli␣
+hg001:001	-	(tämä)	DEM.SG.NOM	tämä␣
+hg001:001	12	Herra	SG.GEN	Herran␣
+hg001:001	11	sana	SG.NOM	sana␣
+hg001:001	(15a) 15b	profeetta	SG.NOM	profeetta␣
+hg001:001	14	Haggai	PR.SG.GEN	Haggain␣
+hg001:001	13b	kautta	PREP	kautta␣
+hg001:001	13a	%case	?	
+hg001:001	21	Juuda	PR.SG.GEN	Juudan␣
+hg001:001	20	käskyn_haltija	SG.ALL	käskynhaltijalle␣
+hg001:001	17	Serubbaabel	PR.SG.ALL	Serubbaabelille
+hg001:001	16	%case	LOC	
+hg001:001	-	(,)	PUNC	,␣
+hg001:001	19	Sealtiel	PR.SG.GEN	Sealtielin␣
+hg001:001	18	poika	SG.ALL	pojalle
+hg001:001	-	(,)	PUNC	,␣
+hg001:001	22a	ja	CNJ	ja␣
+hg001:001	(27a) 27b	ylimmäinen	ADJ.SG.ALL	ylimmäiselle␣
+hg001:001	(26a) 26b	pappi	SG.ALL	papille␣
+hg001:001	23	Joosua	PR.SG.ALL	Joosualle
+hg001:001	22b	%case	LOC	
+hg001:001	-	(,)	PUNC	,␣
+hg001:001	25	Joosadak	PR.SG.GEN	Joosadakin␣
+hg001:001	24	poika	SG.ALL	pojalle
+hg001:001	(28a) (28b)	-	UNTRANSLATED	
+hg001:001	-	(:)	PUNC	:␣
+hg001:002	hg001:002	hg001:002	VERSE	Hag␣1:2␣
+hg001:002	-	(")	PUNC.LEFT	"
+hg001:002	1	näin	ADV.AD-A	Näin␣
+hg001:002	2	sanoa	ACT.PRES.3S	sanoo␣
+hg001:002	3	Herra	SG.NOM	Herra␣
+hg001:002	4	Sebaot	PR.SG.NOM	Sebaot
+hg001:002	(5a) (5b)	-	UNTRANSLATED	
+hg001:002	-	(:)	PUNC	:␣
+hg001:002	(7a) 7b	tämä	DEM.SG.NOM	Tämä␣
+hg001:002	(6a) 6b	kansa	SG.NOM	kansa␣
+hg001:002	8	sanoa	ACT.PRES.3S	sanoo
+hg001:002	-	(:)	PUNC	:␣
+hg001:002	10	aika	SG.NOM	Aika␣
+hg001:002	9	ei	NEGV.3S	ei␣
+hg001:002	11	(olla)	COP.ACT.PRES.NEG	ole␣
+hg001:002	11	tulla	ACT.PCP2.PERF	tullut␣
+hg001:002	15b	rakentaa	INF1.LAT	rakentaa␣
+hg001:002	15a	%case	LAT	
+hg001:002	14	Herra	SG.GEN	Herran␣
+hg001:002	13	huone	SG.PTV	huonetta
+hg001:002	12	%case	PTV	
+hg001:002	-	(")	PUNC.RIGHT	"
+hg001:002	-	(.)	PUNC	.␣
+hg001:003	hg001:003	hg001:003	VERSE	Hag␣1:3␣
+hg001:003	1a	mutta	CNJ	Mutta␣
+hg001:003	(6a) 6b	profeetta	SG.NOM	profeetta␣
+hg001:003	5	Haggai	PR.SG.GEN	Haggain␣
+hg001:003	4b	kautta	PREP	kautta␣
+hg001:003	4a	%case	?	
+hg001:003	1b	tulla	ACT.PAST.3S	tuli␣
+hg001:003	7a 7b	tämä	DEM.SG.NOM	tämä␣
+hg001:003	3	Herra	SG.GEN	Herran␣
+hg001:003	2	sana	SG.NOM	sana
+hg001:003	-	(:)	PUNC	:␣
+hg001:004	hg001:004	hg001:004	VERSE	Hag␣1:4␣
+hg001:004	-	(")	PUNC.LEFT	"
+hg001:004	1a	olla	COP.ACT.PRES.3S.-CLITIC	Onko␣
+hg001:004	-	(sitten)	ADV	sitten␣
+hg001:004	1b	aika	SG.NOM	aika␣
+hg001:004	(2)	-	UNTRANSLATED	
+hg001:004	3	te	PERS.PL.GEN	teidän␣
+hg001:004	4b	asua	INF1.LAT	asua␣
+hg001:004	4a	%case	LAT	
+hg001:004	6	paneli	SG.ADE	panelilla␣
+hg001:004	6	kaunistaa:kaunistettu	PSS.PCP2.PL.INE	kaunistetuissa␣
+hg001:004	5b	huone	PL.INE.-2	huoneissanne
+hg001:004	5a	%case	LOC	
+hg001:004	-	(,)	PUNC	,␣
+hg001:004	7a	kun	SUBORD	kun␣
+hg001:004	(8a) 8b	tämä	DEM.SG.NOM	tämä␣
+hg001:004	(7b) 7c	huone	SG.NOM	huone␣
+hg001:004	-	(olla)	COP.ACT.PRES.3S	on␣
+hg001:004	9	raunio	SG.ESS	rauniona
+hg001:004	-	(?)	PUNC	?␣
+hg001:005	hg001:005	hg001:005	VERSE	Hag␣1:5␣
+hg001:005	1a	ja	CNJ	Ja␣
+hg001:005	1b	nyt	ADV	nyt␣
+hg001:005	3	sanoa	ACT.PRES.3S	sanoo␣
+hg001:005	4	Herra	SG.NOM	Herra␣
+hg001:005	5	Sebaot	PR.SG.NOM	Sebaot␣
+hg001:005	2	näin	ADV.AD-A	näin
+hg001:005	-	(:)	PUNC	:␣
+hg001:005	6 7	ottaa	ACT.IMP.2P	Ottakaa␣
+hg001:005	6 7	vaari	DER.ADV	vaari␣
+hg001:005	9	tie	PL.ELA.-2	teistänne
+hg001:005	8	%case	LOC	
+hg001:005	-	(.)	PUNC	.␣
+hg001:006	hg001:006	hg001:006	VERSE	Hag␣1:6␣
+hg001:006	1	(te)	PERS.PL.NOM	Te␣
+hg001:006	1	kylvää	ACT.PRES.2P	kylvätte␣
+hg001:006	2	paljon	ADV.AD-A	paljon
+hg001:006	-	(,)	PUNC	,␣
+hg001:006	3a	mutta	CNJ	mutta␣
+hg001:006	3b	saada	ACT.PRES.2P	saatte␣
+hg001:006	4	vähän	ADV	vähän
+hg001:006	-	(.)	PUNC	.␣
+hg001:006	nf%5	te	PERS.PL.NOM	Te␣
+hg001:006	5	syödä	ACT.PRES.2P	syötte
+hg001:006	-	(,)	PUNC	,␣
+hg001:006	6a	mutta	CNJ	mutta␣
+hg001:006	6b	ei	NEGV.2P	ette␣
+hg001:006	7b	tulla	ACT.PRES.NEG	tule␣
+hg001:006	7b	ravita:ravittu	PSS.PCP2.PL.TRA	ravituiksi
+hg001:006	7a	%case	TRA	
+hg001:006	-	(.)	PUNC	.␣
+hg001:006	nf%8	te	PERS.PL.NOM	Te␣
+hg001:006	8	juoda	ACT.PRES.2P	juotte
+hg001:006	-	(,)	PUNC	,␣
+hg001:006	9a	mutta	CNJ	mutta␣
+hg001:006	10b	jano	SG.NOM	jano␣
+hg001:006	9b	ei	NEGV.3S	ei␣
+hg001:006	10b	sammua	ACT.PRES.NEG	sammu
+hg001:006	10a	%case	?	
+hg001:006	-	(.)	PUNC	.␣
+hg001:006	nf%11	te	PERS.PL.NOM	Te␣
+hg001:006	11	vaatettaa	ACT.PRES.2P	vaatetatte␣
+hg001:006	11	(itse)	REFL.NOM&SGGEN.-2	itsenne
+hg001:006	-	(,)	PUNC	,␣
+hg001:006	12a	mutta	CNJ	mutta␣
+hg001:006	12b	ei	NEGV.3S	ei␣
+hg001:006	14	tulla	ACT.PRES.NEG	tule␣
+hg001:006	13b	lämmin	ADJ.SG.NOM	lämmin
+hg001:006	13a	%case	NOM	
+hg001:006	-	(.)	PUNC	.␣
+hg001:006	15a	ja	CNJ	Ja␣
+hg001:006	(15b) 15c	palkka_työläinen	SG.NOM	palkkatyöläinen␣
+hg001:006	16	panna	ACT.PRES.3S	panee␣
+hg001:006	16	työ_palkka	SG.GEN	työpalkan␣
+hg001:006	19	reikäinen	ADJ.SG.ILL	reikäiseen␣
+hg001:006	18	kukkaro	SG.ILL	kukkaroon
+hg001:006	17	%case	LOC	
+hg001:006	-	(.)	PUNC	.␣
+hg001:007	hg001:007	hg001:007	VERSE	Hag␣1:7␣
+hg001:007	1	näin	ADV.AD-A	Näin␣
+hg001:007	2	sanoa	ACT.PRES.3S	sanoo␣
+hg001:007	3	Herra	SG.NOM	Herra␣
+hg001:007	4	Sebaot	PR.SG.NOM	Sebaot
+hg001:007	-	(:)	PUNC	:␣
+hg001:007	5 6	ottaa	ACT.IMP.2P	Ottakaa␣
+hg001:007	5 6	vaari	DER.ADV	vaari␣
+hg001:007	8	tie	PL.ELA.-2	teistänne
+hg001:007	7	%case	LOC	
+hg001:007	-	(.)	PUNC	.␣
+hg001:008	hg001:008	hg001:008	VERSE	Hag␣1:8␣
+hg001:008	1	nousta	ACT.IMP.2P	Nouskaa␣
+hg001:008	(2a) 2b	vuori	PL.ALL	vuorille
+hg001:008	(3a)	-	UNTRANSLATED	
+hg001:008	-	(,)	PUNC	,␣
+hg001:008	3b	tuoda	ACT.IMP.2P	tuokaa␣
+hg001:008	4	puu	PL.PTV	puita␣
+hg001:008	5a	ja	CNJ	ja␣
+hg001:008	5b	rakentaa	ACT.IMP.2P	rakentakaa␣
+hg001:008	(6a) 6b	temppeli	SG.NOM	temppeli
+hg001:008	-	(,)	PUNC	,␣
+hg001:008	7a	niin	ADV.AD-A	niin␣
+hg001:008	7b	(minä)	PERS.SG.NOM	minä␣
+hg001:008	8	se	DEM.SG.ILL	siihen␣
+hg001:008	7b	mielistyä	ACT.PRES.1S	mielistyn␣
+hg001:008	10a	ja	CNJ	ja␣
+hg001:008	10b	näyttää	ACT.PRES.1S	näytän␣
+hg001:008	10b	kunnia	NOM&SGGEN.-1	kunniani
+hg001:008	-	(,)	PUNC	,␣
+hg001:008	11	sanoa	ACT.PRES.3S	sanoo␣
+hg001:008	12	Herra	SG.NOM	Herra
+hg001:008	-	(.)	PUNC	.␣
+hg001:009	hg001:009	hg001:009	VERSE	Hag␣1:9␣
+hg001:009	nf%1	te	PERS.PL.NOM	Te␣
+hg001:009	1	odottaa	ACT.PRES.2P	odotatte␣
+hg001:009	3	paljo	ADJ.SG.PTV	paljoa
+hg001:009	2	%case	PTV	
+hg001:009	-	(,)	PUNC	,␣
+hg001:009	4a	mutta	CNJ	mutta␣
+hg001:009	(4b)	-	UNTRANSLATED	
+hg001:009	-	(se)	DEM.SG.NOM	se␣
+hg001:009	5a	mennä	ACT.PRES.3S	menee␣
+hg001:009	5b	vähä	ADJ.PL.ILL	vähiin
+hg001:009	(6a)	-	UNTRANSLATED	
+hg001:009	-	(.)	PUNC	.␣
+hg001:009	6b	(te)	PERS.PL.NOM	Te␣
+hg001:009	6b	tuoda	ACT.PRES.2P	tuotte␣
+hg001:009	(7a) 7b	koti	SG.ILL	kotiin
+hg001:009	-	(,)	PUNC	,␣
+hg001:009	8a	mutta	CNJ	mutta␣
+hg001:009	8b	(minä)	PERS.SG.NOM	minä␣
+hg001:009	8b	puhaltaa	ACT.PRES.1S	puhallan␣
+hg001:009	9	se	DEM.SG.GEN	sen␣
+hg001:009	8b	pois	ADV	pois
+hg001:009	-	(.)	PUNC	.␣
+hg001:009	10 11	minkä_tähden	ADV	Minkätähden
+hg001:009	-	(?)	PUNC	?␣
+hg001:009	12	sanoa	ACT.PRES.3S	sanoo␣
+hg001:009	13	Herra	SG.NOM	Herra␣
+hg001:009	14	Sebaot	PR.SG.NOM	Sebaot
+hg001:009	-	(.)	PUNC	.␣
+hg001:009	pers%16	minä	PERS.SG.GEN	Minun␣
+hg001:009	16	huone	NOM&SGGEN.-1	huoneeni␣
+hg001:009	15	tähden	POST	tähden
+hg001:009	-	(,)	PUNC	,␣
+hg001:009	17	kun	SUBORD	kun␣
+hg001:009	18	se	DEM.SG.NOM	se␣
+hg001:009	-	(olla)	COP.ACT.PRES.3S	on␣
+hg001:009	19	raunio	SG.ESS	rauniona␣
+hg001:009	20a	ja	CNJ	ja␣
+hg001:009	20b	te	PERS.PL.NOM	te␣
+hg001:009	21	juosta	ACT.PRES.2P	juoksette␣
+hg001:009	22	kukin	INDEF.SG.NOM	kukin␣
+hg001:009	pers%23b	oma	ADJ.SG.GEN	oman␣
+hg001:009	23b	huone	NOM&SGGEN.-2	huoneenne␣
+hg001:009	23a	hyväksi	DER.ADV.POS	hyväksi
+hg001:009	-	(.)	PUNC	.␣
+hg001:010	hg001:010	hg001:010	VERSE	Hag␣1:10␣
+hg001:010	1 2	sen_tähden	ADV	Sentähden␣
+hg001:010	3	te	PERS.PL.ABL	teiltä␣
+hg001:010	5	taivas	SG.NOM	taivas␣
+hg001:010	4	pidättää	DER.ACT.PRES.3S	pidättää␣
+hg001:010	6b	kaste	SG.GEN	kasteen␣
+hg001:010	6a	%case	GEN	
+hg001:010	7a	ja	CNJ	ja␣
+hg001:010	(7b) 7c	maa	SG.NOM	maa␣
+hg001:010	8	pidättää	DER.ACT.PRES.3S	pidättää␣
+hg001:010	9	sato	NOM&SGGEN.-3	satonsa
+hg001:010	-	(.)	PUNC	.␣
+hg001:011	hg001:011	hg001:011	VERSE	Hag␣1:11␣
+hg001:011	1a	ja	CNJ	Ja␣
+hg001:011	1b	(minä)	PERS.SG.NOM	minä␣
+hg001:011	1b	(olla)	COP.ACT.PRES.1S	olen␣
+hg001:011	1b	kutsua	ACT.PCP2.PERF	kutsunut␣
+hg001:011	2	kuivuus	DER.SG.GEN	kuivuuden␣
+hg001:011	(4a) 4b	maa	SG.ILL	maahan␣
+hg001:011	3	%case	LOC	
+hg001:011	5a	ja	CNJ	ja␣
+hg001:011	(6a) 6b	vuori	PL.ALL	vuorille
+hg001:011	5b	%case	LOC	
+hg001:011	(7a)	-	UNTRANSLATED	
+hg001:011	-	(,)	PUNC	,␣
+hg001:011	(8a) 8b	vilja	SG.ALL	viljalle
+hg001:011	7b	%case	LOC	
+hg001:011	(9a)	-	UNTRANSLATED	
+hg001:011	-	(,)	PUNC	,␣
+hg001:011	(10a) 10b	viini	SG.ALL	viinille␣
+hg001:011	9b	%case	LOC	
+hg001:011	11a	ja	CNJ	ja␣
+hg001:011	(12a) 12b	öljy	SG.ALL	öljylle
+hg001:011	11b	%case	LOC	
+hg001:011	-	(,)	PUNC	,␣
+hg001:011	13a	ja	CNJ	ja␣
+hg001:011	14	mikä	INT.REL.SG.PTV	mitä␣
+hg001:011	13b	vain	ADV	vain␣
+hg001:011	(16a) 16b	maa	SG.NOM	maa␣
+hg001:011	15	tuottaa	ACT.PRES.3S	tuottaa
+hg001:011	-	(,)	PUNC	,␣
+hg001:011	17a	ja	CNJ	ja␣
+hg001:011	(18a) 18b	ihminen	PL.ALL	ihmisille␣
+hg001:011	17b	%case	LOC	
+hg001:011	19a	ja	CNJ	ja␣
+hg001:011	(20a) 20b	eläin	PL.ALL	eläimille␣
+hg001:011	19b	%case	LOC	
+hg001:011	21a	ja	CNJ	ja␣
+hg001:011	22	kaikki	INDEF.SG.ALL	kaikelle␣
+hg001:011	21b	%case	LOC	
+hg001:011	24	käsi	PL.GEN	kätten␣
+hg001:011	23	vaivan_näkö	SG.ALL	vaivannäölle
+hg001:011	-	(.)	PUNC	.
+hg001:011	-	(")	PUNC.RIGHT	"␣
+hg001:012	hg001:012	hg001:012	VERSE	Hag␣1:12␣
+hg001:012	1a	niin	ADV.AD-A	Niin␣
+hg001:012	2	Serubbaabel	PR.SG.NOM	Serubbaabel
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	4	Sealtiel	PR.SG.GEN	Sealtielin␣
+hg001:012	3	poika	SG.NOM	poika
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	5a	ja	CNJ	ja␣
+hg001:012	(9a) 9b	ylimmäinen	ADJ.SG.NOM	ylimmäinen␣
+hg001:012	(8a) 8b	pappi	SG.NOM	pappi␣
+hg001:012	5b	Joosua	PR.SG.NOM	Joosua
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	7	Joosadak	PR.SG.GEN	Joosadakin␣
+hg001:012	6	poika	SG.NOM	poika
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	10a	ja	CNJ	ja␣
+hg001:012	(12a) 12b	kansa	SG.GEN	kansan␣
+hg001:012	10b	koko	ADJ	koko␣
+hg001:012	11	jäännös	SG.NOM	jäännös␣
+hg001:012	1b	kuulla	ACT.PAST.3S	kuuli␣
+hg001:012	14	Herra	SG.GEN	Herran
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	15	Jumala	NOM&SGGEN.-3	Jumalansa␣
+hg001:012	13b	ääni	SG.PTV	ääntä␣
+hg001:012	13a	%case	PTV	
+hg001:012	16a	ja	CNJ	ja␣
+hg001:012	(19a) 19b	profeetta	SG.NOM	profeetta␣
+hg001:012	18	Haggai	PR.SG.GEN	Haggain␣
+hg001:012	17	sana	PL.PTV	sanoja
+hg001:012	16b	%case	PTV	
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	20b	joka	REL.SG.PTV	jota␣
+hg001:012	20a	varten	POST	varten␣
+hg001:012	22	Herra	SG.NOM	Herra
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	pers%23	he	PERS.PL.GEN	heidän␣
+hg001:012	23	Jumala	NOM&SGGEN.-3	Jumalansa
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	21	(olla)	COP.ACT.PAST.3S	oli␣
+hg001:012	pers%21	hän	PERS.SG.ACC	hänet␣
+hg001:012	21	lähettää	ACT.PCP2.-CLITIC.PERF	lähettänytkin
+hg001:012	-	(,)	PUNC	,␣
+hg001:012	24a	ja	CNJ	ja␣
+hg001:012	(25a) 25b	kansa	SG.NOM	kansa␣
+hg001:012	24b	pelätä	ACT.PAST.3S	pelkäsi␣
+hg001:012	27	Herra	SG.PTV	Herraa
+hg001:012	26a 26b	%case	PTV	
+hg001:012	-	(.)	PUNC	.␣
+hg001:013	hg001:013	hg001:013	VERSE	Hag␣1:13␣
+hg001:013	(1a)	-	UNTRANSLATED	
+hg001:013	2	Haggai	PR.SG.NOM	Haggai
+hg001:013	-	(,)	PUNC	,␣
+hg001:013	4	Herra	SG.GEN	Herran␣
+hg001:013	3	sanan_saattaja	DER.SG.NOM	sanansaattaja
+hg001:013	-	(,)	PUNC	,␣
+hg001:013	1b	sanoa	ACT.PAST.3S	sanoi
+hg001:013	-	(,)	PUNC	,␣
+hg001:013	5b	saattaa	ACT.INF2.MAN	saattaen␣
+hg001:013	5a	%case	MAN	
+hg001:013	6	Herra	SG.GEN	Herran␣
+hg001:013	5b	sana	SG.GEN	sanan
+hg001:013	-	(,)	PUNC	,␣
+hg001:013	7b	kansa	SG.ALL	kansalle␣
+hg001:013	7a	%case	LOC	
+hg001:013	8a 8b	näin	ADV.AD-A	näin
+hg001:013	-	(:)	PUNC	:␣
+hg001:013	-	(")	PUNC.LEFT	"
+hg001:013	9	minä	PERS.SG.NOM	Minä␣
+hg001:013	-	(olla)	COP.ACT.PRES.1S	olen␣
+hg001:013	pers%10	te	PERS.PL.GEN	teidän␣
+hg001:013	10	kanssa	POST.-2	kanssanne
+hg001:013	-	(,)	PUNC	,␣
+hg001:013	11	sanoa	ACT.PRES.3S	sanoo␣
+hg001:013	12	Herra	SG.NOM	Herra
+hg001:013	-	(")	PUNC.RIGHT	"
+hg001:013	-	(.)	PUNC	.␣
+hg001:014	hg001:014	hg001:014	VERSE	Hag␣1:14␣
+hg001:014	1a	ja	CNJ	Ja␣
+hg001:014	2	Herra	SG.NOM	Herra␣
+hg001:014	1b	herättää	ACT.PAST.3S	herätti␣
+hg001:014	9	Juuda	PR.SG.GEN	Juudan␣
+hg001:014	8	käskyn_haltija	SG.GEN	käskynhaltijan␣
+hg001:014	5	Serubbaabel	PR.SG.GEN	Serubbaabelin
+hg001:014	-	(,)	PUNC	,␣
+hg001:014	7	Sealtiel	PR.SG.GEN	Sealtielin␣
+hg001:014	6	poika	SG.GEN	pojan
+hg001:014	-	(,)	PUNC	,␣
+hg001:014	4	henki	SG.GEN	hengen␣
+hg001:014	3	%case	GEN	
+hg001:014	10a	ja	CNJ	ja␣
+hg001:014	(16a) 16b	ylimmäinen	ADJ.SG.GEN	ylimmäisen␣
+hg001:014	(15a) 15b	pappi	SG.GEN	papin␣
+hg001:014	12	Joosua	PR.SG.GEN	Joosuan
+hg001:014	-	(,)	PUNC	,␣
+hg001:014	14	Joosadak	PR.SG.GEN	Joosadakin␣
+hg001:014	13	poika	SG.GEN	pojan
+hg001:014	-	(,)	PUNC	,␣
+hg001:014	11	henki	SG.GEN	hengen␣
+hg001:014	10b	%case	GEN	
+hg001:014	17a	ja	CNJ	ja␣
+hg001:014	(21a) 21b	kansa	SG.GEN	kansan␣
+hg001:014	19	koko	ADJ	koko␣
+hg001:014	20	jäännös	SG.GEN	jäännöksen␣
+hg001:014	18	henki	SG.GEN	hengen
+hg001:014	17b	%case	GEN	
+hg001:014	-	(,)	PUNC	,␣
+hg001:014	22a	ja	CNJ	ja␣
+hg001:014	22b	(he)	PERS.PL.NOM	he␣
+hg001:014	22b	tulla	ACT.PAST.3P	tulivat␣
+hg001:014	23a	ja	CNJ	ja␣
+hg001:014	23b	ryhtyä	ACT.PAST.3P	ryhtyivät␣
+hg001:014	24	rakentaa	INF3.ILL	rakentamaan␣
+hg001:014	26	Herra	SG.GEN	Herran␣
+hg001:014	27	Sebaot	PR.SG.GEN	Sebaotin
+hg001:014	-	(,)	PUNC	,␣
+hg001:014	pers%28	he	PERS.PL.GEN	heidän␣
+hg001:014	28	Jumala	NOM&SGGEN.-3	Jumalansa
+hg001:014	-	(,)	PUNC	,␣
+hg001:014	25b	temppeli	SG.PTV	temppeliä␣
+hg001:014	25a	%case	PTV	
+hg001:015	hg001:015	hg001:015	VERSE	Hag␣1:15␣
+hg001:015	2 (3a) 3b		ORD.SG.ESS	kahdentenakymmenentenä␣
+hg001:015	2 (3a) 3b		ORD.SG.ESS	neljäntenä␣
+hg001:015	1b	päivä	SG.ESS	päivänä␣
+hg001:015	1a	%case	ESS	
+hg001:015	5b		ORD.SG.INE	kuudennessa␣
+hg001:015	5a	%case	LOC	
+hg001:015	4b	kuu	SG.INE	kuussa
+hg001:015	4a	%case	LOC	
+hg001:015	-	(,)	PUNC	,␣
+hg001:015	(9a) 9b	kuningas	SG.NOM	kuningas␣
+hg001:015	8b	Daarejaves	PR.SG.GEN	Daarejaveksen␣
+hg001:015	8a	%case	GEN	
+hg001:015	7		ORD.SG.ESS	toisena␣
+hg001:015	6b	vuosi	SG.ESS	vuotena
+hg001:015	6a	%case	ESS	
+hg001:015	-	(.)	PUNC	.␣
+hg002:001	hg002:001	hg002:001	VERSE	Hag␣2:1␣
+hg002:001	1b		ORD.SG.INE	Seitsemännessä␣
+hg002:001	1a	%case	LOC	
+hg002:001	-	(kuu)	SG.INE	kuussa
+hg002:001	-	(,)	PUNC	,␣
+hg002:001	4b	kuu_kausi	SG.GEN	kuukauden␣
+hg002:001	4a	%case	GEN	
+hg002:001	2b (3a) 3b		ORD.SG.ESS	kahdentenakymmenentenä␣
+hg002:001	2a	%case	ESS	
+hg002:001	2b (3a) 3b		ORD.SG.ESS	ensimmäisenä␣
+hg002:001	-	(päivä)	SG.ESS	päivänä␣
+hg002:001	5	tulla	ACT.PAST.3S	tuli␣
+hg002:001	(10a) 10b	profeetta	SG.NOM	profeetta␣
+hg002:001	9	Haggai	PR.SG.GEN	Haggain␣
+hg002:001	8b	kautta	PREP	kautta␣
+hg002:001	8a	%case	?	
+hg002:001	11a 11b	tämä	DEM.SG.NOM	tämä␣
+hg002:001	7	Herra	SG.GEN	Herran␣
+hg002:001	6	sana	SG.NOM	sana
+hg002:001	-	(:)	PUNC	:␣
+hg002:002	hg002:002	hg002:002	VERSE	Hag␣2:2␣
+hg002:002	-	(")	PUNC.LEFT	"
+hg002:002	1	sanoa	ACT.IMP.2S	Sano␣
+hg002:002	2	%inflection	ACT.IMP.2S	
+hg002:002	8	Juuda	PR.SG.GEN	Juudan␣
+hg002:002	7	käskyn_haltija	SG.ALL	käskynhaltijalle␣
+hg002:002	4	Serubbaabel	PR.SG.ALL	Serubbaabelille
+hg002:002	3	%case	LOC	
+hg002:002	-	(,)	PUNC	,␣
+hg002:002	6	Sealtiel	PR.SG.GEN	Sealtielin␣
+hg002:002	5	poika	SG.ALL	pojalle
+hg002:002	-	(,)	PUNC	,␣
+hg002:002	9a	ja	CNJ	ja␣
+hg002:002	(14a) 14b	ylimmäinen	ADJ.SG.ALL	ylimmäiselle␣
+hg002:002	(13a) 13b	pappi	SG.ALL	papille␣
+hg002:002	10	Joosua	PR.SG.ALL	Joosualle
+hg002:002	9b	%case	LOC	
+hg002:002	-	(,)	PUNC	,␣
+hg002:002	12	Joosadak	PR.SG.GEN	Joosadakin␣
+hg002:002	11	poika	SG.ALL	pojalle
+hg002:002	-	(,)	PUNC	,␣
+hg002:002	15a	ja	CNJ	ja␣
+hg002:002	(17a) 17b	kansa	SG.GEN	kansan␣
+hg002:002	16	jäännös	SG.ALL	jäännökselle␣
+hg002:002	15b	%case	LOC	
+hg002:002	18a 18b	näin	ADV.AD-A	näin
+hg002:002	-	(:)	PUNC	:␣
+hg002:003	hg002:003	hg002:003	VERSE	Hag␣2:3␣
+hg002:003	1	kuka	INT.SG.NOM	Kuka␣
+hg002:003	pers%2	te	PERS.PL.GEN	teidän␣
+hg002:003	2	joukossa	DER.POST.-2	joukossanne␣
+hg002:003	-	(olla)	COP.ACT.PRES.3S	on␣
+hg002:003	(3a) 3b	jäljelle	ADV	jäljelle␣
+hg002:003	(3a) 3b	jäädä:jäänyt	ACT.PCP2.SG.NOM	jäänyt
+hg002:003	-	(,)	PUNC	,␣
+hg002:003	4	joka	REL.INDEF.SG.NOM	joka␣
+hg002:003	5	(olla)	COP.ACT.PRES.3S	on␣
+hg002:003	5	nähdä	ACT.PCP2.PERF	nähnyt␣
+hg002:003	(8a) 8b	tämä	DEM.SG.GEN	tämän␣
+hg002:003	(7a) 7b	temppeli	SG.GEN	temppelin␣
+hg002:003	6	%case	GEN	
+hg002:003	pers%9b	se	DEM.SG.GEN	sen␣
+hg002:003	(10a) 10b	entinen	ADJ.SG.INE	entisessä␣
+hg002:003	9b	kunnia	SG.INE	kunniassa
+hg002:003	9a	%case	LOC	
+hg002:003	-	(?)	PUNC	?␣
+hg002:003	11a	ja	CNJ	Ja␣
+hg002:003	11b	mikä	INT.REL.SG.ABL	miltä␣
+hg002:003	13	näyttää	ACT.PRES.3S	näyttää␣
+hg002:003	14	se	DEM.SG.NOM	se␣
+hg002:003	12	te	PERS.PL.ELA	teistä␣
+hg002:003	15	nyt	ADV	nyt
+hg002:003	-	(?)	PUNC	?␣
+hg002:003	16a 16b	ei	NEGV.3S.-CLITIC	Eikö␣
+hg002:003	pers%17	se	DEM.SG.NOM	se␣
+hg002:003	-	(olla)	COP.ACT.PRES.NEG	ole␣
+hg002:003	18b	tyhjä	ADJ.SG.GEN	tyhjän␣
+hg002:003	18a	%case	GEN	
+hg002:003	17	veroinen	ADJ.SG.NOM	veroinen␣
+hg002:003	pers%19b	te	PERS.PL.GEN	teidän␣
+hg002:003	19b	silmä	PL.INE.-2	silmissänne
+hg002:003	19a	%case	LOC	
+hg002:003	-	(?)	PUNC	?␣
+hg002:004	hg002:004	hg002:004	VERSE	Hag␣2:4␣
+hg002:004	1a	mutta	CNJ	Mutta␣
+hg002:004	1b	nyt	ADV	nyt␣
+hg002:004	2	olla	COP.ACT.IMP.2S	ole␣
+hg002:004	2	luja	ADJ.SG.NOM	luja
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	3	Serubbaabel	PR.SG.NOM	Serubbaabel
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	4	sanoa	ACT.PRES.3S	sanoo␣
+hg002:004	5	Herra	SG.NOM	Herra
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	6a	ja	CNJ	ja␣
+hg002:004	6b	olla	COP.ACT.IMP.2S	ole␣
+hg002:004	6b	luja	ADJ.SG.NOM	luja
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	7	Joosua	PR.SG.NOM	Joosua
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	9	Joosadak	PR.SG.GEN	Joosadakin␣
+hg002:004	8	poika	SG.NOM	poika
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	(11a) 11b	ylimmäinen	ADJ.SG.NOM	ylimmäinen␣
+hg002:004	(10a) 10b	pappi	SG.NOM	pappi
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	12a	ja	CNJ	ja␣
+hg002:004	12b	olla	COP.ACT.IMP.2S	ole␣
+hg002:004	12b	luja	ADJ.SG.NOM	luja
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	(15a) 15b	maa	SG.GEN	maan␣
+hg002:004	13	koko	ADJ	koko␣
+hg002:004	14	kansa	SG.NOM	kansa
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	16	sanoa	ACT.PRES.3S	sanoo␣
+hg002:004	17	Herra	SG.NOM	Herra
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	18a	ja	CNJ	ja␣
+hg002:004	18b	tehdä	ACT.IMP.2P	tehkää␣
+hg002:004	18b	työ	SG.PTV	työtä
+hg002:004	-	(;)	PUNC	;␣
+hg002:004	19	sillä	SUBORD	sillä␣
+hg002:004	20	minä	PERS.SG.NOM	minä␣
+hg002:004	-	(olla)	COP.ACT.PRES.1S	olen␣
+hg002:004	pers%21	te	PERS.PL.GEN	teidän␣
+hg002:004	21	kanssa	POST.-2	kanssanne
+hg002:004	-	(,)	PUNC	,␣
+hg002:004	22	sanoa	ACT.PRES.3S	sanoo␣
+hg002:004	23	Herra	SG.NOM	Herra␣
+hg002:004	24	Sebaot	PR.SG.NOM	Sebaot
+hg002:004	-	(.)	PUNC	.␣
+hg002:005	hg002:005	hg002:005	VERSE	Hag␣2:5␣
+hg002:005	-	(se)	DEM.SG.GEN	Sen␣
+hg002:005	-	(liitto)	SG.GEN	liiton␣
+hg002:005	(2a) 2b	sana	SG.NOM	sana
+hg002:005	1	%case	NOM	
+hg002:005	-	(,)	PUNC	,␣
+hg002:005	3	joka	REL.SG.GEN	jonka␣
+hg002:005	4	(minä)	PERS.SG.NOM	minä␣
+hg002:005	4	tehdä	ACT.PAST.1S	tein␣
+hg002:005	pers%5	te	PERS.PL.GEN	teidän␣
+hg002:005	5	kanssa	POST.-2	kanssanne
+hg002:005	-	(,)	PUNC	,␣
+hg002:005	6a	kun	SUBORD	kun␣
+hg002:005	6b	(te)	PERS.PL.NOM	te␣
+hg002:005	6b	lähteä	ACT.PAST.2P	läksitte␣
+hg002:005	7b	Egypti	PR.SG.ELA	Egyptistä
+hg002:005	7a	%case	LOC	
+hg002:005	-	(,)	PUNC	,␣
+hg002:005	8a	ja	CNJ	ja␣
+hg002:005	pers%8b	minä	PERS.SG.GEN	minun␣
+hg002:005	8b	Henki	NOM&SGGEN.-1	Henkeni␣
+hg002:005	9	pysyä	ACT.PRES.3S	pysyy␣
+hg002:005	pers%10b	te	PERS.PL.GEN	teidän␣
+hg002:005	10b	keskellä	PREP.-2	keskellänne
+hg002:005	10a	%case	LOC	
+hg002:005	-	(.)	PUNC	.␣
+hg002:005	11	älä	NEGV.ACT.IMP.2P	Älkää␣
+hg002:005	12	peljätä	ACT.IMP.NEG	peljätkö
+hg002:005	-	(.)	PUNC	.␣
+hg002:006	hg002:006	hg002:006	VERSE	Hag␣2:6␣
+hg002:006	1	sillä	SUBORD	Sillä␣
+hg002:006	2	näin	ADV.AD-A	näin␣
+hg002:006	3	sanoa	ACT.PRES.3S	sanoo␣
+hg002:006	4	Herra	SG.NOM	Herra␣
+hg002:006	5	Sebaot	PR.SG.NOM	Sebaot
+hg002:006	-	(:)	PUNC	:␣
+hg002:006	6	vielä	ADV	Vielä␣
+hg002:006	8	vähän	ADV	vähän␣
+hg002:006	7	aika	SG.PTV	aikaa
+hg002:006	(9)	-	UNTRANSLATED	
+hg002:006	-	(,)	PUNC	,␣
+hg002:006	10a	ja	CNJ	ja␣
+hg002:006	10b	minä	PERS.SG.NOM	minä␣
+hg002:006	11	liikuttaa	DER.ACT.PRES.1S	liikutan␣
+hg002:006	(13a) 13b	taivas	PL.NOM	taivaat␣
+hg002:006	12	%case	NOM	
+hg002:006	14a	ja	CNJ	ja␣
+hg002:006	(15a) 15b	maa	SG.GEN	maan
+hg002:006	14b	%case	GEN	
+hg002:006	(16a)	-	UNTRANSLATED	
+hg002:006	-	(,)	PUNC	,␣
+hg002:006	(17a) 17b	meri	SG.GEN	meren␣
+hg002:006	16b	%case	GEN	
+hg002:006	18a	ja	CNJ	ja␣
+hg002:006	(19a) 19b	kuiva	ADJ.SG.GEN	kuivan
+hg002:006	18b	%case	GEN	
+hg002:006	-	(.)	PUNC	.␣
+hg002:007	hg002:007	hg002:007	VERSE	Hag␣2:7␣
+hg002:007	1a	ja	CNJ	Ja␣
+hg002:007	1b	(minä)	PERS.SG.NOM	minä␣
+hg002:007	1b	liikuttaa	DER.ACT.PRES.1S	liikutan␣
+hg002:007	3	kaikki	INDEF.SG.NOM	kaikki␣
+hg002:007	2	%case	NOM	
+hg002:007	(4a) 4b	pakana_kansa	PL.NOM	pakanakansat
+hg002:007	-	(,)	PUNC	,␣
+hg002:007	5a	ja	CNJ	ja␣
+hg002:007	7	kaikki	INDEF.PL.GEN	kaikkien␣
+hg002:007	(8a) 8b	pakana_kansa	PL.GEN	pakanakansojen␣
+hg002:007	6	kalleus	PL.NOM	kalleudet␣
+hg002:007	5b	tulla	ACT.PRES.3P	tulevat
+hg002:007	-	(,)	PUNC	,␣
+hg002:007	9a	ja	CNJ	ja␣
+hg002:007	9b	(minä)	PERS.SG.NOM	minä␣
+hg002:007	9b	täyttää	ACT.PRES.1S	täytän␣
+hg002:007	(12a) 12b	tämä	DEM.SG.GEN	tämän␣
+hg002:007	(11a) 11b	temppeli	SG.GEN	temppelin␣
+hg002:007	10	%case	GEN	
+hg002:007	13	kunnia	SG.ADE	kunnialla
+hg002:007	-	(,)	PUNC	,␣
+hg002:007	14	sanoa	ACT.PRES.3S	sanoo␣
+hg002:007	15	Herra	SG.NOM	Herra␣
+hg002:007	16	Sebaot	PR.SG.NOM	Sebaot
+hg002:007	-	(.)	PUNC	.␣
+hg002:008	hg002:008	hg002:008	VERSE	Hag␣2:8␣
+hg002:008	1	minä	PERS.SG.GEN	Minun␣
+hg002:008	-	(olla)	COP.ACT.PRES.3S	on␣
+hg002:008	(2a) 2b	hopea	SG.NOM	hopea
+hg002:008	-	(,)	PUNC	,␣
+hg002:008	3a	ja	CNJ	ja␣
+hg002:008	3b	minä	PERS.SG.GEN	minun␣
+hg002:008	-	(olla)	COP.ACT.PRES.3S	on␣
+hg002:008	(4a) 4b	kulta	SG.NOM	kulta
+hg002:008	-	(,)	PUNC	,␣
+hg002:008	5	sanoa	ACT.PRES.3S	sanoo␣
+hg002:008	6	Herra	SG.NOM	Herra␣
+hg002:008	7	Sebaot	PR.SG.NOM	Sebaot
+hg002:008	-	(.)	PUNC	.␣
+hg002:009	hg002:009	hg002:009	VERSE	Hag␣2:9␣
+hg002:009	(5a) 5b	tämä	DEM.SG.GEN	Tämän␣
+hg002:009	(4a) 4b	temppeli	SG.GEN	temppelin␣
+hg002:009	(6a) 6b	myöhä	ADJ.CMP.SG.NOM	myöhempi␣
+hg002:009	3	kunnia	SG.NOM	kunnia␣
+hg002:009	2	(olla)	COP.ACT.PRES.3S	on␣
+hg002:009	2	olla	COP.ACT.PCP1.FUTR	oleva␣
+hg002:009	1	suuri	ADJ.CMP.SG.NOM	suurempi␣
+hg002:009	7	kuin	SUBORD	kuin␣
+hg002:009	(8a) 8b	aikainen	ADJ.CMP.SG.NOM	aikaisempi
+hg002:009	-	(,)	PUNC	,␣
+hg002:009	9	sanoa	ACT.PRES.3S	sanoo␣
+hg002:009	10	Herra	SG.NOM	Herra␣
+hg002:009	11	Sebaot	PR.SG.NOM	Sebaot
+hg002:009	-	(.)	PUNC	.␣
+hg002:009	12a	ja	CNJ	Ja␣
+hg002:009	(13a) 13b	tämä	DEM.SG.INE	tässä␣
+hg002:009	12c	paikka	SG.INE	paikassa␣
+hg002:009	12b	%case	LOC	
+hg002:009	14	(minä)	PERS.SG.NOM	minä␣
+hg002:009	14	antaa	ACT.PRES.1S	annan␣
+hg002:009	14	(vallita)	INF1.LAT	vallita␣
+hg002:009	15	rauha	SG.GEN	rauhan
+hg002:009	-	(,)	PUNC	,␣
+hg002:009	16	sanoa	ACT.PRES.3S	sanoo␣
+hg002:009	17	Herra	SG.NOM	Herra␣
+hg002:009	18	Sebaot	PR.SG.NOM	Sebaot
+hg002:009	-	(.)	PUNC	.
+hg002:009	-	(")	PUNC.RIGHT	"␣
+hg002:010	hg002:010	hg002:010	VERSE	Hag␣2:10␣
+hg002:010	3b		ORD.SG.GEN	Yhdeksännen␣
+hg002:010	3a	%case	GEN	
+hg002:010	-	(kuu)	SG.GEN	kuun␣
+hg002:010	1b (2a) 2b		ORD.SG.ESS	kahdentenakymmenentenä␣
+hg002:010	1a	%case	ESS	
+hg002:010	1b (2a) 2b		ORD.SG.ESS	neljäntenä␣
+hg002:010	-	(päivä)	SG.ESS	päivänä
+hg002:010	-	(,)	PUNC	,␣
+hg002:010	6b	Daarejaves	PR.SG.GEN	Daarejaveksen␣
+hg002:010	6a	%case	GEN	
+hg002:010	5		ORD.SG.ESS	toisena␣
+hg002:010	4b	vuosi	SG.ESS	vuotena
+hg002:010	4a	%case	ESS	
+hg002:010	-	(,)	PUNC	,␣
+hg002:010	7	tulla	ACT.PAST.3S	tuli␣
+hg002:010	(12a) 12b	profeetta	SG.NOM	profeetta␣
+hg002:010	11	Haggai	PR.SG.GEN	Haggain␣
+hg002:010	10	kautta	PREP	kautta␣
+hg002:010	13a 13b	tämä	DEM.SG.NOM	tämä␣
+hg002:010	9	Herra	SG.GEN	Herran␣
+hg002:010	8	sana	SG.NOM	sana
+hg002:010	-	(:)	PUNC	:␣
+hg002:011	hg002:011	hg002:011	VERSE	Hag␣2:11␣
+hg002:011	-	(")	PUNC.LEFT	"
+hg002:011	1	näin	ADV.AD-A	Näin␣
+hg002:011	2	sanoa	ACT.PRES.3S	sanoo␣
+hg002:011	3	Herra	SG.NOM	Herra␣
+hg002:011	4	Sebaot	PR.SG.NOM	Sebaot
+hg002:011	-	(:)	PUNC	:␣
+hg002:011	5	pyytää	ACT.IMP.2S	Pyydä␣
+hg002:011	6	%inflection	ACT.IMP.2S	
+hg002:011	(8a) 8b	pappi	PL.ABL	papeilta␣
+hg002:011	7	%case	LOC	
+hg002:011	9	opetus	DER.SG.PTV	opetusta␣
+hg002:011	-	(ja)	CNJ	ja␣
+hg002:011	10a 10b	sanoa	ACT.PRES.NEG	sano
+hg002:011	-	(:)	PUNC	:␣
+hg002:012	hg002:012	hg002:012	VERSE	Hag␣2:12␣
+hg002:012	1	katso	INTJ	Katso
+hg002:012	-	(,)	PUNC	,␣
+hg002:012	3	mies	SG.NOM	mies␣
+hg002:012	2	kantaa	ACT.PRES.3S	kantaa␣
+hg002:012	5	pyhä	ADJ.SG.PTV	pyhää␣
+hg002:012	4	liha	SG.PTV	lihaa␣
+hg002:012	7	vaate	NOM&SGGEN.-3	vaatteensa␣
+hg002:012	6b	lieve	SG.INE	liepeessä␣
+hg002:012	6a	%case	LOC	
+hg002:012	8a	ja	CNJ	ja␣
+hg002:012	8b	koskettaa	ACT.PRES.3S	koskettaa␣
+hg002:012	9b	lieve	SG.ADE.-3	liepeellänsä␣
+hg002:012	9a	%case	LOC	
+hg002:012	(11a) 11b	leipä	SG.PTV	leipää␣
+hg002:012	10	%case	PTV	
+hg002:012	12a	tai	CNJ	tai␣
+hg002:012	(13a) 13b	keitto	SG.PTV	keittoa
+hg002:012	12b	%case	PTV	
+hg002:012	(14a)	-	UNTRANSLATED	
+hg002:012	-	(,)	PUNC	,␣
+hg002:012	(15a) 15b	viini	SG.PTV	viiniä
+hg002:012	14b	%case	PTV	
+hg002:012	(16a)	-	UNTRANSLATED	
+hg002:012	-	(,)	PUNC	,␣
+hg002:012	17	öljy	SG.PTV	öljyä␣
+hg002:012	16b	%case	PTV	
+hg002:012	18a	tai	CNJ	tai␣
+hg002:012	19	muu	INDEF.SG.PTV	muuta␣
+hg002:012	20	ruoka	SG.PTV	ruokaa
+hg002:012	18b	%case	PTV	
+hg002:012	-	(,)	PUNC	,␣
+hg002:012	19	mikä	INT.REL.SG.PTV	mitä␣
+hg002:012	19	hyvänsä	ADV	hyvänsä
+hg002:012	-	(;)	PUNC	;␣
+hg002:012	21b	tulla	ACT.PRES.3S.-CLITIC	tuleeko␣
+hg002:012	21a	%clitic	kO	
+hg002:012	-	(se)	DEM.SG.NOM	se␣
+hg002:012	-	(se)	DEM.SG.ELA	siitä␣
+hg002:012	21b	pyhä	ADJ.SG.TRA	pyhäksi
+hg002:012	-	(?)	PUNC	?
+hg002:012	-	(")	PUNC.RIGHT	"␣
+hg002:012	22a	niin	ADV.AD-A	Niin␣
+hg002:012	(23a) 23b	pappi	PL.NOM	papit␣
+hg002:012	22b	vastata	ACT.PAST.3P	vastasivat␣
+hg002:012	24a	ja	CNJ	ja␣
+hg002:012	24b	sanoa	ACT.PAST.3P	sanoivat
+hg002:012	-	(:)	PUNC	:␣
+hg002:012	-	(")	PUNC.LEFT	"
+hg002:012	25	ei	NEGV.3S	Ei
+hg002:012	-	(")	PUNC.RIGHT	"
+hg002:012	-	(.)	PUNC	.␣
+hg002:013	hg002:013	hg002:013	VERSE	Hag␣2:13␣
+hg002:013	1a	ja	CNJ	Ja␣
+hg002:013	2	Haggai	PR.SG.NOM	Haggai␣
+hg002:013	1b	sanoa	ACT.PAST.3S	sanoi
+hg002:013	-	(:)	PUNC	:␣
+hg002:013	-	(")	PUNC.LEFT	"
+hg002:013	3	jos	SUBORD	Jos␣
+hg002:013	-	(joku)	INDEF.SG.NOM	joku
+hg002:013	-	(,)	PUNC	,␣
+hg002:013	-	(joka)	REL.INDEF.SG.NOM	joka␣
+hg002:013	-	(olla)	COP.ACT.PRES.3S	on␣
+hg002:013	6	kuollut	ADJ.SG.ELA	kuolleesta␣
+hg002:013	5	saastua:saastunut	ACT.PCP2.SG.NOM	saastunut
+hg002:013	-	(,)	PUNC	,␣
+hg002:013	4	koskettaa	ACT.PRES.3S	koskettaa␣
+hg002:013	7b	jokin	INDEF.SG.PTV	jotakin␣
+hg002:013	7a	%case	PTV	
+hg002:013	8	nämä	DEM.PL.ELA	näistä
+hg002:013	-	(,)	PUNC	,␣
+hg002:013	9b	tulla	ACT.PRES.3S.-CLITIC	tuleeko␣
+hg002:013	9a	%clitic	kO	
+hg002:013	-	(se)	DEM.SG.NOM	se␣
+hg002:013	9b	saastainen	ADJ.SG.TRA	saastaiseksi
+hg002:013	-	(?)	PUNC	?
+hg002:013	-	(")	PUNC.RIGHT	"␣
+hg002:013	10a	niin	ADV.AD-A	Niin␣
+hg002:013	(11a) 11b	pappi	PL.NOM	papit␣
+hg002:013	10b	vastata	ACT.PAST.3P	vastasivat
+hg002:013	(12a) (12b)	-	UNTRANSLATED	
+hg002:013	-	(:)	PUNC	:␣
+hg002:013	-	(")	PUNC.LEFT	"
+hg002:013	13	tulla	ACT.PRES.3S	Tulee␣
+hg002:013	13	saastainen	ADJ.SG.TRA	saastaiseksi
+hg002:013	-	(")	PUNC.RIGHT	"
+hg002:013	-	(.)	PUNC	.␣
+hg002:014	hg002:014	hg002:014	VERSE	Hag␣2:14␣
+hg002:014	1a	silloin	ADV	Silloin␣
+hg002:014	2	Haggai	PR.SG.NOM	Haggai␣
+hg002:014	1b	lausua	ACT.PAST.3S	lausui␣
+hg002:014	3a	ja	CNJ	ja␣
+hg002:014	3b	sanoa	ACT.PAST.3S	sanoi
+hg002:014	-	(:)	PUNC	:␣
+hg002:014	-	(")	PUNC.LEFT	"
+hg002:014	4	sellainen	ADJ.SG.PTV	Sellaista␣
+hg002:014	-	(olla)	COP.ACT.PRES.3S	on␣
+hg002:014	(6a) 6b	tämä	DEM.SG.NOM	tämä␣
+hg002:014	(5a) 5b	väki	SG.NOM	väki
+hg002:014	(7a)	-	UNTRANSLATED	
+hg002:014	-	(,)	PUNC	,␣
+hg002:014	7b	sellainen	ADJ.SG.PTV	sellaista␣
+hg002:014	(9a) 9b	tämä	DEM.SG.NOM	tämä␣
+hg002:014	(8a) 8b	kansa	SG.NOM	kansa␣
+hg002:014	pers%10b	minä	PERS.SG.GEN	minun␣
+hg002:014	10b	edessä	PREP.-1	edessäni
+hg002:014	10a	%case	LOC	
+hg002:014	-	(,)	PUNC	,␣
+hg002:014	11	sanoa	ACT.PRES.3S	sanoo␣
+hg002:014	12	Herra	SG.NOM	Herra
+hg002:014	(13a)	-	UNTRANSLATED	
+hg002:014	-	(.)	PUNC	.␣
+hg002:014	13b	sellainen	ADJ.PL.NOM	Sellaiset␣
+hg002:014	-	(olla)	COP.ACT.PRES.3P	ovat␣
+hg002:014	14	kaikki	INDEF.SG.NOM	kaikki␣
+hg002:014	pers%16	he	PERS.PL.GEN	heidän␣
+hg002:014	16	käsi	PL.GEN.-3	kättensä␣
+hg002:014	15	työ	PL.NOM	työt␣
+hg002:014	17a	ja	CNJ	ja␣
+hg002:014	-	(se)	DEM.SG.NOM	se
+hg002:014	-	(,)	PUNC	,␣
+hg002:014	17b	mikä	INT.REL.SG.PTV	mitä␣
+hg002:014	18	(he)	PERS.PL.NOM	he␣
+hg002:014	19	siellä	ADV	siellä␣
+hg002:014	18	(uhri)	SG.TRA	uhriksi␣
+hg002:014	18	tuoda	ACT.PRES.3P	tuovat
+hg002:014	-	(:)	PUNC	:␣
+hg002:014	21	se	DEM.SG.NOM	se␣
+hg002:014	-	(olla)	COP.ACT.PRES.3S	on␣
+hg002:014	20	saastainen	ADJ.SG.PTV	saastaista
+hg002:014	-	(.)	PUNC	.␣
+hg002:015	hg002:015	hg002:015	VERSE	Hag␣2:15␣
+hg002:015	1a	ja	CNJ	Ja␣
+hg002:015	1b	nyt	ADV	nyt␣
+hg002:015	2 4	ottaa	ACT.IMP.2P	ottakaa␣
+hg002:015	3	%inflection	ACT.IMP.2P	
+hg002:015	2 4	vaari	DER.ADV	vaari
+hg002:015	-	(,)	PUNC	,␣
+hg002:015	-	(kuinka)	ADV	kuinka␣
+hg002:015	-	(käydä)	ACT.PRES.3S	käy␣
+hg002:015	(7a) 7b	tämä	DEM.SG.ELA	tästä␣
+hg002:015	(6a) 6b	päivä	SG.ELA	päivästä␣
+hg002:015	5	lähtien	DER.POST	lähtien␣
+hg002:015	8b	eteenpäin	ADV	eteenpäin
+hg002:015	8a	%case	?	
+hg002:015	-	(.)	PUNC	.␣
+hg002:015	-	(kun)	SUBORD	Kun␣
+hg002:015	9b	ei	NEGV.3S	ei␣
+hg002:015	9b	vielä	ADV	vielä␣
+hg002:015	9a	%case	?	
+hg002:015	10	(olla)	COP.PSS.PAST.NEG	oltu␣
+hg002:015	10	panna	PSS.PAST.NEG	pantu␣
+hg002:015	11	kivi	SG.PTV	kiveä␣
+hg002:015	13	kivi	SG.GEN	kiven␣
+hg002:015	12	päälle	PREP	päälle␣
+hg002:015	15	Herra	SG.GEN	Herran␣
+hg002:015	14b	temppeli	SG.INE	temppelissä
+hg002:015	14a	%case	LOC	
+hg002:015	-	(,)	PUNC	,␣
+hg002:016	hg002:016	hg002:016	VERSE	Hag␣2:16␣
+hg002:016	-	(se)	DEM.SG.PTV	sitä␣
+hg002:016	1b	ennen	PREP	ennen
+hg002:016	1a	%case	?	
+hg002:016	-	(,)	PUNC	,␣
+hg002:016	2	mennä	PSS.PAST	mentiin␣
+hg002:016	5	20	NUM.SG.GEN	kahdenkymmenen␣
+hg002:016	5	(mitta)	SG.GEN	mitan␣
+hg002:016	4	vilja_kasa	SG.ALL	viljakasalle
+hg002:016	3	%case	LOC	
+hg002:016	-	(,)	PUNC	,␣
+hg002:016	6a	mutta	CNJ	mutta␣
+hg002:016	6b	olla	COP.ACT.PAST.3S	oli␣
+hg002:016	-	(vain)	ADV	vain␣
+hg002:016	7	10	NUM.SG.NOM	kymmenen
+hg002:016	-	(;)	PUNC	;␣
+hg002:016	8	mennä	PSS.PAST	mentiin␣
+hg002:016	(10a) 10b	viini_kuurna	SG.ALL	viinikuurnalle␣
+hg002:016	9	%case	LOC	
+hg002:016	11b	ammentaa	INF3.ILL	ammentamaan␣
+hg002:016	11a	%case	LOC	
+hg002:016	12	50	NUM.SG.NOM	viisikymmentä␣
+hg002:016	13	mitta	SG.PTV	mittaa
+hg002:016	-	(,)	PUNC	,␣
+hg002:016	14a	mutta	CNJ	mutta␣
+hg002:016	14b	olla	COP.ACT.PAST.3S	oli␣
+hg002:016	15	20	NUM.SG.NOM	kaksikymmentä
+hg002:016	-	(.)	PUNC	.␣
+hg002:017	hg002:017	hg002:017	VERSE	Hag␣2:17␣
+hg002:017	1	(minä)	PERS.SG.NOM	Minä␣
+hg002:017	1	lyödä	ACT.PAST.1S	löin␣
+hg002:017	2	te	PERS.PL.PTV	teitä
+hg002:017	-	(,)	PUNC	,␣
+hg002:017	7	kaikki	INDEF.PL.PTV	kaikkia␣
+hg002:017	6	%case	PTV	
+hg002:017	pers%9	te	PERS.PL.GEN	teidän␣
+hg002:017	9	käsi	PL.GEN.-2	kättenne␣
+hg002:017	8	työ	PL.PTV	töitä
+hg002:017	-	(,)	PUNC	,␣
+hg002:017	3b	noki_tähkä	SG.ADE	nokitähkällä␣
+hg002:017	3a	%case	LOC	
+hg002:017	4a	ja	CNJ	ja␣
+hg002:017	4c	viljan_ruoste	SG.ADE	viljanruosteella␣
+hg002:017	4b	%case	LOC	
+hg002:017	5a	ja	CNJ	ja␣
+hg002:017	5c	rae	PL.ADE	rakeilla
+hg002:017	5b	%case	LOC	
+hg002:017	-	(,)	PUNC	,␣
+hg002:017	10a	mutta	CNJ	mutta␣
+hg002:017	10b	ei	NEGV.3S	ei␣
+hg002:017	10b	kenkään	INDEF.SG.NOM	kenkään␣
+hg002:017	11	te	PERS.PL.ELA	teistä␣
+hg002:017	-	(kääntyä)	ACT.PAST.SG	kääntynyt␣
+hg002:017	pers%12	minä	PERS.SG.GEN	minun␣
+hg002:017	12	puoleen	POST.-1	puoleeni
+hg002:017	-	(,)	PUNC	,␣
+hg002:017	13	sanoa	ACT.PRES.3S	sanoo␣
+hg002:017	14	Herra	SG.NOM	Herra
+hg002:017	-	(.)	PUNC	.␣
+hg002:018	hg002:018	hg002:018	VERSE	Hag␣2:18␣
+hg002:018	1 3	ottaa	ACT.IMP.2P	Ottakaa␣
+hg002:018	2	%inflection	ACT.IMP.2P	
+hg002:018	1 3	vaari	DER.ADV	vaari
+hg002:018	-	(,)	PUNC	,␣
+hg002:018	-	(kuinka)	ADV	kuinka␣
+hg002:018	-	(käydä)	ACT.PRES.3S	käy␣
+hg002:018	(6a) 6b	tämä	DEM.SG.ELA	tästä␣
+hg002:018	(5a) 5b	päivä	SG.ELA	päivästä␣
+hg002:018	4	lähtien	DER.POST	lähtien␣
+hg002:018	7b	eteenpäin	ADV	eteenpäin
+hg002:018	7a	%case	?	
+hg002:018	-	(,)	PUNC	,␣
+hg002:018	11b		ORD.SG.GEN	yhdeksännen␣
+hg002:018	11a	%case	GEN	
+hg002:018	-	(kuu)	SG.GEN	kuun␣
+hg002:018	(10a) 10b 9		ORD.SG.ELA	kahdennestakymmenennestä␣
+hg002:018	(10a) 10b 9		ORD.SG.ELA	neljännestä␣
+hg002:018	8b	päivä	SG.ELA	päivästä
+hg002:018	8a	%case	LOC	
+hg002:018	-	(,)	PUNC	,␣
+hg002:018	17	Herra	SG.GEN	Herran␣
+hg002:018	16	temppeli	SG.GEN	temppelin␣
+hg002:018	(13a) 13b 15	perustamis_päivä	SG.ELA	perustamispäivästä
+hg002:018	14	%case	LOC	
+hg002:018	-	(,)	PUNC	,␣
+hg002:018	12b	lähtien	DER.POST	lähtien
+hg002:018	12a	%case	MAN	
+hg002:018	-	(.)	PUNC	.␣
+hg002:018	18 19	ottaa	ACT.IMP.2P	Ottakaa␣
+hg002:018	18 19	vaari	DER.ADV	vaari
+hg002:018	-	(!)	PUNC	!␣
+hg002:019	hg002:019	hg002:019	VERSE	Hag␣2:19␣
+hg002:019	1a	olla	COP.ACT.PRES.3S.-CLITIC	Onko␣
+hg002:019	3b	aitta	SG.INE	aitassa␣
+hg002:019	3a	%case	LOC	
+hg002:019	1b	enää	ADV	enää␣
+hg002:019	(2a) 2b	siemen	SG.PTV	siementä
+hg002:019	-	(?)	PUNC	?␣
+hg002:019	4a	ja	CNJ	Ja␣
+hg002:019	(5a) 5b	viini_köynnös	SG.NOM	viiniköynnös
+hg002:019	4b	%case	NOM	
+hg002:019	(6a)	-	UNTRANSLATED	
+hg002:019	-	(,)	PUNC	,␣
+hg002:019	(6b) 6c	viikuna_puu	SG.NOM	viikunapuu
+hg002:019	(7a)	-	UNTRANSLATED	
+hg002:019	-	(,)	PUNC	,␣
+hg002:019	(7b) 7c	granaatti_omena_puu	SG.NOM	granaattiomenapuu␣
+hg002:019	8a	ja	CNJ	ja␣
+hg002:019	8b (9a) 9b	öljy_puu	SG.NOM	öljypuu
+hg002:019	-	(,)	PUNC	,␣
+hg002:019	11	(ne)	DEM.PL.NOM.-CLITIC	nekään␣
+hg002:019	10	ei	NEGV.3P	eivät␣
+hg002:019	11	(olla)	COP.ACT.PRES.NEG	ole␣
+hg002:019	11	kantaa	ACT.PAST.PL	kantaneet␣
+hg002:019	11	(hedelmä)	SG.PTV	hedelmää
+hg002:019	-	(.)	PUNC	.␣
+hg002:019	(14a) 14b	tämä	DEM.SG.ELA	Tästä␣
+hg002:019	(13a) 13b	päivä	SG.ELA	päivästä␣
+hg002:019	12	lähtien	DER.POST	lähtien␣
+hg002:019	15	(minä)	PERS.SG.NOM	minä␣
+hg002:019	15	antaa	ACT.PRES.1S	annan␣
+hg002:019	15	siunaus	DER.SG.GEN	siunauksen
+hg002:019	-	(.)	PUNC	.
+hg002:019	-	(")	PUNC.RIGHT	"␣
+hg002:020	hg002:020	hg002:020	VERSE	Hag␣2:20␣
+hg002:020	1a	ja	CNJ	Ja␣
+hg002:020	3	Herra	SG.GEN	Herran␣
+hg002:020	2	sana	SG.NOM	sana␣
+hg002:020	1b	tulla	ACT.PAST.3S	tuli␣
+hg002:020	4	toistamiseen	ADV	toistamiseen␣
+hg002:020	6	Haggai	PR.SG.ALL	Haggaille␣
+hg002:020	5	%case	LOC	
+hg002:020	9b	kuu_kausi	SG.GEN	kuukauden␣
+hg002:020	9a	%case	GEN	
+hg002:020	7b (8a) 8b		ORD.SG.ESS	kahdentenakymmenentenä␣
+hg002:020	7a	%case	ESS	
+hg002:020	7b (8a) 8b		ORD.SG.ESS	neljäntenä␣
+hg002:020	-	(päivä)	SG.ESS	päivänä
+hg002:020	-	(;)	PUNC	;␣
+hg002:020	-	(se)	DEM.SG.NOM	se␣
+hg002:020	10a 10b	kuulua	ACT.PAST.3S	kuului
+hg002:020	-	(:)	PUNC	:␣
+hg002:021	hg002:021	hg002:021	VERSE	Hag␣2:21␣
+hg002:021	-	(")	PUNC.LEFT	"
+hg002:021	1	sanoa	ACT.IMP.2S	Sano␣
+hg002:021	5	Juuda	PR.SG.GEN	Juudan␣
+hg002:021	4	käskyn_haltija	SG.ALL	käskynhaltijalle␣
+hg002:021	3	Serubbaabel	PR.SG.ALL	Serubbaabelille
+hg002:021	2	%case	LOC	
+hg002:021	(6a) (6b)	-	UNTRANSLATED	
+hg002:021	-	(:)	PUNC	:␣
+hg002:021	7	minä	PERS.SG.NOM	Minä␣
+hg002:021	8	liikuttaa	DER.ACT.PRES.1S	liikutan␣
+hg002:021	(10a) 10b	taivas	PL.NOM	taivaat␣
+hg002:021	9	%case	NOM	
+hg002:021	11a	ja	CNJ	ja␣
+hg002:021	(12a) 12b	maa	SG.GEN	maan
+hg002:021	11b	%case	GEN	
+hg002:021	-	(.)	PUNC	.␣
+hg002:022	hg002:022	hg002:022	VERSE	Hag␣2:22␣
+hg002:022	1a	ja	CNJ	Ja␣
+hg002:022	1b	(minä)	PERS.SG.NOM	minä␣
+hg002:022	1b	kukistaa	ACT.PRES.1S	kukistan␣
+hg002:022	3	kuningas_kunta	PL.GEN	kuningaskuntien␣
+hg002:022	2	valta_istuin	PL.NOM	valtaistuimet
+hg002:022	(4a)	-	UNTRANSLATED	
+hg002:022	-	(,)	PUNC	,␣
+hg002:022	4b	hävittää	DER.ACT.PRES.1S	hävitän␣
+hg002:022	(7a) 7b	pakana	PL.GEN	pakanain␣
+hg002:022	6	kuningas_kunta	PL.GEN	kuningaskuntien␣
+hg002:022	5	väkevyys	DER.SG.GEN	väkevyyden␣
+hg002:022	8a	ja	CNJ	ja␣
+hg002:022	8b	kukistaa	ACT.PRES.1S	kukistan␣
+hg002:022	9	vaunut	PL.NOM	vaunut␣
+hg002:022	10b	ajaja	DER.CMT.-3	ajajineen
+hg002:022	10a	%inflection	DER.CMT.-3	
+hg002:022	-	(;)	PUNC	;␣
+hg002:022	11a	ja	CNJ	ja␣
+hg002:022	12	hevonen	PL.NOM	hevoset␣
+hg002:022	13a	ja	CNJ	ja␣
+hg002:022	pers%13b	ne	DEM.PL.GEN	niiden␣
+hg002:022	13b	ratsastaja	DER.PL.NOM	ratsastajat␣
+hg002:022	11b	kaatua	ACT.PRES.3P	kaatuvat
+hg002:022	-	(,)	PUNC	,␣
+hg002:022	14	mies	SG.NOM	mies␣
+hg002:022	16	toinen	INDEF.NOM&SGGEN.-3	toisensa␣
+hg002:022	15b	miekka	SG.ILL	miekkaan
+hg002:022	15a	%case	LOC	
+hg002:022	-	(.)	PUNC	.␣
+hg002:023	hg002:023	hg002:023	VERSE	Hag␣2:23␣
+hg002:023	(2a) 2b	se	DEM.SG.ESS	Sinä␣
+hg002:023	1b	päivä	SG.ESS	päivänä
+hg002:023	1a	%case	ESS	
+hg002:023	-	(,)	PUNC	,␣
+hg002:023	3	sanoa	ACT.PRES.3S	sanoo␣
+hg002:023	4	Herra	SG.NOM	Herra␣
+hg002:023	5	Sebaot	PR.SG.NOM	Sebaot
+hg002:023	-	(,)	PUNC	,␣
+hg002:023	6	(minä)	PERS.SG.NOM	minä␣
+hg002:023	6	ottaa	ACT.PRES.1S	otan␣
+hg002:023	pers%6	sinä	PERS.SG.ACC	sinut
+hg002:023	-	(,)	PUNC	,␣
+hg002:023	10	palvelija	DER.NOM&SGGEN.-1	palvelijani␣
+hg002:023	7	Serubbaabel	PR.SG.NOM	Serubbaabel
+hg002:023	-	(,)	PUNC	,␣
+hg002:023	9	Sealtiel	PR.SG.GEN	Sealtielin␣
+hg002:023	8	poika	SG.NOM	poika
+hg002:023	-	(,)	PUNC	,␣
+hg002:023	11	sanoa	ACT.PRES.3S	sanoo␣
+hg002:023	12	Herra	SG.NOM	Herra
+hg002:023	-	(,)	PUNC	,␣
+hg002:023	13a	ja	CNJ	ja␣
+hg002:023	13b	panna	ACT.PRES.1S	panen␣
+hg002:023	pers%13b	sinä	PERS.SG.ACC	sinut␣
+hg002:023	14a	ikään_kuin	SUBORD	ikäänkuin␣
+hg002:023	14b	sinetti_sormus	SG.TRA	sinettisormukseksi
+hg002:023	-	(.)	PUNC	.␣
+hg002:023	15	sillä	SUBORD	Sillä␣
+hg002:023	16	sinä	PERS.SG.ACC	sinut␣
+hg002:023	17	(minä)	PERS.SG.NOM	minä␣
+hg002:023	17	(olla)	COP.ACT.PRES.1S	olen␣
+hg002:023	17	valita	ACT.PCP2.PERF	valinnut
+hg002:023	-	(,)	PUNC	,␣
+hg002:023	18	sanoa	ACT.PRES.3S	sanoo␣
+hg002:023	19	Herra	SG.NOM	Herra␣
+hg002:023	20	Sebaot	PR.SG.NOM	Sebaot
+hg002:023	-	(.)	PUNC	.
+hg002:023	-	(")	PUNC.RIGHT	"␣
