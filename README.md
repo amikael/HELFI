@@ -1,5 +1,7 @@
 **HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment**:  An fine-grained and open morpheme-alignment between the most important 20th century Finnish Bible translation and the most relevant source texts.
 
+**ISLRM 840-665-876-625-0**
+
 ## Parts of the HELFI Corpus
 
 * [Finnish1938 - The Finnish 1933/1938 Bible Translation with lemmas, morphology and cross-lingual morpheme alignment](https://github.com/amikael/HELFI/tree/master/Finnish1938)
