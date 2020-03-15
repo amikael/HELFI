@@ -1408,6 +1408,7 @@ rm003:004	13b	@	-	"
 rm003:004	14	@	-	Että␣
 rm003:004	16	(@)	-	sinut␣
 rm003:004	16	@	-	havaittaisiin␣
+rm003:004	15	%modus	COND	
 rm003:004	16	@	-	vanhurskaaksi␣
 rm003:004	(18) 19	@	-	sanoissasi␣
 rm003:004	20	%pers	?	
@@ -5402,12 +5403,14 @@ rm009:015	-	(,)	-	,␣
 rm009:015	6	@	-	kenelle␣
 rm009:015	8	@	-	olen␣
 rm009:015	8	@	-	armollinen
+rm009:015	7	%modus	?	
 rm009:015	-	(,)	-	,␣
 rm009:015	9	@	-	ja␣
 rm009:015	10	@	-	armahdan
 rm009:015	-	(,)	-	,␣
 rm009:015	11	@	-	ketä␣
 rm009:015	13a	@	-	armahdan
+rm009:015	12	%modus	IND	
 rm009:015	13b	@	-	"
 rm009:015	13b	.	-	.␣
 rm009:016	rm009:016	rm009:016	VERSE	Rm␣9:16␣
@@ -5745,6 +5748,7 @@ rm009:029	-	(@)	-	niin␣
 rm009:029	15	(@)	-	meidän␣
 rm009:029	15	(@)	-	olisi␣
 rm009:029	15	@	-	käynyt␣
+rm009:029	14	%modus	?	
 rm009:029	12	@	-	niinkuin␣
 rm009:029	13	@	-	Sodoman
 rm009:029	-	(,)	-	,␣
@@ -5752,6 +5756,7 @@ rm009:029	16	@	-	ja␣
 rm009:029	20a	(@)	-	me␣
 rm009:029	20a	(@)	-	olisimme␣
 rm009:029	20a	@	-	tulleet␣
+rm009:029	19	%modus	?	
 rm009:029	18	@	-	Gomorran␣
 rm009:029	17	%case	GEN	
 rm009:029	20a	@	-	kaltaisiksi
@@ -9077,6 +9082,7 @@ rm015:024	1	@	-	milloin␣
 rm015:024	(5) 6a	@	-	Hispaniaan␣
 rm015:024	4	%case	LOC	
 rm015:024	3	@	-	matkustan
+rm015:024	2	%modus	IND	
 rm015:024	-	(,)	-	,␣
 rm015:024	-	(@)	-	tulen␣
 rm015:024	-	(@)	-	luoksenne
@@ -9327,6 +9333,7 @@ rm016:002	13	@	-	missä␣
 rm016:002	16	(@)	-	hän␣
 rm016:002	15	@	-	teitä␣
 rm016:002	16	@	-	tarvitsee
+rm016:002	14	%modus	IND	
 rm016:002	-	(;)	-	;␣
 rm016:002	(18)	-	UNTRANSLATED	
 rm016:002	19	@	-	sillä␣

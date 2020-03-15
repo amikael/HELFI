@@ -1531,6 +1531,7 @@ cl003:017	2	@	-	kaikki
 cl003:017	-	(,)	-	,␣
 cl003:017	3 4	@	-	minkä␣
 cl003:017	6	@	-	teette␣
+cl003:017	5	%modus	IND	
 cl003:017	8	@	-	sanalla␣
 cl003:017	7	%case	LOC	
 cl003:017	9	@	-	tai␣
@@ -1636,6 +1637,7 @@ cl003:023	1	@	-	Kaikki
 cl003:023	-	(,)	-	,␣
 cl003:023	1	@	-	mitä␣
 cl003:023	3a	@	-	teette
+cl003:023	2	%modus	IND	
 cl003:023	-	(,)	-	,␣
 cl003:023	-	(@)	-	se␣
 cl003:023	6	@	-	tehkää␣

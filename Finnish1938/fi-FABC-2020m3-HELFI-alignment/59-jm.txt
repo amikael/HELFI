@@ -1616,6 +1616,7 @@ jm004:004	-	(?)	-	?␣
 jm004:004	13	@	-	Joka␣
 jm004:004	15	@	-	siis␣
 jm004:004	16	@	-	tahtoo␣
+jm004:004	14	%modus	IND	
 jm004:004	18	@	-	olla␣
 jm004:004	(19) 20a	@	-	maailman␣
 jm004:004	17	@	-	ystävä

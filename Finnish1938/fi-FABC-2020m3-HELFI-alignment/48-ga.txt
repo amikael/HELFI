@@ -223,6 +223,7 @@ ga001:010	15a	@	-	mieliksi
 ga001:010	15b	,	-	,␣
 ga001:010	18	@	-	en␣
 ga001:010	20a	@	-	olisi␣
+ga001:010	19	%modus	COND	
 ga001:010	16	@	-	Kristuksen␣
 ga001:010	17	@	-	palvelija
 ga001:010	20b	.	-	.␣
@@ -1546,6 +1547,7 @@ ga003:021	18	(@)	-	niin␣
 ga003:021	(23) 24a	@	-	vanhurskaus␣
 ga003:021	18	@	-	todella␣
 ga003:021	22	@	-	tulisi␣
+ga003:021	21	%modus	COND	
 ga003:021	20	@	-	laista
 ga003:021	19	%case	LOC	
 ga003:021	24b	.	-	.␣
@@ -2677,6 +2679,7 @@ ga005:017	23	@	-	sitä
 ga005:017	-	(,)	-	,␣
 ga005:017	20	@	-	mitä␣
 ga005:017	22	@	-	tahdotte
+ga005:017	21	%modus	IND	
 ga005:017	24b	.	-	.␣
 ga005:018	ga005:018	ga005:018	VERSE	Gal␣5:18␣
 ga005:018	2	@	-	Mutta␣
@@ -2961,6 +2964,7 @@ ga006:007	7	@	-	sillä␣
 ga006:007	6	@	-	mitä␣
 ga006:007	10a	@	-	ihminen␣
 ga006:007	9	@	-	kylvää
+ga006:007	8	%modus	IND	
 ga006:007	10b	,	-	,␣
 ga006:007	11	@	-	sitä␣
 ga006:007	13a	(@)	-	hän␣

@@ -1331,6 +1331,7 @@ rv002:025	5 6	@	-	asti␣
 rv002:025	5 6	@	-	kuin␣
 rv002:025	8a	(@)	-	minä␣
 rv002:025	8a	@	-	tulen
+rv002:025	7	%modus	IND	
 rv002:025	8b	.	-	.␣
 rv002:026	rv002:026	rv002:026	VERSE	Ilm␣2:26␣
 rv002:026	1	@	-	Ja␣
@@ -1987,6 +1988,7 @@ rv003:019	2	@	-	joita␣
 rv003:019	1	@	-	minä␣
 rv003:019	4	@	-	pidän␣
 rv003:019	4	@	-	rakkaina
+rv003:019	3	%modus	?	
 rv003:019	-	(,)	-	,␣
 rv003:019	5	(@)	-	minä␣
 rv003:019	5	@	-	nuhtelen␣
@@ -5252,6 +5254,7 @@ rv011:006	34	@	-	niin␣
 rv011:006	34	@	-	usein␣
 rv011:006	34	@	-	kuin␣
 rv011:006	36a	@	-	tahtovat
+rv011:006	35	%modus	IND	
 rv011:006	36b	.	-	.␣
 rv011:007	rv011:007	rv011:007	VERSE	Ilm␣11:7␣
 rv011:007	1	@	-	Ja␣

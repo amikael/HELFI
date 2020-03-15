@@ -306,6 +306,7 @@ hb001:013	11b	,	-	,␣
 hb001:013	12	@	-	kunnes␣
 hb001:013	14	(@)	-	minä␣
 hb001:013	14	@	-	panen␣
+hb001:013	13	%modus	IND	
 hb001:013	17	@	-	sinun␣
 hb001:013	(15) 16	@	-	vihollisesi␣
 hb001:013	21a	@	-	sinun␣
@@ -1415,6 +1416,7 @@ hb004:008	-	(@)	-	niin␣
 hb004:008	10	(@)	-	hän␣
 hb004:008	6	@	-	ei␣
 hb004:008	10	@	-	puhuisi␣
+hb004:008	7	%modus	COND	
 hb004:008	9	@	-	toisesta
 hb004:008	-	(,)	-	,␣
 hb004:008	11 12	@	-	senjälkeisestä␣
@@ -3087,6 +3089,7 @@ hb008:004	6b	,	-	,␣
 hb008:004	7	@	-	ei␣
 hb008:004	9	(@)	-	hän␣
 hb008:004	9	@	-	olisikaan␣
+hb008:004	8	%modus	COND	
 hb008:004	10a	@	-	pappi
 hb008:004	10b	,	-	,␣
 hb008:004	11	(@)	-	koska␣
@@ -3186,6 +3189,7 @@ hb008:007	7b	,	-	,␣
 hb008:007	8	@	-	ei␣
 hb008:007	11	(@)	-	olisi␣
 hb008:007	11	@	-	etsitty␣
+hb008:007	9	%modus	?	
 hb008:007	12a	@	-	sijaa␣
 hb008:007	10	@	-	toiselle
 hb008:007	12b	.	-	.␣
@@ -4088,6 +4092,7 @@ hb010:002	2	@	-	eikö␣
 hb010:002	1	@	-	muutoin␣
 hb010:002	4	(@)	-	olisi␣
 hb010:002	4	@	-	lakattu␣
+hb010:002	3	%modus	?	
 hb010:002	-	(@)	-	niitä␣
 hb010:002	5	@	-	uhraamasta
 hb010:002	-	(,)	-	,␣
@@ -5254,6 +5259,7 @@ hb011:015	8a	@	-	lähteneet
 hb011:015	-	(,)	-	,␣
 hb011:015	-	(@)	-	niin␣
 hb011:015	9	(@)	-	olisihan␣
+hb011:015	10	%modus	COND	
 hb011:015	9	(@)	-	heillä␣
 hb011:015	9	@	-	ollut␣
 hb011:015	11	@	-	tilaisuus␣

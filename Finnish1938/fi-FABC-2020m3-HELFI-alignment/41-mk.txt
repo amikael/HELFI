@@ -2225,11 +2225,13 @@ mk003:028	-	(,)	-	,␣
 mk003:028	16	@	-	kuinka␣
 mk003:028	16	@	-	paljon␣
 mk003:028	18a	@	-	pilkannevatkin
+mk003:028	17	%modus	?	
 mk003:028	18b	;	-	;␣
 mk003:029	mk003:029	mk003:029	VERSE	Mk␣3:29␣
 mk003:029	2	@	-	mutta␣
 mk003:029	1	@	-	joka␣
 mk003:029	4	@	-	pilkkaa␣
+mk003:029	3	%modus	IND	
 mk003:029	7 (8)	@	-	Pyhää␣
 mk003:029	(6) 9a	@	-	Henkeä
 mk003:029	5	%case	PTV	
@@ -2355,6 +2357,7 @@ mk003:035	mk003:035	mk003:035	VERSE	Mk␣3:35␣
 mk003:035	2a	@	-	Sillä␣
 mk003:035	1a	@	-	joka␣
 mk003:035	4	@	-	tekee␣
+mk003:035	3	%modus	IND	
 mk003:035	(7) 8a	@	-	Jumalan␣
 mk003:035	(5) 6	@	-	tahdon
 mk003:035	8b	,	-	,␣
@@ -4496,6 +4499,7 @@ mk006:010	9	@	-	siihen
 mk006:010	-	(,)	-	,␣
 mk006:010	11	@	-	kunnes␣
 mk006:010	13	@	-	lähdette␣
+mk006:010	12	%modus	IND	
 mk006:010	13	@	-	pois␣
 mk006:010	14a	@	-	siltä␣
 mk006:010	14a	(@)	-	paikkakunnalta
@@ -4507,6 +4511,7 @@ mk006:011	4	@	-	paikassa␣
 mk006:011	7	@	-	teitä␣
 mk006:011	5	@	-	ei␣
 mk006:011	6	@	-	oteta␣
+mk006:011	3	%modus	IND	
 mk006:011	6	@	-	vastaan␣
 mk006:011	8	@	-	eikä␣
 mk006:011	10a	@	-	teitä␣
@@ -5573,6 +5578,7 @@ mk006:056	32	@	-	kaikki
 mk006:056	-	(,)	-	,␣
 mk006:056	32	@	-	jotka␣
 mk006:056	34	@	-	koskivat␣
+mk006:056	33	%modus	IND	
 mk006:056	35	@	-	häneen
 mk006:056	-	(,)	-	,␣
 mk006:056	36a	@	-	tulivat␣
@@ -5822,6 +5828,7 @@ mk007:011	-	(,)	-	,␣
 mk007:011	16	@	-	minkä␣
 mk007:011	20a	(@)	-	sinä␣
 mk007:011	20a	(@)	-	olisit␣
+mk007:011	17	%modus	COND	
 mk007:011	20a	@	-	saava␣
 mk007:011	19	@	-	minulta␣
 mk007:011	18	%case	LOC	
@@ -7187,6 +7194,7 @@ mk008:035	mk008:035	mk008:035	VERSE	Mk␣8:35␣
 mk008:035	2	@	-	Sillä␣
 mk008:035	1	@	-	joka␣
 mk008:035	4	@	-	tahtoo␣
+mk008:035	3	%modus	IND	
 mk008:035	8	@	-	pelastaa␣
 mk008:035	(5) 6	@	-	elämänsä
 mk008:035	7	%pers	3	
@@ -7198,6 +7206,7 @@ mk008:035	10b	,	-	,␣
 mk008:035	12	@	-	mutta␣
 mk008:035	11	@	-	joka␣
 mk008:035	14	@	-	kadottaa␣
+mk008:035	13	%modus	IND	
 mk008:035	(15) 16	@	-	elämänsä␣
 mk008:035	17	%pers	3	
 mk008:035	19	@	-	minun␣
@@ -7243,6 +7252,7 @@ mk008:038	mk008:038	mk008:038	VERSE	Mk␣8:38␣
 mk008:038	2	@	-	Sillä␣
 mk008:038	1	@	-	joka␣
 mk008:038	4	@	-	häpeää␣
+mk008:038	3	%modus	IND	
 mk008:038	5	@	-	minua␣
 mk008:038	6	@	-	ja␣
 mk008:038	8	@	-	minun␣
@@ -7298,6 +7308,7 @@ mk009:001	17	@	-	kuolemaa
 mk009:001	-	(,)	-	,␣
 mk009:001	18	@	-	ennenkuin␣
 mk009:001	20	@	-	näkevät␣
+mk009:001	19	%modus	IND	
 mk009:001	(23) 24	@	-	Jumalan␣
 mk009:001	(21) 22	@	-	valtakunnan␣
 mk009:001	25	@	-	tulevan␣
@@ -8184,6 +8195,7 @@ mk009:037	-	(@)	-	"
 mk009:037	1	@	-	Joka␣
 mk009:037	7	@	-	ottaa␣
 mk009:037	7	@	-	tykönsä␣
+mk009:037	2	%modus	?	
 mk009:037	3	@	-	yhden␣
 mk009:037	(4) 5	@	-	tämänkaltaisen␣
 mk009:037	6	@	-	lapsen␣
@@ -8201,6 +8213,7 @@ mk009:037	15	@	-	joka␣
 mk009:037	17	@	-	minut␣
 mk009:037	18a	@	-	ottaa␣
 mk009:037	18a	@	-	tykönsä
+mk009:037	16	%modus	?	
 mk009:037	-	(,)	-	,␣
 mk009:037	21	(@)	-	se␣
 mk009:037	19	@	-	ei␣
@@ -8302,6 +8315,7 @@ mk009:041	mk009:041	mk009:041	VERSE	Mk␣9:41␣
 mk009:041	2	@	-	Sillä␣
 mk009:041	1	@	-	joka␣
 mk009:041	4	(@)	-	antaa␣
+mk009:041	3	%modus	IND	
 mk009:041	5	@	-	teille␣
 mk009:041	4	@	-	juodaksenne␣
 mk009:041	6	@	-	maljallisen␣
@@ -8332,6 +8346,7 @@ mk009:042	mk009:042	mk009:042	VERSE	Mk␣9:42␣
 mk009:042	1	@	-	Ja␣
 mk009:042	2	@	-	joka␣
 mk009:042	4	@	-	viettelee␣
+mk009:042	3	%modus	IND	
 mk009:042	5	@	-	yhden␣
 mk009:042	8	@	-	näistä␣
 mk009:042	(6) 7	@	-	pienistä
@@ -8732,6 +8747,7 @@ mk010:011	3b	:	-	:␣
 mk010:011	3b	@	-	"
 mk010:011	4	@	-	Joka␣
 mk010:011	6	@	-	hylkää␣
+mk010:011	5	%modus	IND	
 mk010:011	(7) 8	@	-	vaimonsa␣
 mk010:011	9	%pers	3	
 mk010:011	10	@	-	ja␣
@@ -8821,6 +8837,7 @@ mk010:015	4	@	-	joka␣
 mk010:015	6	@	-	ei␣
 mk010:015	7	@	-	ota␣
 mk010:015	7	@	-	vastaan␣
+mk010:015	5	%modus	?	
 mk010:015	(10) 11	@	-	Jumalan␣
 mk010:015	(8) 9	@	-	valtakuntaa␣
 mk010:015	12	@	-	niinkuin␣
@@ -9212,6 +9229,7 @@ mk010:030	-	(@)	-	ja␣
 mk010:030	-	(@)	-	joka␣
 mk010:030	2	@	-	ei␣
 mk010:030	3	@	-	saisi␣
+mk010:030	1	%modus	COND	
 mk010:030	4	@	-	satakertaisesti
 mk010:030	-	(:)	-	:␣
 mk010:030	5	@	-	nyt␣
@@ -9386,6 +9404,7 @@ mk010:035	-	(,)	-	,␣
 mk010:035	15	@	-	mitä␣
 mk010:035	18	@	-	sinulta␣
 mk010:035	17	@	-	anomme
+mk010:035	16	%modus	IND	
 mk010:035	20b	@	-	"
 mk010:035	20b	.	-	.␣
 mk010:036	mk010:036	mk010:036	VERSE	Mk␣10:36␣
@@ -9592,6 +9611,7 @@ mk010:043	8	@	-	joka␣
 mk010:043	14	@	-	teidän␣
 mk010:043	13	@	-	keskuudessanne␣
 mk010:043	10	@	-	tahtoo␣
+mk010:043	9	%modus	IND	
 mk010:043	11	@	-	suureksi␣
 mk010:043	12	@	-	tulla
 mk010:043	-	(,)	-	,␣
@@ -9606,6 +9626,7 @@ mk010:044	2	@	-	joka␣
 mk010:044	6	@	-	teidän␣
 mk010:044	5	@	-	keskuudessanne␣
 mk010:044	4	@	-	tahtoo␣
+mk010:044	3	%modus	IND	
 mk010:044	7	@	-	olla␣
 mk010:044	8	@	-	ensimmäinen
 mk010:044	-	(,)	-	,␣
@@ -10347,6 +10368,7 @@ mk011:023	4	:	-	:␣
 mk011:023	-	(@)	-	jos␣
 mk011:023	5	@	-	joku␣
 mk011:023	7	@	-	sanoisi␣
+mk011:023	6	%modus	COND	
 mk011:023	10a	@	-	tälle␣
 mk011:023	(8) 9	@	-	vuorelle
 mk011:023	10b	:	-	:␣
@@ -11540,6 +11562,7 @@ mk012:036	17b	,	-	,␣
 mk012:036	18	@	-	kunnes␣
 mk012:036	20	(@)	-	minä␣
 mk012:036	20	@	-	panen␣
+mk012:036	19	%modus	IND	
 mk012:036	23	@	-	sinun␣
 mk012:036	(21) 22	@	-	vihollisesi␣
 mk012:036	27a	@	-	sinun␣
@@ -11975,6 +11998,7 @@ mk013:011	16	@	-	sillä␣
 mk013:011	(17) 18	@	-	hetkellä␣
 mk013:011	15	%case	LOC	
 mk013:011	13	@	-	annetaan
+mk013:011	12	%modus	IND	
 mk013:011	-	(,)	-	,␣
 mk013:011	19	@	-	se␣
 mk013:011	20a	@	-	puhukaa
@@ -12159,6 +12183,7 @@ mk013:020	8	@	-	ei␣
 mk013:020	11	@	-	mikään␣
 mk013:020	12a	@	-	liha␣
 mk013:020	10	@	-	pelastuisi
+mk013:020	9	%modus	COND	
 mk013:020	12b	;	-	;␣
 mk013:020	13	@	-	mutta␣
 mk013:020	(15) 16	@	-	valittujen␣
@@ -12825,6 +12850,7 @@ mk014:014	1	@	-	Ja␣
 mk014:014	2	@	-	mihin␣
 mk014:014	4	(@)	-	hän␣
 mk014:014	4	@	-	menee
+mk014:014	3	%modus	IND	
 mk014:014	-	(,)	-	,␣
 mk014:014	-	(@)	-	sen␣
 mk014:014	(6) 7	@	-	talon␣
@@ -13538,6 +13564,7 @@ mk014:044	9	@	-	jolle␣
 mk014:044	11	(@)	-	minä␣
 mk014:044	11	@	-	suuta␣
 mk014:044	11	@	-	annan
+mk014:044	10	%modus	IND	
 mk014:044	-	(,)	-	,␣
 mk014:044	12	@	-	hän␣
 mk014:044	-	(@)	-	se␣

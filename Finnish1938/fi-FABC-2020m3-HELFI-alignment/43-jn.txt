@@ -690,6 +690,7 @@ jn001:033	17	@	-	jonka␣
 jn001:033	16	@	-	päälle␣
 jn001:033	19	(@)	-	sinä␣
 jn001:033	19	@	-	näet␣
+jn001:033	18	%modus	IND	
 jn001:033	(20) 21	@	-	Hengen␣
 jn001:033	22	@	-	laskeutuvan␣
 jn001:033	23	@	-	ja␣
@@ -1246,6 +1247,7 @@ jn002:005	7 8	@	-	Mitä␣
 jn002:005	10	(@)	-	hän␣
 jn002:005	11	@	-	teille␣
 jn002:005	10	@	-	sanoo
+jn002:005	9	%modus	IND	
 jn002:005	-	(,)	-	,␣
 jn002:005	-	(@)	-	se␣
 jn002:005	12a	@	-	tehkää
@@ -1767,6 +1769,7 @@ jn003:003	-	(:)	-	:␣
 jn003:003	12	@	-	joka␣
 jn003:003	11	@	-	ei␣
 jn003:003	13	@	-	synny␣
+jn003:003	10	%modus	IND	
 jn003:003	14a	@	-	uudesti
 jn003:003	-	(,)	-	,␣
 jn003:003	14a	@	-	ylhäältä
@@ -2732,11 +2735,13 @@ jn004:010	-	(,)	-	,␣
 jn004:010	-	(@)	-	niin␣
 jn004:010	21	@	-	sinä␣
 jn004:010	23	@	-	pyytäisit␣
+jn004:010	22	%modus	COND	
 jn004:010	24	@	-	häneltä
 jn004:010	-	(,)	-	,␣
 jn004:010	25	@	-	ja␣
 jn004:010	26	(@)	-	hän␣
 jn004:010	26	@	-	antaisi␣
+jn004:010	27	%modus	COND	
 jn004:010	28	@	-	sinulle␣
 jn004:010	30a	@	-	elävää␣
 jn004:010	29	@	-	vettä
@@ -2824,6 +2829,7 @@ jn004:014	jn004:014	jn004:014	VERSE	Jh␣4:14␣
 jn004:014	2	@	-	mutta␣
 jn004:014	1	@	-	joka␣
 jn004:014	4	@	-	juo␣
+jn004:014	3	%modus	IND	
 jn004:014	-	(@)	-	sitä␣
 jn004:014	(6) 7	@	-	vettä
 jn004:014	5	%case	PTV	
@@ -4228,6 +4234,7 @@ jn005:019	28	@	-	sillä␣
 jn005:019	27	@	-	mitä␣
 jn005:019	pro%30	@	-	Isä␣
 jn005:019	31a	@	-	tekee
+jn005:019	29	%modus	IND	
 jn005:019	-	(,)	-	,␣
 jn005:019	32	@	-	sitä␣
 jn005:019	33	@	-	myös␣
@@ -4861,6 +4868,7 @@ jn005:046	-	(,)	-	,␣
 jn005:046	-	(@)	-	niin␣
 jn005:046	5	(@)	-	te␣
 jn005:046	5	@	-	uskoisitte␣
+jn005:046	6	%modus	COND	
 jn005:046	7a	@	-	minua
 jn005:046	-	(;)	-	;␣
 jn005:046	9	@	-	sillä␣
@@ -7679,6 +7687,7 @@ jn007:051	13	@	-	häntä␣
 jn007:051	12	%case	PTV	
 jn007:051	10	(@)	-	on␣
 jn007:051	10	@	-	kuulusteltu␣
+jn007:051	8	%modus	?	
 jn007:051	14	@	-	ja␣
 jn007:051	tasp%15	@	-	saatu␣
 jn007:051	15	@	-	tietää
@@ -8198,6 +8207,7 @@ jn008:019	-	(,)	-	,␣
 jn008:019	21	@	-	niin␣
 jn008:019	26a	(@)	-	te␣
 jn008:019	26a	@	-	tuntisitte␣
+jn008:019	25	%modus	COND	
 jn008:019	21	@	-	myös␣
 jn008:019	24	@	-	minun␣
 jn008:019	(22) 23	@	-	Isäni
@@ -8339,6 +8349,7 @@ jn008:024	-	(;)	-	;␣
 jn008:024	11	@	-	sillä␣
 jn008:024	10	@	-	ellette␣
 jn008:024	13	@	-	usko␣
+jn008:024	12	%modus	IND	
 jn008:024	-	(@)	-	minua␣
 jn008:024	-	(@)	-	siksi
 jn008:024	-	(,)	-	,␣
@@ -8795,6 +8806,7 @@ jn008:042	-	(,)	-	,␣
 jn008:042	-	(@)	-	niin␣
 jn008:042	11	(@)	-	te␣
 jn008:042	11	@	-	rakastaisitte␣
+jn008:042	12	%modus	COND	
 jn008:042	13a	@	-	minua
 jn008:042	-	(,)	-	,␣
 jn008:042	15	@	-	sillä␣
@@ -9835,6 +9847,7 @@ jn009:022	17	@	-	se
 jn009:022	-	(,)	-	,␣
 jn009:022	17	@	-	joka␣
 jn009:022	19	@	-	tunnusti␣
+jn009:022	16	%modus	IND	
 jn009:022	18	@	-	hänet␣
 jn009:022	20a	@	-	Kristukseksi
 jn009:022	-	(,)	-	,␣
@@ -10051,6 +10064,7 @@ jn009:031	-	(;)	-	;␣
 jn009:031	8	@	-	vaan␣
 jn009:031	10	@	-	joka␣
 jn009:031	12	@	-	on␣
+jn009:031	9	%modus	IND	
 jn009:031	11	@	-	jumalaapelkääväinen␣
 jn009:031	13	@	-	ja␣
 jn009:031	17	@	-	tekee␣
@@ -10280,6 +10294,7 @@ jn009:041	-	(,)	-	,␣
 jn009:041	8	@	-	ei␣
 jn009:041	10	(@)	-	teillä␣
 jn009:041	10	@	-	olisi␣
+jn009:041	9	%modus	COND	
 jn009:041	11a	@	-	syntiä
 jn009:041	-	(;)	-	;␣
 jn009:041	13	@	-	mutta␣
@@ -11398,6 +11413,7 @@ jn011:009	5	@	-	hetkeä
 jn011:009	-	(?)	-	?␣
 jn011:009	10	@	-	Joka␣
 jn011:009	11	@	-	vaeltaa␣
+jn011:009	9	%modus	IND	
 jn011:009	(13) 14a	@	-	päivällä
 jn011:009	12	%case	LOC	
 jn011:009	-	(,)	-	,␣
@@ -11417,6 +11433,7 @@ jn011:010	jn011:010	jn011:010	VERSE	Jh␣11:10␣
 jn011:010	2	@	-	Mutta␣
 jn011:010	3	@	-	joka␣
 jn011:010	4	@	-	vaeltaa␣
+jn011:010	1	%modus	IND	
 jn011:010	(6) 7a	@	-	yöllä
 jn011:010	5	%case	LOC	
 jn011:010	-	(,)	-	,␣
@@ -11645,6 +11662,7 @@ jn011:021	(15) 16	@	-	veljeni␣
 jn011:021	12	@	-	ei␣
 jn011:021	14	(@)	-	olisi␣
 jn011:021	14	@	-	kuollut
+jn011:021	13	%modus	?	
 jn011:021	-	(.)	-	.␣
 jn011:022	jn011:022	jn011:022	VERSE	Jh␣11:22␣
 jn011:022	1a	@	-	Mutta␣
@@ -11663,6 +11681,7 @@ jn011:022	6	@	-	mitä␣
 jn011:022	8	(@)	-	sinä␣
 jn011:022	10 (9)	@	-	Jumalalta␣
 jn011:022	8	@	-	anot
+jn011:022	7	%modus	IND	
 jn011:022	-	(.)	-	.
 jn011:022	-	(@)	-	"␣
 jn011:023	jn011:023	jn011:023	VERSE	Jh␣11:23␣
@@ -11909,6 +11928,7 @@ jn011:032	24	@	-	minun␣
 jn011:032	(26) 27a	@	-	veljeni␣
 jn011:032	25	(@)	-	olisi␣
 jn011:032	25	@	-	kuollut
+jn011:032	23	%modus	?	
 jn011:032	-	(@)	-	"
 jn011:032	-	(.)	-	.␣
 jn011:033	jn011:033	jn011:033	VERSE	Jh␣11:33␣
@@ -14171,6 +14191,7 @@ jn013:020	-	(,)	-	,␣
 jn013:020	8	@	-	jonka␣
 jn013:020	9	(@)	-	minä␣
 jn013:020	9	@	-	lähetän
+jn013:020	7	%modus	IND	
 jn013:020	-	(,)	-	,␣
 jn013:020	11a	(@)	-	se␣
 jn013:020	11a	@	-	ottaa␣
@@ -14671,6 +14692,7 @@ jn014:002	11	@	-	niin␣
 jn014:002	-	(@)	-	olisi
 jn014:002	-	(,)	-	,␣
 jn014:002	13	@	-	sanoisinko␣
+jn014:002	14	%modus	COND	
 jn014:002	13	(@)	-	minä␣
 jn014:002	15	@	-	teille
 jn014:002	-	(,)	-	,␣
@@ -15369,6 +15391,7 @@ jn014:028	-	(,)	-	,␣
 jn014:028	-	(@)	-	niin␣
 jn014:028	14	(@)	-	te␣
 jn014:028	14	@	-	iloitsisitte␣
+jn014:028	15	%modus	COND	
 jn014:028	-	(@)	-	siitä
 jn014:028	-	(,)	-	,␣
 jn014:028	16	@	-	että␣
@@ -15888,6 +15911,7 @@ jn015:019	-	(@)	-	niin␣
 jn015:019	(6) 7	@	-	maailma␣
 jn015:019	10 (9)	@	-	omaansa␣
 jn015:019	11a	@	-	rakastaisi
+jn015:019	8	%modus	COND	
 jn015:019	-	(;)	-	;␣
 jn015:019	13	@	-	mutta␣
 jn015:019	12	@	-	koska␣
@@ -18436,6 +18460,7 @@ jn018:030	-	(,)	-	,␣
 jn018:030	11	@	-	emme␣
 jn018:030	14	(@)	-	olisi␣
 jn018:030	14	@	-	antaneet␣
+jn018:030	12	%modus	IND	
 jn018:030	15a	@	-	häntä␣
 jn018:030	13	@	-	sinun␣
 jn018:030	14	@	-	käsiisi
@@ -18589,6 +18614,7 @@ jn018:036	(25) 26	@	-	minun␣
 jn018:036	(23) 24	@	-	palvelijani␣
 jn018:036	27a	(@)	-	olisivat␣
 jn018:036	27a	@	-	taistelleet
+jn018:036	28a	%modus	?	
 jn018:036	-	(,)	-	,␣
 jn018:036	29 30	@	-	ettei␣
 jn018:036	31	(@)	-	minua␣
@@ -20375,6 +20401,7 @@ jn020:023	(4) 5	@	-	synnit␣
 jn020:023	3	(@)	-	te␣
 jn020:023	3	@	-	anteeksi␣
 jn020:023	3	@	-	annatte
+jn020:023	1	%modus	IND	
 jn020:023	-	(,)	-	,␣
 jn020:023	7a	@	-	niille␣
 jn020:023	6	(@)	-	ne␣
@@ -20386,6 +20413,7 @@ jn020:023	9	@	-	joiden␣
 jn020:023	-	(@)	-	synnit␣
 jn020:023	10	(@)	-	te␣
 jn020:023	10	@	-	pidätätte
+jn020:023	8	%modus	IND	
 jn020:023	-	(,)	-	,␣
 jn020:023	-	(@)	-	niille␣
 jn020:023	11a	(@)	-	ne␣

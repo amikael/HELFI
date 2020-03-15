@@ -1235,6 +1235,7 @@ lk001:062	7	@	-	minkä␣
 lk001:062	10 (6)	@	-	nimen␣
 lk001:062	9	(@)	-	hän␣
 lk001:062	9	@	-	tahtoi␣
+lk001:062	8	%modus	IND	
 lk001:062	11a	@	-	hänelle␣
 lk001:062	10 (6)	@	-	annettavaksi
 lk001:062	11b	.	-	.␣
@@ -2101,6 +2102,7 @@ lk002:026	-	(,)	-	,␣
 lk002:026	13a 14a	@	-	ennenkuin␣
 lk002:026	16	(@)	-	oli␣
 lk002:026	16	@	-	nähnyt␣
+lk002:026	15	%modus	?	
 lk002:026	19a	@	-	Herran␣
 lk002:026	(17) 18	@	-	Voidellun
 lk002:026	19b	.	-	.␣
@@ -2264,6 +2266,7 @@ lk002:035	12	%case	GEN
 lk002:035	15a	@	-	ajatukset␣
 lk002:035	11	@	-	tulisivat␣
 lk002:035	11	@	-	ilmi
+lk002:035	10	%modus	?	
 lk002:035	15b	@	-	"
 lk002:035	15b	.	-	.␣
 lk002:036	lk002:036	lk002:036	VERSE	Lk␣2:36␣
@@ -3588,6 +3591,7 @@ lk004:006	24a	@	-	sen
 lk004:006	-	(,)	-	,␣
 lk004:006	20	@	-	kenelle␣
 lk004:006	22	@	-	tahdon
+lk004:006	21	%modus	IND	
 lk004:006	24b	.	-	.␣
 lk004:007	lk004:007	lk004:007	VERSE	Lk␣4:7␣
 lk004:007	3	@	-	Jos␣
@@ -5737,6 +5741,7 @@ lk006:011	9	@	-	mitä␣
 lk006:011	11	(@)	-	heidän␣
 lk006:011	11	(@)	-	olisi␣
 lk006:011	11	@	-	tehtävä␣
+lk006:011	10	%modus	?	
 lk006:011	(12) 13a	@	-	Jeesukselle
 lk006:011	13b	.	-	.␣
 lk006:012	lk006:012	lk006:012	VERSE	Lk␣6:12␣
@@ -7276,6 +7281,7 @@ lk007:023	-	(,)	-	,␣
 lk007:023	4	@	-	joka␣
 lk007:023	6	@	-	ei␣
 lk007:023	7	@	-	loukkaannu␣
+lk007:023	5	%modus	IND	
 lk007:023	9a	@	-	minuun
 lk007:023	8	%case	LOC	
 lk007:023	9b	.	-	.
@@ -7684,6 +7690,7 @@ lk007:039	14	@	-	olisi␣
 lk007:039	15a	@	-	profeetta
 lk007:039	15b	,	-	,␣
 lk007:039	16	@	-	tietäisi␣
+lk007:039	17	%modus	COND	
 lk007:039	16	(@)	-	hän
 lk007:039	-	(,)	-	,␣
 lk007:039	18	@	-	mikä␣
@@ -8409,6 +8416,7 @@ lk008:018	5	@	-	sille
 lk008:018	-	(,)	-	,␣
 lk008:018	5	@	-	jolla␣
 lk008:018	8a	@	-	on
+lk008:018	6	%modus	IND	
 lk008:018	8b	,	-	,␣
 lk008:018	9	@	-	annetaan
 lk008:018	(10a)	-	UNTRANSLATED	
@@ -8419,6 +8427,7 @@ lk008:018	-	(,)	-	,␣
 lk008:018	12	@	-	jolla␣
 lk008:018	14	@	-	ei␣
 lk008:018	15a	@	-	ole
+lk008:018	13	%modus	IND	
 lk008:018	-	(,)	-	,␣
 lk008:018	20	@	-	otetaan␣
 lk008:018	20	@	-	pois␣
@@ -9505,6 +9514,7 @@ lk009:004	3	@	-	mihin␣
 lk009:004	5	@	-	taloon␣
 lk009:004	2	%case	LOC	
 lk009:004	6a	@	-	tulette
+lk009:004	4	%modus	IND	
 lk009:004	6b	,	-	,␣
 lk009:004	7	@	-	siihen␣
 lk009:004	8	@	-	jääkää
@@ -9519,6 +9529,7 @@ lk009:005	1	@	-	Ja␣
 lk009:005	pro%2	@	-	missä␣
 lk009:005	4	@	-	eivät␣
 lk009:005	5	@	-	ota␣
+lk009:005	3	%modus	IND	
 lk009:005	6a	@	-	teitä␣
 lk009:005	5	@	-	vastaan
 lk009:005	6b	,	-	,␣
@@ -10026,6 +10037,7 @@ lk009:024	lk009:024	lk009:024	VERSE	Lk␣9:24␣
 lk009:024	2	@	-	Sillä␣
 lk009:024	1	@	-	joka␣
 lk009:024	4	@	-	tahtoo␣
+lk009:024	3	%modus	IND	
 lk009:024	8	@	-	pelastaa␣
 lk009:024	(5) 6	@	-	elämänsä
 lk009:024	7	%pers	3	
@@ -10037,6 +10049,7 @@ lk009:024	10b	,	-	,␣
 lk009:024	12	@	-	mutta␣
 lk009:024	11	@	-	joka␣
 lk009:024	14	@	-	kadottaa␣
+lk009:024	13	%modus	IND	
 lk009:024	(15) 16	@	-	elämänsä␣
 lk009:024	17	%pers	3	
 lk009:024	19	@	-	minun␣
@@ -10071,6 +10084,7 @@ lk009:026	lk009:026	lk009:026	VERSE	Lk␣9:26␣
 lk009:026	2	@	-	Sillä␣
 lk009:026	1	@	-	joka␣
 lk009:026	4	@	-	häpeää␣
+lk009:026	3	%modus	IND	
 lk009:026	5	@	-	minua␣
 lk009:026	6	@	-	ja␣
 lk009:026	8	@	-	minun␣
@@ -10114,6 +10128,7 @@ lk009:027	14	@	-	kuolemaa
 lk009:027	-	(,)	-	,␣
 lk009:027	15	@	-	ennenkuin␣
 lk009:027	17	@	-	näkevät␣
+lk009:027	16	%modus	IND	
 lk009:027	(20) 21a	@	-	Jumalan␣
 lk009:027	(18) 19	@	-	valtakunnan
 lk009:027	-	(.)	-	.
@@ -10602,6 +10617,7 @@ lk009:046	7	@	-	kuka␣
 lk009:046	11a	@	-	heistä␣
 lk009:046	tasp%9	@	-	mahtoi␣
 lk009:046	9	@	-	olla␣
+lk009:046	8	%modus	?	
 lk009:046	10	@	-	suurin
 lk009:046	-	(.)	-	.␣
 lk009:047	lk009:047	lk009:047	VERSE	Lk␣9:47␣
@@ -10630,6 +10646,7 @@ lk009:048	3b	@	-	"
 lk009:048	4	@	-	Joka␣
 lk009:048	6	@	-	ottaa␣
 lk009:048	6	@	-	tykönsä␣
+lk009:048	5	%modus	?	
 lk009:048	7	@	-	tämän␣
 lk009:048	(8) 9	@	-	lapsen␣
 lk009:048	13a	@	-	minun␣
@@ -10645,6 +10662,7 @@ lk009:048	16	@	-	ja␣
 lk009:048	17	@	-	joka␣
 lk009:048	20a	@	-	ottaa␣
 lk009:048	20a	@	-	tykönsä␣
+lk009:048	18	%modus	?	
 lk009:048	19	@	-	minut
 lk009:048	20b	,	-	,␣
 lk009:048	21	@	-	ottaa␣
@@ -11083,6 +11101,7 @@ lk010:004	13b	.	-	.␣
 lk010:005	lk010:005	lk010:005	VERSE	Lk␣10:5␣
 lk010:005	3	@	-	Kun␣
 lk010:005	5	@	-	tulette␣
+lk010:005	4	%modus	IND	
 lk010:005	2	@	-	johonkin␣
 lk010:005	6a	@	-	taloon
 lk010:005	1	%case	LOC	
@@ -11163,6 +11182,7 @@ lk010:008	5	@	-	kaupunkiin␣
 lk010:008	2	%case	LOC	
 lk010:008	6	(@)	-	te␣
 lk010:008	6	@	-	tulettekin
+lk010:008	4	%modus	IND	
 lk010:008	-	(,)	-	,␣
 lk010:008	(7)	-	UNTRANSLATED	
 lk010:008	-	(@)	-	missä␣
@@ -11201,6 +11221,7 @@ lk010:010	lk010:010	lk010:010	VERSE	Lk␣10:10␣
 lk010:010	3	@	-	Mutta␣
 lk010:010	-	(@)	-	kun␣
 lk010:010	6	@	-	tulette␣
+lk010:010	4	%modus	IND	
 lk010:010	5	@	-	kaupunkiin
 lk010:010	1	%case	LOC	
 lk010:010	-	(,)	-	,␣
@@ -11310,6 +11331,7 @@ lk010:013	25	@	-	tuhassa␣
 lk010:013	26	@	-	istuen␣
 lk010:013	27a	@	-	tehneet␣
 lk010:013	27a	@	-	parannuksen
+lk010:013	21	%modus	?	
 lk010:013	27b	.	-	.␣
 lk010:014	lk010:014	lk010:014	VERSE	Lk␣10:14␣
 lk010:014	1	@	-	Mutta␣
@@ -11899,6 +11921,7 @@ lk010:035	17	@	-	mitä␣
 lk010:035	19	(@)	-	sinulta␣
 lk010:035	19	@	-	lisää␣
 lk010:035	19	@	-	kuluu
+lk010:035	18	%modus	IND	
 lk010:035	-	(,)	-	,␣
 lk010:035	16	@	-	sen␣
 lk010:035	20	@	-	minä␣
@@ -13623,6 +13646,7 @@ lk012:008	4	@	-	jokaisen
 lk012:008	-	(,)	-	,␣
 lk012:008	5	@	-	joka␣
 lk012:008	7	@	-	tunnustaa␣
+lk012:008	6	%modus	IND	
 lk012:008	9	@	-	minut␣
 lk012:008	8	%case	ACC	
 lk012:008	(11) 12a	@	-	ihmisten␣
@@ -14324,6 +14348,7 @@ lk012:039	-	(,)	-	,␣
 lk012:039	16	(@)	-	hän␣
 lk012:039	14	@	-	ei␣
 lk012:039	16	@	-	sallisi␣
+lk012:039	15	%modus	COND	
 lk012:039	(18) 19	@	-	taloonsa␣
 lk012:039	20a	%pers	3	
 lk012:039	17	@	-	murtauduttavan
@@ -15415,6 +15440,7 @@ lk013:025	1 2	@	-	kuin␣
 lk013:025	(5) 6	@	-	perheenisäntä␣
 lk013:025	4	(@)	-	on␣
 lk013:025	4	@	-	noussut␣
+lk013:025	3	%modus	?	
 lk013:025	7	@	-	ja␣
 lk013:025	8	@	-	sulkenut␣
 lk013:025	10 (9)	@	-	oven␣
@@ -17202,6 +17228,7 @@ lk015:026	-	(,)	-	,␣
 lk015:026	7	@	-	mitä␣
 lk015:026	10a	@	-	se␣
 lk015:026	9	@	-	oli
+lk015:026	8	%modus	IND	
 lk015:026	10b	.	-	.␣
 lk015:027	lk015:027	lk015:027	VERSE	Lk␣15:27␣
 lk015:027	1	@	-	Tämä␣
@@ -18333,6 +18360,7 @@ lk017:006	21b	,	-	,␣
 lk017:006	22	@	-	ja␣
 lk017:006	23	(@)	-	se␣
 lk017:006	23	@	-	tottelisi␣
+lk017:006	24	%modus	COND	
 lk017:006	25a	@	-	teitä
 lk017:006	25b	.	-	.␣
 lk017:007	lk017:007	lk017:007	VERSE	Lk␣17:7␣
@@ -18921,6 +18949,7 @@ lk017:032	-	(!)	-	!␣
 lk017:033	lk017:033	lk017:033	VERSE	Lk␣17:33␣
 lk017:033	1	@	-	Joka␣
 lk017:033	3	@	-	tahtoo␣
+lk017:033	2	%modus	IND	
 lk017:033	7	@	-	tallettaa␣
 lk017:033	(4) 5	@	-	elämänsä␣
 lk017:033	6	%pers	3	
@@ -18934,6 +18963,7 @@ lk017:033	11	@	-	mutta␣
 lk017:033	10	@	-	joka␣
 lk017:033	-	(@)	-	sen␣
 lk017:033	13	@	-	kadottaa
+lk017:033	12	%modus	IND	
 lk017:033	-	(,)	-	,␣
 lk017:033	14	@	-	pelastaa␣
 lk017:033	15a	@	-	sen
@@ -19414,6 +19444,7 @@ lk018:017	4	@	-	joka␣
 lk018:017	6	@	-	ei␣
 lk018:017	7	@	-	ota␣
 lk018:017	7	@	-	vastaan␣
+lk018:017	5	%modus	?	
 lk018:017	(10) 11	@	-	Jumalan␣
 lk018:017	(8) 9	@	-	valtakuntaa␣
 lk018:017	12	@	-	niinkuin␣
@@ -20528,6 +20559,7 @@ lk019:023	13	@	-	tultuani␣
 lk019:023	18a	(@)	-	olisin␣
 lk019:023	tasp%18a	@	-	saanut␣
 lk019:023	18a	@	-	periä␣
+lk019:023	16	%modus	?	
 lk019:023	17	@	-	ne␣
 lk019:023	15	@	-	korkoineen
 lk019:023	14	%case	CMT	
@@ -21482,6 +21514,7 @@ lk020:018	10	@	-	jonka␣
 lk020:018	9	@	-	päälle␣
 lk020:018	13a	(@)	-	se␣
 lk020:018	13a	@	-	kaatuu
+lk020:018	12	%modus	IND	
 lk020:018	13b	,	-	,␣
 lk020:018	15a	@	-	sen␣
 lk020:018	14	(@)	-	se␣
@@ -21975,6 +22008,7 @@ lk020:043	lk020:043	lk020:043	VERSE	Lk␣20:43␣
 lk020:043	1	@	-	kunnes␣
 lk020:043	3	(@)	-	minä␣
 lk020:043	3	@	-	panen␣
+lk020:043	2	%modus	IND	
 lk020:043	6	@	-	sinun␣
 lk020:043	(4) 5	@	-	vihollisesi␣
 lk020:043	10a	@	-	sinun␣
@@ -22704,6 +22738,7 @@ lk021:032	-	(,)	-	,␣
 lk021:032	11	@	-	ennenkuin␣
 lk021:032	13	@	-	kaikki␣
 lk021:032	14a	@	-	tapahtuu
+lk021:032	12	%modus	IND	
 lk021:032	14b	.	-	.␣
 lk021:033	lk021:033	lk021:033	VERSE	Lk␣21:33␣
 lk021:033	(1) 2	@	-	Taivas␣

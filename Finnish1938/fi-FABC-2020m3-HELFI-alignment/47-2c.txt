@@ -1413,6 +1413,7 @@
 2c003:015	4	@	-	kun␣
 2c003:015	7a	@	-	Moosesta␣
 2c003:015	6	@	-	luetaan
+2c003:015	5	%modus	IND	
 2c003:015	7b	,	-	,␣
 2c003:015	13a	@	-	on␣
 2c003:015	8	@	-	peite␣
@@ -1426,6 +1427,7 @@
 2c003:016	-	(@)	-	heidän␣
 2c003:016	-	(@)	-	sydämensä␣
 2c003:016	4	@	-	kääntyy␣
+2c003:016	3	%modus	IND	
 2c003:016	6a	@	-	Herran␣
 2c003:016	5	@	-	tykö
 2c003:016	6b	,	-	,␣
@@ -3615,6 +3617,7 @@
 2c008:012	6	@	-	kuin␣
 2c008:012	8	@	-	on␣
 2c008:012	8	@	-	varoja
+2c008:012	7	%modus	?	
 2c008:012	9b	,	-	,␣
 2c008:012	10	@	-	eikä␣
 2c008:012	11	@	-	sen␣
@@ -4477,6 +4480,7 @@
 2c010:008	5	@	-	verran␣
 2c010:008	4	@	-	enemmänkin␣
 2c010:008	6	@	-	kerskaisin␣
+2c010:008	1a	%modus	COND	
 2c010:008	8	@	-	siitä␣
 2c010:008	9	@	-	vallastamme
 2c010:008	10	%pers	?	
@@ -4510,6 +4514,7 @@
 2c010:009	-	(,)	-	,␣
 2c010:009	4	@	-	kuin␣
 2c010:009	6	@	-	peloittelisin␣
+2c010:009	5	%modus	COND	
 2c010:009	7	@	-	teitä␣
 2c010:009	10a (9)	@	-	kirjeilläni
 2c010:009	8	%case	LOC	
@@ -5112,6 +5117,7 @@
 2c011:016	-	(@)	-	olisinkin
 2c011:016	12b	,	-	,␣
 2c011:016	17	@	-	ottakaa␣
+2c011:016	14	%modus	?	
 2c011:016	18a	@	-	minut␣
 2c011:016	16	@	-	mieletönnäkin␣
 2c011:016	15	%inflection	DER.ESS.-CLITIC	
@@ -5226,6 +5232,7 @@
 2c011:021	12	@	-	joku␣
 2c011:021	12	@	-	toinen␣
 2c011:021	13a	@	-	uskaltaa␣
+2c011:021	11	%modus	IND	
 2c011:021	13b	-	-	-␣
 2c011:021	16a	@	-	puhun␣
 2c011:021	-	(@)	-	kuin␣

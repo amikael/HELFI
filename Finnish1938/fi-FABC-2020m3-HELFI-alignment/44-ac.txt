@@ -1136,6 +1136,7 @@ ac002:021	-	(,)	-	,␣
 ac002:021	4	@	-	joka␣
 ac002:021	6	@	-	huutaa␣
 ac002:021	6	@	-	avuksi␣
+ac002:021	5	%modus	?	
 ac002:021	9	@	-	Herran␣
 ac002:021	(7) 8	@	-	nimeä
 ac002:021	-	(,)	-	,␣
@@ -1474,6 +1475,7 @@ ac002:035	ac002:035	ac002:035	VERSE	Apt␣2:35␣
 ac002:035	1	@	-	kunnes␣
 ac002:035	3	(@)	-	minä␣
 ac002:035	3	@	-	panen␣
+ac002:035	2	%modus	IND	
 ac002:035	6	@	-	sinun␣
 ac002:035	(4) 5	@	-	vihollisesi␣
 ac002:035	10a	@	-	sinun␣
@@ -1594,6 +1596,7 @@ ac002:039	21a	@	-	meidän␣
 ac002:039	(19) 20	@	-	Jumalamme
 ac002:039	-	(,)	-	,␣
 ac002:039	17	@	-	kutsuu
+ac002:039	16	%modus	IND	
 ac002:039	21b	.	-	.
 ac002:039	21b	@	-	"␣
 ac002:040	ac002:040	ac002:040	VERSE	Apt␣2:40␣
@@ -1707,6 +1710,7 @@ ac002:045	12	@	-	mukaan␣
 ac002:045	12	@	-	kuin␣
 ac002:045	14	@	-	kukin␣
 ac002:045	15 16a	@	-	tarvitsi
+ac002:045	13	%modus	IND	
 ac002:045	16b	.	-	.␣
 ac002:046	ac002:046	ac002:046	VERSE	Apt␣2:46␣
 ac002:046	3	@	-	Ja␣
@@ -2226,6 +2230,7 @@ ac003:020	1	@	-	että␣
 ac003:020	5	@	-	virvoituksen␣
 ac003:020	4	@	-	ajat␣
 ac003:020	3	@	-	tulisivat␣
+ac003:020	2	%modus	COND	
 ac003:020	(8) 9	@	-	Herran␣
 ac003:020	7	@	-	kasvoista␣
 ac003:020	6	%case	LOC	
@@ -2302,6 +2307,7 @@ ac003:022	24	(@)	-	hän␣
 ac003:022	26a	@	-	teille␣
 ac003:022	25	%case	LOC	
 ac003:022	24	@	-	puhuu
+ac003:022	23	%modus	IND	
 ac003:022	26b	.	-	.␣
 ac003:023	ac003:023	ac003:023	VERSE	Apt␣3:23␣
 ac003:023	2	@	-	Ja␣
@@ -2317,6 +2323,7 @@ ac003:023	7	@	-	ei␣
 ac003:023	11	@	-	sitä␣
 ac003:023	10 (9)	@	-	profeettaa␣
 ac003:023	8	@	-	kuule
+ac003:023	6	%modus	IND	
 ac003:023	-	(,)	-	,␣
 ac003:023	12	@	-	hävitetään␣
 ac003:023	(14) 15a	@	-	kansasta
@@ -3200,6 +3207,7 @@ ac004:035	-	(,)	-	,␣
 ac004:035	11	@	-	kuin␣
 ac004:035	pro%13	@	-	hän␣
 ac004:035	14 15a	@	-	tarvitsi
+ac004:035	12	%modus	IND	
 ac004:035	15b	.	-	.␣
 ac004:036	ac004:036	ac004:036	VERSE	Apt␣4:36␣
 ac004:036	2	@	-	Niinpä␣
@@ -3804,6 +3812,7 @@ ac005:024	-	(@)	-	ja␣
 ac005:024	18	@	-	mitä␣
 ac005:024	21a	@	-	tästä␣
 ac005:024	20	@	-	tulisi
+ac005:024	19	%modus	COND	
 ac005:024	21b	.	-	.␣
 ac005:025	ac005:025	ac005:025	VERSE	Apt␣5:25␣
 ac005:025	2	@	-	Niin␣
@@ -4674,6 +4683,7 @@ ac007:003	20	@	-	jonka␣
 ac007:003	23a	(@)	-	minä␣
 ac007:003	22	@	-	sinulle␣
 ac007:003	23a	@	-	osoitan
+ac007:003	21	%modus	IND	
 ac007:003	23b	@	-	'
 ac007:003	23b	.	-	.␣
 ac007:004	ac007:004	ac007:004	VERSE	Apt␣7:4␣
@@ -4778,6 +4788,7 @@ ac007:007	4	@	-	jonka␣
 ac007:007	6	@	-	orjiksi␣
 ac007:007	6	(@)	-	he␣
 ac007:007	6	@	-	tulevat
+ac007:007	5	%modus	IND	
 ac007:007	-	(,)	-	,␣
 ac007:007	8a	@	-	minä␣
 ac007:007	7	(@)	-	olen␣
@@ -6438,6 +6449,7 @@ ac008:019	11	@	-	päälle␣
 ac008:019	11	(@)	-	minä␣
 ac008:019	(12) 13	@	-	käteni␣
 ac008:019	11	@	-	panen
+ac008:019	10	%modus	IND	
 ac008:019	-	(,)	-	,␣
 ac008:019	14	(@)	-	se␣
 ac008:019	14	@	-	saa␣
@@ -6710,6 +6722,7 @@ ac008:031	4	@	-	Kuinka␣
 ac008:031	(5)	-	UNTRANSLATED	
 ac008:031	7	(@)	-	minä␣
 ac008:031	7	@	-	voisin␣
+ac008:031	6	%modus	COND	
 ac008:031	-	(@)	-	ymmärtää
 ac008:031	-	(,)	-	,␣
 ac008:031	8 9	@	-	ellei␣
@@ -12758,6 +12771,7 @@ ac015:017	(4) 5	@	-	jäljelle␣
 ac015:017	(4) 5	@	-	jääneet␣
 ac015:017	(6) 7	@	-	ihmiset␣
 ac015:017	3	@	-	etsisivät␣
+ac015:017	2	%modus	COND	
 ac015:017	(8) 9	@	-	Herraa
 ac015:017	-	(,)	-	,␣
 ac015:017	10	@	-	ynnä␣
@@ -15479,6 +15493,7 @@ ac018:014	-	(@)	-	että␣
 ac018:014	27	(@)	-	minä␣
 ac018:014	27	@	-	kärsivällisesti␣
 ac018:014	27	@	-	kuuntelisin␣
+ac018:014	26	%modus	COND	
 ac018:014	28a	@	-	teitä
 ac018:014	-	(,)	-	,␣
 ac018:014	23a	@	-	juutalaiset
@@ -22622,6 +22637,7 @@ ac026:029	-	(@)	-	sanoi
 ac026:029	3b	:	-	:␣
 ac026:029	3b	@	-	"
 ac026:029	4	@	-	Toivoisin␣
+ac026:029	5	%modus	COND	
 ac026:029	(6) 7	@	-	Jumalalta
 ac026:029	-	(,)	-	,␣
 ac026:029	-	(@)	-	että
