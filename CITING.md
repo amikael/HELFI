@@ -10,7 +10,7 @@ The corpus has been assigned the following identifier by ISLRN:
 
 > 840-665-876-625-0 - The HELFI Corpus
 
-## The Alignment Data of the HELFI Corpus
+## The Free Alignment Data of the HELFI Corpus
 
 The alignment data of the HELFI corpus consist exclusively of **the alignment link numbers**, **the gloss extractors** and **the link qualifiers** added to the Finnish 1933/1938 translation, and **source-side token numbers** added to the Hebrew and Greed source texts.  
 
