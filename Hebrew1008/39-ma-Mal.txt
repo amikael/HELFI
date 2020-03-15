@@ -1032,6 +1032,8 @@ ma003:017	14	-/2550/-	Qal.3ms.IMPF	יַחְמֹ֣ל	yaḥĕmol
 ma003:017	15	-/376/0368	MASC.SG.ABS	אִ֔ישׁ	ʾîš
 ma003:017	16	-/5921a/-	PREP	עַל־	ʿal-
 ma003:017	17	-/1121a/1072	MASC.SG.CSTR-3ms	בְּנ֖וֹ	bĕn-ow
+ma003:017	18a	-/d/-	ART	הָ	hā
+ma003:017	18b	-/5647/-	MASC.SG.ACT.PCP.ABS	עֹבֵ֥ד	ʿobēd
 ma003:017	19	-/853/0811	OBJ-3ms	אֹתֽוֹ׃	ʾot-ow
 ma003:018	1a	-/c/9191	CNJ	וְ	wĕ
 ma003:018	1b	-/7725/-	2mp.SEQ.PERF	שַׁבְתֶּם֙	šabĕtem

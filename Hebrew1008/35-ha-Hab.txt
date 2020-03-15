@@ -658,6 +658,8 @@ ha003:003	11b	-/8416/8063	FEM.SG.CSTR-3ms	תְהִלָּת֖וֹ	tĕhilāt-ow
 ha003:003	12	-/4390/4156	Qal.3fs.PERF	מָלְאָ֥ה	mālĕʾāh
 ha003:003	13a	-/d/-	ART	הָ	hā
 ha003:003	13b	-/776/0738	SG.ABS	אָֽרֶץ׃	ʾāreṣ
+ha003:004	1a=í	-/c/-	CNJ	וְ	wĕ
+ha003:004	1b	-/5051/-	FEM.SG.ABS	נֹ֨גַהּ֙	nogah
 ha003:004	2a	-/k/-	PREP	כָּ	kā
 ha003:004	2b	-/216/0211	SG.ABS	א֣וֹר	ʾowr
 ha003:004	3	-/1961/1861	Qal.3fs.IMPF	תִּֽהְיֶ֔ה	tihĕyeh
@@ -668,6 +670,7 @@ ha003:004	6	-/l/-	PREP	ל֑וֹ	l-ow
 ha003:004	7a	-/c/9191	CNJ	וְ	wĕ
 ha003:004	7b	-/8033/7777	ADV	שָׁ֖ם	šām
 ha003:004	8	-/2253/-	MASC.SG.CSTR	חֶבְי֥וֹן	ḥebĕyown
+ha003:004	9	-/5797/5523	MASC.SG.CSTR-3ms	עֻזֹּֽה׃	ʿuz-oh
 ha003:005	1a	-/l/3599	PREP	לְ	lĕ
 ha003:005	1b	-/6440/6159	PL.CSTR-3ms	פָנָ֖יו	fānāy-w
 ha003:005	2	-/3212/-	Qal.3ms.IMPF	יֵ֣לֶךְ	yēleḵ
@@ -694,6 +697,7 @@ ha003:006	11	-/1389/-	FEM.PL.CSTR	גִּבְע֣וֹת	gibĕʿowt
 ha003:006	12	-/5769/5499	MASC.SG.ABS	עוֹלָ֑ם	ʿowlām
 ha003:006	13	-/1979/1877	FEM.PL.CSTR	הֲלִיכ֥וֹת	hălîḵowt
 ha003:006	14	-/5769/5499	MASC.SG.ABS	עוֹלָ֖ם	ʿowlām
+ha003:006	15	-/l/-	PREP	לֽוֹ׃	l-ow
 ha003:007	1	-/8478/8117	PREP	תַּ֣חַת	taăḥt
 ha003:007	2	-/205/0197	MASC.SG.ABS	אָ֔וֶן	ʾāwen
 ha003:007	3	-/7200/6915	Qal.1cs.PERF	רָאִ֖יתִי	rāʾîtî

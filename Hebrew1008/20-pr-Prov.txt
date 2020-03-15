@@ -46,6 +46,7 @@ pr001:006	1b	-/995/0949	INF.CSTR	הָבִ֣ין	hābîn
 pr001:006	2	-/4912/4679	MASC.SG.ABS	מָ֭שָׁל	māšāl
 pr001:006	3a	-/c/-	CNJ	וּ	ū
 pr001:006	3b	-/4426/4190	FEM.SG.ABS	מְלִיצָ֑ה	mĕlîṣāh
+pr001:006	4	-/1697/1618	MASC.PL.CSTR	דִּבְרֵ֥י	dibĕrê
 pr001:006	5	-/2450/2322	ADJ.MASC.PL.ABS	חֲ֝כָמִ֗ים	ḥăḵāmîm
 pr001:006	6a	-/c/9191	CNJ	וְ	wĕ
 pr001:006	6b	-/2420/2291	FEM.PL.CSTR-3mp	חִידֹתָֽם׃	ḥîdot-ām
@@ -147,6 +148,8 @@ pr001:017	4a	-/d/-	-	הָ	hā
 pr001:017	4b	-/7568/7261	-	רָ֑שֶׁת	rāšet
 pr001:017	5a	-/b/9082	PREP	בְּ֝	bĕ
 pr001:017	5b	-/5869a/5598	BD.CSTR	עֵינֵ֗י	ʿênê
+pr001:017	6	-/3605/3409	MASC.SG.CSTR	כָל־	ḵāl-
+pr001:017	7	-/1167/-	MASC.SG.CSTR	בַּ֥עַל	baʿal
 pr001:017	8	-/3671/3472	FEM.SG.ABS	כָּנָֽף׃	kānāf
 pr001:018	1a	-/c/9191	CNJ	וְ֭	wĕ
 pr001:018	1b	-/1992/1889	PRON	הֵם	hēm
@@ -766,6 +769,8 @@ pr003:028	1	-/408/0395	NEG	אַל־	ʾal-
 pr003:028	2	-/559/0546	Qal.2ms.JUS	תֹּ֘אמַ֤ר	toʾmar
 pr003:028	3a=í	-/-/-	-	לְ	lĕ
 pr003:028	3b=í	-/-/7145	-	רֵעֶיכָ	rēʿê-ḵā
+pr003:028	4a	-/l/-	PREP	לְ	lĕ
+pr003:028	4b	-/7453/7145	MASC.SG.CSTR-2ms	רֵֽעֲךָ֨׀	rēʿ-ăḵā
 pr003:028	5	-/3212/-	Qal.2ms.IMP	לֵ֣ךְ	lēḵ
 pr003:028	6a	-/c/-	CNJ	וָ֭	wā
 pr003:028	6b	-/7725/7547	2ms.IMP	שׁוּב	šūb
@@ -1081,6 +1086,7 @@ pr004:025	4a	-/c/9191	CNJ	וְ֝	wĕ
 pr004:025	4b	-/6079/-	MASC.PL.CSTR-2ms	עַפְעַפֶּ֗יךָ	ʿafĕʿapê-ḵā
 pr004:025	5	-/3474/3293	Hiph.3mp.JUS	יַיְשִׁ֥רוּ	yayĕširū
 pr004:025	6	-/5048/4804	-	נֶגְדֶּֽךָ׃	negĕd-eḵā
+pr004:026	1	-/6424/6146	PI.2ms.IMP	פַּ֭לֵּס	palēs
 pr004:026	2	-/4570/-	MASC.SG.CSTR	מַעְגַּ֣ל	maʿĕgal
 pr004:026	3	-/7272/6974	FEM.SG.CSTR-2ms	רַגְלֶ֑ךָ	ragĕl-eḵā
 pr004:026	4a	-/c/9191	CNJ	וְֽ	wĕ
@@ -1317,6 +1323,7 @@ pr006:001	2	-/518a/-	CNJ	אִם־	ʾim-
 pr006:001	3	-/6148/-	Qal.2ms.PERF	עָרַ֣בְתָּ	ʿārabĕtā
 pr006:001	4a	-/l/3599	PREP	לְ	lĕ
 pr006:001	4b	-/7453/7145	MASC.SG.CSTR-2ms	רֵעֶ֑ךָ	rēʿ-eḵā
+pr006:001	5	-/8628/8257	Qal.2ms.PERF	תָּקַ֖עְתָּ	tāqaʿĕtā
 pr006:001	6a	-/l/-	PREP	לַ	la
 pr006:001	6b	-/2114a/2096	ADJ.MASC.SG.ABS	זָּ֣ר	zār
 pr006:001	7	-/3709/3505	FD.CSTR-2ms	כַּפֶּֽיךָ׃	kapê-ḵā
@@ -1330,6 +1337,7 @@ pr006:002	5b	-/561/0549	MASC.PL.CSTR	אִמְרֵי־	ʾimĕrê-
 pr006:002	6	-/6310/6036	MASC.SG.CSTR-2ms	פִֽיךָ׃	fî-ḵā
 pr006:003	1	-/6213a/-	Qal.2ms.IMP	עֲשֵׂ֨ה	ʿăśēh
 pr006:003	2	-/2063/1957	PRON	זֹ֥את	zoʾt
+pr006:003	3	-/645/-	-	אֵפ֪וֹא׀	ʾēfowʾ
 pr006:003	4	-/1121a/1072	MASC.SG.CSTR-1cs	בְּנִ֡י	bĕn-î
 pr006:003	5a	-/c/9191	CNJ	וְֽ	wĕ
 pr006:003	5b	-/5337/5073	2ms.IMP	הִנָּצֵ֗ל	hināṣēl
@@ -1423,7 +1431,11 @@ pr006:012	5	-/1980/-	Qal.MASC.SG.ACT.PCP.ABS	ה֝וֹלֵ֗ךְ	howlēḵ
 pr006:012	6	-/6143/5865	FEM.SG.CSTR	עִקְּשׁ֥וּת	ʿiqĕšūt
 pr006:012	7	-/6310/6036	MASC.SG.ABS	פֶּֽה׃	peh
 pr006:013	1	-/7169/-	Qal.MASC.SG.ACT.PCP.ABS	קֹרֵ֣ץ	qorēṣ
+pr006:013	2a	-/b/9082	PREP	בְּ֭	bĕ
+pr006:013	2b	-/5869a/5598	BD.CSTR-3ms	עֵינָו	ʿênāy-w
 pr006:013	3	-/4448b/9372	Qal.MASC.SG.ACT.PCP.ABS	מֹלֵ֣ל	molēl
+pr006:013	4a	-/b/9082	-	בְּ	bĕ
+pr006:013	4b	-/7272/6974	-	רַגְלָ֑ו	ragĕlā-w
 pr006:013	5	-/3384b/3196	Hiph.MASC.SG.ACT.PCP.ABS	מֹ֝רֶ֗ה	moreh
 pr006:013	6a	-/b/9082	PREP	בְּ	bĕ
 pr006:013	6b	-/676/-	FEM.PL.CSTR-3ms	אֶצְבְּעֹתָֽיו׃	ʾeṣĕbĕʿotāy-w
@@ -1456,6 +1468,7 @@ pr006:016	4	-/3068/2923	PR	יְהוָ֑ה	yĕhwāh
 pr006:016	5a	-/c/9191	CNJ	וְ֝	wĕ
 pr006:016	5b	-/7651/7499	CARD.FEM.SG.ABS	שֶׁ֗בַע	šebaʿ
 pr006:016	6=í	-/-/8086	-	תּׄועֲבׄות	towʿăbowt
+pr006:016	7	-/8441/8086	-	תּוֹעֲבַ֥ת	towʿăbat
 pr006:016	8	-/5315/5053	SG.CSTR-3ms	נַפְשֽׁוֹ׃	nafĕš-ow
 pr006:017	1	-/5869a/5598	BD.ABS	עֵינַ֣יִם	ʿênayim
 pr006:017	2	-/7311a/7011	Qal.FEM.PL.ACT.PCP.ABS	רָ֭מוֹת	rāmowt
@@ -1502,6 +1515,8 @@ pr006:021	4	-/8548/8180	-	תָמִ֑יד	tāmîd
 pr006:021	5	-/6029/5746	Qal.2ms.IMP-3mp	עָ֝נְדֵ֗ם	ʿānĕd-ēm
 pr006:021	6	-/5921a/-	PREP	עַל־	ʿal-
 pr006:021	7	-/1621/-	FEM.PL.CSTR-2ms	גַּרְגְּרֹתֶֽךָ׃	garĕgĕrot-eḵā
+pr006:022	1a	-/b/9082	PREP	בְּ	bĕ
+pr006:022	1b	-/1980/-	INF.CSTR-2ms	הִתְהַלֶּכְךָ֨׀	hitĕhaleḵ-ĕḵā
 pr006:022	2	-/5148/4895	Hiph.3fs.IMPF	תַּנְחֶ֬ה	tanĕḥeh
 pr006:022	3	-/853/0811	OBJ-2fs	אֹתָ֗ךְ	ʾot-āḵ
 pr006:022	4a	-/b/9082	PREP	בְּֽ֭	bĕ
@@ -1839,6 +1854,8 @@ pr007:022	2	-/310a/9018	PREP	אַחֲרֶ֗יהָ	ʾaḥărê-hā
 pr007:022	3	-/6597/-	ADV	פִּ֫תְאֹ֥ם	pitĕʾom
 pr007:022	4a	-/k/-	PREP	כְּ֭	kĕ
 pr007:022	4b	-/7794/7602	MASC.SG.ABS	שׁוֹר	šowr
+pr007:022	5	-/413/-	PREP	אֶל־	ʾel-
+pr007:022	6	-/2874/2750	MASC.SG.ABS	טָ֣בַח	ṭābaḥ
 pr007:022	7	-/935/0886	Qal.3ms.IMPF	יָב֑וֹא	yābowʾ
 pr007:022	8a	-/c/-	CNJ	וּ֝	ū
 pr007:022	8b	-/k/-	PREP	כְ	ḵĕ
@@ -2058,6 +2075,9 @@ pr008:019	1	-/2896a/2768	ADJ.MASC.SG.ABS	ט֣וֹב	ṭowb
 pr008:019	2	-/6529/6250	MASC.SG.CSTR-1cs	פִּ֭רְיִי	pirĕy-î
 pr008:019	3a	-/m/4247	PREP	מֵ	mē
 pr008:019	3b	-/2742d/-	MASC.SG.ABS	חָר֣וּץ	ḥārūṣ
+pr008:019	4a=í	-/c/-	CNJ	וּ	ū
+pr008:019	4b	-/m/4247	PREP	מִ	mi
+pr008:019	4c	-/6337/6064	MASC.SG.ABS	פָּ֑ז	pāz
 pr008:019	5a	-/c/-	CNJ	וּ֝	ū
 pr008:019	5b	-/8393/8039	FEM.SG.CSTR-1cs	תְבוּאָתִ֗י	tĕbūʾāt-î
 pr008:019	6a	-/m/4247	PREP	מִ	mi
@@ -2066,6 +2086,7 @@ pr008:019	7	-/977/0932	Niph.MASC.SG.ACT.PCP.ABS	נִבְחָֽר׃	nibĕḥār
 pr008:020	1a	-/b/9082	PREP	בְּ	bĕ
 pr008:020	1b	-/734/-	SG.CSTR	אֹֽרַח־	ʾoraḥ-
 pr008:020	2	-/6666/6377	FEM.SG.ABS	צְדָקָ֥ה	ṣĕdāqāh
+pr008:020	3	-/1980/-	PI.1cs.IMPF	אֲהַלֵּ֑ך	ʾăhalēḵ
 pr008:020	4a	-/b/9082	PREP	בְּ֝	bĕ
 pr008:020	4b	-/8432/-	MASC.SG.CSTR	ת֗וֹךְ	towḵ
 pr008:020	5	-/5410b/5140	FEM.PL.CSTR	נְתִיב֥וֹת	nĕtîbowt
@@ -2140,6 +2161,7 @@ pr008:028	3b	-/4605/4372	-	מָּ֑עַל	māʿal
 pr008:028	4a	-/b/9082	PREP	בַּ֝	ba
 pr008:028	4b	-/5810/5537	INF.CSTR	עֲז֗וֹז	ʿăzowz
 pr008:028	5	-/5869b/5598	PL.CSTR	עִינ֥וֹת	ʿînowt
+pr008:028	6	-/8415/-	SG.ABS	תְּהוֹם׃	tĕhowm
 pr008:029	1a	-/b/9082	PREP	בְּ	bĕ
 pr008:029	1b	-/7760a/7336	INF.CSTR-3ms	שׂ֘וּמ֤וֹ	śūm-ow
 pr008:029	2a	-/l/-	PREP	לַ	la
@@ -2211,6 +2233,7 @@ pr008:034	12	-/6607/6318	-	פְּתָחָֽי׃	pĕtāḥāy
 pr008:035	1	-/3588a/3392	CNJ	כִּ֣י	kî
 pr008:035	2	-/4672/4438	Qal.MASC.SG.ACT.PCP.CSTR-1cs	מֹ֭צְאִי	moṣĕʾ-î
 pr008:035	3=í	-/-/4438	-	מׄצְאֵי	moṣĕʾê
+pr008:035	4	-/4672/4438	-	מָצָ֣א	māṣāʾ
 pr008:035	5	-/2416e/2297	MASC.PL.ABS	חַיִּ֑ים	ăḥyîm
 pr008:035	6a	-/c/-	CNJ	וַ	wa
 pr008:035	6b	-/6329/6057	3ms.SEQ.IMPF	יָּ֥פֶק	yāfeq
@@ -2466,6 +2489,7 @@ pr010:009	5a	-/c/-	CNJ	וּ	ū
 pr010:009	5b	-/6140/5862	MASC.SG.ACT.PCP.ABS	מְעַקֵּ֥שׁ	mĕʿaqēš
 pr010:009	6	-/1870/-	PL.CSTR-3ms	דְּ֝רָכָ֗יו	dĕrāḵāy-w
 pr010:009	7	-/3045/2907	Niph.3ms.IMPF	יִוָּדֵֽעַ׃	yiūādēʿa
+pr010:010	1	-/7169/-	Qal.MASC.SG.ACT.PCP.ABS	קֹ֣רֵֽץ	qorēṣ
 pr010:010	2	-/5869a/5598	SG.ABS	עַ֭יִן	ʿayin
 pr010:010	3	-/5414/5143	Qal.3ms.IMPF	יִתֵּ֣ן	yitēn
 pr010:010	4	-/6094/5814	FEM.SG.ABS	עַצָּ֑בֶת	ʿaṣābet
@@ -2601,6 +2625,7 @@ pr010:024	6	-/6662/-	ADJ.MASC.PL.ABS	צַדִּיקִ֣ים	ṣadîqîm
 pr010:024	7	-/5414/5143	-	יִתֵּֽן׃	yitēn
 pr010:025	1a	-/k/-	PREP	כַּ	ka
 pr010:025	1b	-/5674a/5401	INF.CSTR	עֲב֣וֹר	ʿăbowr
+pr010:025	2	-/5492a/-	FEM.SG.ABS	ס֭וּפָה	sūfāh
 pr010:025	3a	-/c/9191	CNJ	וְ	wĕ
 pr010:025	3b	-/369/0361	NEG	אֵ֣ין	ʾên
 pr010:025	4	-/7563/7256	ADJ.MASC.SG.ABS	רָשָׁ֑ע	rāšāʿ
@@ -2701,6 +2726,7 @@ pr011:003	6b=í	-/-/7533	-	שׁדָּם	šad-ām
 pr011:003	7	-/7703/7533	-	יְשָׁדֵּֽם׃	yĕšād-ēm
 pr011:004	1	-/3808/-	NEG	לֹא־	loʾ-
 pr011:004	2	-/3276/3094	Hiph.3ms.IMPF	יוֹעִ֣יל	yowʿîl
+pr011:004	3	-/1952/-	MASC.SG.ABS	ה֭וֹן	hown
 pr011:004	4a	-/b/9082	PREP	בְּ	bĕ
 pr011:004	4b	-/3117/2955	MASC.SG.CSTR	י֣וֹם	yowm
 pr011:004	5	-/5678/-	FEM.SG.ABS	עֶבְרָ֑ה	ʿebĕrāh
@@ -2910,6 +2936,7 @@ pr011:026	6a	-/l/3599	PREP	לְ	lĕ
 pr011:026	6b	-/7218a/6930	MASC.SG.CSTR	רֹ֣אשׁ	roʾš
 pr011:026	7	-/7666/7505	Hiph.MASC.SG.ACT.PCP.ABS	מַשְׁבִּֽיר׃	mašĕbîr
 pr011:027	1	-/7836/7635	Qal.MASC.SG.ACT.PCP.ABS	שֹׁ֣חֵֽר	šoḥēr
+pr011:027	2	-/2896b/2768	ADJ.MASC.SG.ABS	ט֭וֹב	ṭowb
 pr011:027	3	-/1245/1187	-	יְבַקֵּ֣שׁ	yĕbaqēš
 pr011:027	4	-/7522/7216	MASC.SG.ABS	רָצ֑וֹן	rāṣown
 pr011:027	5a	-/c/9191	CNJ	וְ	wĕ
@@ -2942,6 +2969,7 @@ pr011:030	3	-/6086/5804	MASC.SG.CSTR	עֵ֣ץ	ʿēṣ
 pr011:030	4	-/2416e/2297	MASC.PL.ABS	חַיִּ֑ים	ăḥyîm
 pr011:030	5a	-/c/9191	-	וְ	wĕ
 pr011:030	5b	-/3947/-	-	לֹקֵ֖חַ	loqēăḥ
+pr011:030	6	-/5315/5053	PL.ABS	נְפָשׂ֣וֹת	nĕfāśowt
 pr011:030	7	-/2450/2322	ADJ.MASC.SG.ABS	חָכָֽם׃	ḥāḵām
 pr011:031	1	-/2005/1901	DEM	הֵ֣ן	hēn
 pr011:031	2	-/6662/-	ADJ.MASC.SG.ABS	צַ֭דִּיק	ṣadîq
@@ -2954,6 +2982,7 @@ pr011:031	7	-/7563/7256	ADJ.MASC.SG.ABS	רָשָׁ֥ע	rāšāʿ
 pr011:031	8a	-/c/9191	CNJ	וְ	wĕ
 pr011:031	8b	-/2398/2273	MASC.SG.ACT.PCP.ABS	חוֹטֵֽא׃	ḥowṭēʾ
 pr012:001	1	-/157/-	Qal.MASC.SG.ACT.PCP.ABS	אֹהֵ֣ב	ʾohēb
+pr012:001	2	-/4148/-	MASC.SG.ABS	מ֭וּסָר	mūsār
 pr012:001	3	-/157/-	Qal.MASC.SG.ACT.PCP.ABS	אֹ֣הֵֽב	ʾohēb
 pr012:001	4	-/1847/1758	FEM.SG.ABS	דָּ֑עַת	dāʿat
 pr012:001	5a	-/c/9191	CNJ	וְ	wĕ
@@ -3289,7 +3318,11 @@ pr013:010	2a	-/b/9082	PREP	בְּ֭	bĕ
 pr013:010	2b	-/2087/1980	MASC.SG.ABS	זָדוֹן	zādown
 pr013:010	3	-/5414/5143	Qal.3ms.IMPF	יִתֵּ֣ן	yitēn
 pr013:010	4	-/4683/4448	FEM.SG.ABS	מַצָּ֑ה	maṣāh
+pr013:010	5a	-/c/-	CNJ	וְ	wĕ
+pr013:010	5b	-/854/0811	PREP	אֶת־	ʾet-
+pr013:010	6	-/3289/3107	Niph.MASC.PL.ACT.PCP.ABS	נ֖וֹעָצִ֣ים	nowʿāṣîm
 pr013:010	7	-/2451/-	FEM.SG.ABS	חָכְמָֽה׃	ḥāḵĕmāh
+pr013:011	1	-/1952/-	MASC.SG.ABS	ה֭וֹן	hown
 pr013:011	2a	-/m/4247	PREP	מֵ	mē
 pr013:011	2b	-/1892/1799	MASC.SG.ABS	הֶ֣בֶל	hebel
 pr013:011	3	-/4591/4357	Qal.3ms.IMPF	יִמְעָ֑ט	yimĕʿāṭ
@@ -3326,6 +3359,8 @@ pr013:014	5b	-/5493/5217	INF.CSTR	ס֗וּר	sūr
 pr013:014	6a	-/m/4247	PREP	מִ	mi
 pr013:014	6b	-/4170/3944	MASC.PL.CSTR	מֹּ֥קְשֵׁי	moqĕšê
 pr013:014	7	-/4194/3965	MASC.SG.ABS	מָֽוֶת׃	māwet
+pr013:015	1	-/7922/7349	-	שֵֽׂכֶל־	śēḵel-
+pr013:015	2	-/2896a/-	ADJ.MASC.SG.ABS	ט֭וֹב	ṭowb
 pr013:015	3	-/5414/5143	-	יִתֶּן־	yiten-
 pr013:015	4	-/2580/2451	MASC.SG.ABS	חֵ֑ן	ḥēn
 pr013:015	5a	-/c/9191	CNJ	וְ	wĕ
@@ -3371,6 +3406,7 @@ pr013:019	7	-/5493/5217	Qal.INF.CSTR	ס֣וּר	sūr
 pr013:019	8a	-/m/4247	PREP	מֵ	mē
 pr013:019	8b	-/7451a/7144	ADJ.MASC.SG.ABS	רָֽע׃	rāʿ
 pr013:020	1	-/-/-	-	הָלׄוכְ	hālowḵ
+pr013:020	2=í	-/1980/-	Qal.MASC.SG.ACT.PCP.ABS	הוֹלֵ֣ךְ	howlēḵ
 pr013:020	3	-/854/0811	PREP	אֶת־	ʾet-
 pr013:020	4	-/2450/2322	ADJ.MASC.PL.ABS	חֲכָמִ֣ים	ḥăḵāmîm
 pr013:020	5a	-/-/1944	-	ו	wa
@@ -3508,6 +3544,7 @@ pr014:009	4a	-/c/-	CNJ	וּ	ū
 pr014:009	4b	-/996/0950	PREP	בֵ֖ין	bên
 pr014:009	5	-/3477/3294	ADJ.MASC.PL.ABS	יְשָׁרִ֣ים	yĕšārîm
 pr014:009	6	-/7522/7216	MASC.SG.ABS	רָצֽוֹן׃	rāṣown
+pr014:010	1	-/3820a/-	MASC.SG.ABS	לֵ֗ב	lēb
 pr014:010	2	-/3045/2907	Qal.MASC.SG.ACT.PCP.ABS	י֭וֹדֵעַ	yowdēʿa
 pr014:010	3	-/4787/-	FEM.SG.CSTR	מָרַּ֣ת	mārat
 pr014:010	4	-/5315/5053	SG.CSTR-3ms	נַפְשׁ֑וֹ	nafĕš-ow
@@ -3539,6 +3576,8 @@ pr014:013	2a	-/b/9082	PREP	בִּ	bi
 pr014:013	2b	-/7814/7313	MASC.SG.ABS	שְׂח֥וֹק	śĕḥowq
 pr014:013	3	-/3510/3320	Qal.3ms.IMPF	יִכְאַב־	yiḵĕʾab-
 pr014:013	4	-/3820a/3609	MASC.SG.ABS	לֵ֑ב	lēb
+pr014:013	5a	-/c/-	CNJ	וְ	wĕ
+pr014:013	5b	-/319/0312	FEM.SG.CSTR-3fs	אַחֲרִיתָ֖הּ	ʾaḥărît-āh
 pr014:013	6	-/8057/-	FEM.SG.ABS	שִׂמְחָ֣ה	śimĕḥāh
 pr014:013	7	-/8424/8069	FEM.SG.ABS	תוּגָֽה׃	tūgāh
 pr014:014	1a	-/m/4247	PREP	מִ	mi
@@ -3698,6 +3737,8 @@ pr014:030	5a	-/c/-	CNJ	וּ	ū
 pr014:030	5b	-/7538/7232	MASC.SG.CSTR	רְקַ֖ב	rĕqab
 pr014:030	6	-/6106/5828	FEM.PL.ABS	עֲצָמ֣וֹת	ʿăṣāmowt
 pr014:030	7	-/7068/-	FEM.SG.ABS	קִנְאָֽה׃	qinĕʾāh
+pr014:031	1	-/6231/-	Qal.MASC.SG.ACT.PCP.ABS	עֹ֣שֵֽׁק	ʿošēq-
+pr014:031	2	-/1800/1711	ADJ.MASC.SG.ABS	דָּ֭ל	dāl
 pr014:031	3	-/2778a/-	PI.3ms.PERF	חֵרֵ֣ף	ḥērēf
 pr014:031	4	-/6213a/5933	Qal.MASC.SG.ACT.PCP.CSTR-3ms	עֹשֵׂ֑הוּ	ʿoś-ēhū
 pr014:031	5a	-/c/-	CNJ	וּ֝	ū
@@ -3764,6 +3805,8 @@ pr015:003	3	-/5869a/5598	BD.CSTR	עֵינֵ֣י	ʿênê
 pr015:003	4	-/3068/2923	PR	יְהוָ֑ה	yĕhwāh
 pr015:003	5	-/6822/6544	Qal.FEM.PL.ACT.PCP.ABS	צֹ֝פ֗וֹת	ṣofowt
 pr015:003	6	-/7451a/7144	ADJ.MASC.PL.ABS	רָעִ֥ים	rāʿîm
+pr015:003	7a	-/c/-	CNJ	ו	w
+pr015:003	7b	-/2896a/2768	ADJ.MASC.PL.ABS	טוֹבִֽים׃	ṭowbîm
 pr015:004	1	-/4832/-	MASC.SG.CSTR	מַרְפֵּ֣א	marĕpēʾ
 pr015:004	2	-/3956/3751	SG.ABS	לָ֭שׁוֹן	lāšown
 pr015:004	3	-/6086/5804	MASC.SG.CSTR	עֵ֣ץ	ʿēṣ
@@ -4017,6 +4060,7 @@ pr015:030	6	-/2896a/2768	ADJ.FEM.SG.ABS	ט֝וֹבָ֗ה	ṭowbāh
 pr015:030	7	-/1878/1786	PI.3fs.IMPF	תְּדַשֶּׁן־	tĕdašen-
 pr015:030	8	-/6106/5828	FEM.SG.ABS	עָֽצֶם׃	ʿāṣem
 pr015:031	1	-/241/0235	FEM.SG.ABS	אֹ֗זֶן	ʾozen
+pr015:031	2	-/8085/7815	-	שֹׁ֭מַעַת	šomaʿat
 pr015:031	3	-/8433b/8078	FEM.SG.CSTR	תּוֹכַ֣חַת	towḵaăḥt
 pr015:031	4	-/2416e/2297	MASC.PL.ABS	חַיִּ֑ים	ăḥyîm
 pr015:031	5a	-/b/9082	PREP	בְּ	bĕ
@@ -4024,6 +4068,7 @@ pr015:031	5b	-/7130/6841	MASC.SG.CSTR	קֶ֖רֶב	qereb
 pr015:031	6	-/2450/2322	ADJ.MASC.PL.ABS	חֲכָמִ֣ים	ḥăḵāmîm
 pr015:031	7	-/3885a/3675	-	תָּלִֽין׃	tālîn
 pr015:032	1	-/6544b/6263	Qal.MASC.SG.ACT.PCP.ABS	פּוֹרֵ֣עַ	powrēʿa
+pr015:032	2	-/4148/-	MASC.SG.ABS	מ֭וּסָר	mūsār
 pr015:032	3	-/3988a/3774	Qal.MASC.SG.ACT.PCP.ABS	מוֹאֵ֣ס	mowʾēs
 pr015:032	4	-/5315/5053	SG.CSTR-3ms	נַפְשׁ֑וֹ	nafĕš-ow
 pr015:032	5a	-/c/9191	CNJ	וְ	wĕ
@@ -4066,6 +4111,7 @@ pr016:003	4	-/4639/4404	MASC.PL.CSTR-2ms	מַעֲשֶׂ֑יךָ	maʿăśê-ḵ
 pr016:003	5a	-/c/9191	CNJ	וְ֝	wĕ
 pr016:003	5b	-/3559a/3365	3mp.JUS	יִכֹּ֗נוּ	yikonū
 pr016:003	6	-/4284/4058	FEM.PL.CSTR-2ms	מַחְשְׁבֹתֶֽיךָ׃	maḥĕšĕbotê-ḵā
+pr016:004	1	-/3605/-	MASC.SG.ABS	כֹּ֤ל	kol
 pr016:004	2	-/6466/6188	Qal.3ms.PERF	פָּעַ֣ל	pāʿal
 pr016:004	3	-/3068/2923	PR	יְ֭הוָה	yĕhwāh
 pr016:004	4a	-/l/-	-	לַֽ	la
@@ -4303,6 +4349,8 @@ pr016:028	1	-/376/0368	MASC.SG.CSTR	אִ֣ישׁ	ʾîš
 pr016:028	2	-/8419/-	FEM.PL.ABS	תַּ֭הְפֻּכוֹת	tahĕpuḵowt
 pr016:028	3	-/7971/7722	-	יְשַׁלַּ֣ח	yĕšalaḥ
 pr016:028	4	-/4066/3850	MASC.SG.ABS	מָד֑וֹן	mādown
+pr016:028	5a	-/c/-	CNJ	וְ֝	wĕ
+pr016:028	5b	-/5372/6981	MASC.SG.ACT.PCP.ABS	נִרְגָּ֗ן	nirĕgān
 pr016:028	6	-/6504/6227	Hiph.MASC.SG.ACT.PCP.ABS	מַפְרִ֥יד	mafĕrîd
 pr016:028	7	-/441a/0423	-	אַלּֽוּף׃	ʾalūf
 pr016:029	1	-/376/0368	MASC.SG.CSTR	אִ֣ישׁ	ʾîš
@@ -4495,6 +4543,8 @@ pr017:014	5a	-/c/9191	CNJ	וְ	wĕ
 pr017:014	5b	-/l/-	PREP	לִ	li
 pr017:014	5c	-/6440/6159	PL.CSTR	פְנֵ֥י	fĕnê
 pr017:014	6	-/1566/1494	-	הִ֝תְגַּלַּ֗ע	hitĕgalaʿ
+pr017:014	7a	-/d/-	ART	הָ	hā
+pr017:014	7b	-/7379/-	MASC.SG.ABS	רִ֥יב	rîb
 pr017:014	8	-/5203/4951	-	נְטֽוֹשׁ׃	nĕṭowš
 pr017:015	1	-/6663/6375	Hiph.MASC.SG.ACT.PCP.ABS	מַצְדִּ֣יק	maṣĕdîq
 pr017:015	2	-/7563/7256	ADJ.MASC.SG.ABS	רָ֭שָׁע	rāšāʿ
@@ -4717,6 +4767,8 @@ pr018:009	5	-/1931/1834	PRON	ה֝֗וּא	hūʾ
 pr018:009	6a	-/l/3599	PREP	לְ	lĕ
 pr018:009	6b	-/1167/1108	MASC.SG.CSTR	בַ֣עַל	baʿal
 pr018:009	7	-/7843/-	MASC.SG.ABS	מַשְׁחִֽית׃	mašĕḥît
+pr018:010	1	-/4026/-	MASC.SG.CSTR	מִגְדַּל־	migĕdal-
+pr018:010	2	-/5797/-	MASC.SG.ABS	עֹ֭ז	ʿoz
 pr018:010	3	-/8034/7778	MASC.SG.CSTR	שֵׁ֣ם	šēm
 pr018:010	4	-/3068/2923	PR	יְהוָ֑ה	yĕhwāh
 pr018:010	5	-/b/9082	PREP	בּֽוֹ־	b-ow-
@@ -4896,6 +4948,8 @@ pr019:004	3	-/7453/7145	MASC.PL.ABS	רֵעִ֣ים	rēʿîm
 pr019:004	4	-/7227a/6939	ADJ.MASC.PL.ABS	רַבִּ֑ים	rabîm
 pr019:004	5a	-/c/9191	CNJ	וְ֝	wĕ
 pr019:004	5b	-/1800/1711	ADJ.MASC.SG.ABS	דָ֗ל	dāl
+pr019:004	6a	-/7453/4247	-	מֵרֵ֥ע	mē
+pr019:004	6b	-//7145	-	הוּ	rēʿ-hū
 pr019:004	7	-/6504/6227	-	יִפָּרֵֽד׃	yipārēd
 pr019:005	1	-/5707/5433	MASC.SG.CSTR	עֵ֣ד	ʿēd
 pr019:005	2	-/8267/7963	MASC.PL.ABS	שְׁ֭קָרִים	šĕqārîm
@@ -4965,6 +5019,8 @@ pr019:011	1	-/7922/7349	MASC.SG.CSTR	שֵׂ֣כֶל	śēḵel
 pr019:011	2	-/120/0120	MASC.SG.ABS	אָ֭דָם	ʾādām
 pr019:011	3	-/748/-	Hiph.3ms.PERF	הֶאֱרִ֣יךְ	heʾĕrîḵ
 pr019:011	4	-/639/0613	MASC.SG.CSTR-3ms	אַפּ֑וֹ	ʾap-ow
+pr019:011	5a	-/c/-	CNJ	וְ֝	wĕ
+pr019:011	5b	-/8597/-	FEM.SG.CSTR-3ms	תִפאַרְתּ֗וֹ	tifʾarĕt-ow
 pr019:011	6	-/5674a/5401	Qal.INF.CSTR	עֲבֹ֣ר	ʿăbor
 pr019:011	7	-/5921a/-	PREP	עַל־	ʿal-
 pr019:011	8	-/6588/6302	MASC.SG.ABS	פָּֽשַׁע׃	pāšaʿ
@@ -5111,6 +5167,8 @@ pr019:026	5	-/1121a/1072	MASC.SG.ABS	בֵּ֝֗ן	bēn
 pr019:026	6	-/954/0909	Hiph.MASC.SG.ACT.PCP.ABS	מֵבִ֥ישׁ	mēbîš
 pr019:026	7a	-/c/-	CNJ	וּ	ū
 pr019:026	7b	-/2659/-	MASC.SG.ACT.PCP.ABS	מַחְפִּֽיר׃	maḥĕpîr
+pr019:027	1	-/2308/-	Qal.2ms.IMP	חַֽדַל־	ăḥdal-
+pr019:027	2	-/1121a/1072	MASC.SG.CSTR-1cs	בְּ֭נִי	bĕn-î
 pr019:027	3a	-/l/-	PREP	לִ	li
 pr019:027	3b	-/8085/-	INF.CSTR	שְׁמֹ֣עַ	šĕmoʿa
 pr019:027	4	-/4148/3923	MASC.SG.ABS	מוּסָ֑ר	mūsār
@@ -5138,6 +5196,8 @@ pr019:029	5a	-/l/3599	PREP	לְ	lĕ
 pr019:029	5b	-/1460a/1389	MASC.SG.CSTR	גֵ֣ו	gēw
 pr019:029	6	-/3684/3482	-	כְּסִילִֽים׃	kĕsîlîm
 pr020:001	1	-/3887/3704	-	לֵ֣ץ	lēṣ
+pr020:001	2a	-/d/-	ART	הַ֭	ha
+pr020:001	2b	-/3196/3026	MASC.SG.ABS	יַּין	yayn
 pr020:001	3	-/1993/-	Qal.MASC.SG.ACT.PCP.ABS	הֹמֶ֣ה	homeh
 pr020:001	4	-/7941/7699	MASC.SG.ABS	שֵׁכָ֑ר	šēḵār
 pr020:001	5a	-/c/9191	CNJ	וְ	wĕ
@@ -5242,6 +5302,7 @@ pr020:011	7b	-/518a/-	CNJ	אִם־	ʾim-
 pr020:011	8	-/3477/3294	ADJ.MASC.SG.ABS	יָשָׁ֣ר	yāšār
 pr020:011	9	-/6467/6189	MASC.SG.CSTR-3ms	פָּעֳלֽוֹ׃	pāʿŏl-ow
 pr020:012	1	-/241/0235	FEM.SG.ABS	אֹ֣זֶן	ʾozen
+pr020:012	2	-/8085/7815	Qal.FEM.SG.ACT.PCP.ABS	שֹׁ֭מַעַת	šomaʿat
 pr020:012	3a	-/c/9191	CNJ	וְ	wĕ
 pr020:012	3b	-/5869a/5598	SG.ABS	עַ֣יִן	ʿayin
 pr020:012	4	-/7200/-	-	רֹאָ֑ה	roʾāh
@@ -5307,6 +5368,8 @@ pr020:018	4b	-/b/9082	PREP	בְ	bĕ
 pr020:018	4c	-/8458/-	FEM.PL.ABS	תַחְבֻּל֗וֹת	taḥĕbulowt
 pr020:018	5	-/6213a/-	Qal.2ms.IMP	עֲשֵׂ֣ה	ʿăśēh
 pr020:018	6	-/4421/-	FEM.SG.ABS	מִלְחָמָֽה׃	milĕḥāmāh
+pr020:019	1	-/1540/1473	Qal.MASC.SG.ACT.PCP.ABS	גּֽוֹלֶה־	gowleh-
+pr020:019	2	-/5475/5199	MASC.SG.ABS	סּ֭וֹד	sowd
 pr020:019	3	-/1980/-	Qal.MASC.SG.ACT.PCP.CSTR	הוֹלֵ֣ךְ	howlēḵ
 pr020:019	4	-/7400/7094	MASC.SG.ABS	רָכִ֑יל	rāḵîl
 pr020:019	5a	-/c/-	CNJ	וּ	ū
@@ -5512,6 +5575,9 @@ pr021:010	6	-/2603a/9241	Hoph.3ms.IMPF	יֻחַ֖ן	yuăḥn
 pr021:010	7a	-/b/9082	PREP	בְּ	bĕ
 pr021:010	7b	-/5869a/5598	BD.CSTR-3ms	עֵינָ֣יו	ʿênāy-w
 pr021:010	8	-/7453/7145	MASC.SG.CSTR-3ms	רֵעֵֽהוּ׃	rēʿ-ēhū
+pr021:011	1a	-/b/9082	PREP	בַּ	ba
+pr021:011	1b	-/6064/-	INF.CSTR	עְנָשׁ־	ʿĕnāš-
+pr021:011	2	-/3887/3704	-	לֵ֭ץ	lēṣ
 pr021:011	3	-/2449/2321	Qal.3ms.IMPF	יֶחְכַּם־	yeḥĕkam-
 pr021:011	4	-/6612a/6322	MASC.SG.ABS	פֶּ֑תִי	petî
 pr021:011	5a	-/c/-	CNJ	וּ	ū
@@ -5905,10 +5971,13 @@ pr022:020	2	-/3789/3583	Qal.1cs.PERF	כָתַ֣בְתִּי	ḵātabĕtî
 pr022:020	3	-/l/-	PREP	לְ֭ךָ	l-ĕḵā
 pr022:020	4	-/-/-	-	שִׁלְשׁׄום	šilĕšowm
 pr022:020	5=í	-/7991c/7737	-	שָׁלִישִׁ֑ים	šālîšîm
+pr022:020	6a	-/b/9082	-	בְּ	bĕ
+pr022:020	6b	-/4156/3932	-	מ֖וֹעֵצֹ֣ת	mowʿēṣot
 pr022:020	7a	-/c/-	CNJ	וָ	wā
 pr022:020	7b	-/1847/1758	FEM.SG.ABS	דָֽעַת׃	dāʿat
 pr022:021	1a	-/l/3599	PREP	לְ	lĕ
 pr022:021	1b	-/3045/2907	INF.CSTR-2ms	הוֹדִֽיעֲךָ֗	howdîʿ-ăḵā
+pr022:021	2	-/7189b/-	MASC.SG.CSTR	קֹ֭שְׁטְ	qošĕṭ
 pr022:021	3	-/561/0549	MASC.PL.CSTR	אִמְרֵ֣י	ʾimĕrê
 pr022:021	4	-/571/0560	FEM.SG.ABS	אֱמֶ֑ת	ʾĕmet
 pr022:021	5a	-/l/3599	PREP	לְ	lĕ
@@ -6020,6 +6089,8 @@ pr023:002	4	-/518a/-	CNJ	אִם־	ʾim-
 pr023:002	5	-/1167/1108	MASC.SG.CSTR	בַּ֖עַל	baʿal
 pr023:002	6	-/5315/5053	SG.ABS	נֶ֣פֶשׁ	nefeš
 pr023:002	7	-/859a/-	PRON	אָֽתָּה׃	ʾātāh
+pr023:003	1	-/408/0395	NEG	אַל־	ʾal-
+pr023:003	2	-/183/0180	HITHPael.2ms.JUS	תִּ֭תְאָו	titĕʾāw
 pr023:003	3a	-/l/3599	PREP	לְ	lĕ
 pr023:003	3b	-/4303/-	MASC.PL.CSTR-3ms	מַטְעַמּוֹתָ֑יו	maṭĕʿamowtāy-w
 pr023:003	4a	-/c/9191	CNJ	וְ֝	wĕ
@@ -6261,6 +6332,7 @@ pr023:026	5a	-/c/9191	CNJ	וְ֝	wĕ
 pr023:026	5b	-/5869a/5598	BD.CSTR-2ms	עֵינֶ֗יךָ	ʿênê-ḵā
 pr023:026	6	-/1870/-	PL.CSTR-1cs	דְּרָכַ֥י	dĕrāḵay
 pr023:026	7	-/-/7214	-	תִּרְצֶנָה	tirĕṣenāh
+pr023:026	8=í	-/5341/5076	Qal.3fp.JUS	תִּצֹּֽרְנָה׃	tiṣorĕnāh
 pr023:027	1	-/3588a/-	CNJ	כִּֽי־	kî-
 pr023:027	2	-/7745/7562	FEM.SG.ABS	שׁוּחָ֣ה	šūḥāh
 pr023:027	3	-/6013/5727	ADJ.FEM.SG.ABS	עֲמֻקָּ֣ה	ʿămuqāh
@@ -6533,6 +6605,7 @@ pr024:016	8b	-/7451c/7158	FEM.SG.ABS	רָעָֽה׃	rāʿāh
 pr024:017	1a	-/b/9082	PREP	בִּ	bi
 pr024:017	1b	-/5307/-	INF.CSTR	נְפֹ֣ל	nĕfol
 pr024:017	2=í	-/-/0331	-	אׄויְבֶיכָ	ʾowyĕbê-ḵā
+pr024:017	3	-/341/0331	Qal.MASC.SG.ACT.PCP.CSTR-2ms	אֽ֭וֹיִבְךָ	ʾowyib-ĕḵā
 pr024:017	4	-/408/0395	NEG	אַל־	ʾal-
 pr024:017	5	-/8055/7361	Qal.2ms.JUS	תִּשְׂמָ֑ח	tiśĕmāḥ
 pr024:017	6a	-/c/-	CNJ	וּ֝	ū
@@ -7076,6 +7149,7 @@ pr026:006	7a	-/b/9082	PREP	בְּ	bĕ
 pr026:006	7b	-/3027/2889	SG.CSTR	יַד־	yad-
 pr026:006	8	-/3684/3482	-	כְּסִֽיל׃	kĕsîl
 pr026:007	1	-/1809/1714	Qal.3cp.PERF	דַּלְי֣וּ	dalĕyū
+pr026:007	2	-/7785/7597	FD.ABS	שֹׁ֭קַיִם	šoqayim
 pr026:007	3a	-/m/4247	PREP	מִ	mi
 pr026:007	3b	-/6455/6177	ADJ.MASC.SG.ABS	פִּסֵּ֑חַ	pisēăḥ
 pr026:007	4a	-/c/-	CNJ	וּ֝	ū
@@ -7253,6 +7327,7 @@ pr026:024	6	-/7896/7672	Qal.3ms.IMPF	יָשִׁ֥ית	yāšît
 pr026:024	7	-/4820/-	FEM.SG.ABS	מִרְמָֽה׃	mirĕmāh
 pr026:025	1	-/3588a/-	CNJ	כִּֽי־	kî-
 pr026:025	2	-/2603a/9241	PI.3ms.IMPF	יְחַנֵּ֣ן	yĕăḥnēn
+pr026:025	3	-/6963a/6680	MASC.SG.CSTR-3ms	ק֭וֹלוֹ	qowl-ow
 pr026:025	4	-/408/0395	NEG	אַל־	ʾal-
 pr026:025	5	-/539/0525	Hiph.2ms.JUS	תַּֽאֲמֶן־	taʾămen-
 pr026:025	6	-/b/9082	PREP	בּ֑וֹ	b-ow
@@ -7330,6 +7405,7 @@ pr027:004	6	-/5975/5694	Qal.3ms.IMPF	יַ֝עֲמֹד	yaʿămod
 pr027:004	7a	-/l/-	PREP	לִ	li
 pr027:004	7b	-/6440/6159	PL.CSTR	פְנֵ֥י	fĕnê
 pr027:004	8	-/7068/-	FEM.SG.ABS	קִנְאָֽה׃	qinĕʾāh
+pr027:005	1	-/2896a/2768	ADJ.FEM.SG.ABS	ט֭וֹבָה	ṭowbāh
 pr027:005	2	-/8433b/8078	FEM.SG.ABS	תּוֹכַ֣חַת	towḵaăḥt
 pr027:005	3	-/1540/1473	Pu.FEM.SG.PSS.PCP.ABS	מְגֻלָּ֑ה	mĕgulāh
 pr027:005	4a	-/m/4247	PREP	מֵֽ	mē
@@ -7461,6 +7537,8 @@ pr027:018	1	-/5341/-	Qal.MASC.SG.ACT.PCP.CSTR	נֹצֵ֣ר	noṣēr
 pr027:018	2	-/8384/8029	FEM.SG.ABS	תְּ֭אֵנָה	tĕʾēnāh
 pr027:018	3	-/398/0386	Qal.3ms.IMPF	יֹאכַ֣ל	yoʾḵal
 pr027:018	4	-/6529/6250	MASC.SG.CSTR-3fs	פִּרְיָ֑הּ	pirĕy-āh
+pr027:018	5a	-/c/-	CNJ	וְ	wĕ
+pr027:018	5b	-/8104/-	MASC.SG.ACT.PCP.ABS	שֹׁמֵ֖ר	šomēr
 pr027:018	6	-/113/0114	MASC.PL.CSTR-3ms	אֲדֹנָ֣יו	ʾădonāy-w
 pr027:018	7	-/3513/3323	Pu.3ms.IMPF	יְכֻבָּֽד׃	yĕḵubād
 pr027:019	1a	-/k/-	PREP	כַּ֭	ka
@@ -7642,6 +7720,7 @@ pr028:007	6	-/2151b/2040	-	זֽ֝וֹלְלִ֗ים	zowlĕlîm
 pr028:007	7	-/3637/3438	-	יַכְלִ֥ים	yaḵĕlîm
 pr028:007	8	-/1/0001	MASC.SG.CSTR-3ms	אָבִֽיו׃	ʾābî-w
 pr028:008	1	-/7235a/6947	-	מַרְבֶּ֣ה	marĕbeh
+pr028:008	2	-/1952/1849	-	ה֭וֹנוֹ	hown-ow
 pr028:008	3a	-/b/9082	PREP	בְּ	bĕ
 pr028:008	3b	-/5392/-	MASC.SG.ABS	נֶ֣שֶׁךְ	nešeḵ
 pr028:008	4a=í	-/-/1944	-	וּ	ū
@@ -8270,6 +8349,7 @@ pr030:014	2	-/2719/2587	FEM.PL.ABS	חֲרָב֣וֹת	ḥărābowt
 pr030:014	3	-/8127/7857	BD.CSTR-3ms	שִׁנָּיו֮	šināy-w
 pr030:014	4a	-/c/-	CNJ	וּֽ	ū
 pr030:014	4b	-/3979/3769	FEM.PL.ABS	מַאֲכָל֪וֹת	maʾăḵālowt
+pr030:014	5	-/4973/4733	FEM.PL.CSTR-3ms	מְֽתַלְּעֹ֫תָ֥יו	mĕtalĕʿotāy-w
 pr030:014	6a	-/l/-	PREP	לֶ	le
 pr030:014	6b	-/398/-	INF.CSTR	אֱכֹ֣ל	ʾĕḵol
 pr030:014	7	-/6041/5757	ADJ.MASC.PL.ABS	עֲנִיִּ֣ים	ʿănîîm
@@ -8280,6 +8360,8 @@ pr030:014	9b	-/34/-	ADJ.MASC.PL.ABS	אֶבְיוֹנִ֗ים	ʾebĕyownîm
 pr030:014	10a	-/m/4247	PREP	מֵ	mē
 pr030:014	10b	-/120/0120	MASC.SG.ABS	אָדָֽם׃	ʾādām
 pr030:014	11=í	-/-	-	פ	f
+pr030:015	1a	-/l/-	PREP	לַֽ	la
+pr030:015	1b	-/5936/-	FEM.SG.ABS	עֲלוּקָ֨ה׀	ʿălūqāh
 pr030:015	2	-/8147/-	CARD.FD.CSTR	שְׁתֵּ֥י	šĕtê
 pr030:015	3	-/1323/1262	FEM.PL.ABS	בָנוֹת֮	bānowt
 pr030:015	4	-/3051/9278	Qal.2ms.IMP	הַ֤ב׀	hab
@@ -8325,6 +8407,7 @@ pr030:017	13=í	-/-	-	פ	f
 pr030:018	1	-/7969/-	CARD.MASC.SG.ABS	שְׁלֹשָׁ֣ה	šĕlošāh
 pr030:018	2	-/1992/1889	PRON	הֵ֭מָּה	hēmāh
 pr030:018	3	-/6381/6103	Niph.3cp.PERF	נִפְלְא֣וּ	nifĕlĕʾū
+pr030:018	4	-/4480a/4247	PREP	מִמֶּ֑נִּי	mim-enî
 pr030:018	5a=í	-/-/1944	-	וְ	wĕ
 pr030:018	5b=í	-/-/-	-	ארְבָּע	ʾarĕbāʿ
 pr030:018	6a	-/c/1944	CNJ	וְ֝	wĕ
@@ -8603,6 +8686,7 @@ pr031:012	3b	-/3808/-	NEG	לֹא־	loʾ-
 pr031:012	4	-/7451b/7144	ADJ.MASC.SG.ABS	רָ֑ע	rāʿ
 pr031:012	5	-/3605/3409	-	כֹּ֝֗ל	kol
 pr031:012	6	-/3117/2955	MASC.PL.CSTR	יְמֵ֣י	yĕmê
+pr031:012	7	-/2416e/2297	-	חַיֶּֽיה׃	ăḥyê-h
 pr031:013	1	-/1875/1783	-	דָּ֭רְשָׁה	dārĕšāh
 pr031:013	2	-/6785/6503	MASC.SG.ABS	צֶ֣מֶר	ṣemer
 pr031:013	3a	-/c/-	-	וּ	ū

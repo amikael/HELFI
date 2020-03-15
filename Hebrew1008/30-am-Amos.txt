@@ -1583,6 +1583,8 @@ am006:002	6	-/2579+/2446	PR	חֲמַ֣ת	ḥămat
 am006:002	7	-/2579/-	PR	רַבָּ֑ה	rabāh
 am006:002	8a	-/c/-	CNJ	וּ	ū
 am006:002	8b	-/3381/3193	2mp.IMP	רְד֣וּ	rĕdū
+am006:002	9	-/1661/1586	PR	גַת־	gat-
+am006:002	10	-/6430/-	MASC.PL.ABS	פְּלִשְׁתּ֗ים	pĕlišĕtym
 am006:002	11a	-/i/1793	INT	הֲ	hă
 am006:002	11b	-/2896a/2768	ADJ.MASC.PL.ABS	טוֹבִים֙	ṭowbîm
 am006:002	12	-/4480a/-	PREP	מִן־	min-
@@ -2488,6 +2490,7 @@ am009:004	3a	-/b/9082	PREP	בַ	ba
 am009:004	3b	-/7628a/7481	MASC.SG.ABS	שְּׁבִי֙	šĕbî
 am009:004	4a	-/l/-	PREP	לִ	li
 am009:004	4b	-/6440/6159	PL.CSTR	פְנֵ֣י	fĕnê
+am009:004	5	-/341/0331	Qal.MASC.PL.ACT.PCP.CSTR-3mp	אֹֽיבֵיהֶ֔ם	ʾoybê-hem
 am009:004	6a	-/m/4247	PREP	מִ	mi
 am009:004	6b	-/8033/7777	ADV	שָּׁ֛ם	šām
 am009:004	7	-/6680/6391	PI.1cs.IMPF	אֲצַוֶּ֥ה	ʾăṣaūeh
@@ -2628,6 +2631,9 @@ am009:009	11b	-/834d/0799	REL	אֲשֶׁ֤ר	ʾăšer
 am009:009	12	-/5128/4877	Niph.3ms.IMPF	יִנּ֨וֹעַ֙	yinowʿa
 am009:009	13a	-/b/9082	PREP	בַּ	ba
 am009:009	13b	-/3531/3340	FEM.SG.ABS	כְּבָרָ֔ה	kĕbārāh
+am009:009	14a=í	-/c/-	CNJ	וְ	wĕ
+am009:009	14b	-/3808/-	NEG	לֹֽא־	loʾ-
+am009:009	15	-/5307/5048	Qal.3ms.IMPF	יִפּ֥וֹל	yipowl
 am009:009	16	-/6872b/6593	MASC.SG.ABS	צְר֖וֹר	ṣĕrowr
 am009:009	17	-/776/0738	SG.ABS	אָֽרֶץ׃	ʾāreṣ
 am009:010	1a	-/b/9082	PREP	בַּ	ba

@@ -557,6 +557,7 @@ ca003:007	7	-/l/-	PREP	לָ֑הּ	l-āh
 ca003:007	8a	-/m/4247	PREP	מִ	mi
 ca003:007	8b	-/1368/-	ADJ.MASC.PL.CSTR	גִּבֹּרֵ֖י	giborê
 ca003:007	9	-/3478/-	PR	יִשְׂרָאֵֽל׃	yiśĕrāʾēl
+ca003:008	1	-/3605/3409	MASC.SG.CSTR-3mp	כֻּלָּם֙	kul-ām
 ca003:008	2	-/270/0265	Qal.MASC.PL.PSS.PCP.CSTR	אֲחֻ֣זֵי	ʾăḥuzê
 ca003:008	3	-/2719/2587	FEM.SG.ABS	חֶ֔רֶב	ḥereb
 ca003:008	4	-/3925/3715	Pu.MASC.PL.ACT.PCP.CSTR	מְלֻמְּדֵ֖י	mĕlumĕdê
@@ -671,6 +672,8 @@ ca004:003	9a	-/m/4247	PREP	מִ	mi
 ca004:003	9b	-/1157/1100	PREP	בַּ֖עַד	baʿad
 ca004:003	10a	-/l/3599	PREP	לְ	lĕ
 ca004:003	10b	-/6777/6495	FEM.SG.CSTR-2fs	צַמָּתֵֽךְ׃	ṣamāt-ēḵ
+ca004:004	1a	-/k/-	PREP	כְּ	kĕ
+ca004:004	1b	-/4026/-	MASC.SG.CSTR	מִגְדַּ֤ל	migĕdal
 ca004:004	2	-/1732/1654	PR	דָּוִיד֙	dāwîd
 ca004:004	3	-/6677a/6388	MASC.SG.CSTR-2fs	צַוָּארֵ֔ךְ	ṣaūāʾr-ēḵ
 ca004:004	4	-/1129/9102	Qal.MASC.SG.PSS.PCP.ABS	בָּנ֖וּי	bānūy
@@ -1014,6 +1017,7 @@ ca005:010	5b	-/7233/6945	FEM.SG.ABS	רְבָבָֽה׃	rĕbābāh
 ca005:011	1	-/7218a/6930	MASC.SG.CSTR-3ms	רֹאשׁ֖וֹ	roʾš-ow
 ca005:011	2	-/3800/3591	MASC.SG.CSTR	כֶּ֣תֶם	ketem
 ca005:011	3	-/6337/6064	MASC.SG.ABS	פָּ֑ז	pāz
+ca005:011	4	-/6977/6692	FEM.PL.CSTR-3ms	קְוּצּוֹתָיו֙	qĕūṣowtāy-w
 ca005:011	5	-/8534/-	FEM.PL.ABS	תַּלְתַּלִּ֔ים	talĕtalîm
 ca005:011	6	-/7838/7637	ADJ.FEM.PL.ABS	שְׁחֹר֖וֹת	šĕḥorowt
 ca005:011	7a	-/k/-	PREP	כָּ	kā
@@ -1133,6 +1137,8 @@ ca006:005	1	-/5437/5166	Hiph.2fs.IMP	הָסֵ֤בִּי	hāsēbî
 ca006:005	2	-/5869a/5598	BD.CSTR-2fs	עֵינַ֨יִךְ֙	ʿênay-iḵ
 ca006:005	3a	-/m/4247	PREP	מִ	mi
 ca006:005	3b	-/5048/4804	PREP	נֶּגְדִּ֔י	negĕd-î
+ca006:005	4a	-/s/-	REL	שֶׁ֥	še
+ca006:005	4b	-/1992/-	SP.3mp	הֵ֖ם	hēm
 ca006:005	5	-/7292/6995	Hiph.3cp.PERF-1cs	הִרְהִיבֻ֑נִי	hirĕhîbu-nî
 ca006:005	6	-/8181/7386	MASC.SG.CSTR-2fs	שַׂעְרֵךְ֙	śaʿĕr-ēḵ
 ca006:005	7a	-/k/-	PREP	כְּ	kĕ
@@ -1361,6 +1367,8 @@ ca007:009	9a	-/k/-	PREP	כְּ	kĕ
 ca007:009	9b	-/811/-	MASC.PL.CSTR	אֶשְׁכְּל֣וֹת	ʾešĕkĕlowt
 ca007:009	10a	-/d/-	ART	הַ	ha
 ca007:009	10b	-/1612/1539	SG.ABS	גֶּ֔פֶן	gefen
+ca007:009	11a	-/c/-	CNJ	וְ	wĕ
+ca007:009	11b	-/7381/-	MASC.SG.CSTR	רֵ֥יחַ	rêăḥ
 ca007:009	12	-/639/0613	MASC.SG.CSTR-2fs	אַפֵּ֖ךְ	ʾap-ēḵ
 ca007:009	13a	-/k/-	PREP	כַּ	ka
 ca007:009	13b	-/8598/-	MASC.PL.ABS	תַּפּוּחִֽים׃	tapūḥîm

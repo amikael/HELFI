@@ -502,6 +502,9 @@ ho002:017	12	-/8033/7777	ADV	שָּׁ֨מָּה֙	šām-āh
 ho002:017	13a	-/k/-	PREP	כִּ	ki
 ho002:017	13b	-/3117/2955	MASC.PL.CSTR	ימֵ֣י	ymê
 ho002:017	14	-/5271a/5011	PL.CSTR-3fs	נְעוּרֶ֔יהָ	nĕʿūrê-hā
+ho002:017	15a=í	-/c/-	CNJ	וִּ	ūi
+ho002:017	15b	-/k/-	PREP	כְ	ḵĕ
+ho002:017	15c	-/3117/-	MASC.SG.CSTR	י֖וֹם	yowm
 ho002:017	16	-/5927/5654	Qal.INF.CSTR-3fs	עֲלֹתָ֥הּ	ʿălot-āh
 ho002:017	17a	-/m/4247	PREP	מֵ	mē
 ho002:017	17b	-/776/-	SG.CSTR	אֶֽרֶץ־	ʾereṣ-
@@ -1692,6 +1695,7 @@ ho008:003	1	-/2186a/-	Qal.3ms.PERF	זָנַ֥ח	zānaḥ
 ho008:003	2	-/3478/-	PR	יִשְׂרָאֵ֖ל	yiśĕrāʾēl
 ho008:003	3	-/2896b/2768	ADJ.MASC.SG.ABS	ט֑וֹב	ṭowb
 ho008:003	4	-/341/0331	Qal.MASC.SG.ACT.PCP.ABS	אוֹיֵ֖ב	ʾowyēb
+ho008:003	5	-/7291/6994	Qal.3ms.IMPF-3ms	יִרְדְּֽפוֹ׃	yirĕdĕf-ow
 ho008:004	1	-/1992/1889	PRON	הֵ֤ם	hēm
 ho008:004	2	-/4427a/-	Hiph.3cp.PERF	הִמְלִיכוּ֙	himĕlîḵū
 ho008:004	3a	-/c/9191	CNJ	וְ	wĕ
@@ -1905,6 +1909,7 @@ ho009:004	10	-/205/0198	MASC.PL.ABS	אוֹנִים֙	ʾownîm
 ho009:004	11	-/l/-	PREP	לָהֶ֔ם	l-āhem
 ho009:004	12	-/3605/3409	MASC.SG.CSTR	כָּל־	kāl-
 ho009:004	13	-/398/0386	Qal.MASC.PL.ACT.PCP.CSTR-3ms	אֹכְלָ֖יו	ʾoḵĕlāy-w
+ho009:004	14	-/2930a/2801	HITHPael.3mp.IMPF	יִטַמָּ֑אוּ	yiṭamāʾū
 ho009:004	15	-/3588a/-	CNJ	כִּֽי־	kî-
 ho009:004	16	-/3899/3686	SG.CSTR-3mp	לַחְמָ֣ם	laḥĕm-ām
 ho009:004	17a	-/l/3599	PREP	לְ	lĕ
@@ -1912,6 +1917,7 @@ ho009:004	17b	-/5315/5053	SG.CSTR-3mp	נַפְשָׁ֔ם	nafĕš-ām
 ho009:004	18	-/3808/3600	NEG	לֹ֥א	loʾ
 ho009:004	19	-/935/0886	Qal.3ms.IMPF	יָב֖וֹא	yābowʾ
 ho009:004	20	-/1004b/0956	MASC.SG.CSTR	בֵּ֥ית	bêt
+ho009:004	21	-/3068/2923	PR	יְהוָֽה׃	yĕhwāh
 ho009:005	1	-/4100/3876	INT	מַֽה־	mah-
 ho009:005	2	-/6213a/5933	Qal.2mp.IMPF	תַּעֲשׂ֖וּ	taʿăśū
 ho009:005	3a	-/l/3599	PREP	לְ	lĕ
@@ -1945,6 +1951,8 @@ ho009:007	3a	-/d/-	ART	הַ	ha
 ho009:007	3b	-/6486/-	FEM.SG.ABS	פְּקֻדָּ֗ה	pĕqudāh
 ho009:007	4	-/935/0886	Qal.3cp.PERF	בָּ֚אוּ	bāʾū
 ho009:007	5	-/3117/2955	MASC.PL.CSTR	יְמֵ֣י	yĕmê
+ho009:007	6a	-/d/-	ART	הַ	ha
+ho009:007	6b	-/7966/7720	MASC.SG.ABS	שִׁלֻּ֔ם	šilum
 ho009:007	7	-/3045/2907	Qal.3mp.IMPF	יֵדְע֖וּ	yēdĕʿū
 ho009:007	8	-/3478/-	PR	יִשְׂרָאֵ֑ל	yiśĕrāʾēl
 ho009:007	9	-/191/0187	ADJ.MASC.SG.ABS	אֱוִ֣יל	ʾĕwîl
@@ -2084,6 +2092,8 @@ ho009:015	11	-/1644/1571	PI.1cs.IMPF-3mp	אֲגָרְשֵׁ֑ם	ʾăgārĕš-e
 ho009:015	12	-/3808/3600	NEG	לֹ֤א	loʾ
 ho009:015	13	-/3254/3076	Hiph.1cs.COH	אוֹסֵף֙	ʾowsēf
 ho009:015	14	-/160/0151	Qal.INF.CSTR-3mp	אַהֲבָתָ֔ם	ʾahăbāt-ām
+ho009:015	15	-/3605/3409	MASC.SG.CSTR	כָּל־	kāl-
+ho009:015	16	-/8269/7401	MASC.PL.CSTR-3mp	שָׂרֵיהֶ֖ם	śārê-hem
 ho009:015	17	-/5637/5364	Qal.MASC.PL.ACT.PCP.ABS	סֹרְרִֽים׃	sorĕrîm
 ho009:016	1	-/5221/4972	Hoph.3ms.PERF	הֻכָּ֣ה	hukāh
 ho009:016	2	-/669/-	PR	אֶפְרַ֔יִם	ʾefĕrayim
@@ -2150,6 +2160,8 @@ ho010:003	6	-/l/-	PREP	לָ֑נוּ	l-ānū
 ho010:003	7	-/3588a/3392	CNJ	כִּ֣י	kî
 ho010:003	8	-/3808/3600	NEG	לֹ֤א	loʾ
 ho010:003	9	-/3372/-	Qal.1cp.PERF	יָרֵ֨אנוּ֙	yārēʾnū
+ho010:003	10	-/853/0811	OBJ	אֶת־	ʾet-
+ho010:003	11	-/3068/2923	PR	יְהֹוָ֔ה	yĕhwāh
 ho010:003	12a	-/c/9191	CNJ	וְ	wĕ
 ho010:003	12b	-/d/-	ART	הַ	ha
 ho010:003	12c	-/4428/-	MASC.SG.ABS	מֶּ֖לֶךְ	meleḵ
@@ -2450,6 +2462,7 @@ ho011:007	5	-/5920/5649	MASC.SG.ABS	עַל֙	ʿal
 ho011:007	6	-/7121/6834	Qal.3mp.IMPF-3ms	יִקְרָאֻ֔הוּ	yiqĕrāʾu-hū
 ho011:007	7	-/3162a/2993	ADV	יַ֖חַד	yaăḥd
 ho011:007	8	-/3808/3600	NEG	לֹ֥א	loʾ
+ho011:007	9	-/7311a/7011	Polel.3ms.IMPF	יְרוֹמֵם׃	yĕrowmēm
 ho011:008	1	-/349a/-	INT	אֵ֞יךְ	ʾêḵ
 ho011:008	2	-/5414/5143	Qal.1cs.IMPF-2ms	אֶתֶּנְךָ֣	ʾeten-ĕḵā
 ho011:008	3	-/669/-	PR	אֶפְרַ֗יִם	ʾefĕrayim

@@ -409,6 +409,7 @@ ru001:021	12	-/6030b/-	Qal.3ms.PERF	עָ֣נָה	ʿānāh
 ru001:021	13	-/b/9082	PREP	בִ֔י	b-î
 ru001:021	14a	-/c/9191	CNJ	וְ	wĕ
 ru001:021	14b	-/7706/-	PR	שַׁדַּ֖י	šaday
+ru001:021	15	-/7489a/7182	Hiph.3ms.PERF	הֵ֥רַֽע	hēraʿ
 ru001:021	16	-/l/-	PREP	לִֽי׃	l-î
 ru001:022	1a	-/c/-	CNJ	וַ	wa
 ru001:022	1b	-/7725/-	3fs.SEQ.IMPF	תָּ֣שָׁב	tāšāb
@@ -1118,6 +1119,8 @@ ru003:008	9	-/7901/7675	Qal.FEM.SG.ACT.PCP.ABS	שֹׁכֶ֖בֶת	šoḵebet
 ru003:008	10	-/4772/-	FEM.PL.CSTR-3ms	מַרְגְּלֹתָֽיו׃	marĕgĕlotāy-w
 ru003:009	1a	-/c/-	CNJ	וַ	wa
 ru003:009	1b	-/559/0546	3ms.SEQ.IMPF	יֹּ֖אמֶר	yoʾmer
+ru003:009	2	-/4310/-	INT	מִי־	mî-
+ru003:009	3	-/859c/-	PRON	אָ֑תּ	ʾāt
 ru003:009	4a	-/c/-	CNJ	וַ	wa
 ru003:009	4b	-/559/0546	3fs.SEQ.IMPF	תֹּ֗אמֶר	toʾmer
 ru003:009	5	-/595/-	PRON	אָנֹכִי֙	ʾānoḵî
@@ -1395,6 +1398,8 @@ ru004:004	5a	-/l/-	PREP	לֵ	lē
 ru004:004	5b	-/559/0546	INF.CSTR	אמֹ֗ר	ʾmor
 ru004:004	6	-/7069/6780	Qal.2ms.IMP	קְ֠נֵה	qĕnēh
 ru004:004	7	-/5048/4804	PREP	נֶ֥גֶד	neged
+ru004:004	8a	-/d/-	ART	הַֽ	ha
+ru004:004	8b	-/3427/3246	MASC.PL.ACT.PCP.ABS	יֹּשְׁבִים֮	yošĕbîm
 ru004:004	9a	-/c/9191	CNJ	וְ	wĕ
 ru004:004	9b	-/5048/4804	PREP	נֶ֣גֶד	neged
 ru004:004	10	-/2205/2090	ADJ.MASC.PL.CSTR	זִקְנֵ֣י	ziqĕnê

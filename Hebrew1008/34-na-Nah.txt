@@ -124,6 +124,8 @@ na001:008	4	-/6213a/5933	Qal.3ms.IMPF	יַעֲשֶׂ֣ה	yaʿăśeh
 na001:008	5	-/4725/4492	MASC.SG.CSTR-3fs	מְקוֹמָ֑הּ	mĕqowm-āh
 na001:008	6a	-/c/9191	CNJ	וְ	wĕ
 na001:008	6b	-/341/0331	MASC.PL.ACT.PCP.CSTR-3ms	אֹיְבָ֖יו	ʾoyĕbāy-w
+na001:008	7	-/7291/6994	PI.3ms.IMPF	יְרַדֶּף־	yĕradef-
+na001:008	8	-/2822/-	MASC.SG.ABS	חֹֽשֶׁךְ׃	ḥošeḵ
 na001:009	1	-/4100/3876	INT	מַה־	mah-
 na001:009	2	-/2803/9252	PI.2mp.IMPF-PAR	תְּחַשְּׁבוּן֙	tĕăḥšĕbū-n
 na001:009	3	-/413/-	PREP	אֶל־	ʾel-
@@ -150,6 +152,7 @@ na001:010	9	-/3002/2867	ADJ.MASC.SG.ABS	יָבֵ֖שׁ	yābēš
 na001:010	10	-/4392/4157	ADJ.MASC.SG.ABS	מָלֵֽא׃	mālēʾ
 na001:011	1	-/4480a/4247	PREP	מִמֵּ֣ךְ	mim-ēḵ
 na001:011	2	-/3318/-	Qal.3ms.PERF	יָצָ֔א	yāṣāʾ
+na001:011	3	-/2803/-	Qal.MASC.SG.ACT.PCP.ABS	חֹשֵׁ֥ב	ḥošēb
 na001:011	4	-/5921a/-	PREP	עַל־	ʿal-
 na001:011	5	-/3068/2923	PR	יְהוָ֖ה	yĕhwāh
 na001:011	6	-/7451c/7158	FEM.SG.ABS	רָעָ֑ה	rāʿāh

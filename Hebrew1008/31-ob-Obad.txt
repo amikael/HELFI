@@ -111,6 +111,7 @@ ob000:008	2a	-/b/9082	PREP	בַּ	ba
 ob000:008	2b	-/3117/2955	MASC.SG.ABS	יּ֥וֹם	yowm
 ob000:008	3a	-/d/-	ART	הַ	ha
 ob000:008	3b	-/1931/1834	PRON	ה֖וּא	hūʾ
+ob000:008	4	-/5002/-	MASC.SG.CSTR	נְאֻם־	nĕʾum
 ob000:008	5	-/3068/2923	PR	יְהוָ֑ה	yĕhwāh
 ob000:008	6a	-/c/9191	CNJ	וְ	wĕ
 ob000:008	6b	-/6/0004	1cs.SEQ.PERF	הַאֲבַדְתִּ֤י	haʾăbadĕtî
@@ -283,9 +284,12 @@ ob000:017	4	-/6413/6132	FEM.SG.ABS	פְלֵיטָ֖ה	fĕlêṭāh
 ob000:017	5a	-/c/9191	CNJ	וְ	wĕ
 ob000:017	5b	-/1961/-	3ms.SEQ.PERF	הָ֣יָה	hāyāh
 ob000:017	6	-/6944/6664	MASC.SG.ABS	קֹ֑דֶשׁ	qodeš
+ob000:017	7a	-/c/-	CNJ	וְ	wĕ
+ob000:017	7b	-/3423/3237	3cp.SEQ.PERF	יָֽרְשׁוּ֙	yārĕšū
 ob000:017	8	-/1004b/0956	MASC.SG.CSTR	בֵּ֣ית	bêt
 ob000:017	9	-/3290/3108	PR	יַֽעֲקֹ֔ב	yaʿăqob
 ob000:017	10	-/853/0811	OBJ	אֵ֖ת	ʾēt
+ob000:017	11	-/4180/3954	MASC.PL.CSTR-3mp	מוֹרָֽשֵׁיהֶם׃	mowrāšê-hem
 ob000:018	1a	-/c/9191	CNJ	וְ	wĕ
 ob000:018	1b	-/1961/-	3ms.SEQ.PERF	הָיָה֩	hāyāh
 ob000:018	2	-/1004b/0956	MASC.SG.CSTR	בֵית־	bêt-
@@ -305,6 +309,9 @@ ob000:018	11b	-/1814/1728	3cp.SEQ.PERF	דָלְק֥וּ	dālĕqū
 ob000:018	12	-/b/9082	PREP	בָהֶ֖ם	b-āhem
 ob000:018	13a	-/c/-	CNJ	וַ	wa
 ob000:018	13b	-/398/0386	3cp.SEQ.PERF-3mp	אֲכָל֑וּם	ʾăḵālū-m
+ob000:018	14a	-/c/-	CNJ	וְ	wĕ
+ob000:018	14b	-/3808/-	NEG	לֹֽא־	loʾ-
+ob000:018	15	-/1961/1861	Qal.3ms.IMPF	יִֽהְיֶ֤ה	yihĕyeh
 ob000:018	16	-/8300/7418	MASC.SG.ABS	שָׂרִיד֙	śārîd
 ob000:018	17a	-/l/3599	PREP	לְ	lĕ
 ob000:018	17b	-/1004b/0956	MASC.SG.CSTR	בֵ֣ית	bêt
