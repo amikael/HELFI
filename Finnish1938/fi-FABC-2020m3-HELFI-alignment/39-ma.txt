@@ -1,0 +1,1804 @@
+ma001:001	ma001:001	ma001:001	VERSE	Mal␣1:1␣
+ma001:001	1	@	-	Ennustus
+ma001:001	-	(,)	-	,␣
+ma001:001	3	@	-	Herran␣
+ma001:001	2	@	-	sana␣
+ma001:001	5	@	-	Israelille
+ma001:001	4	%case	LOC	
+ma001:001	-	(,)	-	,␣
+ma001:001	7	@	-	Malakian␣
+ma001:001	6b	@	-	kautta
+ma001:001	6a	%case	?	
+ma001:001	-	(.)	-	.␣
+ma001:002	ma001:002	ma001:002	VERSE	Mal␣1:2␣
+ma001:002	1	(@)	-	Minä␣
+ma001:002	1	(@)	-	olen␣
+ma001:002	2	@	-	teitä␣
+ma001:002	1	@	-	rakastanut
+ma001:002	-	(,)	-	,␣
+ma001:002	3	@	-	sanoo␣
+ma001:002	4	@	-	Herra
+ma001:002	-	(.)	-	.␣
+ma001:002	5a	@	-	Mutta␣
+ma001:002	5b	(@)	-	te␣
+ma001:002	5b	@	-	sanotte
+ma001:002	-	(:)	-	:␣
+ma001:002	-	(@)	-	"
+ma001:002	6b	@	-	Missä␣
+ma001:002	6a	%case	LOC	
+ma001:002	7	(@)	-	sinä␣
+ma001:002	7	(@)	-	olet␣
+ma001:002	7	@	-	osoittanut␣
+ma001:002	7	@	-	rakkautesi␣
+ma001:002	pers%7	@	-	meihin
+ma001:002	-	(?)	-	?
+ma001:002	-	(@)	-	"␣
+ma001:002	8a 8b	@	-	Eikö␣
+ma001:002	10	@	-	Eesau␣
+ma001:002	-	(@)	-	ollut␣
+ma001:002	11b	@	-	Jaakobin␣
+ma001:002	11a	%case	GEN	
+ma001:002	9	@	-	veli
+ma001:002	-	(,)	-	,␣
+ma001:002	12	@	-	sanoo␣
+ma001:002	13	@	-	Herra
+ma001:002	-	(,)	-	,␣
+ma001:002	14a	@	-	ja␣
+ma001:002	16	@	-	Jaakobia␣
+ma001:002	15	%case	PTV	
+ma001:002	14b	(@)	-	minä␣
+ma001:002	14b	@	-	rakastin
+ma001:002	-	(,)	-	,␣
+ma001:003	ma001:003	ma001:003	VERSE	Mal␣1:3␣
+ma001:003	1a	@	-	mutta␣
+ma001:003	2	@	-	Eesauta␣
+ma001:003	1b	%case	PTV	
+ma001:003	3	(@)	-	minä␣
+ma001:003	3	@	-	vihasin
+ma001:003	-	(;)	-	;␣
+ma001:003	4a	@	-	ja␣
+ma001:003	4b	(@)	-	minä␣
+ma001:003	4b	@	-	tein␣
+ma001:003	pers%6	@	-	hänen␣
+ma001:003	6	@	-	vuorensa␣
+ma001:003	5	%case	NOM.GEN	
+ma001:003	7	@	-	autioiksi␣
+ma001:003	8a	@	-	ja␣
+ma001:003	-	(@)	-	annoin␣
+ma001:003	pers%9	@	-	hänen␣
+ma001:003	9	@	-	perintöosansa␣
+ma001:003	8b	%case	NOM.GEN	
+ma001:003	11	@	-	erämaan␣
+ma001:003	10b	@	-	aavikkosusille
+ma001:003	10a	%case	LOC	
+ma001:003	-	(.)	-	.␣
+ma001:004	ma001:004	ma001:004	VERSE	Mal␣1:4␣
+ma001:004	1	@	-	Jos␣
+ma001:004	3	@	-	Edom␣
+ma001:004	2	@	-	sanoo
+ma001:004	-	(:)	-	:␣
+ma001:004	-	(@)	-	"
+ma001:004	4	(@)	-	Me␣
+ma001:004	4	(@)	-	olemme␣
+ma001:004	4	@	-	ruhjotut
+ma001:004	-	(,)	-	,␣
+ma001:004	5a	@	-	mutta␣
+ma001:004	6b	(@)	-	me␣
+ma001:004	6b	@	-	rakennamme␣
+ma001:004	7	@	-	rauniot␣
+ma001:004	5b	@	-	jälleen
+ma001:004	(6a)	-	UNTRANSLATED	
+ma001:004	-	(@)	-	"
+ma001:004	-	(,)	-	,␣
+ma001:004	-	(@)	-	niin␣
+ma001:004	10	@	-	Herra␣
+ma001:004	11	@	-	Sebaot␣
+ma001:004	9	@	-	sanoo␣
+ma001:004	8	@	-	näin
+ma001:004	-	(:)	-	:␣
+ma001:004	12	@	-	He␣
+ma001:004	13	@	-	rakentakoot
+ma001:004	-	(,)	-	,␣
+ma001:004	14a	@	-	mutta␣
+ma001:004	14b	@	-	minä␣
+ma001:004	15	@	-	revin␣
+ma001:004	15	@	-	maahan
+ma001:004	-	(;)	-	;␣
+ma001:004	16a	@	-	ja␣
+ma001:004	17	@	-	heidän␣
+ma001:004	16b	@	-	nimensä␣
+ma001:004	16b	@	-	olkoon
+ma001:004	-	(:)	-	:␣
+ma001:004	-	(@)	-	"
+ma001:004	19	@	-	jumalattomuuden␣
+ma001:004	18	@	-	maa
+ma001:004	-	(@)	-	"␣
+ma001:004	20a	@	-	ja␣
+ma001:004	-	(@)	-	"
+ma001:004	(20b) 20c	@	-	kansa
+ma001:004	-	(,)	-	,␣
+ma001:004	21	@	-	johon␣
+ma001:004	23	@	-	Herra␣
+ma001:004	22	(@)	-	on␣
+ma001:004	22	@	-	vihastunut␣
+ma001:004	25	@	-	iankaikkisesti
+ma001:004	24	%case	MAN	
+ma001:004	-	(@)	-	"
+ma001:004	-	(.)	-	.␣
+ma001:005	ma001:005	ma001:005	VERSE	Mal␣1:5␣
+ma001:005	1a	@	-	Ja␣
+ma001:005	pers%1b	@	-	teidän␣
+ma001:005	1b	@	-	silmänne␣
+ma001:005	2	(@)	-	saavat␣
+ma001:005	2	@	-	nähdä␣
+ma001:005	-	(@)	-	sen
+ma001:005	-	(,)	-	,␣
+ma001:005	3a	@	-	ja␣
+ma001:005	3b	@	-	te␣
+ma001:005	4	@	-	sanotte
+ma001:005	-	(:)	-	:␣
+ma001:005	-	(@)	-	"
+ma001:005	6	@	-	Herra␣
+ma001:005	5	@	-	on␣
+ma001:005	5	@	-	suuri␣
+ma001:005	9	@	-	Israelin␣
+ma001:005	8b	@	-	rajojen␣
+ma001:005	8a	%case	GEN	
+ma001:005	7b	@	-	ulkopuolellakin
+ma001:005	7a	%case	LOC	
+ma001:005	-	(@)	-	"
+ma001:005	-	(.)	-	.␣
+ma001:006	ma001:006	ma001:006	VERSE	Mal␣1:6␣
+ma001:006	1	@	-	Poika␣
+ma001:006	2	@	-	kunnioittakoon␣
+ma001:006	3	@	-	isää␣
+ma001:006	4a	@	-	ja␣
+ma001:006	4b	@	-	palvelija␣
+ma001:006	5	@	-	herraansa
+ma001:006	-	(.)	-	.␣
+ma001:006	6a	@	-	Mutta␣
+ma001:006	6b	@	-	jos␣
+ma001:006	8	@	-	minä␣
+ma001:006	-	(@)	-	olen␣
+ma001:006	7	@	-	isä
+ma001:006	-	(,)	-	,␣
+ma001:006	9	@	-	missä␣
+ma001:006	-	(@)	-	on␣
+ma001:006	pers%10	@	-	minun␣
+ma001:006	10	@	-	kunnioitukseni
+ma001:006	-	(?)	-	?␣
+ma001:006	11a	@	-	Ja␣
+ma001:006	11b	@	-	jos␣
+ma001:006	13	@	-	minä␣
+ma001:006	-	(@)	-	olen␣
+ma001:006	12	@	-	Herra
+ma001:006	-	(,)	-	,␣
+ma001:006	14	@	-	missä␣
+ma001:006	-	(@)	-	on␣
+ma001:006	pers%15	@	-	minun␣
+ma001:006	15	@	-	pelkoni
+ma001:006	-	(?)	-	?␣
+ma001:006	16	@	-	sanoo␣
+ma001:006	17	@	-	Herra␣
+ma001:006	18	@	-	Sebaot␣
+ma001:006	19	@	-	teille
+ma001:006	-	(,)	-	,␣
+ma001:006	-	(@)	-	te␣
+ma001:006	(20a) 20b	@	-	papit
+ma001:006	-	(,)	-	,␣
+ma001:006	-	(@)	-	jotka␣
+ma001:006	21	@	-	pidätte␣
+ma001:006	21	@	-	halpana␣
+ma001:006	pers%22	@	-	minun␣
+ma001:006	22	@	-	nimeni
+ma001:006	-	(.)	-	.␣
+ma001:006	23a	@	-	Mutta␣
+ma001:006	23b	(@)	-	te␣
+ma001:006	23b	@	-	sanotte
+ma001:006	-	(:)	-	:␣
+ma001:006	-	(@)	-	"
+ma001:006	24b	@	-	Miten␣
+ma001:006	24a	%case	?	
+ma001:006	25	(@)	-	me␣
+ma001:006	25	(@)	-	olemme␣
+ma001:006	25	@	-	pitäneet␣
+ma001:006	25	@	-	halpana␣
+ma001:006	pers%27	@	-	sinun␣
+ma001:006	27	@	-	nimesi
+ma001:006	26	%case	NOM.GEN	
+ma001:006	-	(?)	-	?
+ma001:006	-	(@)	-	"␣
+ma001:007	ma001:007	ma001:007	VERSE	Mal␣1:7␣
+ma001:007	-	(@)	-	Siten
+ma001:007	-	(,)	-	,␣
+ma001:007	-	(@)	-	että␣
+ma001:007	1	@	-	tuotte␣
+ma001:007	pers%3	@	-	minun␣
+ma001:007	3	@	-	alttarilleni␣
+ma001:007	2	%case	LOC	
+ma001:007	5	@	-	saastutettua␣
+ma001:007	4	@	-	leipää
+ma001:007	-	(.)	-	.␣
+ma001:007	6a	@	-	Mutta␣
+ma001:007	6b	(@)	-	te␣
+ma001:007	6b	@	-	sanotte
+ma001:007	-	(:)	-	:␣
+ma001:007	-	(@)	-	"
+ma001:007	7b	@	-	Miten␣
+ma001:007	7a	%case	?	
+ma001:007	8	(@)	-	me␣
+ma001:007	8	(@)	-	olemme␣
+ma001:007	pers%8	@	-	sinut␣
+ma001:007	8	@	-	saastuttaneet
+ma001:007	-	(?)	-	?
+ma001:007	-	(@)	-	"␣
+ma001:007	9a	@	-	Siten
+ma001:007	-	(,)	-	,␣
+ma001:007	9a	@	-	että␣
+ma001:007	9b	@	-	sanotte
+ma001:007	-	(:)	-	:␣
+ma001:007	-	(@)	-	"
+ma001:007	11	@	-	Herran␣
+ma001:007	10	@	-	pöytä␣
+ma001:007	13	@	-	on␣
+ma001:007	12	@	-	halpana␣
+ma001:007	12	@	-	pidettävä
+ma001:007	-	(@)	-	"
+ma001:007	-	(.)	-	.␣
+ma001:008	ma001:008	ma001:008	VERSE	Mal␣1:8␣
+ma001:008	1a	@	-	Ja␣
+ma001:008	1b	@	-	kun␣
+ma001:008	2	(@)	-	te␣
+ma001:008	2	@	-	tuotte␣
+ma001:008	4b	@	-	uhriksi␣
+ma001:008	4a	%case	TRA	
+ma001:008	3	@	-	sokean␣
+ma001:008	3	@	-	eläimen
+ma001:008	-	(,)	-	,␣
+ma001:008	-	(@)	-	niin␣
+ma001:008	-	(@)	-	se␣
+ma001:008	-	(@)	-	muka␣
+ma001:008	5	@	-	ei␣
+ma001:008	5	@	-	ole␣
+ma001:008	6	@	-	paha
+ma001:008	-	(!)	-	!␣
+ma001:008	7a	@	-	Ja␣
+ma001:008	7b	@	-	kun␣
+ma001:008	8	@	-	tuotte␣
+ma001:008	9	@	-	ontuvan␣
+ma001:008	10a	@	-	ja␣
+ma001:008	10b	@	-	sairaan
+ma001:008	-	(,)	-	,␣
+ma001:008	-	(@)	-	niin␣
+ma001:008	-	(@)	-	se␣
+ma001:008	-	(@)	-	muka␣
+ma001:008	11	@	-	ei␣
+ma001:008	11	@	-	ole␣
+ma001:008	12	@	-	paha
+ma001:008	-	(!)	-	!␣
+ma001:008	13	@	-	Vie␣
+ma001:008	14	%inflection	ACT.IMP.2S	
+ma001:008	pers%13	@	-	se␣
+ma001:008	15b	@	-	maaherrallesi
+ma001:008	15a	%case	LOC	
+ma001:008	-	(:)	-	:␣
+ma001:008	16b	@	-	mielistyykö␣
+ma001:008	16a	%clitic	kO	
+ma001:008	16b	(@)	-	hän␣
+ma001:008	pers%16b	@	-	sinuun
+ma001:008	-	(,)	-	,␣
+ma001:008	17	@	-	ja␣
+ma001:008	18b	@	-	onko␣
+ma001:008	18a	%clitic	kO	
+ma001:008	18b	(@)	-	hän␣
+ma001:008	pers%19	@	-	sinulle␣
+ma001:008	19	@	-	suosiollinen
+ma001:008	-	(?)	-	?␣
+ma001:008	20	@	-	sanoo␣
+ma001:008	21	@	-	Herra␣
+ma001:008	22	@	-	Sebaot
+ma001:008	-	(.)	-	.␣
+ma001:009	ma001:009	ma001:009	VERSE	Mal␣1:9␣
+ma001:009	1a	@	-	Ja␣
+ma001:009	1b	@	-	nyt
+ma001:009	-	(:)	-	:␣
+ma001:009	2 4	@	-	lepyttäkää␣
+ma001:009	3	%inflection	DER.ACT.IMP.2P	
+ma001:009	5	@	-	Jumalaa
+ma001:009	-	(,)	-	,␣
+ma001:009	6a	@	-	että␣
+ma001:009	6b	(@)	-	hän␣
+ma001:009	pers%6b	@	-	meitä␣
+ma001:009	6b	@	-	armahtaisi
+ma001:009	-	(.)	-	.␣
+ma001:009	9	@	-	Tällaista␣
+ma001:009	8	(@)	-	on␣
+ma001:009	pers%7b	@	-	teidän␣
+ma001:009	7b	@	-	kädestänne␣
+ma001:009	7a	%case	LOC	
+ma001:009	8	@	-	tullut
+ma001:009	-	(:)	-	:␣
+ma001:009	10b 12	@	-	olisiko␣
+ma001:009	10a	%clitic	kO	
+ma001:009	10b 12	(@)	-	hän␣
+ma001:009	11	@	-	teille␣
+ma001:009	10b 12	@	-	suosiollinen
+ma001:009	-	(?)	-	?␣
+ma001:009	13	@	-	sanoo␣
+ma001:009	14	@	-	Herra␣
+ma001:009	15	@	-	Sebaot
+ma001:009	-	(.)	-	.␣
+ma001:010	ma001:010	ma001:010	VERSE	Mal␣1:10␣
+ma001:010	2	@	-	Jospa␣
+ma001:010	-	(@)	-	olisi␣
+ma001:010	pers%3	@	-	teidän␣
+ma001:010	3	@	-	joukossanne␣
+ma001:010	1	@	-	joku
+ma001:010	-	(,)	-	,␣
+ma001:010	4a	@	-	joka␣
+ma001:010	4b	@	-	sulkisi␣
+ma001:010	5	@	-	ovet
+ma001:010	-	(,)	-	,␣
+ma001:010	6a 6b	@	-	ettette␣
+ma001:010	7	@	-	pitäisi␣
+ma001:010	7	@	-	tulta␣
+ma001:010	pers%8	@	-	minun␣
+ma001:010	8	@	-	alttarillani␣
+ma001:010	9	@	-	turhaan
+ma001:010	-	(!)	-	!␣
+ma001:010	10	@	-	Ei␣
+ma001:010	10	@	-	ole␣
+ma001:010	11	@	-	minulla␣
+ma001:010	12	@	-	mielisuosiota␣
+ma001:010	13	@	-	teihin
+ma001:010	-	(,)	-	,␣
+ma001:010	14	@	-	sanoo␣
+ma001:010	15	@	-	Herra␣
+ma001:010	16	@	-	Sebaot
+ma001:010	-	(,)	-	,␣
+ma001:010	17a 18	@	-	enkä␣
+ma001:010	19	(@)	-	minä␣
+ma001:010	19	@	-	mielisty␣
+ma001:010	17b	@	-	ruokauhriin
+ma001:010	-	(,)	-	,␣
+ma001:010	-	(@)	-	joka␣
+ma001:010	-	(@)	-	tulee␣
+ma001:010	pers%20b	@	-	teidän␣
+ma001:010	20b	@	-	kädestänne
+ma001:010	20a	%case	LOC	
+ma001:010	-	(.)	-	.␣
+ma001:011	ma001:011	ma001:011	VERSE	Mal␣1:11␣
+ma001:011	1	@	-	Sillä␣
+ma001:011	3	@	-	auringon␣
+ma001:011	2b	@	-	noususta␣
+ma001:011	2a	%case	LOC	
+ma001:011	(4a)	-	UNTRANSLATED	
+ma001:011	4b	@	-	hamaan␣
+ma001:011	pers%5	@	-	sen␣
+ma001:011	5	@	-	laskuun␣
+ma001:011	-	(@)	-	on␣
+ma001:011	pers%7	@	-	minun␣
+ma001:011	7	@	-	nimeni␣
+ma001:011	-	(@)	-	oleva␣
+ma001:011	6	@	-	suuri␣
+ma001:011	8b	@	-	pakanain␣
+ma001:011	8a	@	-	seassa
+ma001:011	-	(,)	-	,␣
+ma001:011	9a	@	-	ja␣
+ma001:011	9c	@	-	joka␣
+ma001:011	10	@	-	paikassa␣
+ma001:011	9b	%case	LOC	
+ma001:011	11	@	-	uhrataan␣
+ma001:011	-	(@)	-	ja␣
+ma001:011	12	@	-	tuodaan␣
+ma001:011	pers%13b	@	-	minun␣
+ma001:011	13b	@	-	nimeni␣
+ma001:011	13a	@	-	kunniaksi␣
+ma001:011	(14a)	-	UNTRANSLATED	
+ma001:011	15	@	-	puhdas␣
+ma001:011	14b	@	-	ruokauhri
+ma001:011	-	(.)	-	.␣
+ma001:011	16	@	-	Sillä␣
+ma001:011	pers%18	@	-	minun␣
+ma001:011	18	@	-	nimeni␣
+ma001:011	-	(@)	-	on␣
+ma001:011	-	(@)	-	oleva␣
+ma001:011	17	@	-	suuri␣
+ma001:011	19b	@	-	pakanain␣
+ma001:011	19a	@	-	seassa
+ma001:011	-	(,)	-	,␣
+ma001:011	20	@	-	sanoo␣
+ma001:011	21	@	-	Herra␣
+ma001:011	22	@	-	Sebaot
+ma001:011	-	(.)	-	.␣
+ma001:012	ma001:012	ma001:012	VERSE	Mal␣1:12␣
+ma001:012	1a	@	-	Mutta␣
+ma001:012	1b	@	-	te␣
+ma001:012	2	@	-	häpäisette␣
+ma001:012	3	@	-	sen
+ma001:012	-	(,)	-	,␣
+ma001:012	4a	@	-	kun␣
+ma001:012	4b	@	-	sanotte
+ma001:012	-	(:)	-	:␣
+ma001:012	-	(@)	-	"
+ma001:012	6	@	-	Herran␣
+ma001:012	5	@	-	pöytä␣
+ma001:012	8	@	-	on␣
+ma001:012	7	@	-	saastutettu
+ma001:012	-	(,)	-	,␣
+ma001:012	9a	@	-	ja␣
+ma001:012	pers%9b	@	-	sen␣
+ma001:012	9b	@	-	hedelmän␣
+ma001:012	11	@	-	syönti␣
+ma001:012	10	(@)	-	on␣
+ma001:012	10	@	-	halpana␣
+ma001:012	10	@	-	pidettävä
+ma001:012	-	(@)	-	"
+ma001:012	-	(.)	-	.␣
+ma001:013	ma001:013	ma001:013	VERSE	Mal␣1:13␣
+ma001:013	1a	@	-	Ja␣
+ma001:013	1b	(@)	-	te␣
+ma001:013	1b	@	-	sanotte
+ma001:013	(2)	-	UNTRANSLATED	
+ma001:013	-	(:)	-	:␣
+ma001:013	-	(@)	-	"
+ma001:013	3a	@	-	Mikä␣
+ma001:013	3b	@	-	vaiva
+ma001:013	-	(!)	-	!
+ma001:013	-	(@)	-	"␣
+ma001:013	4a	@	-	ja␣
+ma001:013	4b	@	-	ylenkatsotte␣
+ma001:013	5	@	-	sen
+ma001:013	-	(,)	-	,␣
+ma001:013	6	@	-	sanoo␣
+ma001:013	7	@	-	Herra␣
+ma001:013	8	@	-	Sebaot
+ma001:013	-	(,)	-	,␣
+ma001:013	9a	@	-	ja␣
+ma001:013	9b	@	-	tuotte␣
+ma001:013	10	@	-	ryöstettyä
+ma001:013	(11a)	-	UNTRANSLATED	
+ma001:013	-	(,)	-	,␣
+ma001:013	(12a) 12b	@	-	ontuvaa␣
+ma001:013	11b	%case	PTV	
+ma001:013	13a	@	-	ja␣
+ma001:013	(14a) 14b	@	-	sairasta␣
+ma001:013	13b	%case	PTV	
+ma001:013	-	(-)	-	-␣
+ma001:013	(15a)	-	UNTRANSLATED	
+ma001:013	15b	@	-	tuotte␣
+ma001:013	(17a) 17b	@	-	uhrilahjaksi
+ma001:013	16	%case	TRA	
+ma001:013	-	(.)	-	.␣
+ma001:013	-	(-)	-	-␣
+ma001:013	18b	(@)	-	Minäkö␣
+ma001:013	18a	%clitic	kO	
+ma001:013	18b	@	-	mielistyisin␣
+ma001:013	-	(@)	-	ottamaan␣
+ma001:013	19	@	-	sen␣
+ma001:013	pers%20b	@	-	teidän␣
+ma001:013	20b	@	-	kädestänne
+ma001:013	20a	%case	LOC	
+ma001:013	-	(?)	-	?␣
+ma001:013	21	@	-	sanoo␣
+ma001:013	22	@	-	Herra
+ma001:013	-	(.)	-	.␣
+ma001:014	ma001:014	ma001:014	VERSE	Mal␣1:14␣
+ma001:014	(1a)	-	UNTRANSLATED	
+ma001:014	1b	@	-	Kirottu␣
+ma001:014	-	(@)	-	olkoon␣
+ma001:014	2	@	-	pettäjä
+ma001:014	(3a)	-	UNTRANSLATED	
+ma001:014	-	(,)	-	,␣
+ma001:014	pers%4b	@	-	jolla␣
+ma001:014	3b	@	-	on␣
+ma001:014	4b	@	-	laumassaan␣
+ma001:014	4a	%case	LOC	
+ma001:014	5	@	-	koiraspuoli␣
+ma001:014	6a	@	-	ja␣
+ma001:014	-	(@)	-	joka␣
+ma001:014	6b	(@)	-	on␣
+ma001:014	6b	@	-	luvannut␣
+ma001:014	-	(@)	-	sen
+ma001:014	-	(,)	-	,␣
+ma001:014	7a	@	-	mutta␣
+ma001:014	7b	@	-	uhraakin␣
+ma001:014	9b	@	-	Herralle␣
+ma001:014	9a	%case	LOC	
+ma001:014	8	@	-	viallisen
+ma001:014	-	(.)	-	.␣
+ma001:014	10	@	-	Sillä␣
+ma001:014	12	@	-	suuri␣
+ma001:014	11	@	-	kuningas␣
+ma001:014	-	(@)	-	olen␣
+ma001:014	13	@	-	minä
+ma001:014	-	(,)	-	,␣
+ma001:014	14	@	-	sanoo␣
+ma001:014	15	@	-	Herra␣
+ma001:014	16	@	-	Sebaot
+ma001:014	-	(,)	-	,␣
+ma001:014	17a	@	-	ja␣
+ma001:014	pers%17b	@	-	minun␣
+ma001:014	17b	@	-	nimeni␣
+ma001:014	-	(@)	-	on␣
+ma001:014	18	@	-	peljättävä␣
+ma001:014	19b	@	-	pakanain␣
+ma001:014	19a	@	-	seassa
+ma001:014	-	(.)	-	.␣
+ma002:001	ma002:001	ma002:001	VERSE	Mal␣2:1␣
+ma002:001	1a	@	-	Ja␣
+ma002:001	1b	@	-	nyt␣
+ma002:001	2	@	-	teille␣
+ma002:001	(4a) 4b	@	-	tämä␣
+ma002:001	(3a) 3b	@	-	käsky
+ma002:001	-	(,)	-	,␣
+ma002:001	-	(@)	-	te␣
+ma002:001	(5a) 5b	@	-	papit
+ma002:001	-	(!)	-	!␣
+ma002:002	ma002:002	ma002:002	VERSE	Mal␣2:2␣
+ma002:002	1	@	-	Jos␣
+ma002:002	2	@	-	ette␣
+ma002:002	3	@	-	kuule␣
+ma002:002	4a	@	-	ja␣
+ma002:002	(4b) (5)	-	UNTRANSLATED	
+ma002:002	6	@	-	paina␣
+ma002:002	8	@	-	sydämeenne
+ma002:002	7	%case	LOC	
+ma002:002	-	(,)	-	,␣
+ma002:002	9a	@	-	niin␣
+ma002:002	9a	@	-	että␣
+ma002:002	9b	@	-	annatte␣
+ma002:002	10	@	-	kunnian␣
+ma002:002	pers%11b	@	-	minun␣
+ma002:002	11b	@	-	nimelleni
+ma002:002	11a	%case	LOC	
+ma002:002	-	(,)	-	,␣
+ma002:002	12	@	-	sanoo␣
+ma002:002	13	@	-	Herra␣
+ma002:002	14	@	-	Sebaot
+ma002:002	(15a)	-	UNTRANSLATED	
+ma002:002	-	(,)	-	,␣
+ma002:002	15b	@	-	lähetän␣
+ma002:002	15b	(@)	-	minä␣
+ma002:002	pers%16	@	-	teitä␣
+ma002:002	16	@	-	vastaan␣
+ma002:002	(18a) 18b	@	-	kirouksen␣
+ma002:002	17	%case	GEN	
+ma002:002	19a	@	-	ja␣
+ma002:002	19b	@	-	kiroan␣
+ma002:002	pers%21	@	-	teille␣
+ma002:002	-	(@)	-	suodut␣
+ma002:002	21	@	-	siunaukset
+ma002:002	20	%case	NOM	
+ma002:002	(22a)	-	UNTRANSLATED	
+ma002:002	-	(.)	-	.␣
+ma002:002	23	(@)	-	Minä␣
+ma002:002	23	(@)	-	olenkin␣
+ma002:002	pers%23	@	-	ne␣
+ma002:002	22b	@	-	jo␣
+ma002:002	23	@	-	kironnut
+ma002:002	-	(,)	-	,␣
+ma002:002	24	@	-	sillä␣
+ma002:002	pers%25	@	-	te␣
+ma002:002	25	@	-	ette␣
+ma002:002	25	@	-	ole␣
+ma002:002	26	@	-	painaneet␣
+ma002:002	-	(@)	-	tätä␣
+ma002:002	28	@	-	sydämeenne
+ma002:002	27	%case	LOC	
+ma002:002	-	(.)	-	.␣
+ma002:003	ma002:003	ma002:003	VERSE	Mal␣2:3␣
+ma002:003	1	@	-	Minä␣
+ma002:003	2	@	-	kiellän␣
+ma002:003	3	@	-	teiltä␣
+ma002:003	(5a) 5b	@	-	jälkeläiset
+ma002:003	4	%case	NOM	
+ma002:003	-	(,)	-	,␣
+ma002:003	6a	@	-	ja␣
+ma002:003	6b	(@)	-	minä␣
+ma002:003	6b	@	-	viskelen␣
+ma002:003	7	@	-	rapaa␣
+ma002:003	pers%9	@	-	teidän␣
+ma002:003	9	@	-	kasvoihinne
+ma002:003	8	%case	LOC	
+ma002:003	-	(,)	-	,␣
+ma002:003	pers%11	@	-	teidän␣
+ma002:003	11	@	-	juhlauhrienne␣
+ma002:003	10	@	-	rapaa
+ma002:003	-	(,)	-	,␣
+ma002:003	12a	@	-	ja␣
+ma002:003	14	@	-	siihen␣
+ma002:003	13	@	-	teidät␣
+ma002:003	13	(@)	-	itsenne␣
+ma002:003	12b	@	-	kannetaan
+ma002:003	-	(.)	-	.␣
+ma002:004	ma002:004	ma002:004	VERSE	Mal␣2:4␣
+ma002:004	1a	@	-	Ja␣
+ma002:004	1b	(@)	-	te␣
+ma002:004	1b	(@)	-	tulette␣
+ma002:004	1b	@	-	tietämään
+ma002:004	-	(,)	-	,␣
+ma002:004	2	@	-	että␣
+ma002:004	3	(@)	-	minä␣
+ma002:004	3	(@)	-	olen␣
+ma002:004	3	@	-	lähettänyt␣
+ma002:004	4	@	-	teille␣
+ma002:004	(7a) 7b	@	-	tämän␣
+ma002:004	(6a) 6b	@	-	käskyn
+ma002:004	5	%case	GEN	
+ma002:004	-	(,)	-	,␣
+ma002:004	8a	@	-	jotta␣
+ma002:004	pers%9	@	-	minun␣
+ma002:004	9	@	-	liittoni␣
+ma002:004	11	@	-	Leevin␣
+ma002:004	10	@	-	kanssa␣
+ma002:004	8b	@	-	pysyisi
+ma002:004	-	(,)	-	,␣
+ma002:004	12	@	-	sanoo␣
+ma002:004	13	@	-	Herra␣
+ma002:004	14	@	-	Sebaot
+ma002:004	-	(.)	-	.␣
+ma002:005	ma002:005	ma002:005	VERSE	Mal␣2:5␣
+ma002:005	pers%1	@	-	Minun␣
+ma002:005	1	@	-	liittoni␣
+ma002:005	pers%3	@	-	hänen␣
+ma002:005	3	@	-	kanssansa␣
+ma002:005	2	@	-	oli␣
+ma002:005	(4a) 4b	@	-	elämä␣
+ma002:005	5a	@	-	ja␣
+ma002:005	(5b) 5c	@	-	rauha
+ma002:005	-	(,)	-	,␣
+ma002:005	6a	@	-	ja␣
+ma002:005	6b	(@)	-	minä␣
+ma002:005	6b	@	-	annoin␣
+ma002:005	pers%6b	@	-	sen␣
+ma002:005	7	@	-	hänelle␣
+ma002:005	8	@	-	peloksi
+ma002:005	-	(;)	-	;␣
+ma002:005	9a	@	-	ja␣
+ma002:005	9b	(@)	-	hän␣
+ma002:005	9b	@	-	pelkäsi␣
+ma002:005	pers%9b	@	-	minua
+ma002:005	(10a)	-	UNTRANSLATED	
+ma002:005	-	(,)	-	,␣
+ma002:005	12	@	-	vapisi␣
+ma002:005	pers%11	@	-	minun␣
+ma002:005	11	@	-	nimeni␣
+ma002:005	10c	@	-	edessä
+ma002:005	10b	%case	LOC	
+ma002:005	(13)	-	UNTRANSLATED	
+ma002:005	-	(.)	-	.␣
+ma002:006	ma002:006	ma002:006	VERSE	Mal␣2:6␣
+ma002:006	2	@	-	Oikea␣
+ma002:006	1	@	-	opetus␣
+ma002:006	3	@	-	oli␣
+ma002:006	pers%4b	@	-	hänen␣
+ma002:006	4b	@	-	suussansa
+ma002:006	4a	%case	LOC	
+ma002:006	-	(,)	-	,␣
+ma002:006	5a 6	@	-	eikä␣
+ma002:006	5b	@	-	vääryyttä␣
+ma002:006	7	@	-	tavattu␣
+ma002:006	pers%8b	@	-	hänen␣
+ma002:006	8b	@	-	huuliltansa
+ma002:006	8a	%case	LOC	
+ma002:006	-	(.)	-	.␣
+ma002:006	9b	@	-	Rauhassa␣
+ma002:006	9a	%case	LOC	
+ma002:006	10a	@	-	ja␣
+ma002:006	10c	@	-	vakaasti␣
+ma002:006	10b	%case	MAN	
+ma002:006	11	(@)	-	hän␣
+ma002:006	11	@	-	vaelsi␣
+ma002:006	pers%12	@	-	minun␣
+ma002:006	12	@	-	kanssani
+ma002:006	-	(,)	-	,␣
+ma002:006	13a	@	-	ja␣
+ma002:006	13b	@	-	monet␣
+ma002:006	14	(@)	-	hän␣
+ma002:006	14	@	-	käänsi␣
+ma002:006	15a	@	-	pois␣
+ma002:006	15b	@	-	pahoista␣
+ma002:006	15b	@	-	töistä
+ma002:006	-	(.)	-	.␣
+ma002:007	ma002:007	ma002:007	VERSE	Mal␣2:7␣
+ma002:007	1	@	-	Sillä␣
+ma002:007	3	@	-	papin␣
+ma002:007	2	@	-	huulten␣
+ma002:007	4	(@)	-	pitää␣
+ma002:007	4	@	-	tallettaman␣
+ma002:007	5	@	-	tieto
+ma002:007	-	(,)	-	,␣
+ma002:007	6a	@	-	ja␣
+ma002:007	pers%8b	@	-	hänen␣
+ma002:007	8b	@	-	suustansa␣
+ma002:007	8a	%case	LOC	
+ma002:007	7	@	-	etsitään␣
+ma002:007	6b	@	-	opetus
+ma002:007	-	(;)	-	;␣
+ma002:007	9	@	-	sillä␣
+ma002:007	13	@	-	hän␣
+ma002:007	-	(@)	-	on␣
+ma002:007	11	@	-	Herran␣
+ma002:007	12	@	-	Sebaotin␣
+ma002:007	10	@	-	sanansaattaja
+ma002:007	-	(.)	-	.␣
+ma002:008	ma002:008	ma002:008	VERSE	Mal␣2:8␣
+ma002:008	1a	@	-	Mutta␣
+ma002:008	1b	@	-	te␣
+ma002:008	2	(@)	-	olette␣
+ma002:008	2	@	-	poikenneet␣
+ma002:008	(4a) 4b	@	-	tieltä
+ma002:008	3	%case	LOC	
+ma002:008	-	(,)	-	,␣
+ma002:008	5	(@)	-	olette␣
+ma002:008	7b	@	-	opetuksellanne␣
+ma002:008	7a	%case	LOC	
+ma002:008	5	(@)	-	saattaneet␣
+ma002:008	6	@	-	monet␣
+ma002:008	5	@	-	kompastumaan
+ma002:008	-	(,)	-	,␣
+ma002:008	8	(@)	-	olette␣
+ma002:008	8	@	-	turmelleet␣
+ma002:008	(10a) 10b	@	-	Leevin␣
+ma002:008	9	@	-	liiton
+ma002:008	-	(,)	-	,␣
+ma002:008	11	@	-	sanoo␣
+ma002:008	12	@	-	Herra␣
+ma002:008	13	@	-	Sebaot
+ma002:008	-	(.)	-	.␣
+ma002:009	ma002:009	ma002:009	VERSE	Mal␣2:9␣
+ma002:009	1a	@	-	Niinpä␣
+ma002:009	2	@	-	minäkin␣
+ma002:009	1b	%clitic	kin	
+ma002:009	3	@	-	teen␣
+ma002:009	4	@	-	teidät␣
+ma002:009	5	@	-	halpana␣
+ma002:009	5	@	-	pidetyiksi␣
+ma002:009	6a	@	-	ja␣
+ma002:009	6b	@	-	alhaisiksi␣
+ma002:009	7b	@	-	kaiken␣
+ma002:009	(8a) 8b	@	-	kansan␣
+ma002:009	7a	@	-	edessä
+ma002:009	-	(,)	-	,␣
+ma002:009	10 9a 9b	@	-	koska␣
+ma002:009	pers%11	@	-	te␣
+ma002:009	11	@	-	ette␣
+ma002:009	11	@	-	ole␣
+ma002:009	12	@	-	pitäneet␣
+ma002:009	pers%14	@	-	minun␣
+ma002:009	14	@	-	teitäni
+ma002:009	13	%case	PTV	
+ma002:009	-	(,)	-	,␣
+ma002:009	15a	@	-	vaan␣
+ma002:009	15b 16	(@)	-	olette␣
+ma002:009	15b 16	(@)	-	olleet␣
+ma002:009	15b 16	@	-	puolueelliset␣
+ma002:009	17b	@	-	opetuksessa
+ma002:009	17a	%case	LOC	
+ma002:009	-	(.)	-	.␣
+ma002:010	ma002:010	ma002:010	VERSE	Mal␣2:10␣
+ma002:010	1b	@	-	Eikö␣
+ma002:010	1a	%clitic	kO	
+ma002:010	pers%4b	@	-	meillä␣
+ma002:010	4b	@	-	kaikilla␣
+ma002:010	4a	%case	LOC	
+ma002:010	-	(@)	-	ole␣
+ma002:010	3	@	-	sama␣
+ma002:010	2	@	-	Isä
+ma002:010	-	(?)	-	?␣
+ma002:010	5b	@	-	Eikö␣
+ma002:010	5a	%clitic	kO	
+ma002:010	7	@	-	sama␣
+ma002:010	6	@	-	Jumala␣
+ma002:010	8	(@)	-	ole␣
+ma002:010	pers%8	@	-	meitä␣
+ma002:010	8	@	-	luonut
+ma002:010	-	(?)	-	?␣
+ma002:010	9	@	-	Miksi␣
+ma002:010	10	(@)	-	me␣
+ma002:010	10	@	-	olemme␣
+ma002:010	10	@	-	uskottomat␣
+ma002:010	11	@	-	toinen␣
+ma002:010	12b	@	-	toisellemme␣
+ma002:010	12a	%case	LOC	
+ma002:010	-	(@)	-	ja␣
+ma002:010	13b	@	-	rikomme␣
+ma002:010	13a	%case	?	
+ma002:010	15	@	-	isiemme␣
+ma002:010	14	@	-	liiton
+ma002:010	-	(?)	-	?␣
+ma002:011	ma002:011	ma002:011	VERSE	Mal␣2:11␣
+ma002:011	2	@	-	Juuda␣
+ma002:011	1	(@)	-	on␣
+ma002:011	1	@	-	ollut␣
+ma002:011	1	@	-	uskoton
+ma002:011	(3a)	-	UNTRANSLATED	
+ma002:011	-	(,)	-	,␣
+ma002:011	5b	@	-	Israelissa␣
+ma002:011	5a	%case	LOC	
+ma002:011	6a	@	-	ja␣
+ma002:011	6c	@	-	Jerusalemissa␣
+ma002:011	6b	%case	LOC	
+ma002:011	4	(@)	-	on␣
+ma002:011	4	@	-	tehty␣
+ma002:011	3b	@	-	kauhistus
+ma002:011	-	(.)	-	.␣
+ma002:011	7	@	-	Sillä␣
+ma002:011	9	@	-	Juuda␣
+ma002:011	8	(@)	-	on␣
+ma002:011	8	@	-	häväissyt␣
+ma002:011	11	@	-	Herran␣
+ma002:011	10	@	-	pyhäkön
+ma002:011	-	(,)	-	,␣
+ma002:011	12	@	-	jota␣
+ma002:011	13	(@)	-	Herra␣
+ma002:011	13	@	-	rakastaa
+ma002:011	-	(,)	-	,␣
+ma002:011	14a	@	-	ja␣
+ma002:011	14b	(@)	-	on␣
+ma002:011	14b	@	-	ottanut␣
+ma002:011	14b	@	-	avioksi␣
+ma002:011	17	@	-	vieraan␣
+ma002:011	16	@	-	jumalan␣
+ma002:011	15	@	-	tyttäriä
+ma002:011	-	(.)	-	.␣
+ma002:012	ma002:012	ma002:012	VERSE	Mal␣2:12␣
+ma002:012	1	@	-	Hävittäköön␣
+ma002:012	2	@	-	Herra␣
+ma002:012	-	(@)	-	siltä␣
+ma002:012	3b	@	-	mieheltä
+ma002:012	3a	%case	LOC	
+ma002:012	-	(,)	-	,␣
+ma002:012	4	@	-	joka␣
+ma002:012	pers%5	@	-	tämän␣
+ma002:012	5	@	-	tekee
+ma002:012	-	(,)	-	,␣
+ma002:012	9	@	-	Jaakobin␣
+ma002:012	8b	@	-	majoista␣
+ma002:012	8a	%case	LOC	
+ma002:012	6	@	-	valvojan␣
+ma002:012	7a	@	-	ja␣
+ma002:012	7b	@	-	vastaajan␣
+ma002:012	10a	@	-	ja␣
+ma002:012	12b	@	-	Herran␣
+ma002:012	12a	%case	GEN	
+ma002:012	13	@	-	Sebaotin␣
+ma002:012	11	@	-	uhrilahjan␣
+ma002:012	10b	@	-	tuojan
+ma002:012	-	(.)	-	.␣
+ma002:013	ma002:013	ma002:013	VERSE	Mal␣2:13␣
+ma002:013	1a	@	-	Ja␣
+ma002:013	2	@	-	toiseksi␣
+ma002:013	1b	%case	TRA	
+ma002:013	3	(@)	-	te␣
+ma002:013	3	(@)	-	olette␣
+ma002:013	3	@	-	tehneet␣
+ma002:013	-	(@)	-	tämän
+ma002:013	-	(:)	-	:␣
+ma002:013	4	(@)	-	olette␣
+ma002:013	mod%4	@	-	saattaneet␣
+ma002:013	8	@	-	Herran␣
+ma002:013	7	@	-	alttarin␣
+ma002:013	6	%case	GEN	
+ma002:013	4	@	-	peitetyksi␣
+ma002:013	5	@	-	kyynelillä␣
+ma002:013	-	(@)	-	ja␣
+ma002:013	9	@	-	itkulla␣
+ma002:013	10a	@	-	ja␣
+ma002:013	10b	@	-	huokauksilla
+ma002:013	-	(,)	-	,␣
+ma002:013	11a	@	-	niin␣
+ma002:013	11b	@	-	ettei␣
+ma002:013	-	(@)	-	hän␣
+ma002:013	12	@	-	enää␣
+ma002:013	13	@	-	käänny␣
+ma002:013	(15a) 15b	@	-	uhrilahjojen␣
+ma002:013	14	@	-	puoleen␣
+ma002:013	16a 16b	@	-	eikä␣
+ma002:013	17	@	-	mielisty␣
+ma002:013	16c	@	-	ottamaan␣
+ma002:013	-	(@)	-	mitään␣
+ma002:013	pers%18b	@	-	teidän␣
+ma002:013	18b	@	-	kädestänne
+ma002:013	18a	%case	LOC	
+ma002:013	-	(.)	-	.␣
+ma002:014	ma002:014	ma002:014	VERSE	Mal␣2:14␣
+ma002:014	1a	@	-	Mutta␣
+ma002:014	1b	(@)	-	te␣
+ma002:014	1b	@	-	sanotte
+ma002:014	-	(:)	-	:␣
+ma002:014	-	(@)	-	"
+ma002:014	3	@	-	Minkätähden␣
+ma002:014	2	%case	?	
+ma002:014	-	(@)	-	niin
+ma002:014	-	(?)	-	?
+ma002:014	-	(@)	-	"␣
+ma002:014	5	@	-	Sentähden
+ma002:014	4	%case	?	
+ma002:014	-	(,)	-	,␣
+ma002:014	5	@	-	että␣
+ma002:014	6	@	-	Herra␣
+ma002:014	7	@	-	on␣
+ma002:014	7	@	-	todistaja␣
+ma002:014	8	@	-	sinun␣
+ma002:014	9a	@	-	ja␣
+ma002:014	pers%11	@	-	sinun␣
+ma002:014	11	@	-	nuoruutesi␣
+ma002:014	10	@	-	vaimon␣
+ma002:014	9b	@	-	välillä
+ma002:014	-	(,)	-	,␣
+ma002:014	12	@	-	jolle␣
+ma002:014	13	@	-	sinä␣
+ma002:014	14	(@)	-	olet␣
+ma002:014	14	@	-	ollut␣
+ma002:014	14	@	-	uskoton
+ma002:014	(15)	-	UNTRANSLATED	
+ma002:014	-	(,)	-	,␣
+ma002:014	16a	@	-	vaikka␣
+ma002:014	16b	@	-	hän␣
+ma002:014	-	(@)	-	on␣
+ma002:014	pers%17	@	-	sinun␣
+ma002:014	17	@	-	puolisosi
+ma002:014	(18a)	-	UNTRANSLATED	
+ma002:014	-	(,)	-	,␣
+ma002:014	pers%19	@	-	sinun␣
+ma002:014	18b 19	@	-	aviovaimosi
+ma002:014	-	(.)	-	.␣
+ma002:015	ma002:015	ma002:015	VERSE	Mal␣2:15␣
+ma002:015	1a	@	-	Niin␣
+ma002:015	1b	@	-	ei␣
+ma002:015	3	@	-	tee␣
+ma002:015	2	@	-	yksikään
+ma002:015	(4a)	-	UNTRANSLATED	
+ma002:015	-	(,)	-	,␣
+ma002:015	6	@	-	jolla␣
+ma002:015	-	(@)	-	on␣
+ma002:015	4b	@	-	jäännöskään␣
+ma002:015	5	@	-	Hengestä
+ma002:015	-	(.)	-	.␣
+ma002:015	-	(@)	-	"
+ma002:015	7a	@	-	Mutta␣
+ma002:015	7b	@	-	kuinkas␣
+ma002:015	8a	@	-	se␣
+ma002:015	8b	@	-	yksi␣
+ma002:015	-	(-)	-	-
+ma002:015	-	(?)	-	?
+ma002:015	-	(@)	-	"␣
+ma002:015	9	(@)	-	Hän␣
+ma002:015	9	@	-	pyrki␣
+ma002:015	9	(@)	-	saamaan␣
+ma002:015	11	@	-	Jumalan␣
+ma002:015	-	(@)	-	lupaamia␣
+ma002:015	10	@	-	jälkeläisiä
+ma002:015	-	(.)	-	.␣
+ma002:015	-	(-)	-	-␣
+ma002:015	(12a)	-	UNTRANSLATED	
+ma002:015	12b	@	-	Ottakaa␣
+ma002:015	-	(@)	-	siis␣
+ma002:015	12b	@	-	vaari␣
+ma002:015	13b	@	-	hengestänne␣
+ma002:015	13a	%case	LOC	
+ma002:015	14a 16	@	-	älkääkä␣
+ma002:015	17	@	-	olko␣
+ma002:015	17	@	-	uskottomat␣
+ma002:015	15	@	-	nuoruutenne␣
+ma002:015	14c	@	-	vaimolle
+ma002:015	14b	%case	LOC	
+ma002:015	-	(.)	-	.␣
+ma002:016	ma002:016	ma002:016	VERSE	Mal␣2:16␣
+ma002:016	1	@	-	Sillä␣
+ma002:016	-	(@)	-	minä␣
+ma002:016	2	@	-	vihaan␣
+ma002:016	3	@	-	hylkäämistä
+ma002:016	-	(,)	-	,␣
+ma002:016	4	@	-	sanoo␣
+ma002:016	5	@	-	Herra
+ma002:016	-	(,)	-	,␣
+ma002:016	7	@	-	Israelin␣
+ma002:016	6	@	-	Jumala
+ma002:016	-	(,)	-	,␣
+ma002:016	8a	@	-	ja␣
+ma002:016	-	(@)	-	sitä
+ma002:016	-	(,)	-	,␣
+ma002:016	-	(@)	-	joka␣
+ma002:016	8b	@	-	verhoaa␣
+ma002:016	11	@	-	vaatteensa␣
+ma002:016	10	%case	NOM.GEN	
+ma002:016	9	@	-	vääryydellä
+ma002:016	-	(,)	-	,␣
+ma002:016	12	@	-	sanoo␣
+ma002:016	13	@	-	Herra␣
+ma002:016	14	@	-	Sebaot
+ma002:016	-	(.)	-	.␣
+ma002:016	15a	@	-	Siis␣
+ma002:016	15b	@	-	ottakaa␣
+ma002:016	15b	@	-	vaari␣
+ma002:016	16b	@	-	hengestänne␣
+ma002:016	16a	%case	LOC	
+ma002:016	17a 17b	@	-	älkääkä␣
+ma002:016	18	@	-	olko␣
+ma002:016	18	@	-	uskottomat
+ma002:016	-	(.)	-	.␣
+ma002:017	ma002:017	ma002:017	VERSE	Mal␣2:17␣
+ma002:017	1	(@)	-	Te␣
+ma002:017	1	@	-	väsytätte␣
+ma002:017	2	@	-	Herran␣
+ma002:017	3b	@	-	puheillanne
+ma002:017	3a	%case	LOC	
+ma002:017	-	(.)	-	.␣
+ma002:017	4a	@	-	Mutta␣
+ma002:017	4b	(@)	-	te␣
+ma002:017	4b	@	-	sanotte
+ma002:017	-	(:)	-	:␣
+ma002:017	-	(@)	-	"
+ma002:017	5b	@	-	Miten␣
+ma002:017	5a	%case	?	
+ma002:017	6	@	-	väsytämme
+ma002:017	-	(?)	-	?
+ma002:017	-	(@)	-	"␣
+ma002:017	7a	@	-	Siten
+ma002:017	-	(,)	-	,␣
+ma002:017	7a	@	-	että␣
+ma002:017	7b	@	-	sanotte
+ma002:017	-	(:)	-	:␣
+ma002:017	-	(@)	-	"
+ma002:017	8	@	-	Jokainen
+ma002:017	-	(,)	-	,␣
+ma002:017	-	(@)	-	joka␣
+ma002:017	10	@	-	pahaa␣
+ma002:017	9	@	-	tekee
+ma002:017	-	(,)	-	,␣
+ma002:017	-	(@)	-	on␣
+ma002:017	11	@	-	hyvä␣
+ma002:017	13	@	-	Herran␣
+ma002:017	12b	@	-	silmissä
+ma002:017	12a	%case	LOC	
+ma002:017	-	(,)	-	,␣
+ma002:017	14a	@	-	ja␣
+ma002:017	14b	@	-	niihin␣
+ma002:017	15	@	-	hänellä␣
+ma002:017	-	(@)	-	on␣
+ma002:017	16	@	-	mielisuosio
+ma002:017	-	(@)	-	"
+ma002:017	-	(;)	-	;␣
+ma002:017	17	@	-	tahi
+ma002:017	-	(:)	-	:␣
+ma002:017	-	(@)	-	"
+ma002:017	18	@	-	Missä␣
+ma002:017	-	(@)	-	on␣
+ma002:017	(20a) 20b	@	-	tuomion␣
+ma002:017	19	@	-	Jumala
+ma002:017	-	(?)	-	?
+ma002:017	-	(@)	-	"␣
+ma003:001	ma003:001	ma003:001	VERSE	Mal␣3:1␣
+ma003:001	1	@	-	Katso
+ma003:001	-	(,)	-	,␣
+ma003:001	pers%1	@	-	minä␣
+ma003:001	2	@	-	lähetän␣
+ma003:001	3	@	-	sanansaattajani
+ma003:001	-	(,)	-	,␣
+ma003:001	4a	@	-	ja␣
+ma003:001	4b	(@)	-	hän␣
+ma003:001	4b	(@)	-	on␣
+ma003:001	4b	@	-	valmistava␣
+ma003:001	5	@	-	tien␣
+ma003:001	pers%6b	@	-	minun␣
+ma003:001	6b	@	-	eteeni
+ma003:001	6a	%case	LOC	
+ma003:001	-	(.)	-	.␣
+ma003:001	7a	@	-	Ja␣
+ma003:001	7b	@	-	äkisti␣
+ma003:001	8	(@)	-	on␣
+ma003:001	8	@	-	tuleva␣
+ma003:001	10	@	-	temppeliinsä␣
+ma003:001	9	%case	LOC	
+ma003:001	(11a) 11b	@	-	Herra
+ma003:001	-	(,)	-	,␣
+ma003:001	12	@	-	jota␣
+ma003:001	13	@	-	te␣
+ma003:001	14	@	-	etsitte
+ma003:001	-	(,)	-	,␣
+ma003:001	15a	@	-	ja␣
+ma003:001	(16a) 16b	@	-	liiton␣
+ma003:001	15b	@	-	enkeli
+ma003:001	-	(,)	-	,␣
+ma003:001	17	@	-	jota␣
+ma003:001	18	@	-	te␣
+ma003:001	19	@	-	halajatte
+ma003:001	-	(.)	-	.␣
+ma003:001	20	@	-	Katso
+ma003:001	-	(,)	-	,␣
+ma003:001	21	(@)	-	hän␣
+ma003:001	21	@	-	tulee
+ma003:001	-	(,)	-	,␣
+ma003:001	22	@	-	sanoo␣
+ma003:001	23	@	-	Herra␣
+ma003:001	24	@	-	Sebaot
+ma003:001	-	(.)	-	.␣
+ma003:002	ma003:002	ma003:002	VERSE	Mal␣3:2␣
+ma003:002	1a	@	-	Mutta␣
+ma003:002	1b	@	-	kuka␣
+ma003:002	2	@	-	kestää␣
+ma003:002	pers%5	@	-	hänen␣
+ma003:002	5	@	-	tulemisensa␣
+ma003:002	4	@	-	päivän
+ma003:002	3	%case	GEN	
+ma003:002	-	(,)	-	,␣
+ma003:002	6a	@	-	ja␣
+ma003:002	6b	@	-	kuka␣
+ma003:002	(7a) 7b	(@)	-	voi␣
+ma003:002	(7a) 7b	@	-	pysyä
+ma003:002	-	(,)	-	,␣
+ma003:002	8a	@	-	kun␣
+ma003:002	pers%8b	@	-	hän␣
+ma003:002	8b	@	-	ilmestyy
+ma003:002	-	(?)	-	?␣
+ma003:002	9	@	-	Sillä␣
+ma003:002	10	@	-	hän␣
+ma003:002	-	(@)	-	on␣
+ma003:002	11a	@	-	niinkuin␣
+ma003:002	12	@	-	kultasepän␣
+ma003:002	11b	@	-	tuli␣
+ma003:002	13a	@	-	ja␣
+ma003:002	13b	@	-	niinkuin␣
+ma003:002	14	@	-	pesijäin␣
+ma003:002	13c	@	-	saippua
+ma003:002	-	(.)	-	.␣
+ma003:003	ma003:003	ma003:003	VERSE	Mal␣3:3␣
+ma003:003	1a	@	-	Ja␣
+ma003:003	1b	(@)	-	hän␣
+ma003:003	1b	@	-	istuu␣
+ma003:003	-	(@)	-	ja␣
+ma003:003	2	@	-	sulattaa␣
+ma003:003	3a	@	-	ja␣
+ma003:003	3b	@	-	puhdistaa␣
+ma003:003	4	@	-	hopean
+ma003:003	(5a)	-	UNTRANSLATED	
+ma003:003	-	(,)	-	,␣
+ma003:003	5b	(@)	-	hän␣
+ma003:003	5b	@	-	puhdistaa␣
+ma003:003	8	@	-	Leevin␣
+ma003:003	7	@	-	pojat
+ma003:003	6	%case	NOM	
+ma003:003	(9a)	-	UNTRANSLATED	
+ma003:003	-	(,)	-	,␣
+ma003:003	9b	@	-	saa␣
+ma003:003	10	@	-	ne␣
+ma003:003	9b	@	-	puhtaiksi␣
+ma003:003	11a	@	-	kuin␣
+ma003:003	11b	@	-	kullan␣
+ma003:003	12a	@	-	ja␣
+ma003:003	(12b)	-	UNTRANSLATED	
+ma003:003	12c	@	-	hopean␣
+ma003:003	13a	@	-	ja␣
+ma003:003	-	(@)	-	sitten␣
+ma003:003	15	(@)	-	he␣
+ma003:003	15	@	-	tuovat␣
+ma003:003	13b	%case	?	
+ma003:003	14b	@	-	Herralle␣
+ma003:003	14a	%case	LOC	
+ma003:003	16	@	-	uhrilahjoja␣
+ma003:003	17b	@	-	vanhurskaudessa
+ma003:003	17a	%case	LOC	
+ma003:003	-	(.)	-	.␣
+ma003:004	ma003:004	ma003:004	VERSE	Mal␣3:4␣
+ma003:004	1a	@	-	Ja␣
+ma003:004	2b	@	-	Herralle␣
+ma003:004	2a	%case	LOC	
+ma003:004	1b	@	-	ovat␣
+ma003:004	1b	@	-	otollisia␣
+ma003:004	4	@	-	Juudan␣
+ma003:004	5a	@	-	ja␣
+ma003:004	5b	@	-	Jerusalemin␣
+ma003:004	3	@	-	uhrilahjat␣
+ma003:004	6a	@	-	niinkuin␣
+ma003:004	7	@	-	ammoin␣
+ma003:004	7	@	-	menneinä␣
+ma003:004	6b	@	-	päivinä␣
+ma003:004	8a	@	-	ja␣
+ma003:004	9	@	-	muinaisina␣
+ma003:004	8c	@	-	vuosina
+ma003:004	8b	%case	ESS	
+ma003:004	-	(.)	-	.␣
+ma003:005	ma003:005	ma003:005	VERSE	Mal␣3:5␣
+ma003:005	1a	@	-	Ja␣
+ma003:005	1b	(@)	-	minä␣
+ma003:005	1b	@	-	lähestyn␣
+ma003:005	2	@	-	teitä␣
+ma003:005	3b	@	-	pitääkseni␣
+ma003:005	3a	%case	TRA	
+ma003:005	3b	@	-	tuomion␣
+ma003:005	4a	@	-	ja␣
+ma003:005	4b	@	-	tulen␣
+ma003:005	6	@	-	kiiruusti␣
+ma003:005	5	@	-	todistajaksi␣
+ma003:005	7b	@	-	velhoja␣
+ma003:005	(7a)	-	UNTRANSLATED	
+ma003:005	8a	@	-	ja␣
+ma003:005	8c	@	-	avionrikkojia␣
+ma003:005	(8b)	-	UNTRANSLATED	
+ma003:005	9a	@	-	ja␣
+ma003:005	10b 9c	@	-	väärinvannojia␣
+ma003:005	10a	%case	PTV	
+ma003:005	9b	@	-	vastaan␣
+ma003:005	11a	@	-	ja␣
+ma003:005	-	(@)	-	niitä␣
+ma003:005	11b	@	-	vastaan
+ma003:005	-	(,)	-	,␣
+ma003:005	-	(@)	-	jotka␣
+ma003:005	11c	@	-	sortavat␣
+ma003:005	13	@	-	palkkalaista␣
+ma003:005	12	@	-	palkanmaksussa
+ma003:005	-	(,)	-	,␣
+ma003:005	14	@	-	leskeä␣
+ma003:005	15a	@	-	ja␣
+ma003:005	15b	@	-	orpoa␣
+ma003:005	16a	@	-	ja␣
+ma003:005	16b	@	-	vääntävät␣
+ma003:005	16b	@	-	vääräksi␣
+ma003:005	17	@	-	muukalaisen␣
+ma003:005	16b	(@)	-	asian␣
+ma003:005	18a 18b	@	-	eivätkä␣
+ma003:005	19	@	-	pelkää␣
+ma003:005	pers%19	@	-	minua
+ma003:005	-	(,)	-	,␣
+ma003:005	20	@	-	sanoo␣
+ma003:005	21	@	-	Herra␣
+ma003:005	22	@	-	Sebaot
+ma003:005	-	(.)	-	.␣
+ma003:006	ma003:006	ma003:006	VERSE	Mal␣3:6␣
+ma003:006	1	@	-	Sillä␣
+ma003:006	2	@	-	minä
+ma003:006	-	(,)	-	,␣
+ma003:006	3	@	-	Herra
+ma003:006	-	(,)	-	,␣
+ma003:006	4	@	-	en␣
+ma003:006	5	@	-	muutu
+ma003:006	-	(,)	-	,␣
+ma003:006	6a 9	@	-	ettekä␣
+ma003:006	6b	@	-	te
+ma003:006	-	(,)	-	,␣
+ma003:006	8	@	-	Jaakobin␣
+ma003:006	7	@	-	lapset
+ma003:006	-	(,)	-	,␣
+ma003:006	10	@	-	herkeä
+ma003:006	-	(:)	-	:␣
+ma003:007	ma003:007	ma003:007	VERSE	Mal␣3:7␣
+ma003:007	2	@	-	isienne␣
+ma003:007	1c	@	-	päivistä␣
+ma003:007	1a 1b	@	-	asti␣
+ma003:007	3	(@)	-	te␣
+ma003:007	3	(@)	-	olette␣
+ma003:007	3	@	-	poikenneet␣
+ma003:007	pers%4b	@	-	minun␣
+ma003:007	4b	@	-	käskyistäni␣
+ma003:007	4a	%case	LOC	
+ma003:007	5a 5b	@	-	ettekä␣
+ma003:007	6	@	-	noudata␣
+ma003:007	-	(@)	-	niitä
+ma003:007	-	(.)	-	.␣
+ma003:007	7	@	-	Kääntykää␣
+ma003:007	pers%8	@	-	minun␣
+ma003:007	8	@	-	tyköni
+ma003:007	-	(,)	-	,␣
+ma003:007	9a	@	-	niin␣
+ma003:007	9b	(@)	-	minä␣
+ma003:007	9b	@	-	käännyn␣
+ma003:007	pers%10	@	-	teidän␣
+ma003:007	10	@	-	tykönne
+ma003:007	-	(,)	-	,␣
+ma003:007	11	@	-	sanoo␣
+ma003:007	12	@	-	Herra␣
+ma003:007	13	@	-	Sebaot
+ma003:007	-	(.)	-	.␣
+ma003:007	14a	@	-	Mutta␣
+ma003:007	14b	(@)	-	te␣
+ma003:007	14b	@	-	sanotte
+ma003:007	-	(:)	-	:␣
+ma003:007	-	(@)	-	"
+ma003:007	15b	@	-	Missä␣
+ma003:007	15a	%case	LOC	
+ma003:007	-	(@)	-	asiassa␣
+ma003:007	16	(@)	-	meidän␣
+ma003:007	16	(@)	-	on␣
+ma003:007	16	@	-	käännyttävä
+ma003:007	-	(?)	-	?
+ma003:007	-	(@)	-	"␣
+ma003:008	ma003:008	ma003:008	VERSE	Mal␣3:8␣
+ma003:008	1b	@	-	Riistääkö␣
+ma003:008	1a	%clitic	kO	
+ma003:008	2	@	-	ihminen␣
+ma003:008	3	@	-	Jumalalta
+ma003:008	-	(?)	-	?␣
+ma003:008	5	@	-	Te␣
+ma003:008	4	@	-	kuitenkin␣
+ma003:008	6	@	-	riistätte␣
+ma003:008	7	@	-	minulta
+ma003:008	-	(.)	-	.␣
+ma003:008	8a	@	-	Mutta␣
+ma003:008	8b	(@)	-	te␣
+ma003:008	8b	@	-	sanotte
+ma003:008	-	(:)	-	:␣
+ma003:008	-	(@)	-	"
+ma003:008	9b	@	-	Missä␣
+ma003:008	9a	%case	LOC	
+ma003:008	-	(@)	-	asiassa␣
+ma003:008	10	(@)	-	me␣
+ma003:008	pers%10	@	-	sinulta␣
+ma003:008	10	@	-	riistämme
+ma003:008	-	(?)	-	?
+ma003:008	-	(@)	-	"␣
+ma003:008	(11a) 11b	@	-	Kymmenyksissä␣
+ma003:008	12a	@	-	ja␣
+ma003:008	(12b) 12c	@	-	antimissa
+ma003:008	-	(.)	-	.␣
+ma003:009	ma003:009	ma003:009	VERSE	Mal␣3:9␣
+ma003:009	2	@	-	Te␣
+ma003:009	3	(@)	-	olette␣
+ma003:009	1b	@	-	kirouksella␣
+ma003:009	1a	%case	LOC	
+ma003:009	3	@	-	kirotut
+ma003:009	-	(,)	-	,␣
+ma003:009	4a	@	-	kun␣
+ma003:009	5	@	-	te
+ma003:009	-	(,)	-	,␣
+ma003:009	8	@	-	koko␣
+ma003:009	(7a) 7b	@	-	kansa
+ma003:009	-	(,)	-	,␣
+ma003:009	6	@	-	riistätte␣
+ma003:009	4b	@	-	minulta
+ma003:009	-	(.)	-	.␣
+ma003:010	ma003:010	ma003:010	VERSE	Mal␣3:10␣
+ma003:010	1	@	-	Tuokaa␣
+ma003:010	3	@	-	täydet␣
+ma003:010	2	%case	NOM	
+ma003:010	(4a) 4b	@	-	kymmenykset␣
+ma003:010	6 (7a) 7b	@	-	varastohuoneeseen
+ma003:010	5	%case	LOC	
+ma003:010	-	(,)	-	,␣
+ma003:010	8a	@	-	että␣
+ma003:010	pers%10b	@	-	minun␣
+ma003:010	10b	@	-	huoneessani␣
+ma003:010	10a	%case	LOC	
+ma003:010	8b	@	-	olisi␣
+ma003:010	9	@	-	ravintoa
+ma003:010	-	(,)	-	,␣
+ma003:010	11a	@	-	ja␣
+ma003:010	13b	@	-	siten␣
+ma003:010	13a	%case	?	
+ma003:010	11b	@	-	koetelkaa␣
+ma003:010	12	%inflection	DER.ACT.IMP.2P	
+ma003:010	pers%11b	@	-	minua
+ma003:010	-	(,)	-	,␣
+ma003:010	14	@	-	sanoo␣
+ma003:010	15	@	-	Herra␣
+ma003:010	16	@	-	Sebaot
+ma003:010	-	(:)	-	:␣
+ma003:010	17 18	@	-	totisesti␣
+ma003:010	19	(@)	-	minä␣
+ma003:010	19	@	-	avaan␣
+ma003:010	20	@	-	teille␣
+ma003:010	(23a) 23b	@	-	taivaan␣
+ma003:010	22	@	-	akkunat␣
+ma003:010	21	%case	NOM	
+ma003:010	24a	@	-	ja␣
+ma003:010	24b	@	-	vuodatan␣
+ma003:010	25	@	-	teille␣
+ma003:010	26	@	-	siunausta␣
+ma003:010	29	@	-	ylenpalttisesti
+ma003:010	27 28	%case	MAN	
+ma003:010	-	(.)	-	.␣
+ma003:011	ma003:011	ma003:011	VERSE	Mal␣3:11␣
+ma003:011	1a	@	-	Ja␣
+ma003:011	1b	(@)	-	minä␣
+ma003:011	1b	@	-	karkoitan␣
+ma003:011	1b	(@)	-	nuhtelullani␣
+ma003:011	2	@	-	teiltä␣
+ma003:011	3b	@	-	syöjäsirkat␣
+ma003:011	3a	%case	NOM	
+ma003:011	5	@	-	turmelemasta␣
+ma003:011	4a 4b	%case	LOC	
+ma003:011	6	@	-	teidän␣
+ma003:011	(9a) 9b	@	-	maanne␣
+ma003:011	8	@	-	hedelmää
+ma003:011	7	%case	PTV	
+ma003:011	-	(,)	-	,␣
+ma003:011	10a 10b	@	-	eikä␣
+ma003:011	12	@	-	teidän␣
+ma003:011	(13a) 13b	@	-	viiniköynnöksenne␣
+ma003:011	14b	@	-	kedolla␣
+ma003:011	14a	%case	LOC	
+ma003:011	11	@	-	ole␣
+ma003:011	11	@	-	hedelmätön
+ma003:011	-	(,)	-	,␣
+ma003:011	15	@	-	sanoo␣
+ma003:011	16	@	-	Herra␣
+ma003:011	17	@	-	Sebaot
+ma003:011	-	(.)	-	.␣
+ma003:012	ma003:012	ma003:012	VERSE	Mal␣3:12␣
+ma003:012	1a	@	-	Ja␣
+ma003:012	2	@	-	teidän␣
+ma003:012	1b	@	-	onneanne␣
+ma003:012	1b	@	-	kiittävät␣
+ma003:012	3	@	-	kaikki␣
+ma003:012	(4a) 4b	@	-	pakanat
+ma003:012	-	(,)	-	,␣
+ma003:012	5	@	-	sillä␣
+ma003:012	7	@	-	te␣
+ma003:012	6	(@)	-	tulette␣
+ma003:012	6	@	-	olemaan␣
+ma003:012	9	@	-	ihasteltu␣
+ma003:012	8	@	-	maa
+ma003:012	-	(,)	-	,␣
+ma003:012	10	@	-	sanoo␣
+ma003:012	11	@	-	Herra␣
+ma003:012	12	@	-	Sebaot
+ma003:012	-	(.)	-	.␣
+ma003:013	ma003:013	ma003:013	VERSE	Mal␣3:13␣
+ma003:013	1	@	-	Ynseät␣
+ma003:013	1	@	-	ovat␣
+ma003:013	pers%3	@	-	teidän␣
+ma003:013	3	@	-	puheenne␣
+ma003:013	pers%2	@	-	minua␣
+ma003:013	2	@	-	vastaan
+ma003:013	-	(,)	-	,␣
+ma003:013	4	@	-	sanoo␣
+ma003:013	5	@	-	Herra
+ma003:013	-	(.)	-	.␣
+ma003:013	6a	@	-	Mutta␣
+ma003:013	6b	(@)	-	te␣
+ma003:013	6b	@	-	sanotte
+ma003:013	-	(:)	-	:␣
+ma003:013	-	(@)	-	"
+ma003:013	7	@	-	Mitä␣
+ma003:013	8	(@)	-	me␣
+ma003:013	8	(@)	-	olemme␣
+ma003:013	8	@	-	puhuneet␣
+ma003:013	pers%9	@	-	sinua␣
+ma003:013	9	@	-	vastaan
+ma003:013	-	(?)	-	?
+ma003:013	-	(@)	-	"␣
+ma003:014	ma003:014	ma003:014	VERSE	Mal␣3:14␣
+ma003:014	1	(@)	-	Te␣
+ma003:014	1	@	-	sanotte
+ma003:014	-	(:)	-	:␣
+ma003:014	-	(@)	-	"
+ma003:014	4	@	-	Herran␣
+ma003:014	3	@	-	palveleminen␣
+ma003:014	-	(@)	-	on␣
+ma003:014	2	@	-	turha
+ma003:014	-	(;)	-	;␣
+ma003:014	5a	@	-	ja␣
+ma003:014	5b	@	-	mitä␣
+ma003:014	6	@	-	hyötyä␣
+ma003:014	-	(@)	-	siitä␣
+ma003:014	-	(@)	-	on␣
+ma003:014	-	(@)	-	ollut
+ma003:014	-	(,)	-	,␣
+ma003:014	7	@	-	että␣
+ma003:014	8	(@)	-	me␣
+ma003:014	8	(@)	-	olemme␣
+ma003:014	pers%9	@	-	hänelle␣
+ma003:014	8	@	-	suorittaneet␣
+ma003:014	9	@	-	säädetyt␣
+ma003:014	9	@	-	tehtävät␣
+ma003:014	10a	@	-	ja␣
+ma003:014	10b	@	-	että␣
+ma003:014	11	(@)	-	olemme␣
+ma003:014	11	@	-	vaeltaneet␣
+ma003:014	12	@	-	murheellisina␣
+ma003:014	14	@	-	Herran␣
+ma003:014	15	@	-	Sebaotin␣
+ma003:014	13b	@	-	kasvojen␣
+ma003:014	13a	@	-	edessä
+ma003:014	-	(.)	-	.␣
+ma003:015	ma003:015	ma003:015	VERSE	Mal␣3:15␣
+ma003:015	(1a)	-	UNTRANSLATED	
+ma003:015	1b	@	-	Nyt␣
+ma003:015	2	@	-	me␣
+ma003:015	3	@	-	kiitämme␣
+ma003:015	4	@	-	julkeitten␣
+ma003:015	3	@	-	onnea
+ma003:015	(5)	-	UNTRANSLATED	
+ma003:015	-	(.)	-	.␣
+ma003:015	-	(@)	-	Ne
+ma003:015	-	(,)	-	,␣
+ma003:015	-	(@)	-	jotka␣
+ma003:015	7	@	-	tekevät␣
+ma003:015	-	(@)	-	sitä
+ma003:015	-	(,)	-	,␣
+ma003:015	-	(@)	-	mikä␣
+ma003:015	8	@	-	jumalatonta␣
+ma003:015	-	(@)	-	on
+ma003:015	-	(,)	-	,␣
+ma003:015	-	(@)	-	ne␣
+ma003:015	6	@	-	tulevat␣
+ma003:015	6	@	-	raketuiksi
+ma003:015	(9)	-	UNTRANSLATED	
+ma003:015	-	(.)	-	.␣
+ma003:015	10	(@)	-	He␣
+ma003:015	10	@	-	kiusaavat␣
+ma003:015	11	@	-	Jumalaa
+ma003:015	-	(,)	-	,␣
+ma003:015	12a	@	-	mutta␣
+ma003:015	12b	@	-	pelastuvat
+ma003:015	-	(.)	-	.
+ma003:015	-	(@)	-	"␣
+ma003:016	ma003:016	ma003:016	VERSE	Mal␣3:16␣
+ma003:016	1	@	-	Silloin␣
+ma003:016	-	(@)	-	myös␣
+ma003:016	4	@	-	Herraa␣
+ma003:016	3	@	-	pelkääväiset␣
+ma003:016	2	@	-	puhuvat␣
+ma003:016	5	@	-	toinen␣
+ma003:016	7	@	-	toisensa␣
+ma003:016	6	@	-	kanssa
+ma003:016	-	(,)	-	,␣
+ma003:016	8a	@	-	ja␣
+ma003:016	9	@	-	Herra␣
+ma003:016	8b	@	-	tarkkaa␣
+ma003:016	10a	@	-	ja␣
+ma003:016	10b	@	-	kuulee
+ma003:016	-	(;)	-	;␣
+ma003:016	11a	@	-	ja␣
+ma003:016	12 13	@	-	muistokirja␣
+ma003:016	11b	@	-	kirjoitetaan␣
+ma003:016	pers%14b	@	-	hänen␣
+ma003:016	14b	@	-	edessänsä␣
+ma003:016	14a	%case	LOC	
+ma003:016	-	(@)	-	niiden␣
+ma003:016	15a	@	-	hyväksi
+ma003:016	-	(,)	-	,␣
+ma003:016	-	(@)	-	jotka␣
+ma003:016	16	@	-	Herraa␣
+ma003:016	15b	@	-	pelkäävät␣
+ma003:016	17a	@	-	ja␣
+ma003:016	(17b)	-	UNTRANSLATED	
+ma003:016	pers%18	@	-	hänen␣
+ma003:016	18	@	-	nimensä␣
+ma003:016	17c	@	-	kunniassa␣
+ma003:016	17c	@	-	pitävät
+ma003:016	-	(.)	-	.␣
+ma003:017	ma003:017	ma003:017	VERSE	Mal␣3:17␣
+ma003:017	1a	@	-	Ja␣
+ma003:017	1b	(@)	-	he␣
+ma003:017	1b	@	-	ovat
+ma003:017	-	(,)	-	,␣
+ma003:017	3	@	-	sanoo␣
+ma003:017	4	@	-	Herra␣
+ma003:017	5	@	-	Sebaot
+ma003:017	-	(,)	-	,␣
+ma003:017	-	(@)	-	sinä␣
+ma003:017	6b	@	-	päivänä
+ma003:017	6a	%case	ESS	
+ma003:017	-	(,)	-	,␣
+ma003:017	7	@	-	jonka␣
+ma003:017	8	@	-	minä␣
+ma003:017	9	@	-	teen
+ma003:017	-	(,)	-	,␣
+ma003:017	2	@	-	minun␣
+ma003:017	10	@	-	omaisuuteni
+ma003:017	-	(.)	-	.␣
+ma003:017	11a	@	-	Ja␣
+ma003:017	11b	(@)	-	minä␣
+ma003:017	11b	@	-	olen␣
+ma003:017	12	@	-	heille␣
+ma003:017	11b	@	-	laupias
+ma003:017	-	(,)	-	,␣
+ma003:017	13a 13b	@	-	niinkuin␣
+ma003:017	15	@	-	mies␣
+ma003:017	14	@	-	on␣
+ma003:017	14	@	-	laupias␣
+ma003:017	17	@	-	pojallensa
+ma003:017	16	%case	LOC	
+ma003:017	-	(,)	-	,␣
+ma003:017	-	(@)	-	joka␣
+ma003:017	19	@	-	häntä␣
+ma003:017	(18a) 18b	@	-	palvelee
+ma003:017	-	(.)	-	.␣
+ma003:018	ma003:018	ma003:018	VERSE	Mal␣3:18␣
+ma003:018	1a	@	-	Ja␣
+ma003:018	2b	(@)	-	te␣
+ma003:018	2b	@	-	näette␣
+ma003:018	1b	@	-	jälleen
+ma003:018	(2a)	-	UNTRANSLATED	
+ma003:018	-	(,)	-	,␣
+ma003:018	-	(@)	-	mikä␣
+ma003:018	-	(@)	-	on␣
+ma003:018	3	@	-	ero␣
+ma003:018	4	@	-	vanhurskaan␣
+ma003:018	5a	@	-	ja␣
+ma003:018	5b	@	-	jumalattoman␣
+ma003:018	3	@	-	välillä
+ma003:018	-	(,)	-	,␣
+ma003:018	-	(@)	-	sen␣
+ma003:018	6	@	-	välillä
+ma003:018	-	(,)	-	,␣
+ma003:018	-	(@)	-	joka␣
+ma003:018	7	@	-	palvelee␣
+ma003:018	8	@	-	Jumalaa
+ma003:018	-	(,)	-	,␣
+ma003:018	9a	@	-	ja␣
+ma003:018	9a	@	-	sen
+ma003:018	-	(,)	-	,␣
+ma003:018	9b	@	-	joka␣
+ma003:018	10	@	-	ei␣
+ma003:018	pers%11	@	-	häntä␣
+ma003:018	11	@	-	palvele
+ma003:018	-	(.)	-	.␣
+ma004:001	ma003:019	ma004:001	VERSE.SHIFT	Mal␣4:1␣
+ma004:001	1	@	-	Sillä␣
+ma004:001	2	@	-	katso
+ma004:001	-	(:)	-	:␣
+ma004:001	3a	@	-	se␣
+ma004:001	3b	@	-	päivä␣
+ma004:001	4	(@)	-	on␣
+ma004:001	4	@	-	tuleva
+ma004:001	-	(,)	-	,␣
+ma004:001	-	(@)	-	joka␣
+ma004:001	5	@	-	palaa␣
+ma004:001	6a	@	-	kuin␣
+ma004:001	6b	@	-	pätsi
+ma004:001	-	(.)	-	.␣
+ma004:001	7a	@	-	Ja␣
+ma004:001	8	@	-	kaikki␣
+ma004:001	9	@	-	julkeat␣
+ma004:001	10a	@	-	ja␣
+ma004:001	10b	@	-	kaikki
+ma004:001	-	(,)	-	,␣
+ma004:001	-	(@)	-	jotka␣
+ma004:001	11	@	-	tekevät␣
+ma004:001	-	(@)	-	sitä
+ma004:001	-	(,)	-	,␣
+ma004:001	-	(@)	-	mikä␣
+ma004:001	12	@	-	jumalatonta␣
+ma004:001	-	(@)	-	on
+ma004:001	-	(,)	-	,␣
+ma004:001	7b	@	-	ovat␣
+ma004:001	13	@	-	oljenkorsia
+ma004:001	-	(;)	-	;␣
+ma004:001	14a	@	-	ja␣
+ma004:001	15	@	-	heidät␣
+ma004:001	14b	@	-	polttaa␣
+ma004:001	16a	@	-	se␣
+ma004:001	16b	@	-	päivä
+ma004:001	-	(,)	-	,␣
+ma004:001	17a	@	-	joka␣
+ma004:001	17b	@	-	tuleva␣
+ma004:001	17b	(@)	-	on
+ma004:001	-	(,)	-	,␣
+ma004:001	18	@	-	sanoo␣
+ma004:001	19	@	-	Herra␣
+ma004:001	20	@	-	Sebaot
+ma004:001	-	(,)	-	,␣
+ma004:001	21	@	-	niin␣
+ma004:001	22	@	-	ettei␣
+ma004:001	23	(@)	-	se␣
+ma004:001	23	@	-	jätä␣
+ma004:001	24	@	-	heistä␣
+ma004:001	25	@	-	juurta␣
+ma004:001	26a	@	-	eikä␣
+ma004:001	26b	@	-	oksaa
+ma004:001	-	(.)	-	.␣
+ma004:002	ma003:020	ma004:002	VERSE.SHIFT	Mal␣4:2␣
+ma004:002	1a	@	-	Mutta␣
+ma004:002	2	@	-	teille
+ma004:002	-	(,)	-	,␣
+ma004:002	-	(@)	-	jotka␣
+ma004:002	pers%4	@	-	minun␣
+ma004:002	4	@	-	nimeäni␣
+ma004:002	3	@	-	pelkäätte
+ma004:002	-	(,)	-	,␣
+ma004:002	1b	(@)	-	on␣
+ma004:002	1b	@	-	koittava␣
+ma004:002	6	@	-	vanhurskauden␣
+ma004:002	5	@	-	aurinko␣
+ma004:002	7a	@	-	ja␣
+ma004:002	7b	@	-	parantuminen␣
+ma004:002	pers%8b	@	-	sen␣
+ma004:002	8b	@	-	siipien␣
+ma004:002	8a	@	-	alla
+ma004:002	-	(,)	-	,␣
+ma004:002	9a	@	-	ja␣
+ma004:002	9b	(@)	-	te␣
+ma004:002	9b	@	-	käytte␣
+ma004:002	9b	@	-	ulos␣
+ma004:002	10a	@	-	ja␣
+ma004:002	10b	@	-	hypitte␣
+ma004:002	11a	@	-	kuin␣
+ma004:002	11b 12	@	-	syöttövasikat␣
+ma004:003	ma003:021	ma004:003	VERSE.SHIFT	Mal␣4:3␣
+ma004:003	1a	@	-	ja␣
+ma004:003	1b	@	-	tallaatte␣
+ma004:003	2	@	-	jumalattomat
+ma004:003	-	(;)	-	;␣
+ma004:003	3	@	-	sillä␣
+ma004:003	4	(@)	-	he␣
+ma004:003	4	@	-	tulevat␣
+ma004:003	5	@	-	tomuksi␣
+ma004:003	pers%8	@	-	teidän␣
+ma004:003	7 8	@	-	jalkapohjienne␣
+ma004:003	6	@	-	alle␣
+ma004:003	-	(@)	-	sinä␣
+ma004:003	9b	@	-	päivänä
+ma004:003	9a	%case	ESS	
+ma004:003	-	(,)	-	,␣
+ma004:003	10	@	-	jonka␣
+ma004:003	11	@	-	minä␣
+ma004:003	12	@	-	teen
+ma004:003	-	(,)	-	,␣
+ma004:003	13	@	-	sanoo␣
+ma004:003	14	@	-	Herra␣
+ma004:003	15	@	-	Sebaot
+ma004:003	-	(.)	-	.␣
+ma004:004	ma003:022	ma004:004	VERSE.SHIFT	Mal␣4:4␣
+ma004:004	1	@	-	Muistakaa␣
+ma004:004	pers%4	@	-	minun␣
+ma004:004	4	@	-	palvelijani␣
+ma004:004	3	@	-	Mooseksen␣
+ma004:004	2	@	-	laki
+ma004:004	-	(,)	-	,␣
+ma004:004	5	@	-	jonka␣
+ma004:004	6	(@)	-	minä␣
+ma004:004	8b	@	-	Hoorebilla␣
+ma004:004	8a	%case	LOC	
+ma004:004	7	@	-	hänelle␣
+ma004:004	6	@	-	säädin␣
+ma004:004	10	@	-	koko␣
+ma004:004	11	@	-	Israelia␣
+ma004:004	9	@	-	varten␣
+ma004:004	12	@	-	käskyiksi␣
+ma004:004	13a	@	-	ja␣
+ma004:004	13b	@	-	oikeuksiksi
+ma004:004	-	(.)	-	.␣
+ma004:005	ma003:023	ma004:005	VERSE.SHIFT	Mal␣4:5␣
+ma004:005	1	@	-	Katso
+ma004:005	-	(,)	-	,␣
+ma004:005	2	@	-	minä␣
+ma004:005	3	@	-	lähetän␣
+ma004:005	4	@	-	teille␣
+ma004:005	(7a) 7b	@	-	profeetta␣
+ma004:005	6	@	-	Elian
+ma004:005	5	%case	GEN	
+ma004:005	-	(,)	-	,␣
+ma004:005	8a 8b	@	-	ennenkuin␣
+ma004:005	9	@	-	tulee␣
+ma004:005	11	@	-	Herran␣
+ma004:005	10	@	-	päivä
+ma004:005	-	(,)	-	,␣
+ma004:005	12a	@	-	se␣
+ma004:005	12b	@	-	suuri␣
+ma004:005	13a	@	-	ja␣
+ma004:005	(13b) 13c	@	-	peljättävä
+ma004:005	-	(.)	-	.␣
+ma004:006	ma003:024	ma004:006	VERSE.SHIFT	Mal␣4:6␣
+ma004:006	1a	@	-	Ja␣
+ma004:006	1b	(@)	-	hän␣
+ma004:006	1b	(@)	-	on␣
+ma004:006	1b	@	-	kääntävä␣
+ma004:006	1b	(@)	-	jälleen␣
+ma004:006	3	@	-	isien␣
+ma004:006	2	@	-	sydämet␣
+ma004:006	5	@	-	lasten␣
+ma004:006	4	@	-	puoleen␣
+ma004:006	6a	@	-	ja␣
+ma004:006	7	@	-	lasten␣
+ma004:006	6b	@	-	sydämet␣
+ma004:006	pers%9	@	-	heidän␣
+ma004:006	9	@	-	isiensä␣
+ma004:006	8	@	-	puoleen
+ma004:006	-	(,)	-	,␣
+ma004:006	10	@	-	etten␣
+ma004:006	11	(@)	-	minä␣
+ma004:006	11	@	-	tulisi␣
+ma004:006	12a	@	-	ja␣
+ma004:006	12b	@	-	löisi␣
+ma004:006	(14a) 14b	@	-	maata
+ma004:006	13	%case	PTV	
+ma004:006	-	(,)	-	,␣
+ma004:006	15	@	-	vihkisi␣
+ma004:006	-	(@)	-	sitä␣
+ma004:006	15	@	-	tuhon␣
+ma004:006	15	@	-	omaksi
+ma004:006	-	(.)	-	.␣
