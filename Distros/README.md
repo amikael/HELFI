@@ -1,1 +1,1 @@
-The latest and the past versions of the HELFI corpus will be available in this directory.
+The distributioin packages of the HELFI corpus will be available in this directory.
