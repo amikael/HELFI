@@ -6,7 +6,7 @@ The HELFI Corpus in an open-source reconstruction of the proprietary Scaffold Co
 
 > Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).
 
-The corpus has been assigned the following identifier by ISLRN:
+The corpus has been assigned the following ISLRN identifier in the [International Standard Language Resource Number Database](http://www.islrn.org):
 
 > 840-665-876-625-0 - The HELFI Corpus
 
