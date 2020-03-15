@@ -1,0 +1,100 @@
+                 The AIKA Lemmas and Morphology
+
+The AIKA Lemmas and Morphology of the 1933/1938 Finnish Bible
+Translation (FABC 2020.3 Text Edition) is licenced under a Creative
+Commons Attribution NonCommercial NoDerivatives (CC-BY-NC-ND) 4.0
+International license. For attribution purposes, credit the Finnish
+Analytical Bible Concordance Project of Aika[media] Oy and Anssi
+Yli-Jyrä at the University of Helsinki.
+
+
+                       COPYRIGHT STATEMENT 
+
+The AIKA Lemmas and Morphology of the 1933/1938 Finnish Bible
+Translation (FABC 2020.3 Text Edition) are the copyright (c) 1992-1997
+of the Finnish Analytical Bible Concordance Project of Aikamedia Oy
+and (c) March 1998-2020 Anssi Yli-Jyrä at the University of Helsinki.
+
+The AIKA morphology and lemmatisation are the result of the
+collaboration agreement between the University of Helsinki and the RV
+Publishing House (later Aika Oy Kristilliset Kirjat and Aikamedia Oy)
+that carried manual disambiguation and editing of the lemmas and
+morphology for the Finnish Analytical Bible Concordance Project of
+Aika[media] Oy.
+
+The collaboration agreement granted the University of Helsinki the
+right to make the disambiguated lemmas and the morphological analyses
+available to the academic research community and for educational
+purposes.  This excludes commercial use and derivatives.  The
+University of the Helsinki got the mandate to make the resourse
+available under the noncommercial use conditions, while Aika[media]
+has the rights to commercialise the resource, or to set the resource
+free from commercial use restrictions.
+
+                            LICENSE 
+
+Following the spirit of the academic mandate of the University, a
+permission to make the AIKA Lemmas and Morphology available on GitHub
+was obtained from the Aikamedia on 11th March 2020.  
+
+The permit to release the material openly on GitHub implies the
+mandate to choose an appropriate license for the inserted work.  Since
+the work is not software, we restricted the choice to the Creative
+Commons licenses.  The CC-BY-NC-ND 4.0 is the most restrictive
+Creative Commons license, allowing people to download and share the
+work for no commercial gain and for no other purposes.  This license
+excludes commerical use and derivative, being thus within the spirit
+of the collaboration agreement.
+
+   The AIKA Lemmas and Morphology of the 1933/1938 Finnish Bible
+   Translation (FABC 2020.3 Text Edition) is licenced under a Creative
+   Commons Attribution NonCommercial NoDerivatives (CC-BY-NC-ND) 4.0
+   International license. For attribution purposes, credit the Finnish
+   Analytical Bible Concordance Project of Aika[media] Oy and Anssi
+   Yli-Jyrä at the University of Helsinki.
+
+If you need a commercial license or a permit to make derivatives
+of the Aika Lemmas and Morphology, we ask you kind to be in touch
+with
+
+    asiakaspalvelu (at) aikamedia...fi  (customer service)
+or  
+    anssi.yli-jyra (at) helsinki...fi.
+
+                     THE CURRENT RELEASE
+
+The AIKA Lemmas and Morphology for the HELFI corpus has been extracted
+from the proprietary database of the Finnish Analytical Bible
+Concordance project of Aikamedia.  The extraction and further
+postprocessing of the annotation has been carried out by Anssi
+Yli-Jyrä in March 2020.  This postprocessing involved:
+
+  - dropping out the discarded morphological analyses (actually, this 
+    has been done during the course of the project, but the discarded
+    lemmas and morphological analyses are, in principle, still in 
+    the proprietary archives).
+
+  - application of additional disambiguation rules to certain 
+    common ambiguity in verb inflections
+
+  - simplification of the morphological analyses by dropping out 
+    some details and the derivation history of the word stems
+
+  - dropping the existing named entity annotation that is not under
+    the collaboration agreement
+
+  - dropping the coreference annotation of proper names that is not under
+    the collaboration agreement
+
+  - harmonising the morphological glosses with the de facto standard
+    glossing abbreviations and the Leipzig glossing rules (but without
+    introducing morpheme boundaries to the synthetic Finnish word
+    forms).
+
+These changes were necessary to make the AIKA Lemmas and Morphology
+shareable and compatible with the HELFI Alignment Data.  In the
+future, we are planning to share more of the annotation with the
+noncommercial open-source community.
+
+
+
