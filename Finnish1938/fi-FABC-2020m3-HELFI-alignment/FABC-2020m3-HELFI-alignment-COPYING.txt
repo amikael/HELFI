@@ -1,0 +1,95 @@
+      The Alignment Data of the HELFI Corpus Edition 2020.3
+                     (c) 1997 Aika[media]
+
+The Alignment Data of the HELFI corpus is licenced under a Creative
+Commons Attribution 4.0 International license. For attribution
+purposes, credit the Finnish Analytical Bible Concordance Project of
+Aika[media] Oy.
+
+The Definitions
+===============
+
+The Alignment Data of the HELFI Corpus Edition 2020.3 consists
+exclusively of the alignment link numbers, the gloss extractors and
+the link qualifiers added to the Finnish 1933/1938 translation.
+
+Here is the example showing the alignment link numbers, the gloss
+extractors and the link qualifiers:
+
+verse           linked ID	lemma		morphology	word form
+-------------------------------------------------------------------------
+ca001:001	ca001:001	ca001:001	VERSE		KV␣1:1␣
+ca001:001	4b		@		-		Salomon␣
+ca001:001	3 4a		%case		GEN	
+ca001:001	1 (2a) 2b	@		-		korkea␣
+ca001:001	1 (2a) 2b	@		-		veisu
+ca001:001	-		(.)		-		.␣
+ca001:002	ca001:002	ca001:002	VERSE		KV␣1:2␣
+ca001:002	1		(@)		-		Hän␣
+ca001:002	1		@		-		suudelkoon␣
+ca001:002	pers%1		@		-		minua␣
+ca001:002	3		@		-		suunsa␣
+ca001:002	2b		@		-		suudelmilla
+ca001:002	2a		%case		LOC	
+ca001:002	-		(.)		-		.␣
+ca001:002	4		@		-		Sillä␣
+ca001:002	pers%6		@		-		sinun␣
+ca001:002	6		@		-		rakkautesi␣
+ca001:002	-		(@)		-		on␣
+ca001:002	5		@		-		suloisempi␣
+ca001:002	7a		@		-		kuin␣
+ca001:002	7b		@		-		viini
+ca001:002	-		(.)		-		.␣
+
+
+Here the **alignment link numbers** are in the column "linked ID" 
+
+     ca001:001 4b 3 4a 1 2a 2b ca001:002 1 3 2b 2a 4 6 5 7a 7b
+
+and of the token's lemma placeholder (@ or a punctuation mark) and
+verse references in the "lemma" column:
+
+     ca001:001 @ @ @ . ca001:002 @ @ @ @ @ @ . @ @ @ @ @ @ @ .
+
+
+The **gloss extractors** occur in columns "linked ID" and "lemma" and is 
+extended on the Finnish side with the morphological glosses in the
+"morphology" column.
+
+    pers% 
+    pers% 
+    %case   GEN
+    %case   LOC
+    
+
+The **link qualifiers**  occur in columns "linked ID" and "lemma":
+
+    () () () () () () express an auxiliary/possible link
+    or an epsilon/null link
+
+    - - - express the epsilon/null in the opposite side of the
+    epsilon/null link
+
+
+DEPENDENCIES
+============
+
+The Alignment Data of the HELFI Corpus is partially dependent on
+
+    - the base text of the translation
+    - the lemmas and morphology of the translation.
+    - the source text
+    - the verse numbering of the source text
+    - the tokenisation and token numbering of the source texts
+    - the lemmas and morphologies of the source texts
+
+These are not part of the Alignment Data but considered to be
+shareable.  Check the conditions of the texts editions in respective
+COPYING or README files   .
+
+COPYRIGHT STATEMENT
+===================
+
+The Alignment Data of HELFI Corpus is copyright of Aika[media] Oy - (c) 1997 The
+Finnish Analytical Bible Concordance Project of Aika[media] Oy.
+
