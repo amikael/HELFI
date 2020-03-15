@@ -1,0 +1,7097 @@
+er001:001	er001:001	er001:001	VERSE	Esr␣1:1␣
+er001:001	(1a)	-	UNTRANSLATED	
+er001:001	3b	@	-	Kooreksen
+er001:001	3a	%case	GEN	
+er001:001	-	(,)	-	,␣
+er001:001	5	@	-	Persian␣
+er001:001	4	@	-	kuninkaan
+er001:001	-	(,)	-	,␣
+er001:001	2	@	-	ensimmäisenä␣
+er001:001	1c	@	-	hallitusvuotena␣
+er001:001	1b	%case	ESS	
+er001:001	11	@	-	herätti␣
+er001:001	12	@	-	Herra
+er001:001	-	(,)	-	,␣
+er001:001	6a	@	-	että␣
+er001:001	6b	@	-	täyttyisi␣
+er001:001	8	@	-	Herran␣
+er001:001	7	@	-	sana
+er001:001	-	(,)	-	,␣
+er001:001	-	(@)	-	jonka␣
+er001:001	-	(@)	-	hän␣
+er001:001	-	(@)	-	oli␣
+er001:001	-	(@)	-	puhunut␣
+er001:001	10	@	-	Jeremian␣
+er001:001	9b	@	-	suun␣
+er001:001	9a	@	-	kautta
+er001:001	-	(,)	-	,␣
+er001:001	15	@	-	Kooreksen
+er001:001	-	(,)	-	,␣
+er001:001	17	@	-	Persian␣
+er001:001	16	@	-	kuninkaan
+er001:001	-	(,)	-	,␣
+er001:001	14	@	-	hengen
+er001:001	13	%case	GEN	
+er001:001	-	(,)	-	,␣
+er001:001	18a	@	-	niin␣
+er001:001	18a	@	-	että␣
+er001:001	18b 19	(@)	-	tämä␣
+er001:001	20b	@	-	koko␣
+er001:001	21	@	-	valtakunnassansa␣
+er001:001	20a	%case	LOC	
+er001:001	18b 19	@	-	kuulutti␣
+er001:001	22a	@	-	ja␣
+er001:001	22b	@	-	myös␣
+er001:001	23b	@	-	käskykirjassa␣
+er001:001	23a	%case	LOC	
+er001:001	-	(@)	-	julistutti␣
+er001:001	24a 24b	@	-	näin
+er001:001	-	(:)	-	:␣
+er001:002	er001:002	er001:002	VERSE	Esr␣1:2␣
+er001:002	-	(@)	-	"
+er001:002	1	@	-	Näin␣
+er001:002	2	@	-	sanoo␣
+er001:002	3	@	-	Koores
+er001:002	-	(,)	-	,␣
+er001:002	5	@	-	Persian␣
+er001:002	4	@	-	kuningas
+er001:002	-	(:)	-	:␣
+er001:002	6	@	-	Kaikki␣
+er001:002	(8a) 8b	@	-	maan␣
+er001:002	7	@	-	valtakunnat␣
+er001:002	9	(@)	-	on␣
+er001:002	11	@	-	Herra
+er001:002	-	(,)	-	,␣
+er001:002	(13a) 13b	@	-	taivaan␣
+er001:002	12	@	-	Jumala
+er001:002	-	(,)	-	,␣
+er001:002	9	@	-	antanut␣
+er001:002	10	@	-	minulle
+er001:002	-	(,)	-	,␣
+er001:002	14a	@	-	ja␣
+er001:002	14b	@	-	hän␣
+er001:002	15	(@)	-	on␣
+er001:002	15	@	-	käskenyt␣
+er001:002	16	@	-	minun␣
+er001:002	17b	@	-	rakentaa␣
+er001:002	17a	%case	LAT	
+er001:002	18	@	-	itsellensä␣
+er001:002	19	@	-	temppelin␣
+er001:002	20b	@	-	Jerusalemiin
+er001:002	20a	%case	LOC	
+er001:002	-	(,)	-	,␣
+er001:002	21	@	-	joka␣
+er001:002	-	(@)	-	on␣
+er001:002	22b	@	-	Juudassa
+er001:002	22a	%case	LOC	
+er001:002	-	(.)	-	.␣
+er001:003	er001:003	er001:003	VERSE	Esr␣1:3␣
+er001:003	1	@	-	Kuka␣
+er001:003	3a 3b	@	-	vain␣
+er001:003	pers%2	@	-	teidän␣
+er001:003	2	@	-	joukossanne␣
+er001:003	-	(@)	-	on␣
+er001:003	pers%4	@	-	hänen␣
+er001:003	4	@	-	kansaansa
+er001:003	-	(,)	-	,␣
+er001:003	pers%7	@	-	sen␣
+er001:003	7	@	-	kanssa␣
+er001:003	5	@	-	olkoon␣
+er001:003	pers%6	@	-	hänen␣
+er001:003	6	@	-	Jumalansa
+er001:003	-	(,)	-	,␣
+er001:003	8a	@	-	ja␣
+er001:003	8b	(@)	-	hän␣
+er001:003	8b	@	-	menköön␣
+er001:003	9b	@	-	Jerusalemiin
+er001:003	9a	%case	LOC	
+er001:003	-	(,)	-	,␣
+er001:003	10	@	-	joka␣
+er001:003	-	(@)	-	on␣
+er001:003	11b	@	-	Juudassa
+er001:003	11a	%case	LOC	
+er001:003	-	(,)	-	,␣
+er001:003	12b	@	-	rakentamaan␣
+er001:003	12a	%case	LOC	
+er001:003	15	@	-	Herran
+er001:003	-	(,)	-	,␣
+er001:003	17	@	-	Israelin␣
+er001:003	16	@	-	Jumalan
+er001:003	-	(,)	-	,␣
+er001:003	14	@	-	temppeliä
+er001:003	13	%case	PTV	
+er001:003	-	(.)	-	.␣
+er001:003	18	@	-	Hän␣
+er001:003	-	(@)	-	on␣
+er001:003	19a	@	-	se␣
+er001:003	19b	@	-	Jumala
+er001:003	-	(,)	-	,␣
+er001:003	20	@	-	joka␣
+er001:003	-	(@)	-	asuu␣
+er001:003	21b	@	-	Jerusalemissa
+er001:003	21a	%case	LOC	
+er001:003	-	(.)	-	.␣
+er001:004	er001:004	er001:004	VERSE	Esr␣1:4␣
+er001:004	(1a)	-	UNTRANSLATED	
+er001:004	1b	@	-	Kuka␣
+er001:004	1b	@	-	vain␣
+er001:004	(2a)	-	UNTRANSLATED	
+er001:004	2b	(@)	-	on␣
+er001:004	2b	@	-	jäljellä
+er001:004	-	(,)	-	,␣
+er001:004	6	@	-	se␣
+er001:004	9	@	-	saakoon
+er001:004	-	(,)	-	,␣
+er001:004	3a 3b (4a) 4b	@	-	missä␣
+er001:004	7	@	-	asuukin␣
+er001:004	7	@	-	muukalaisena
+er001:004	(5) (8)	-	UNTRANSLATED	
+er001:004	-	(,)	-	,␣
+er001:004	11	@	-	paikkakuntansa␣
+er001:004	10	@	-	miehiltä␣
+er001:004	-	(@)	-	kannatukseksi␣
+er001:004	12b	@	-	hopeata␣
+er001:004	12a	%case	PTV	
+er001:004	13a	@	-	ja␣
+er001:004	13c	@	-	kultaa
+er001:004	13b	%case	PTV	
+er001:004	(14a)	-	UNTRANSLATED	
+er001:004	-	(,)	-	,␣
+er001:004	14c	@	-	tavaraa␣
+er001:004	14b	%case	PTV	
+er001:004	15a	@	-	ja␣
+er001:004	15c	@	-	karjaa␣
+er001:004	15b	%case	PTV	
+er001:004	16	@	-	ynnä␣
+er001:004	(17a) 17b	@	-	vapaaehtoisia␣
+er001:004	(17a) 17b	@	-	lahjoja␣
+er001:004	(19a) 19b	@	-	Jumalan␣
+er001:004	18b	@	-	temppelin␣
+er001:004	18a	@	-	rakentamiseksi␣
+er001:004	21b	@	-	Jerusalemiin
+er001:004	20 21a	%case	LOC	
+er001:004	-	(.)	-	.
+er001:004	-	(@)	-	"␣
+er001:005	er001:005	er001:005	VERSE	Esr␣1:5␣
+er001:005	1a	@	-	Silloin␣
+er001:005	1b	@	-	nousivat␣
+er001:005	4b	@	-	Juudan␣
+er001:005	4a	%case	GEN	
+er001:005	5a	@	-	ja␣
+er001:005	5b	@	-	Benjaminin␣
+er001:005	2 (3a) 3b	@	-	perhekunta-päämiehet␣
+er001:005	6a	@	-	sekä␣
+er001:005	(6b) 6c	@	-	papit␣
+er001:005	7a	@	-	ja␣
+er001:005	(7b) 7c	@	-	leeviläiset
+er001:005	-	(,)	-	,␣
+er001:005	(8a) 8b	@	-	kaikki
+er001:005	-	(,)	-	,␣
+er001:005	-	(@)	-	joiden␣
+er001:005	12	@	-	hengen␣
+er001:005	11	%case	GEN	
+er001:005	(10a) 10b	@	-	Jumala␣
+er001:005	9	@	-	herätti␣
+er001:005	13b	@	-	menemään␣
+er001:005	13a	%case	LOC	
+er001:005	-	(@)	-	ja␣
+er001:005	14b	@	-	rakentamaan␣
+er001:005	14a	%case	LOC	
+er001:005	17	@	-	Herran␣
+er001:005	16	@	-	temppeliä␣
+er001:005	15	%case	PTV	
+er001:005	19b	@	-	Jerusalemiin
+er001:005	18 19a	%case	LOC	
+er001:005	-	(.)	-	.␣
+er001:006	er001:006	er001:006	VERSE	Esr␣1:6␣
+er001:006	1a	@	-	Ja␣
+er001:006	1b	@	-	kaikki
+er001:006	-	(,)	-	,␣
+er001:006	sem%2	@	-	jotka␣
+er001:006	sem%2	@	-	asuivat␣
+er001:006	pers%2	@	-	heidän␣
+er001:006	2	@	-	ympärillään
+er001:006	-	(,)	-	,␣
+er001:006	3	@	-	avustivat␣
+er001:006	4b	@	-	heitä␣
+er001:006	4a	%case	PTV	
+er001:006	5b 6	@	-	hopeakaluilla
+er001:006	5a	%case	LOC	
+er001:006	-	(,)	-	,␣
+er001:006	7b	@	-	kullalla
+er001:006	7a	%case	LOC	
+er001:006	-	(,)	-	,␣
+er001:006	8b	@	-	tavaralla
+er001:006	8a	%case	LOC	
+er001:006	(9a)	-	UNTRANSLATED	
+er001:006	-	(,)	-	,␣
+er001:006	9c	@	-	karjalla␣
+er001:006	9b	%case	LOC	
+er001:006	10a	@	-	ja␣
+er001:006	10c	@	-	kalleuksilla␣
+er001:006	10b	%case	LOC	
+er001:006	13	@	-	kaiken␣
+er001:006	-	(@)	-	sen␣
+er001:006	11a 11b 12	@	-	lisäksi
+er001:006	-	(,)	-	,␣
+er001:006	-	(@)	-	mitä␣
+er001:006	14	@	-	annettiin␣
+er001:006	14	@	-	vapaaehtoisina␣
+er001:006	14	@	-	lahjoina
+er001:006	-	(.)	-	.␣
+er001:007	er001:007	er001:007	VERSE	Esr␣1:7␣
+er001:007	1a	@	-	Ja␣
+er001:007	(1b) 1c	@	-	kuningas␣
+er001:007	2	@	-	Koores␣
+er001:007	3	@	-	tuotatti␣
+er001:007	3	@	-	esiin␣
+er001:007	7	@	-	Herran␣
+er001:007	6	@	-	temppelin␣
+er001:007	5	@	-	kalut
+er001:007	4	%case	NOM	
+er001:007	-	(,)	-	,␣
+er001:007	8	@	-	jotka␣
+er001:007	10	@	-	Nebukadnessar␣
+er001:007	9	(@)	-	oli␣
+er001:007	9	@	-	vienyt␣
+er001:007	sem%9	@	-	pois␣
+er001:007	11b	@	-	Jerusalemista␣
+er001:007	11a	%case	LOC	
+er001:007	12a	@	-	ja␣
+er001:007	12b	@	-	pannut␣
+er001:007	pers%14	@	-	oman␣
+er001:007	14	@	-	jumalansa␣
+er001:007	13b	@	-	temppeliin
+er001:007	13a	%case	LOC	
+er001:007	-	(.)	-	.␣
+er001:008	er001:008	er001:008	VERSE	Esr␣1:8␣
+er001:008	pers%1b	@	-	Ne␣
+er001:008	2	@	-	Koores
+er001:008	-	(,)	-	,␣
+er001:008	4	@	-	Persian␣
+er001:008	3	@	-	kuningas
+er001:008	-	(,)	-	,␣
+er001:008	1b	@	-	tuotatti␣
+er001:008	(8a) 8b	@	-	aarteistonvartijalle
+er001:008	-	(,)	-	,␣
+er001:008	7	@	-	Mitredatille
+er001:008	5 6	%case	LOC	
+er001:008	-	(,)	-	,␣
+er001:008	9a	@	-	ja␣
+er001:008	9b	(@)	-	tämä␣
+er001:008	9b	@	-	laski␣
+er001:008	pers%9b	@	-	niiden␣
+er001:008	9b	@	-	luvun␣
+er001:008	10b	@	-	Sesbassarille
+er001:008	10a	%case	LOC	
+er001:008	-	(,)	-	,␣
+er001:008	12b	@	-	Juudan␣
+er001:008	12a	%case	GEN	
+er001:008	(11a) 11b	@	-	ruhtinaalle
+er001:008	-	(.)	-	.␣
+er001:009	er001:009	er001:009	VERSE	Esr␣1:9␣
+er001:009	1a	@	-	Ja␣
+er001:009	1b	@	-	tämä␣
+er001:009	-	(@)	-	oli␣
+er001:009	pers%2	@	-	niiden␣
+er001:009	2	@	-	luku
+er001:009	-	(:)	-	:␣
+er001:009	5	@	-	kolmekymmentä␣
+er001:009	3 4	@	-	kultamaljaa
+er001:009	-	(,)	-	,␣
+er001:009	8	@	-	tuhat␣
+er001:009	6 7	@	-	hopeamaljaa
+er001:009	-	(,)	-	,␣
+er001:009	10 (11a) 11b	@	-	kaksikymmentä␣
+er001:009	10 (11a) 11b	@	-	yhdeksän␣
+er001:009	9	@	-	uhriastiaa
+er001:009	-	(,)	-	,␣
+er001:010	er001:010	er001:010	VERSE	Esr␣1:10␣
+er001:010	3	@	-	kolmekymmentä␣
+er001:010	1 2	@	-	kultapikaria
+er001:010	-	(,)	-	,␣
+er001:010	sem%6	@	-	niitä␣
+er001:010	sem%6	@	-	arvolta␣
+er001:010	6	@	-	lähinnä␣
+er001:010	7 8 (9a) 9b	@	-	neljäsataa␣
+er001:010	7 8 (9a) 9b	@	-	kymmenen␣
+er001:010	4 5	@	-	hopeapikaria
+er001:010	-	(,)	-	,␣
+er001:010	12	@	-	tuhat␣
+er001:010	11	@	-	muuta␣
+er001:010	10	@	-	kalua
+er001:010	-	(.)	-	.␣
+er001:011	er001:011	er001:011	VERSE	Esr␣1:11␣
+er001:011	3b	@	-	Kulta-~/Kultakaluja␣
+er001:011	3a	%case	PTV	
+er001:011	4a	@	-	ja␣
+er001:011	2 4c	@	-	hopeakaluja␣
+er001:011	4b	%case	PTV	
+er001:011	-	(@)	-	oli␣
+er001:011	1	@	-	kaikkiaan␣
+er001:011	5 6 (7a) 7b 8	@	-	viisituhatta␣
+er001:011	5 6 (7a) 7b 8	@	-	neljäsataa
+er001:011	-	(.)	-	.␣
+er001:011	(9a) 9b	@	-	Kaikki␣
+er001:011	-	(@)	-	nämä␣
+er001:011	11	@	-	Sesbassar␣
+er001:011	10	@	-	toi
+er001:011	-	(,)	-	,␣
+er001:011	12	@	-	silloin␣
+er001:011	12	@	-	kun␣
+er001:011	(14a) 14b	@	-	pakkosiirtolaiset␣
+er001:011	13	@	-	tuotiin␣
+er001:011	15b	@	-	Baabelista␣
+er001:011	15a	%case	LOC	
+er001:011	16b	@	-	Jerusalemiin
+er001:011	16a	%case	LOC	
+er001:011	-	(.)	-	.␣
+er002:001	er002:001	er002:001	VERSE	Esr␣2:1␣
+er002:001	1a	@	-	Ja␣
+er002:001	1b	@	-	nämä␣
+er002:001	-	(@)	-	olivat␣
+er002:001	-	(@)	-	ne␣
+er002:001	-	(@)	-	tämän␣
+er002:001	(3a) 3b	@	-	maakunnan␣
+er002:001	2	@	-	asukkaat
+er002:001	-	(,)	-	,␣
+er002:001	-	(@)	-	jotka␣
+er002:001	(4a) 4b	@	-	lähtivät␣
+er002:001	(6a) 6b	@	-	pakkosiirtolaisten␣
+er002:001	5b	@	-	vankeudesta␣
+er002:001	5a	%case	LOC	
+er002:001	13b	@	-	Baabelista
+er002:001	13a	%case	LOC	
+er002:001	-	(,)	-	,␣
+er002:001	-	(@)	-	jonne␣
+er002:001	10	@	-	Nebukadnessar
+er002:001	-	(,)	-	,␣
+er002:001	12	@	-	Baabelin␣
+er002:001	11	@	-	kuningas
+er002:001	-	(,)	-	,␣
+er002:001	8	(@)	-	oli␣
+er002:001	8	@	-	vienyt␣
+er002:001	7	@	-	heidät␣
+er002:001	8	@	-	pakkosiirtolaisuuteen
+er002:001	-	(,)	-	,␣
+er002:001	14a	@	-	ja␣
+er002:001	-	(@)	-	jotka␣
+er002:001	14b	@	-	palasivat␣
+er002:001	15b	@	-	Jerusalemiin␣
+er002:001	15a	%case	LOC	
+er002:001	16a	@	-	ja␣
+er002:001	16b	@	-	Juudaan
+er002:001	-	(,)	-	,␣
+er002:001	17	@	-	kukin␣
+er002:001	18b	@	-	kaupunkiinsa
+er002:001	18a	%case	LOC	
+er002:001	-	(,)	-	,␣
+er002:002	er002:002	er002:002	VERSE	Esr␣2:2␣
+er002:002	1	@	-	ne
+er002:002	-	(,)	-	,␣
+er002:002	1	@	-	jotka␣
+er002:002	2	@	-	tulivat␣
+er002:002	4	@	-	Serubbaabelin
+er002:002	-	(,)	-	,␣
+er002:002	5	@	-	Jeesuan
+er002:002	-	(,)	-	,␣
+er002:002	6	@	-	Nehemian
+er002:002	-	(,)	-	,␣
+er002:002	7	@	-	Serajan
+er002:002	-	(,)	-	,␣
+er002:002	8	@	-	Reelajan
+er002:002	-	(,)	-	,␣
+er002:002	9	@	-	Mordekain
+er002:002	-	(,)	-	,␣
+er002:002	10	@	-	Bilsanin
+er002:002	-	(,)	-	,␣
+er002:002	11	@	-	Misparin
+er002:002	-	(,)	-	,␣
+er002:002	12	@	-	Bigvain
+er002:002	-	(,)	-	,␣
+er002:002	13	@	-	Rehumin␣
+er002:002	-	(@)	-	ja␣
+er002:002	14	@	-	Baanan␣
+er002:002	3	@	-	kanssa
+er002:002	-	(.)	-	.␣
+er002:002	18	@	-	Israelin␣
+er002:002	17	@	-	kansan␣
+er002:002	16	@	-	miesten␣
+er002:002	15	@	-	lukumäärä␣
+er002:002	-	(@)	-	oli
+er002:002	-	(:)	-	:␣
+er002:003	er002:003	er002:003	VERSE	Esr␣2:3␣
+er002:003	2	@	-	Paroksen␣
+er002:003	1	@	-	jälkeläisiä␣
+er002:003	3 4 5 (6a) 6b	@	-	kaksituhatta␣
+er002:003	3 4 5 (6a) 6b	@	-	sata␣
+er002:003	3 4 5 (6a) 6b	@	-	seitsemänkymmentä␣
+er002:003	3 4 5 (6a) 6b	@	-	kaksi
+er002:003	-	(;)	-	;␣
+er002:004	er002:004	er002:004	VERSE	Esr␣2:4␣
+er002:004	2	@	-	Sefatjan␣
+er002:004	1	@	-	jälkeläisiä␣
+er002:004	3 4 5 (6a) 6b	@	-	kolmesataa␣
+er002:004	3 4 5 (6a) 6b	@	-	seitsemänkymmentä␣
+er002:004	3 4 5 (6a) 6b	@	-	kaksi
+er002:004	-	(;)	-	;␣
+er002:005	er002:005	er002:005	VERSE	Esr␣2:5␣
+er002:005	2	@	-	Aarahin␣
+er002:005	1	@	-	jälkeläisiä␣
+er002:005	3 4 5 (6a) 6b	@	-	seitsemänsataa␣
+er002:005	3 4 5 (6a) 6b	@	-	seitsemänkymmentä␣
+er002:005	3 4 5 (6a) 6b	@	-	viisi
+er002:005	-	(;)	-	;␣
+er002:006	er002:006	er002:006	VERSE	Esr␣2:6␣
+er002:006	2	@	-	Pahat-Mooabin␣
+er002:006	1	@	-	jälkeläisiä
+er002:006	-	(,)	-	,␣
+er002:006	3a	@	-	nimittäin␣
+er002:006	4	@	-	Jeesuan␣
+er002:006	-	(@)	-	ja␣
+er002:006	5	@	-	Jooabin␣
+er002:006	3b	@	-	jälkeläisiä
+er002:006	-	(,)	-	,␣
+er002:006	10 6 7 8 9a 9b	@	-	kaksituhatta␣
+er002:006	10 6 7 8 9a 9b	@	-	kahdeksansataa␣
+er002:006	10 6 7 8 9a 9b	@	-	kaksitoista
+er002:006	-	(;)	-	;␣
+er002:007	er002:007	er002:007	VERSE	Esr␣2:7␣
+er002:007	2	@	-	Eelamin␣
+er002:007	1	@	-	jälkeläisiä␣
+er002:007	3 4 5 (6a) 6b	@	-	tuhat␣
+er002:007	3 4 5 (6a) 6b	@	-	kaksisataa␣
+er002:007	3 4 5 (6a) 6b	@	-	viisikymmentä␣
+er002:007	3 4 5 (6a) 6b	@	-	neljä
+er002:007	-	(;)	-	;␣
+er002:008	er002:008	er002:008	VERSE	Esr␣2:8␣
+er002:008	2	@	-	Sattun␣
+er002:008	1	@	-	jälkeläisiä␣
+er002:008	3 4 5a 5b 6a 6b	@	-	yhdeksänsataa␣
+er002:008	3 4 5a 5b 6a 6b	@	-	neljäkymmentä␣
+er002:008	3 4 5a 5b 6a 6b	@	-	viisi
+er002:008	-	(;)	-	;␣
+er002:009	er002:009	er002:009	VERSE	Esr␣2:9␣
+er002:009	2	@	-	Sakkain␣
+er002:009	1	@	-	jälkeläisiä␣
+er002:009	3 4 (5a) 5b	@	-	seitsemänsataa␣
+er002:009	3 4 (5a) 5b	@	-	kuusikymmentä
+er002:009	-	(;)	-	;␣
+er002:010	er002:010	er002:010	VERSE	Esr␣2:10␣
+er002:010	2	@	-	Baanin␣
+er002:010	1	@	-	jälkeläisiä␣
+er002:010	3 4 5 (6a) 6b	@	-	kuusisataa␣
+er002:010	3 4 5 (6a) 6b	@	-	neljäkymmentä␣
+er002:010	3 4 5 (6a) 6b	@	-	kaksi
+er002:010	-	(;)	-	;␣
+er002:011	er002:011	er002:011	VERSE	Esr␣2:11␣
+er002:011	2	@	-	Beebain␣
+er002:011	1	@	-	jälkeläisiä␣
+er002:011	3 4 5 (6a) 6b	@	-	kuusisataa␣
+er002:011	3 4 5 (6a) 6b	@	-	kaksikymmentä␣
+er002:011	3 4 5 (6a) 6b	@	-	kolme
+er002:011	-	(;)	-	;␣
+er002:012	er002:012	er002:012	VERSE	Esr␣2:12␣
+er002:012	2	@	-	Asgadin␣
+er002:012	1	@	-	jälkeläisiä␣
+er002:012	3 4 5 (6a) 6b	@	-	tuhat␣
+er002:012	3 4 5 (6a) 6b	@	-	kaksisataa␣
+er002:012	3 4 5 (6a) 6b	@	-	kaksikymmentä␣
+er002:012	3 4 5 (6a) 6b	@	-	kaksi
+er002:012	-	(;)	-	;␣
+er002:013	er002:013	er002:013	VERSE	Esr␣2:13␣
+er002:013	2	@	-	Adonikamin␣
+er002:013	1	@	-	jälkeläisiä␣
+er002:013	3 4 5 (6a) 6b	@	-	kuusisataa␣
+er002:013	3 4 5 (6a) 6b	@	-	kuusikymmentä␣
+er002:013	3 4 5 (6a) 6b	@	-	kuusi
+er002:013	-	(;)	-	;␣
+er002:014	er002:014	er002:014	VERSE	Esr␣2:14␣
+er002:014	2	@	-	Bigvain␣
+er002:014	1	@	-	jälkeläisiä␣
+er002:014	3 4 (5a) 5b	@	-	kaksituhatta␣
+er002:014	3 4 (5a) 5b	@	-	viisikymmentä␣
+er002:014	3 4 (5a) 5b	@	-	kuusi
+er002:014	-	(;)	-	;␣
+er002:015	er002:015	er002:015	VERSE	Esr␣2:15␣
+er002:015	2	@	-	Aadinin␣
+er002:015	1	@	-	jälkeläisiä␣
+er002:015	3 4 5 (6a) 6b	@	-	neljäsataa␣
+er002:015	3 4 5 (6a) 6b	@	-	viisikymmentä␣
+er002:015	3 4 5 (6a) 6b	@	-	neljä
+er002:015	-	(;)	-	;␣
+er002:016	er002:016	er002:016	VERSE	Esr␣2:16␣
+er002:016	2	@	-	Aaterin
+er002:016	-	(,)	-	,␣
+er002:016	3a	@	-	nimittäin␣
+er002:016	3b	@	-	Hiskian
+er002:016	-	(,)	-	,␣
+er002:016	1	@	-	jälkeläisiä␣
+er002:016	4 (5a) 5b	@	-	yhdeksänkymmentä␣
+er002:016	4 (5a) 5b	@	-	kahdeksan
+er002:016	-	(;)	-	;␣
+er002:017	er002:017	er002:017	VERSE	Esr␣2:17␣
+er002:017	2	@	-	Beesain␣
+er002:017	1	@	-	jälkeläisiä␣
+er002:017	3 4 5 (6a) 6b	@	-	kolmesataa␣
+er002:017	3 4 5 (6a) 6b	@	-	kaksikymmentä␣
+er002:017	3 4 5 (6a) 6b	@	-	kolme
+er002:017	-	(;)	-	;␣
+er002:018	er002:018	er002:018	VERSE	Esr␣2:18␣
+er002:018	2	@	-	Jooran␣
+er002:018	1	@	-	jälkeläisiä␣
+er002:018	3 (4a) 4b 5	@	-	sata␣
+er002:018	3 (4a) 4b 5	@	-	kaksitoista
+er002:018	-	(;)	-	;␣
+er002:019	er002:019	er002:019	VERSE	Esr␣2:19␣
+er002:019	2	@	-	Haasumin␣
+er002:019	1	@	-	jälkeläisiä␣
+er002:019	3 4 (5a) 5b	@	-	kaksisataa␣
+er002:019	3 4 (5a) 5b	@	-	kaksikymmentä␣
+er002:019	3 4 (5a) 5b	@	-	kolme
+er002:019	-	(;)	-	;␣
+er002:020	er002:020	er002:020	VERSE	Esr␣2:20␣
+er002:020	2	@	-	Gibbarin␣
+er002:020	1	@	-	jälkeläisiä␣
+er002:020	3 (4a) 4b	@	-	yhdeksänkymmentä␣
+er002:020	3 (4a) 4b	@	-	viisi
+er002:020	-	(;)	-	;␣
+er002:021	er002:021	er002:021	VERSE	Esr␣2:21␣
+er002:021	1 2	@	-	beetlehemiläisiä␣
+er002:021	3 4 (5a) 5b	@	-	sata␣
+er002:021	3 4 (5a) 5b	@	-	kaksikymmentä␣
+er002:021	3 4 (5a) 5b	@	-	kolme
+er002:021	-	(;)	-	;␣
+er002:022	er002:022	er002:022	VERSE	Esr␣2:22␣
+er002:022	2	@	-	Netofan␣
+er002:022	1	@	-	miehiä␣
+er002:022	3 (4a) 4b	@	-	viisikymmentä␣
+er002:022	3 (4a) 4b	@	-	kuusi
+er002:022	-	(;)	-	;␣
+er002:023	er002:023	er002:023	VERSE	Esr␣2:23␣
+er002:023	2	@	-	Anatotin␣
+er002:023	1	@	-	miehiä␣
+er002:023	3 4 (5a) 5b	@	-	sata␣
+er002:023	3 4 (5a) 5b	@	-	kaksikymmentä␣
+er002:023	3 4 (5a) 5b	@	-	kahdeksan
+er002:023	-	(;)	-	;␣
+er002:024	er002:024	er002:024	VERSE	Esr␣2:24␣
+er002:024	1 2	@	-	asmavetilaisia␣
+er002:024	3 (4a) 4b	@	-	neljäkymmentä␣
+er002:024	3 (4a) 4b	@	-	kaksi
+er002:024	-	(;)	-	;␣
+er002:025	er002:025	er002:025	VERSE	Esr␣2:25␣
+er002:025	1 2	@	-	kirjat-aarimilaisia
+er002:025	-	(,)	-	,␣
+er002:025	3	@	-	kefiralaisia␣
+er002:025	4a	@	-	ja␣
+er002:025	4b	@	-	beerotilaisia␣
+er002:025	5 6 7a 7b 8a 8b	@	-	seitsemänsataa␣
+er002:025	5 6 7a 7b 8a 8b	@	-	neljäkymmentä␣
+er002:025	5 6 7a 7b 8a 8b	@	-	kolme
+er002:025	-	(;)	-	;␣
+er002:026	er002:026	er002:026	VERSE	Esr␣2:26␣
+er002:026	1 (2a) 2b	@	-	raamalaisia␣
+er002:026	3a	@	-	ja␣
+er002:026	3b	@	-	gebalaisia␣
+er002:026	4 5 6 (7a) 7b	@	-	kuusisataa␣
+er002:026	4 5 6 (7a) 7b	@	-	kaksikymmentä␣
+er002:026	4 5 6 (7a) 7b	@	-	yksi
+er002:026	-	(;)	-	;␣
+er002:027	er002:027	er002:027	VERSE	Esr␣2:27␣
+er002:027	2	@	-	Mikmaan␣
+er002:027	1	@	-	miehiä␣
+er002:027	3 4 (5a) 5b	@	-	sata␣
+er002:027	3 4 (5a) 5b	@	-	kaksikymmentä␣
+er002:027	3 4 (5a) 5b	@	-	kaksi
+er002:027	-	(;)	-	;␣
+er002:028	er002:028	er002:028	VERSE	Esr␣2:28␣
+er002:028	2	@	-	Beetelin␣
+er002:028	3a	@	-	ja␣
+er002:028	(3b) 3c	@	-	Ain␣
+er002:028	1	@	-	miehiä␣
+er002:028	4 5 (6a) 6b	@	-	kaksisataa␣
+er002:028	4 5 (6a) 6b	@	-	kaksikymmentä␣
+er002:028	4 5 (6a) 6b	@	-	kolme
+er002:028	-	(;)	-	;␣
+er002:029	er002:029	er002:029	VERSE	Esr␣2:29␣
+er002:029	1 2	@	-	nebolaisia␣
+er002:029	3 (4a) 4b	@	-	viisikymmentä␣
+er002:029	3 (4a) 4b	@	-	kaksi
+er002:029	-	(;)	-	;␣
+er002:030	er002:030	er002:030	VERSE	Esr␣2:30␣
+er002:030	2	@	-	Magbiin␣
+er002:030	1	@	-	jälkeläisiä␣
+er002:030	3 4 (5a) 5b	@	-	sata␣
+er002:030	3 4 (5a) 5b	@	-	viisikymmentä␣
+er002:030	3 4 (5a) 5b	@	-	kuusi
+er002:030	-	(;)	-	;␣
+er002:031	er002:031	er002:031	VERSE	Esr␣2:31␣
+er002:031	3	@	-	toisen␣
+er002:031	2	@	-	Eelamin␣
+er002:031	1	@	-	jälkeläisiä␣
+er002:031	4 5 6 (7a) 7b	@	-	tuhat␣
+er002:031	4 5 6 (7a) 7b	@	-	kaksisataa␣
+er002:031	4 5 6 (7a) 7b	@	-	viisikymmentä␣
+er002:031	4 5 6 (7a) 7b	@	-	neljä
+er002:031	-	(;)	-	;␣
+er002:032	er002:032	er002:032	VERSE	Esr␣2:32␣
+er002:032	2	@	-	Haarimin␣
+er002:032	1	@	-	jälkeläisiä␣
+er002:032	3 4 (5a) 5b	@	-	kolmesataa␣
+er002:032	3 4 (5a) 5b	@	-	kaksikymmentä
+er002:032	-	(;)	-	;␣
+er002:033	er002:033	er002:033	VERSE	Esr␣2:33␣
+er002:033	1 2	@	-	loodilaisia
+er002:033	-	(,)	-	,␣
+er002:033	3	@	-	haadidilaisia␣
+er002:033	4a	@	-	ja␣
+er002:033	4b	@	-	oonolaisia␣
+er002:033	5 6 7 (8a) 8b	@	-	seitsemänsataa␣
+er002:033	5 6 7 (8a) 8b	@	-	kaksikymmentä␣
+er002:033	5 6 7 (8a) 8b	@	-	viisi
+er002:033	-	(;)	-	;␣
+er002:034	er002:034	er002:034	VERSE	Esr␣2:34␣
+er002:034	1 2	@	-	jerikolaisia␣
+er002:034	3 4 5 (6a) 6b	@	-	kolmesataa␣
+er002:034	3 4 5 (6a) 6b	@	-	neljäkymmentä␣
+er002:034	3 4 5 (6a) 6b	@	-	viisi
+er002:034	-	(;)	-	;␣
+er002:035	er002:035	er002:035	VERSE	Esr␣2:35␣
+er002:035	1 2	@	-	senaalaisia␣
+er002:035	3 4 5a 5b 6 7a 7b	@	-	kolmetuhatta␣
+er002:035	3 4 5a 5b 6 7a 7b	@	-	kuusisataa␣
+er002:035	3 4 5a 5b 6 7a 7b	@	-	kolmekymmentä
+er002:035	-	(.)	-	.␣
+er002:036	er002:036	er002:036	VERSE	Esr␣2:36␣
+er002:036	(1a) 1b	@	-	Pappeja␣
+er002:036	-	(@)	-	oli
+er002:036	-	(:)	-	:␣
+er002:036	3	@	-	Jedajan␣
+er002:036	2	@	-	jälkeläisiä
+er002:036	-	(,)	-	,␣
+er002:036	4a	@	-	nimittäin␣
+er002:036	5	@	-	Jeesuan␣
+er002:036	4b	@	-	sukua
+er002:036	-	(,)	-	,␣
+er002:036	6 7 8 (9a) 9b	@	-	yhdeksänsataa␣
+er002:036	6 7 8 (9a) 9b	@	-	seitsemänkymmentä␣
+er002:036	6 7 8 (9a) 9b	@	-	kolme
+er002:036	-	(;)	-	;␣
+er002:037	er002:037	er002:037	VERSE	Esr␣2:37␣
+er002:037	2	@	-	Immerin␣
+er002:037	1	@	-	jälkeläisiä␣
+er002:037	3 4 (5a) 5b	@	-	tuhat␣
+er002:037	3 4 (5a) 5b	@	-	viisikymmentä␣
+er002:037	3 4 (5a) 5b	@	-	kaksi
+er002:037	-	(;)	-	;␣
+er002:038	er002:038	er002:038	VERSE	Esr␣2:38␣
+er002:038	2	@	-	Pashurin␣
+er002:038	1	@	-	jälkeläisiä␣
+er002:038	3 4 5 (6a) 6b	@	-	tuhat␣
+er002:038	3 4 5 (6a) 6b	@	-	kaksisataa␣
+er002:038	3 4 5 (6a) 6b	@	-	neljäkymmentä␣
+er002:038	3 4 5 (6a) 6b	@	-	seitsemän
+er002:038	-	(;)	-	;␣
+er002:039	er002:039	er002:039	VERSE	Esr␣2:39␣
+er002:039	2	@	-	Haarimin␣
+er002:039	1	@	-	jälkeläisiä␣
+er002:039	3 (4a) 4b 5	@	-	tuhat␣
+er002:039	3 (4a) 4b 5	@	-	seitsemäntoista
+er002:039	-	(.)	-	.␣
+er002:040	er002:040	er002:040	VERSE	Esr␣2:40␣
+er002:040	(1a) 1b	@	-	Leeviläisiä␣
+er002:040	-	(@)	-	oli
+er002:040	-	(:)	-	:␣
+er002:040	3	@	-	Jeesuan␣
+er002:040	4a	@	-	ja␣
+er002:040	4b	@	-	Kadmielin␣
+er002:040	2	@	-	jälkeläisiä
+er002:040	-	(,)	-	,␣
+er002:040	5a	@	-	nimittäin␣
+er002:040	6	@	-	Hoodavjan␣
+er002:040	5b	@	-	jälkeläisiä
+er002:040	-	(,)	-	,␣
+er002:040	7 (8a) 8b	@	-	seitsemänkymmentä␣
+er002:040	7 (8a) 8b	@	-	neljä
+er002:040	-	(.)	-	.␣
+er002:041	er002:041	er002:041	VERSE	Esr␣2:41␣
+er002:041	(1a) 1b	@	-	Veisaajia␣
+er002:041	-	(@)	-	oli
+er002:041	-	(:)	-	:␣
+er002:041	3	@	-	Aasafin␣
+er002:041	2	@	-	jälkeläisiä␣
+er002:041	4 5 (6a) 6b	@	-	sata␣
+er002:041	4 5 (6a) 6b	@	-	kaksikymmentä␣
+er002:041	4 5 (6a) 6b	@	-	kahdeksan
+er002:041	-	(.)	-	.␣
+er002:042	er002:042	er002:042	VERSE	Esr␣2:42␣
+er002:042	(2a) 2b	@	-	Ovenvartijain␣
+er002:042	1	@	-	jälkeläisiä␣
+er002:042	-	(@)	-	oli
+er002:042	-	(:)	-	:␣
+er002:042	4	@	-	Sallumin␣
+er002:042	3	@	-	jälkeläisiä
+er002:042	-	(,)	-	,␣
+er002:042	6	@	-	Aaterin␣
+er002:042	5	@	-	jälkeläisiä
+er002:042	-	(,)	-	,␣
+er002:042	8	@	-	Talmonin␣
+er002:042	7	@	-	jälkeläisiä
+er002:042	-	(,)	-	,␣
+er002:042	10	@	-	Akkubin␣
+er002:042	9	@	-	jälkeläisiä
+er002:042	-	(,)	-	,␣
+er002:042	12	@	-	Hatitan␣
+er002:042	11	@	-	jälkeläisiä
+er002:042	-	(,)	-	,␣
+er002:042	14	@	-	Soobain␣
+er002:042	13	@	-	jälkeläisiä
+er002:042	-	(,)	-	,␣
+er002:042	(15a) 15b	@	-	kaikkiaan␣
+er002:042	16 17 (18a) 18b	@	-	sata␣
+er002:042	16 17 (18a) 18b	@	-	kolmekymmentä␣
+er002:042	16 17 (18a) 18b	@	-	yhdeksän
+er002:042	-	(.)	-	.␣
+er002:043	er002:043	er002:043	VERSE	Esr␣2:43␣
+er002:043	(1a) 1b	@	-	Temppelipalvelijoita␣
+er002:043	-	(@)	-	oli
+er002:043	-	(:)	-	:␣
+er002:043	3	@	-	Siihan␣
+er002:043	2	@	-	jälkeläiset
+er002:043	-	(,)	-	,␣
+er002:043	5	@	-	Hasufan␣
+er002:043	4	@	-	jälkeläiset
+er002:043	-	(,)	-	,␣
+er002:043	7	@	-	Tabbaotin␣
+er002:043	6	@	-	jälkeläiset
+er002:043	-	(,)	-	,␣
+er002:044	er002:044	er002:044	VERSE	Esr␣2:44␣
+er002:044	2	@	-	Keeroksen␣
+er002:044	1	@	-	jälkeläiset
+er002:044	-	(,)	-	,␣
+er002:044	4	@	-	Siiahan␣
+er002:044	3	@	-	jälkeläiset
+er002:044	-	(,)	-	,␣
+er002:044	6	@	-	Paadonin␣
+er002:044	5	@	-	jälkeläiset
+er002:044	-	(,)	-	,␣
+er002:045	er002:045	er002:045	VERSE	Esr␣2:45␣
+er002:045	2	@	-	Lebanan␣
+er002:045	1	@	-	jälkeläiset
+er002:045	-	(,)	-	,␣
+er002:045	4	@	-	Hagaban␣
+er002:045	3	@	-	jälkeläiset
+er002:045	-	(,)	-	,␣
+er002:045	6	@	-	Akkubin␣
+er002:045	5	@	-	jälkeläiset
+er002:045	-	(,)	-	,␣
+er002:046	er002:046	er002:046	VERSE	Esr␣2:46␣
+er002:046	2	@	-	Haagabin␣
+er002:046	1	@	-	jälkeläiset
+er002:046	-	(,)	-	,␣
+er002:046	4	@	-	Samlain␣
+er002:046	3	@	-	jälkeläiset
+er002:046	-	(,)	-	,␣
+er002:046	7	@	-	Haananin␣
+er002:046	6	@	-	jälkeläiset
+er002:046	-	(,)	-	,␣
+er002:047	er002:047	er002:047	VERSE	Esr␣2:47␣
+er002:047	2	@	-	Giddelin␣
+er002:047	1	@	-	jälkeläiset
+er002:047	-	(,)	-	,␣
+er002:047	4	@	-	Gaharin␣
+er002:047	3	@	-	jälkeläiset
+er002:047	-	(,)	-	,␣
+er002:047	6	@	-	Reajan␣
+er002:047	5	@	-	jälkeläiset
+er002:047	-	(,)	-	,␣
+er002:048	er002:048	er002:048	VERSE	Esr␣2:48␣
+er002:048	2	@	-	Resinin␣
+er002:048	1	@	-	jälkeläiset
+er002:048	-	(,)	-	,␣
+er002:048	4	@	-	Nekodan␣
+er002:048	3	@	-	jälkeläiset
+er002:048	-	(,)	-	,␣
+er002:048	6	@	-	Gassamin␣
+er002:048	5	@	-	jälkeläiset
+er002:048	-	(,)	-	,␣
+er002:049	er002:049	er002:049	VERSE	Esr␣2:49␣
+er002:049	2	@	-	Ussan␣
+er002:049	1	@	-	jälkeläiset
+er002:049	-	(,)	-	,␣
+er002:049	4	@	-	Paaseahin␣
+er002:049	3	@	-	jälkeläiset
+er002:049	-	(,)	-	,␣
+er002:049	6	@	-	Beesain␣
+er002:049	5	@	-	jälkeläiset
+er002:049	-	(,)	-	,␣
+er002:050	er002:050	er002:050	VERSE	Esr␣2:50␣
+er002:050	2	@	-	Asnan␣
+er002:050	1	@	-	jälkeläiset
+er002:050	-	(,)	-	,␣
+er002:050	5	@	-	Meunimin␣
+er002:050	3	@	-	jälkeläiset
+er002:050	-	(,)	-	,␣
+er002:050	8	@	-	Nefusimin␣
+er002:050	6	@	-	jälkeläiset
+er002:050	-	(,)	-	,␣
+er002:051	er002:051	er002:051	VERSE	Esr␣2:51␣
+er002:051	2	@	-	Bakbukin␣
+er002:051	1	@	-	jälkeläiset
+er002:051	-	(,)	-	,␣
+er002:051	4	@	-	Hakufan␣
+er002:051	3	@	-	jälkeläiset
+er002:051	-	(,)	-	,␣
+er002:051	6	@	-	Harhurin␣
+er002:051	5	@	-	jälkeläiset
+er002:051	-	(,)	-	,␣
+er002:052	er002:052	er002:052	VERSE	Esr␣2:52␣
+er002:052	2	@	-	Baslutin␣
+er002:052	1	@	-	jälkeläiset
+er002:052	-	(,)	-	,␣
+er002:052	4	@	-	Mehidan␣
+er002:052	3	@	-	jälkeläiset
+er002:052	-	(,)	-	,␣
+er002:052	6	@	-	Harsan␣
+er002:052	5	@	-	jälkeläiset
+er002:052	-	(,)	-	,␣
+er002:053	er002:053	er002:053	VERSE	Esr␣2:53␣
+er002:053	2	@	-	Barkoksen␣
+er002:053	1	@	-	jälkeläiset
+er002:053	-	(,)	-	,␣
+er002:053	4	@	-	Siiseran␣
+er002:053	3	@	-	jälkeläiset
+er002:053	-	(,)	-	,␣
+er002:053	6	@	-	Taamahin␣
+er002:053	5	@	-	jälkeläiset
+er002:053	-	(,)	-	,␣
+er002:054	er002:054	er002:054	VERSE	Esr␣2:54␣
+er002:054	2	@	-	Nesiahin␣
+er002:054	1	@	-	jälkeläiset
+er002:054	-	(,)	-	,␣
+er002:054	4	@	-	Hatifan␣
+er002:054	3	@	-	jälkeläiset
+er002:054	-	(.)	-	.␣
+er002:055	er002:055	er002:055	VERSE	Esr␣2:55␣
+er002:055	3	@	-	Salomon␣
+er002:055	2	@	-	palvelijain␣
+er002:055	1	@	-	jälkeläisiä␣
+er002:055	-	(@)	-	oli
+er002:055	-	(:)	-	:␣
+er002:055	5	@	-	Sootain␣
+er002:055	4	@	-	jälkeläiset
+er002:055	-	(,)	-	,␣
+er002:055	(7a) 7b	@	-	Sooferetin␣
+er002:055	6	@	-	jälkeläiset
+er002:055	-	(,)	-	,␣
+er002:055	9	@	-	Perudan␣
+er002:055	8	@	-	jälkeläiset
+er002:055	-	(,)	-	,␣
+er002:056	er002:056	er002:056	VERSE	Esr␣2:56␣
+er002:056	2	@	-	Jaalan␣
+er002:056	1	@	-	jälkeläiset
+er002:056	-	(,)	-	,␣
+er002:056	4	@	-	Darkonin␣
+er002:056	3	@	-	jälkeläiset
+er002:056	-	(,)	-	,␣
+er002:056	6	@	-	Giddelin␣
+er002:056	5	@	-	jälkeläiset
+er002:056	-	(,)	-	,␣
+er002:057	er002:057	er002:057	VERSE	Esr␣2:57␣
+er002:057	2	@	-	Sefatjan␣
+er002:057	1	@	-	jälkeläiset
+er002:057	-	(,)	-	,␣
+er002:057	4	@	-	Hattilin␣
+er002:057	3	@	-	jälkeläiset
+er002:057	-	(,)	-	,␣
+er002:057	6	@	-	Pookeret-Sebaimin␣
+er002:057	5	@	-	jälkeläiset
+er002:057	-	(,)	-	,␣
+er002:057	8	@	-	Aamin␣
+er002:057	7	@	-	jälkeläiset
+er002:057	-	(.)	-	.␣
+er002:058	er002:058	er002:058	VERSE	Esr␣2:58␣
+er002:058	(2a) 2b	@	-	Temppelipalvelijoita␣
+er002:058	3a	@	-	ja␣
+er002:058	5	@	-	Salomon␣
+er002:058	4	@	-	palvelijain␣
+er002:058	3b	@	-	jälkeläisiä␣
+er002:058	-	(@)	-	oli␣
+er002:058	1	@	-	kaikkiaan␣
+er002:058	6 7 8 (9a) 9b	@	-	kolmesataa␣
+er002:058	6 7 8 (9a) 9b	@	-	yhdeksänkymmentä␣
+er002:058	6 7 8 (9a) 9b	@	-	kaksi
+er002:058	-	(.)	-	.␣
+er002:059	er002:059	er002:059	VERSE	Esr␣2:59␣
+er002:059	(1a)	-	UNTRANSLATED	
+er002:059	1b	@	-	Nämä␣
+er002:059	-	(@)	-	olivat␣
+er002:059	2a	@	-	ne
+er002:059	-	(,)	-	,␣
+er002:059	2a	@	-	jotka␣
+er002:059	2b	@	-	lähtivät␣
+er002:059	3b	@	-	Teel-Melahista
+er002:059	3a	%case	LOC	
+er002:059	-	(,)	-	,␣
+er002:059	4	@	-	Teel-Harsasta
+er002:059	-	(,)	-	,␣
+er002:059	5 6	@	-	Kerub-Addanista␣
+er002:059	-	(@)	-	ja␣
+er002:059	7	@	-	Immeristä
+er002:059	(8a)	-	UNTRANSLATED	
+er002:059	-	(,)	-	,␣
+er002:059	9	@	-	voimatta␣
+er002:059	8b	%inflection	INF3.ABE	
+er002:059	10b	@	-	ilmoittaa␣
+er002:059	10a	%case	LAT	
+er002:059	11 12	@	-	perhekuntaansa␣
+er002:059	13a	@	-	ja␣
+er002:059	13b	@	-	syntyperäänsä
+er002:059	-	(,)	-	,␣
+er002:059	14	@	-	olivatko␣
+er002:059	15b	@	-	israelilaisia
+er002:059	15a	%case	PTV	
+er002:059	(16)	-	UNTRANSLATED	
+er002:059	-	(:)	-	:␣
+er002:060	er002:060	er002:060	VERSE	Esr␣2:60␣
+er002:060	2	@	-	Delajan␣
+er002:060	1	@	-	jälkeläisiä
+er002:060	-	(,)	-	,␣
+er002:060	4	@	-	Tobian␣
+er002:060	3	@	-	jälkeläisiä
+er002:060	-	(,)	-	,␣
+er002:060	6	@	-	Nedokan␣
+er002:060	5	@	-	jälkeläisiä
+er002:060	-	(,)	-	,␣
+er002:060	(10a) 10b 7 8 9	@	-	kuusisataa␣
+er002:060	(10a) 10b 7 8 9	@	-	viisikymmentä␣
+er002:060	(10a) 10b 7 8 9	@	-	kaksi
+er002:060	-	(.)	-	.␣
+er002:061	er002:061	er002:061	VERSE	Esr␣2:61␣
+er002:061	1a	@	-	Ja␣
+er002:061	(2a) 2b	@	-	pappien␣
+er002:061	1c	@	-	poikain␣
+er002:061	1b	@	-	joukossa␣
+er002:061	-	(@)	-	olivat␣
+er002:061	4	@	-	Habaijan␣
+er002:061	3	@	-	jälkeläiset
+er002:061	-	(,)	-	,␣
+er002:061	(6a) 6b	@	-	Koosin␣
+er002:061	5	@	-	jälkeläiset␣
+er002:061	-	(@)	-	ja␣
+er002:061	8	@	-	Barsillain␣
+er002:061	7	@	-	jälkeläiset
+er002:061	-	(,)	-	,␣
+er002:061	9	@	-	sen
+er002:061	-	(,)	-	,␣
+er002:061	9	@	-	joka␣
+er002:061	10	(@)	-	oli␣
+er002:061	10	@	-	ottanut␣
+er002:061	14	@	-	vaimon␣
+er002:061	(13a) 13b	@	-	gileadilaisen␣
+er002:061	12	@	-	Barsillain␣
+er002:061	11b	@	-	tyttäristä␣
+er002:061	11a	%case	LOC	
+er002:061	15a	@	-	ja␣
+er002:061	15b	(@)	-	jota␣
+er002:061	15b	@	-	kutsuttiin␣
+er002:061	pers%17	@	-	heidän␣
+er002:061	17	@	-	nimellään
+er002:061	16	%case	LOC	
+er002:061	-	(.)	-	.␣
+er002:062	er002:062	er002:062	VERSE	Esr␣2:62␣
+er002:062	1	@	-	Nämä␣
+er002:062	2	@	-	etsivät␣
+er002:062	3 (4a) 4b	@	-	sukuluetteloitaan
+er002:062	(5a)	-	UNTRANSLATED	
+er002:062	-	(,)	-	,␣
+er002:062	6	(@)	-	niitä␣
+er002:062	6	@	-	löytämättä
+er002:062	5b	%case	ABE	
+er002:062	-	(,)	-	,␣
+er002:062	7a	@	-	ja␣
+er002:062	-	(@)	-	niin␣
+er002:062	7b	(@)	-	heidät␣
+er002:062	7b	@	-	julistettiin␣
+er002:062	(9a) 9b	@	-	pappeuteen␣
+er002:062	8	@	-	kelpaamattomiksi
+er002:062	-	(.)	-	.␣
+er002:063	er002:063	er002:063	VERSE	Esr␣2:63␣
+er002:063	(1a)	-	UNTRANSLATED	
+er002:063	(2a) 2b	@	-	Maaherra␣
+er002:063	1b	@	-	kielsi␣
+er002:063	3	@	-	heitä␣
+er002:063	(4)	-	UNTRANSLATED	
+er002:063	6	@	-	syömästä␣
+er002:063	5	%inflection	INF3.ELA	
+er002:063	7b (8a) 8b	@	-	korkeasti-pyhää
+er002:063	7a	%case	PTV	
+er002:063	-	(,)	-	,␣
+er002:063	9	@	-	ennenkuin␣
+er002:063	10	@	-	nousisi␣
+er002:063	11	@	-	pappi
+er002:063	-	(,)	-	,␣
+er002:063	-	(@)	-	joka␣
+er002:063	-	(@)	-	voi␣
+er002:063	-	(@)	-	hoitaa␣
+er002:063	12b	@	-	uurimia␣
+er002:063	12a	%case	PTV	
+er002:063	13a	@	-	ja␣
+er002:063	13c	@	-	tummimia
+er002:063	13b	%case	PTV	
+er002:063	-	(.)	-	.␣
+er002:064	er002:064	er002:064	VERSE	Esr␣2:64␣
+er002:064	1	@	-	Koko␣
+er002:064	(2a) 2b	@	-	seurakunta␣
+er002:064	-	(@)	-	oli␣
+er002:064	3a 3b	@	-	yhteensä␣
+er002:064	4 5 6 7 8 9	@	-	neljäkymmentä␣
+er002:064	4 5 6 7 8 9	@	-	kaksi␣
+er002:064	4 5 6 7 8 9	@	-	tuhatta␣
+er002:064	4 5 6 7 8 9	@	-	kolmesataa␣
+er002:064	4 5 6 7 8 9	@	-	kuusikymmentä
+er002:064	-	(,)	-	,␣
+er002:065	er002:065	er002:065	VERSE	Esr␣2:65␣
+er002:065	1a 1b 1c	@	-	paitsi␣
+er002:065	pers%2	@	-	heidän␣
+er002:065	2	@	-	palvelijoitansa␣
+er002:065	3a	@	-	ja␣
+er002:065	3b	@	-	palvelijattariansa
+er002:065	-	(,)	-	,␣
+er002:065	4	@	-	joita␣
+er002:065	-	(@)	-	oli␣
+er002:065	10a 10b 5 6 7 8 9	@	-	seitsemäntuhatta␣
+er002:065	10a 10b 5 6 7 8 9	@	-	kolmesataa␣
+er002:065	10a 10b 5 6 7 8 9	@	-	kolmekymmentä␣
+er002:065	10a 10b 5 6 7 8 9	@	-	seitsemän
+er002:065	-	(.)	-	.␣
+er002:065	11a	@	-	Lisäksi␣
+er002:065	-	(@)	-	oli␣
+er002:065	11b	@	-	heillä␣
+er002:065	14	@	-	kaksisataa␣
+er002:065	12	@	-	mies-~/miesveisaajaa␣
+er002:065	13a	@	-	ja␣
+er002:065	13b	@	-	naisveisaajaa
+er002:065	-	(.)	-	.␣
+er002:066	er002:066	er002:066	VERSE	Esr␣2:66␣
+er002:066	1	@	-	Hevosia␣
+er002:066	pers%1	@	-	heillä␣
+er002:066	-	(@)	-	oli␣
+er002:066	2 3 4 (5a) 5b	@	-	seitsemänsataa␣
+er002:066	2 3 4 (5a) 5b	@	-	kolmekymmentä␣
+er002:066	2 3 4 (5a) 5b	@	-	kuusi
+er002:066	-	(,)	-	,␣
+er002:066	6	@	-	muuleja␣
+er002:066	7 8 (9a) 9b	@	-	kaksisataa␣
+er002:066	7 8 (9a) 9b	@	-	neljäkymmentä␣
+er002:066	7 8 (9a) 9b	@	-	viisi
+er002:066	-	(,)	-	,␣
+er002:067	er002:067	er002:067	VERSE	Esr␣2:67␣
+er002:067	1	@	-	kameleja␣
+er002:067	2 3 4 (5a) 5b	@	-	neljäsataa␣
+er002:067	2 3 4 (5a) 5b	@	-	kolmekymmentä␣
+er002:067	2 3 4 (5a) 5b	@	-	viisi
+er002:067	-	(,)	-	,␣
+er002:067	6	@	-	aaseja␣
+er002:067	10 11a 11b 7 8 9	@	-	kuusituhatta␣
+er002:067	10 11a 11b 7 8 9	@	-	seitsemänsataa␣
+er002:067	10 11a 11b 7 8 9	@	-	kaksikymmentä
+er002:067	-	(.)	-	.␣
+er002:068	er002:068	er002:068	VERSE	Esr␣2:68␣
+er002:068	(1a)	-	UNTRANSLATED	
+er002:068	1c (2a) 2b	@	-	Perhekunta-päämiehistä␣
+er002:068	1b	%case	LOC	
+er002:068	-	(@)	-	muutamat
+er002:068	-	(,)	-	,␣
+er002:068	3b	@	-	tullessansa␣
+er002:068	3a	%case	LOC	
+er002:068	5	@	-	Herran␣
+er002:068	4b	@	-	temppelin␣
+er002:068	4a	@	-	sijalle
+er002:068	-	(,)	-	,␣
+er002:068	6	@	-	joka␣
+er002:068	-	(@)	-	on␣
+er002:068	7b	@	-	Jerusalemissa
+er002:068	7a	%case	LOC	
+er002:068	-	(,)	-	,␣
+er002:068	8	@	-	antoivat␣
+er002:068	8	@	-	vapaaehtoisia␣
+er002:068	8	@	-	lahjoja␣
+er002:068	(10a) 10b	@	-	Jumalan␣
+er002:068	9b	@	-	temppelille
+er002:068	9a	%case	LOC	
+er002:068	-	(,)	-	,␣
+er002:068	pers%11b	@	-	sen␣
+er002:068	11b	@	-	pystyttämiseksi␣
+er002:068	11a	%case	TRA	
+er002:068	13	@	-	paikallensa
+er002:068	12	%case	LOC	
+er002:068	-	(.)	-	.␣
+er002:069	er002:069	er002:069	VERSE	Esr␣2:69␣
+er002:069	2	(@)	-	He␣
+er002:069	2	@	-	antoivat␣
+er002:069	1a	@	-	sen␣
+er002:069	1a	@	-	mukaan
+er002:069	-	(,)	-	,␣
+er002:069	1a	@	-	kuin␣
+er002:069	1b	@	-	voivat
+er002:069	-	(,)	-	,␣
+er002:069	3b (4a) 4b	@	-	rakennusrahastoon
+er002:069	3a	%case	LOC	
+er002:069	-	(:)	-	:␣
+er002:069	7 8 9a 9b	@	-	kuusikymmentä␣
+er002:069	7 8 9a 9b	@	-	yksi␣
+er002:069	7 8 9a 9b	@	-	tuhatta␣
+er002:069	6	@	-	dareikkia␣
+er002:069	5	@	-	kultaa
+er002:069	(11a)	-	UNTRANSLATED	
+er002:069	-	(,)	-	,␣
+er002:069	13 14	@	-	viisituhatta␣
+er002:069	12	@	-	miinaa␣
+er002:069	11b	@	-	hopeata␣
+er002:069	15a	@	-	ja␣
+er002:069	17	@	-	sata␣
+er002:069	15b 16	@	-	papinihokasta
+er002:069	-	(.)	-	.␣
+er002:070	er002:070	er002:070	VERSE	Esr␣2:70␣
+er002:070	1a	@	-	Sitten␣
+er002:070	(2a) 2b	@	-	papit
+er002:070	(3a)	-	UNTRANSLATED	
+er002:070	-	(,)	-	,␣
+er002:070	(3b) 3c	@	-	leeviläiset␣
+er002:070	4a	@	-	ja␣
+er002:070	4b	@	-	osa␣
+er002:070	(5a) 5b	@	-	kansaa␣
+er002:070	6a	@	-	sekä␣
+er002:070	(6b) 6c	@	-	veisaajat
+er002:070	(7a)	-	UNTRANSLATED	
+er002:070	-	(,)	-	,␣
+er002:070	(7b) 7c	@	-	ovenvartijat␣
+er002:070	8a	@	-	ja␣
+er002:070	(8b) 8c	@	-	temppelipalvelijat␣
+er002:070	1b	@	-	asettuivat␣
+er002:070	9b	@	-	kaupunkeihinsa
+er002:070	9a	%case	LOC	
+er002:070	-	(,)	-	,␣
+er002:070	10a	@	-	ja␣
+er002:070	10b	@	-	kaikki␣
+er002:070	-	(@)	-	muut␣
+er002:070	11	@	-	israelilaiset␣
+er002:070	12b	@	-	kaupunkeihinsa
+er002:070	12a	%case	LOC	
+er002:070	-	(.)	-	.␣
+er003:001	er003:001	er003:001	VERSE	Esr␣3:1␣
+er003:001	1a	@	-	Kun␣
+er003:001	(3a) 3b	@	-	seitsemäs␣
+er003:001	(2a) 2b	@	-	kuukausi␣
+er003:001	1b	@	-	tuli␣
+er003:001	4a	@	-	ja␣
+er003:001	4b 5	@	-	israelilaiset␣
+er003:001	-	(@)	-	jo␣
+er003:001	-	(@)	-	olivat␣
+er003:001	6b	@	-	kaupungeissa
+er003:001	6a	%case	LOC	
+er003:001	(8a)	-	UNTRANSLATED	
+er003:001	-	(,)	-	,␣
+er003:001	8b	@	-	kokoontui␣
+er003:001	(9a) 9b	@	-	kansa␣
+er003:001	10a 11	@	-	yhtenä␣
+er003:001	10b	@	-	miehenä␣
+er003:001	13	@	-	Jerusalemiin
+er003:001	12	%case	LOC	
+er003:001	-	(.)	-	.␣
+er003:002	er003:002	er003:002	VERSE	Esr␣3:2␣
+er003:002	1a	@	-	Ja␣
+er003:002	2	@	-	Jeesua
+er003:002	-	(,)	-	,␣
+er003:002	4	@	-	Joosadakin␣
+er003:002	3	@	-	poika
+er003:002	-	(,)	-	,␣
+er003:002	5a	@	-	ja␣
+er003:002	pers%5b	@	-	hänen␣
+er003:002	5b	@	-	veljensä
+er003:002	-	(,)	-	,␣
+er003:002	(6a) 6b	@	-	papit
+er003:002	-	(,)	-	,␣
+er003:002	7a	@	-	ja␣
+er003:002	7b	@	-	Serubbaabel
+er003:002	-	(,)	-	,␣
+er003:002	9	@	-	Sealtielin␣
+er003:002	8	@	-	poika
+er003:002	-	(,)	-	,␣
+er003:002	10a	@	-	ja␣
+er003:002	pers%10b	@	-	hänen␣
+er003:002	10b	@	-	veljensä␣
+er003:002	1b	@	-	nousivat␣
+er003:002	11b	@	-	rakentamaan␣
+er003:002	11a	%case	LOC	
+er003:002	15	@	-	Israelin␣
+er003:002	14	@	-	Jumalan␣
+er003:002	13	@	-	alttaria␣
+er003:002	12	%case	PTV	
+er003:002	16b	@	-	uhrataksensa␣
+er003:002	16a	%case	TRA	
+er003:002	pers%17	@	-	sen␣
+er003:002	17	@	-	päällä␣
+er003:002	18	@	-	polttouhreja
+er003:002	-	(,)	-	,␣
+er003:002	19a	@	-	niinkuin␣
+er003:002	19b	(@)	-	on␣
+er003:002	19b	@	-	kirjoitettuna␣
+er003:002	(23a) 23b	@	-	Jumalan␣
+er003:002	22	@	-	miehen␣
+er003:002	21	@	-	Mooseksen␣
+er003:002	20b	@	-	laissa
+er003:002	20a	%case	LOC	
+er003:002	-	(.)	-	.␣
+er003:003	er003:003	er003:003	VERSE	Esr␣3:3␣
+er003:003	(1a)	-	UNTRANSLATED	
+er003:003	1b	(@)	-	He␣
+er003:003	1b	@	-	pystyttivät␣
+er003:003	4	@	-	paikallensa␣
+er003:003	3	%case	LOC	
+er003:003	(2a) 2b	@	-	alttarin
+er003:003	-	(,)	-	,␣
+er003:003	5	@	-	sillä␣
+er003:003	7	@	-	he␣
+er003:003	-	(@)	-	olivat␣
+er003:003	6b	@	-	kauhuissaan␣
+er003:003	6a	%case	LOC	
+er003:003	(9a) 9b	@	-	maan␣
+er003:003	8b	@	-	kansojen␣
+er003:003	8a	@	-	tähden
+er003:003	-	(;)	-	;␣
+er003:003	11a	@	-	ja␣
+er003:003	11b	(@)	-	he␣
+er003:003	11b	@	-	uhrasivat␣
+er003:003	pro%12	@	-	alttarilla␣
+er003:003	13	@	-	polttouhreja␣
+er003:003	14b	@	-	Herralle
+er003:003	14a	%case	LOC	
+er003:003	-	(,)	-	,␣
+er003:003	15	@	-	polttouhreja␣
+er003:003	16b	@	-	aamuin␣
+er003:003	16a	%case	INS	
+er003:003	17a	@	-	ja␣
+er003:003	17c	@	-	illoin
+er003:003	17b	%case	INS	
+er003:003	-	(.)	-	.␣
+er003:004	er003:004	er003:004	VERSE	Esr␣3:4␣
+er003:004	1a	@	-	Ja␣
+er003:004	1b	(@)	-	he␣
+er003:004	1b	@	-	viettivät␣
+er003:004	3 (4a) 4b	@	-	lehtimajanjuhlaa
+er003:004	2	%case	PTV	
+er003:004	-	(,)	-	,␣
+er003:004	5a	@	-	niinkuin␣
+er003:004	5b	(@)	-	oli␣
+er003:004	5b	@	-	säädetty
+er003:004	-	(,)	-	,␣
+er003:004	6a	@	-	ja␣
+er003:004	-	(@)	-	uhrasivat␣
+er003:004	6b	@	-	polttouhreja␣
+er003:004	-	(@)	-	joka␣
+er003:004	7	@	-	päivä␣
+er003:004	8a 8b	%case	NOM	
+er003:004	9a 9b	@	-	niin␣
+er003:004	9a 9b	@	-	paljon
+er003:004	-	(,)	-	,␣
+er003:004	10a	@	-	kuin␣
+er003:004	10b	(@)	-	oli␣
+er003:004	10b	@	-	säädetty
+er003:004	-	(,)	-	,␣
+er003:004	12	@	-	kunakin␣
+er003:004	12	@	-	päivänä␣
+er003:004	pers%13b	@	-	sen␣
+er003:004	13b	@	-	päivän␣
+er003:004	13a	%case	GEN	
+er003:004	11	@	-	uhrit
+er003:004	-	(,)	-	,␣
+er003:005	er003:005	er003:005	VERSE	Esr␣3:5␣
+er003:005	1a	@	-	ja␣
+er003:005	1b	@	-	sen␣
+er003:005	1b	@	-	jälkeen␣
+er003:005	3	@	-	jokapäiväisen␣
+er003:005	2	@	-	polttouhrin␣
+er003:005	4a	@	-	ja␣
+er003:005	4c	@	-	uudenkuun␣
+er003:005	4c	@	-	päivien␣
+er003:005	4b	%case	GEN	
+er003:005	5a	@	-	ja␣
+er003:005	5c	@	-	kaikkien␣
+er003:005	5b	%case	GEN	
+er003:005	-	(@)	-	muiden␣
+er003:005	7	@	-	Herran␣
+er003:005	(8a) 8b	@	-	pyhien␣
+er003:005	6	@	-	juhlien␣
+er003:005	-	(@)	-	uhrit␣
+er003:005	9a	@	-	sekä␣
+er003:005	9c	@	-	kaikkien␣
+er003:005	9b	%case	GEN	
+er003:005	-	(@)	-	niiden␣
+er003:005	-	(@)	-	uhrit
+er003:005	-	(,)	-	,␣
+er003:005	-	(@)	-	jotka␣
+er003:005	10	@	-	toivat␣
+er003:005	11	@	-	vapaaehtoisia␣
+er003:005	11	@	-	lahjoja␣
+er003:005	12b	@	-	Herralle
+er003:005	12a	%case	LOC	
+er003:005	-	(.)	-	.␣
+er003:006	er003:006	er003:006	VERSE	Esr␣3:6␣
+er003:006	(4a) 4b	@	-	Seitsemännen␣
+er003:006	3b	@	-	kuun␣
+er003:006	3a	%case	GEN	
+er003:006	2	@	-	ensimmäisestä␣
+er003:006	1b	@	-	päivästä␣
+er003:006	1a	%case	LOC	
+er003:006	5	@	-	alkaen␣
+er003:006	5	(@)	-	he␣
+er003:006	6b	@	-	uhrasivat␣
+er003:006	6a	%case	?	
+er003:006	7	@	-	polttouhreja␣
+er003:006	8b	@	-	Herralle
+er003:006	8a	%case	LOC	
+er003:006	-	(,)	-	,␣
+er003:006	9a	@	-	vaikka␣
+er003:006	9b	@	-	temppelin␣
+er003:006	(10)	-	UNTRANSLATED	
+er003:006	12	@	-	perustusta␣
+er003:006	11	@	-	ei␣
+er003:006	12	(@)	-	oltu␣
+er003:006	sem%11	@	-	vielä␣
+er003:006	12	@	-	laskettu
+er003:006	-	(.)	-	.␣
+er003:007	er003:007	er003:007	VERSE	Esr␣3:7␣
+er003:007	1a	@	-	Ja␣
+er003:007	1b	(@)	-	he␣
+er003:007	1b	@	-	antoivat␣
+er003:007	2	@	-	rahaa␣
+er003:007	3b	@	-	kivenhakkaajille␣
+er003:007	3a	%case	LOC	
+er003:007	4a	@	-	ja␣
+er003:007	4c	@	-	puusepille␣
+er003:007	4b	%case	LOC	
+er003:007	5a	@	-	sekä␣
+er003:007	5b	@	-	ruoka-~/ruokatavaroita␣
+er003:007	6a	@	-	ja␣
+er003:007	6b	@	-	juomatavaroita␣
+er003:007	7a	@	-	ja␣
+er003:007	7b	@	-	öljyä␣
+er003:007	8b	@	-	siidonilaisille␣
+er003:007	8a	%case	LOC	
+er003:007	9a	@	-	ja␣
+er003:007	9c	@	-	tyyrolaisille
+er003:007	9b	%case	LOC	
+er003:007	-	(,)	-	,␣
+er003:007	10a	@	-	että␣
+er003:007	-	(@)	-	nämä␣
+er003:007	10b	@	-	kuljettaisivat␣
+er003:007	11 12	@	-	setripuita␣
+er003:007	(14a) 14b	@	-	Libanonilta␣
+er003:007	13	%case	LOC	
+er003:007	16	@	-	meritse␣
+er003:007	15	%case	?	
+er003:007	17	@	-	Jaafoon
+er003:007	-	(,)	-	,␣
+er003:007	-	(@)	-	sen␣
+er003:007	18b	@	-	valtuuden␣
+er003:007	18a	@	-	nojalla
+er003:007	-	(,)	-	,␣
+er003:007	-	(@)	-	jonka␣
+er003:007	19	@	-	Koores
+er003:007	-	(,)	-	,␣
+er003:007	21	@	-	Persian␣
+er003:007	20	@	-	kuningas
+er003:007	-	(,)	-	,␣
+er003:007	-	(@)	-	oli␣
+er003:007	22	@	-	heille␣
+er003:007	-	(@)	-	antanut
+er003:007	-	(.)	-	.␣
+er003:008	er003:008	er003:008	VERSE	Esr␣3:8␣
+er003:008	1a	@	-	Ja␣
+er003:008	(2a) 2b	@	-	toisena␣
+er003:008	1c	@	-	vuotena␣
+er003:008	1b	%case	ESS	
+er003:008	3a	@	-	siitä
+er003:008	-	(,)	-	,␣
+er003:008	mod%3b	@	-	kun␣
+er003:008	3b	(@)	-	he␣
+er003:008	3b	(@)	-	olivat␣
+er003:008	3b	@	-	tulleet␣
+er003:008	(6a) 6b	@	-	Jumalan␣
+er003:008	5	@	-	temppelin␣
+er003:008	4	@	-	sijalle␣
+er003:008	7b	@	-	Jerusalemiin
+er003:008	7a	%case	LOC	
+er003:008	-	(,)	-	,␣
+er003:008	-	(@)	-	sen␣
+er003:008	(9a) 9b	@	-	toisessa␣
+er003:008	8b	@	-	kuussa
+er003:008	8a	%case	LOC	
+er003:008	-	(,)	-	,␣
+er003:008	10	@	-	ryhtyivät␣
+er003:008	11	@	-	Serubbaabel
+er003:008	-	(,)	-	,␣
+er003:008	13	@	-	Sealtielin␣
+er003:008	12	@	-	poika
+er003:008	-	(,)	-	,␣
+er003:008	14a	@	-	ja␣
+er003:008	14b	@	-	Jeesua
+er003:008	-	(,)	-	,␣
+er003:008	16	@	-	Joosadakin␣
+er003:008	15	@	-	poika
+er003:008	-	(,)	-	,␣
+er003:008	17a	@	-	ja␣
+er003:008	pers%18	@	-	heidän␣
+er003:008	17b	@	-	muut␣
+er003:008	18	@	-	veljensä
+er003:008	-	(,)	-	,␣
+er003:008	(19a) 19b	@	-	papit␣
+er003:008	20a	@	-	ja␣
+er003:008	(20b) 20c	@	-	leeviläiset
+er003:008	-	(,)	-	,␣
+er003:008	21a	@	-	ja␣
+er003:008	21b	@	-	kaikki
+er003:008	-	(,)	-	,␣
+er003:008	22a	@	-	jotka␣
+er003:008	(23b) 23c	@	-	vankeudesta␣
+er003:008	23a	%case	LOC	
+er003:008	22b	(@)	-	olivat␣
+er003:008	22b	@	-	tulleet␣
+er003:008	24	@	-	Jerusalemiin
+er003:008	-	(,)	-	,␣
+er003:008	10	@	-	työhön␣
+er003:008	25a	@	-	ja␣
+er003:008	25b	@	-	panivat␣
+er003:008	28b 29 30	@	-	kaksikymmenvuotiset␣
+er003:008	28a	%case	NOM	
+er003:008	31a	@	-	ja␣
+er003:008	cli%31b	@	-	sitä␣
+er003:008	31b	@	-	vanhemmat␣
+er003:008	(27a) 27b	@	-	leeviläiset␣
+er003:008	26	%case	NOM	
+er003:008	32b	@	-	johtamaan␣
+er003:008	32a	%case	LOC	
+er003:008	36	@	-	Herran␣
+er003:008	35	@	-	temppelin␣
+er003:008	34	@	-	rakennustyötä
+er003:008	33	%case	PTV	
+er003:008	-	(.)	-	.␣
+er003:009	er003:009	er003:009	VERSE	Esr␣3:9␣
+er003:009	1a	@	-	Ja␣
+er003:009	2	@	-	Jeesua␣
+er003:009	3	@	-	poikineen␣
+er003:009	4a	@	-	ja␣
+er003:009	4b	@	-	veljineen␣
+er003:009	-	(@)	-	ja␣
+er003:009	5	@	-	Kadmiel␣
+er003:009	(6a)	-	UNTRANSLATED	
+er003:009	6b	@	-	poikineen
+er003:009	-	(,)	-	,␣
+er003:009	8	@	-	Juudan␣
+er003:009	7	@	-	jälkeläiset
+er003:009	-	(,)	-	,␣
+er003:009	1b	@	-	astuivat␣
+er003:009	9a 9b	@	-	yhdessä␣
+er003:009	10b	@	-	johtamaan␣
+er003:009	10a	%case	LOC	
+er003:009	pro%12	@	-	niitä
+er003:009	11	%case	PTV	
+er003:009	-	(,)	-	,␣
+er003:009	mod%12	@	-	jotka␣
+er003:009	12	@	-	tekivät␣
+er003:009	(15a) 15b	@	-	Herran␣
+er003:009	14b	@	-	temppelin␣
+er003:009	14a	%case	GEN	
+er003:009	(13a) 13b	@	-	rakennustyötä
+er003:009	-	(;)	-	;␣
+er003:009	-	(@)	-	samoin␣
+er003:009	-	(@)	-	myöskin␣
+er003:009	18	@	-	Heenadadin␣
+er003:009	17	@	-	pojat␣
+er003:009	19	@	-	poikineen␣
+er003:009	20a	@	-	ja␣
+er003:009	20b	@	-	veljineen
+er003:009	-	(,)	-	,␣
+er003:009	(21a) 21b	@	-	leeviläiset
+er003:009	-	(.)	-	.␣
+er003:010	er003:010	er003:010	VERSE	Esr␣3:10␣
+er003:010	1a	@	-	Ja␣
+er003:010	-	(@)	-	kun␣
+er003:010	(2a) 2b	@	-	rakentajat␣
+er003:010	1b	@	-	laskivat␣
+er003:010	5	@	-	Herran␣
+er003:010	4	@	-	temppelin␣
+er003:010	1b	@	-	perustusta
+er003:010	3	%case	PTV	
+er003:010	(6a)	-	UNTRANSLATED	
+er003:010	-	(,)	-	,␣
+er003:010	6b	@	-	asetettiin␣
+er003:010	(7a) 7b	@	-	papit␣
+er003:010	8	@	-	virkapuvuissaan␣
+er003:010	9b	@	-	torvilla␣
+er003:010	9a	%case	LOC	
+er003:010	10a	@	-	ja␣
+er003:010	(10b) 10c	@	-	leeviläiset
+er003:010	-	(,)	-	,␣
+er003:010	12	@	-	Aasafin␣
+er003:010	11	@	-	jälkeläiset
+er003:010	-	(,)	-	,␣
+er003:010	13b	@	-	kymbaaleilla␣
+er003:010	13a	%case	LOC	
+er003:010	14b	@	-	ylistämään␣
+er003:010	14a	%case	LOC	
+er003:010	16	@	-	Herraa
+er003:010	15	%case	PTV	
+er003:010	-	(,)	-	,␣
+er003:010	21	@	-	Israelin␣
+er003:010	20	@	-	kuninkaan␣
+er003:010	19	@	-	Daavidin␣
+er003:010	18	@	-	järjestelyn␣
+er003:010	17	@	-	mukaan
+er003:010	-	(.)	-	.␣
+er003:011	er003:011	er003:011	VERSE	Esr␣3:11␣
+er003:011	1a	@	-	Ja␣
+er003:011	1b	(@)	-	he␣
+er003:011	1b	@	-	virittivät␣
+er003:011	2b	@	-	ylistys-~/ylistysvirren␣
+er003:011	2a	%case	GEN	
+er003:011	3a	@	-	ja␣
+er003:011	3c	@	-	kiitosvirren␣
+er003:011	3b	%case	GEN	
+er003:011	4b	@	-	Herralle
+er003:011	4a	%case	LOC	
+er003:011	-	(:)	-	:␣
+er003:011	-	(@)	-	"
+er003:011	5	@	-	Sillä␣
+er003:011	-	(@)	-	hän␣
+er003:011	-	(@)	-	on␣
+er003:011	6	@	-	hyvä␣
+er003:011	7	@	-	sillä␣
+er003:011	pers%9	@	-	hänen␣
+er003:011	9	@	-	armonsa␣
+er003:011	-	(@)	-	pysyy␣
+er003:011	8b	@	-	iankaikkisesti␣
+er003:011	8a	%case	MAN	
+er003:011	11	@	-	Israelia␣
+er003:011	10	@	-	kohtaan
+er003:011	-	(@)	-	"
+er003:011	-	(.)	-	.␣
+er003:011	12a	@	-	Ja␣
+er003:011	12b	@	-	kaikki␣
+er003:011	(13a) 13b	@	-	kansa␣
+er003:011	14	@	-	nosti␣
+er003:011	16	@	-	suuren␣
+er003:011	15	@	-	riemuhuudon␣
+er003:011	17b	@	-	ylistäen␣
+er003:011	17a	%case	MAN	
+er003:011	18b	@	-	Herraa␣
+er003:011	18a	%case	PTV	
+er003:011	19	@	-	siitä
+er003:011	-	(,)	-	,␣
+er003:011	19	@	-	että␣
+er003:011	22	@	-	Herran␣
+er003:011	21	@	-	temppelin␣
+er003:011	20	@	-	perustus␣
+er003:011	20	(@)	-	oli␣
+er003:011	20	@	-	laskettu
+er003:011	-	(.)	-	.␣
+er003:012	er003:012	er003:012	VERSE	Esr␣3:12␣
+er003:012	1a	@	-	Mutta␣
+er003:012	1b	@	-	monet␣
+er003:012	(2b) 2c	@	-	papit
+er003:012	2a	%case	NOM	
+er003:012	(3a)	-	UNTRANSLATED	
+er003:012	-	(,)	-	,␣
+er003:012	(3b) 3c	@	-	leeviläiset␣
+er003:012	4a	@	-	ja␣
+er003:012	4b (5a) 5b	@	-	perhekunta-päämiehet
+er003:012	-	(,)	-	,␣
+er003:012	(6a) 6b	@	-	vanhukset
+er003:012	-	(,)	-	,␣
+er003:012	7	@	-	jotka␣
+er003:012	8	(@)	-	olivat␣
+er003:012	8	@	-	nähneet␣
+er003:012	(11a) 11b	@	-	edellisen␣
+er003:012	(10a) 10b	@	-	temppelin
+er003:012	9	%case	GEN	
+er003:012	-	(,)	-	,␣
+er003:012	16	@	-	itkivät␣
+er003:012	18	@	-	suurella␣
+er003:012	17b	@	-	äänellä
+er003:012	17a	%case	LOC	
+er003:012	-	(,)	-	,␣
+er003:012	12a	@	-	kun␣
+er003:012	13	@	-	tämän␣
+er003:012	(14a) 14b	@	-	temppelin␣
+er003:012	12b	@	-	perustus␣
+er003:012	12b	@	-	laskettiin␣
+er003:012	pers%15b	@	-	heidän␣
+er003:012	15b	@	-	nähtensä
+er003:012	15a	%case	MAN	
+er003:012	-	(.)	-	.␣
+er003:012	19b	@	-	Monet␣
+er003:012	19a	@	-	taas␣
+er003:012	22b	@	-	korottivat␣
+er003:012	22a	%case	?	
+er003:012	23	@	-	äänensä␣
+er003:012	20b	@	-	riemuiten␣
+er003:012	20a	%case	MAN	
+er003:012	-	(@)	-	ja␣
+er003:012	21b	@	-	iloiten
+er003:012	21a	%case	MAN	
+er003:012	-	(.)	-	.␣
+er003:013	er003:013	er003:013	VERSE	Esr␣3:13␣
+er003:013	1a 1b	@	-	Eikä␣
+er003:013	(2a) (2b)	-	UNTRANSLATED	
+er003:013	sem%3	@	-	voitu␣
+er003:013	3	@	-	erottaa␣
+er003:013	5	@	-	raikuvaa␣
+er003:013	4 (6a) 6b	@	-	riemuhuutoa␣
+er003:013	(9a) 9b	@	-	kansan␣
+er003:013	7b	@	-	äänekkäästä␣
+er003:013	7a	%case	LOC	
+er003:013	8	@	-	itkusta
+er003:013	-	(;)	-	;␣
+er003:013	10	@	-	sillä␣
+er003:013	(11a) 11b	@	-	kansa␣
+er003:013	12	@	-	nosti␣
+er003:013	14	@	-	suuren␣
+er003:013	13	@	-	huudon
+er003:013	-	(,)	-	,␣
+er003:013	15a	@	-	niin␣
+er003:013	15a	@	-	että␣
+er003:013	(15b) 15c	@	-	huuto␣
+er003:013	16	@	-	kuului␣
+er003:013	18c	@	-	kauas
+er003:013	17 18a 18b	%case	?	
+er003:013	-	(.)	-	.␣
+er004:001	er004:001	er004:001	VERSE	Esr␣4:1␣
+er004:001	1a	@	-	Mutta␣
+er004:001	-	(@)	-	kun␣
+er004:001	3	@	-	Juudan␣
+er004:001	4a	@	-	ja␣
+er004:001	4b	@	-	Benjaminin␣
+er004:001	2	@	-	vastustajat␣
+er004:001	1b	@	-	kuulivat
+er004:001	-	(,)	-	,␣
+er004:001	5	@	-	että␣
+er004:001	6 (7a) 7b	@	-	pakkosiirtolaiset␣
+er004:001	8	@	-	rakensivat␣
+er004:001	9	@	-	temppeliä␣
+er004:001	10b	@	-	Herralle
+er004:001	10a	%case	LOC	
+er004:001	-	(,)	-	,␣
+er004:001	12	@	-	Israelin␣
+er004:001	11	@	-	Jumalalle
+er004:001	-	(,)	-	,␣
+er004:002	er004:002	er004:002	VERSE	Esr␣4:2␣
+er004:002	(1a)	-	UNTRANSLATED	
+er004:002	1b	@	-	astuivat␣
+er004:002	1b	(@)	-	he␣
+er004:002	3	@	-	Serubbaabelin␣
+er004:002	4a	@	-	ja␣
+er004:002	(4b)	-	UNTRANSLATED	
+er004:002	5 (6a) 6b	@	-	perhekunta-päämiesten␣
+er004:002	2	@	-	luo␣
+er004:002	7a	@	-	ja␣
+er004:002	7b	@	-	sanoivat␣
+er004:002	8	@	-	heille
+er004:002	-	(:)	-	:␣
+er004:002	-	(@)	-	"
+er004:002	9	(@)	-	Me␣
+er004:002	sem%9	@	-	tahdomme␣
+er004:002	9	@	-	rakentaa␣
+er004:002	sem%10	@	-	yhdessä␣
+er004:002	pers%10	@	-	teidän␣
+er004:002	10	@	-	kanssanne
+er004:002	-	(,)	-	,␣
+er004:002	11	@	-	sillä␣
+er004:002	13	(@)	-	me␣
+er004:002	13	@	-	etsimme␣
+er004:002	pers%14b	@	-	teidän␣
+er004:002	14b	@	-	Jumalaanne
+er004:002	14a	%case	PTV	
+er004:002	-	(,)	-	,␣
+er004:002	12	@	-	niinkuin␣
+er004:002	pers%12	@	-	tekin
+er004:002	-	(,)	-	,␣
+er004:002	16a	@	-	ja␣
+er004:002	16b	@	-	hänelle␣
+er004:002	17	@	-	me␣
+er004:002	18	(@)	-	olemme␣
+er004:002	18	@	-	uhranneet␣
+er004:002	20	@	-	Eesarhaddonin
+er004:002	-	(,)	-	,␣
+er004:002	22	@	-	Assurin␣
+er004:002	21	@	-	kuninkaan
+er004:002	-	(,)	-	,␣
+er004:002	19b	@	-	päivistä␣
+er004:002	19a	@	-	asti
+er004:002	-	(,)	-	,␣
+er004:002	23a	@	-	hänen
+er004:002	-	(,)	-	,␣
+er004:002	23a	@	-	joka␣
+er004:002	23b	@	-	toi␣
+er004:002	24	@	-	meidät␣
+er004:002	25	@	-	tänne
+er004:002	-	(@)	-	"
+er004:002	-	(.)	-	.␣
+er004:003	er004:003	er004:003	VERSE	Esr␣4:3␣
+er004:003	1a	@	-	Mutta␣
+er004:003	3	@	-	Serubbaabel␣
+er004:003	4a	@	-	ja␣
+er004:003	4b	@	-	Jeesua␣
+er004:003	5a	@	-	ja␣
+er004:003	5b	@	-	muut␣
+er004:003	8b	@	-	Israelin␣
+er004:003	8a	%case	GEN	
+er004:003	6 (7a) 7b	@	-	perhekunta-päämiehet␣
+er004:003	1b	@	-	sanoivat␣
+er004:003	2	@	-	heille
+er004:003	-	(:)	-	:␣
+er004:003	-	(@)	-	"
+er004:003	9	@	-	Ei␣
+er004:003	-	(@)	-	sovi␣
+er004:003	10	@	-	teidän␣
+er004:003	11a	@	-	ja␣
+er004:003	11b	@	-	meidän␣
+er004:003	-	(@)	-	yhdessä␣
+er004:003	12b	@	-	rakentaa␣
+er004:003	12a	%case	LAT	
+er004:003	13	@	-	temppeliä␣
+er004:003	pers%14b	@	-	meidän␣
+er004:003	14b	@	-	Jumalallemme
+er004:003	14a	%case	LOC	
+er004:003	-	(,)	-	,␣
+er004:003	15	@	-	vaan␣
+er004:003	16	@	-	me␣
+er004:003	17	@	-	yksin␣
+er004:003	18	@	-	rakennamme␣
+er004:003	19b	@	-	Herralle
+er004:003	19a	%case	LOC	
+er004:003	-	(,)	-	,␣
+er004:003	21	@	-	Israelin␣
+er004:003	20	@	-	Jumalalle
+er004:003	-	(,)	-	,␣
+er004:003	22a 22b	@	-	niinkuin␣
+er004:003	(24a) 24b	@	-	kuningas␣
+er004:003	25	@	-	Koores
+er004:003	-	(,)	-	,␣
+er004:003	27	@	-	Persian␣
+er004:003	26	@	-	kuningas
+er004:003	-	(,)	-	,␣
+er004:003	23	(@)	-	on␣
+er004:003	pers%23	@	-	meitä␣
+er004:003	23	@	-	käskenyt
+er004:003	-	(@)	-	"
+er004:003	-	(.)	-	.␣
+er004:004	er004:004	er004:004	VERSE	Esr␣4:4␣
+er004:004	1a	@	-	Mutta␣
+er004:004	(1b)	-	UNTRANSLATED	
+er004:004	(3a) 3b	@	-	maan␣
+er004:004	2	@	-	kansa␣
+er004:004	sem%4	@	-	sai␣
+er004:004	7	@	-	Juudan␣
+er004:004	6	@	-	kansan␣
+er004:004	5	@	-	kädet␣
+er004:004	4	@	-	herpoamaan␣
+er004:004	9a	@	-	ja␣
+er004:004	9b	@	-	pelotti␣
+er004:004	10	@	-	heidät␣
+er004:004	11b	@	-	rakentamasta
+er004:004	11a	%case	LOC	
+er004:004	-	(.)	-	.␣
+er004:005	er004:005	er004:005	VERSE	Esr␣4:5␣
+er004:005	1a	@	-	Ja␣
+er004:005	pro%1b	@	-	ne␣
+er004:005	1b	@	-	palkkasivat␣
+er004:005	pers%2	@	-	heitä␣
+er004:005	2	@	-	vastaan␣
+er004:005	3	@	-	neuvonantajia
+er004:005	-	(,)	-	,␣
+er004:005	4a	@	-	jotka␣
+er004:005	4b	@	-	tekivät␣
+er004:005	pers%5	@	-	heidän␣
+er004:005	5	@	-	hankkeensa␣
+er004:005	4b	@	-	tyhjäksi
+er004:005	-	(,)	-	,␣
+er004:005	6 7	@	-	niin␣
+er004:005	6 7	@	-	kauan␣
+er004:005	6 7	@	-	kuin␣
+er004:005	8	@	-	Koores
+er004:005	-	(,)	-	,␣
+er004:005	10	@	-	Persian␣
+er004:005	9	@	-	kuningas
+er004:005	-	(,)	-	,␣
+er004:005	6 7	@	-	eli
+er004:005	-	(,)	-	,␣
+er004:005	11a	@	-	ja␣
+er004:005	11b	@	-	aina␣
+er004:005	13	@	-	Daarejaveksen
+er004:005	-	(,)	-	,␣
+er004:005	15	@	-	Persian␣
+er004:005	14	@	-	kuninkaan
+er004:005	-	(,)	-	,␣
+er004:005	12	@	-	hallitusaikaan␣
+er004:005	11b	@	-	asti
+er004:005	-	(.)	-	.␣
+er004:006	er004:006	er004:006	VERSE	Esr␣4:6␣
+er004:006	(1a)	-	UNTRANSLATED	
+er004:006	2	@	-	Ahasveroksen␣
+er004:006	1c	@	-	hallituksen␣
+er004:006	1b	@	-	aikana
+er004:006	-	(,)	-	,␣
+er004:006	pers%4	@	-	hänen␣
+er004:006	4	@	-	hallituksensa␣
+er004:006	3b	@	-	alussa
+er004:006	3a	%case	LOC	
+er004:006	-	(,)	-	,␣
+er004:006	5	(@)	-	he␣
+er004:006	5	@	-	kirjoittivat␣
+er004:006	6	@	-	syytöskirjan␣
+er004:006	9	@	-	Juudan␣
+er004:006	10a	@	-	ja␣
+er004:006	10b	@	-	Jerusalemin␣
+er004:006	8	@	-	asukkaita␣
+er004:006	7	@	-	vastaan
+er004:006	-	(.)	-	.␣
+er004:007	er004:007	er004:007	VERSE	Esr␣4:7␣
+er004:007	1a	@	-	Ja␣
+er004:007	2	@	-	Artahsastan␣
+er004:007	1c	@	-	aikana␣
+er004:007	1b	%case	ESS	
+er004:007	3	@	-	kirjoittivat␣
+er004:007	4	@	-	Bislam
+er004:007	-	(,)	-	,␣
+er004:007	5	@	-	Mitredat␣
+er004:007	-	(@)	-	ja␣
+er004:007	6	@	-	Taabeel␣
+er004:007	7a	@	-	ynnä␣
+er004:007	pers%9	@	-	näiden␣
+er004:007	7b	@	-	muut␣
+er004:007	9	@	-	virkatoverit␣
+er004:007	11	@	-	Artahsastalle
+er004:007	10	%case	LOC	
+er004:007	-	(,)	-	,␣
+er004:007	14	@	-	Persian␣
+er004:007	13	@	-	kuninkaalle
+er004:007	-	(.)	-	.␣
+er004:007	(16a) 16b	@	-	Kirje␣
+er004:007	15b	(@)	-	oli␣
+er004:007	15b	@	-	kirjoitettu␣
+er004:007	18	@	-	aramin␣
+er004:007	17	@	-	kirjoituksella␣
+er004:007	19a	@	-	ja␣
+er004:007	19b	@	-	käännetty␣
+er004:007	20	@	-	araminkielelle
+er004:007	-	(.)	-	.␣
+er004:008	er004:008	er004:008	VERSE	Esr␣4:8␣
+er004:008	2 3	@	-	Käskynhaltija␣
+er004:008	1	@	-	Rehum␣
+er004:008	4a	@	-	ja␣
+er004:008	5a	@	-	kirjuri␣
+er004:008	5b	%case	NOM	
+er004:008	4b	@	-	Simsai␣
+er004:008	6	@	-	kirjoittivat␣
+er004:008	12a	@	-	kuningas␣
+er004:008	12b	%case	NOM	
+er004:008	11b	@	-	Artahsastalle␣
+er004:008	11a	%case	LOC	
+er004:008	10	@	-	Jerusalemia␣
+er004:008	9	@	-	vastaan␣
+er004:008	7	@	-	kirjeen
+er004:008	(8)	-	UNTRANSLATED	
+er004:008	-	(,)	-	,␣
+er004:008	13	@	-	joka␣
+er004:008	13	@	-	kuului␣
+er004:008	13	@	-	näin
+er004:008	-	(:)	-	:␣
+er004:009	er004:009	er004:009	VERSE	Esr␣4:9␣
+er004:009	1	@	-	Silloin␣
+er004:009	1	@	-	ja␣
+er004:009	1	@	-	silloin
+er004:009	-	(.)	-	.␣
+er004:009	-	(@)	-	"
+er004:009	3 4	@	-	Käskynhaltija␣
+er004:009	2	@	-	Rehum␣
+er004:009	5a	@	-	ja␣
+er004:009	6a	@	-	kirjuri␣
+er004:009	6b	%case	NOM	
+er004:009	5b	@	-	Simsai␣
+er004:009	7a	@	-	ynnä␣
+er004:009	7b	@	-	muut␣
+er004:009	pers%8	@	-	heidän␣
+er004:009	8	@	-	virkatoverinsa
+er004:009	-	(,)	-	,␣
+er004:009	9a	@	-	tuomarit
+er004:009	9b	%case	NOM	
+er004:009	(10a)	-	UNTRANSLATED	
+er004:009	-	(,)	-	,␣
+er004:009	10b	@	-	järjestysmiehet
+er004:009	10c	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:009	11a	@	-	tarpelilaiset
+er004:009	11b	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:009	12a	@	-	afarsilaiset
+er004:009	12b	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:009	14a	@	-	erekiläiset
+er004:009	14b	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:009	15a	@	-	babylonialaiset
+er004:009	15b	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:009	16a	@	-	suusanilaiset
+er004:009	16b	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:009	18a	@	-	dehavilaiset
+er004:009	18b	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:009	19a	@	-	eelamilaiset
+er004:009	19b	%case	NOM	
+er004:009	-	(,)	-	,␣
+er004:010	er004:010	er004:010	VERSE	Esr␣4:10␣
+er004:010	1a	@	-	ja␣
+er004:010	1b	@	-	muut␣
+er004:010	2a	@	-	kansat
+er004:010	2b	%case	NOM	
+er004:010	-	(,)	-	,␣
+er004:010	3	@	-	jotka␣
+er004:010	6a	@	-	suuri␣
+er004:010	6b	%case	NOM	
+er004:010	7a	@	-	ja␣
+er004:010	7b	@	-	mainehikas␣
+er004:010	7c	%case	NOM	
+er004:010	5	@	-	Aasenappar␣
+er004:010	4	@	-	vei␣
+er004:010	4	@	-	pakkosiirtolaisuuteen␣
+er004:010	8a	@	-	ja␣
+er004:010	8b	@	-	sijoitti␣
+er004:010	(9)	-	UNTRANSLATED	
+er004:010	12	@	-	Samarian␣
+er004:010	11	%case	GEN	
+er004:010	10b	@	-	kaupunkiin␣
+er004:010	10a	%case	LOC	
+er004:010	13a	@	-	ja␣
+er004:010	13b	@	-	muualle
+er004:010	-	(,)	-	,␣
+er004:010	14	@	-	tälle␣
+er004:010	14	@	-	puolelle␣
+er004:010	15a	@	-	Eufrat-virran
+er004:010	15b	%case	GEN	
+er004:010	-	(,)	-	,
+er004:010	-	(@)	-	"␣
+er004:010	16a	@	-	ja␣
+er004:010	16b	@	-	niin␣
+er004:010	16b	@	-	edespäin
+er004:010	-	(.)	-	.␣
+er004:011	er004:011	er004:011	VERSE	Esr␣4:11␣
+er004:011	1	@	-	Tämä␣
+er004:011	-	(@)	-	on␣
+er004:011	2	@	-	jäljennös␣
+er004:011	3a	@	-	kirjeestä
+er004:011	3b	%case	LOC	
+er004:011	-	(,)	-	,␣
+er004:011	4	@	-	jonka␣
+er004:011	5	(@)	-	he␣
+er004:011	5	@	-	lähettivät␣
+er004:011	6	@	-	hänelle
+er004:011	-	(:)	-	:␣
+er004:011	-	(@)	-	"
+er004:011	9a	@	-	Kuningas␣
+er004:011	9b	%case	NOM	
+er004:011	8	@	-	Artahsastalle␣
+er004:011	7	%case	LOC	
+er004:011	pers%11	@	-	sinun␣
+er004:011	11	@	-	palvelijasi
+er004:011	-	(,)	-	,␣
+er004:011	12	@	-	miehet␣
+er004:011	13	@	-	tältä␣
+er004:011	13	@	-	puolelta␣
+er004:011	14a	@	-	Eufrat-virran
+er004:011	14b	%case	GEN	
+er004:011	-	(,)	-	,
+er004:011	-	(@)	-	"␣
+er004:011	15a	@	-	ja␣
+er004:011	15b	@	-	niin␣
+er004:011	15b	@	-	edespäin
+er004:011	-	(.)	-	.␣
+er004:012	er004:012	er004:012	VERSE	Esr␣4:12␣
+er004:012	-	(@)	-	"
+er004:012	1	@	-	Tietäköön␣
+er004:012	2	%case	?	
+er004:012	3b	@	-	kuningas
+er004:012	3c	%case	NOM	
+er004:012	3a	%case	NOM	
+er004:012	-	(,)	-	,␣
+er004:012	4	@	-	että␣
+er004:012	-	(@)	-	ne␣
+er004:012	5a	@	-	juutalaiset
+er004:012	5b	%case	NOM	
+er004:012	-	(,)	-	,␣
+er004:012	6	@	-	jotka␣
+er004:012	7	@	-	lähtivät␣
+er004:012	pers%9	@	-	sinun␣
+er004:012	9	@	-	luotasi␣
+er004:012	8	%case	?	
+er004:012	pers%10	@	-	meidän␣
+er004:012	10	@	-	luoksemme
+er004:012	-	(,)	-	,␣
+er004:012	11	(@)	-	ovat␣
+er004:012	11	@	-	tulleet␣
+er004:012	12b	@	-	Jerusalemiin
+er004:012	12a	%case	LOC	
+er004:012	-	(.)	-	.␣
+er004:012	pro%16	@	-	He␣
+er004:012	16	(@)	-	ovat␣
+er004:012	-	(@)	-	nyt␣
+er004:012	16	@	-	rakentamassa␣
+er004:012	-	(@)	-	tuota␣
+er004:012	14a	@	-	kapinallista␣
+er004:012	14b	%case	PTV	
+er004:012	15a	@	-	ja␣
+er004:012	15b	@	-	pahaa␣
+er004:012	15c	%case	PTV	
+er004:012	13a	@	-	kaupunkia␣
+er004:012	13b	%case	PTV	
+er004:012	18a	@	-	ja␣
+er004:012	20	@	-	panemassa␣
+er004:012	20	@	-	kuntoon␣
+er004:012	18b	@	-	muureja␣
+er004:012	18c	%case	PTV	
+er004:012	21a	@	-	ja␣
+er004:012	22	@	-	korjaamassa␣
+er004:012	21b	@	-	perustuksia
+er004:012	21c	%case	PTV	
+er004:012	-	(.)	-	.␣
+er004:013	er004:013	er004:013	VERSE	Esr␣4:13␣
+er004:013	1	@	-	Niin␣
+er004:013	2	@	-	tietäköön␣
+er004:013	3	%case	?	
+er004:013	4b	@	-	kuningas
+er004:013	4a 4c	%case	NOM	
+er004:013	-	(,)	-	,␣
+er004:013	5	@	-	että␣
+er004:013	6	@	-	jos␣
+er004:013	8	@	-	se␣
+er004:013	7a	@	-	kaupunki␣
+er004:013	7b	%case	NOM	
+er004:013	9	@	-	rakennetaan␣
+er004:013	10a	@	-	ja␣
+er004:013	10b	@	-	muurit␣
+er004:013	10c	%case	NOM	
+er004:013	11	@	-	pannaan␣
+er004:013	11	@	-	kuntoon
+er004:013	-	(,)	-	,␣
+er004:013	16	(@)	-	he␣
+er004:013	15	@	-	eivät␣
+er004:013	16	@	-	suorita␣
+er004:013	12	@	-	rahaveroa
+er004:013	-	(,)	-	,␣
+er004:013	-	(@)	-	eivät␣
+er004:013	13	@	-	luonnontuotteita␣
+er004:013	14a	@	-	eivätkä␣
+er004:013	14b	@	-	tierahaa
+er004:013	-	(,)	-	,␣
+er004:013	17a	@	-	ja␣
+er004:013	-	(@)	-	siitä␣
+er004:013	19	@	-	kärsivät␣
+er004:013	18	@	-	kuningasten␣
+er004:013	17b	@	-	tulot
+er004:013	-	(.)	-	.␣
+er004:014	er004:014	er004:014	VERSE	Esr␣4:14␣
+er004:014	2 3 4	@	-	Koska␣
+er004:014	1	@	-	kerran␣
+er004:014	7	(@)	-	me␣
+er004:014	7	@	-	syömme␣
+er004:014	6a	@	-	palatsin␣
+er004:014	6b	%case	GEN	
+er004:014	5	@	-	suolaa␣
+er004:014	10 8a	@	-	eikä␣
+er004:014	12	@	-	meidän␣
+er004:014	11	@	-	sovi␣
+er004:014	13b	@	-	nähdä␣
+er004:014	13a	%case	LAT	
+er004:014	9a	@	-	kuninkaan␣
+er004:014	9b	%case	GEN	
+er004:014	8b	@	-	häpäisemistä
+er004:014	-	(,)	-	,␣
+er004:014	14 15	@	-	sentähden␣
+er004:014	16	(@)	-	me␣
+er004:014	16	@	-	lähetämme␣
+er004:014	17a	@	-	ja␣
+er004:014	17b	@	-	ilmoitamme␣
+er004:014	-	(@)	-	tämän␣
+er004:014	18b	@	-	kuninkaalle
+er004:014	18a 18c	%case	LOC	
+er004:014	-	(,)	-	,␣
+er004:015	er004:015	er004:015	VERSE	Esr␣4:15␣
+er004:015	1	@	-	että␣
+er004:015	2	(@)	-	hän␣
+er004:015	2	@	-	tutkituttaisi␣
+er004:015	pers%6	@	-	sinun␣
+er004:015	6	@	-	isiesi␣
+er004:015	5	%case	GEN	
+er004:015	3b 4a	@	-	aikakirjaa
+er004:015	3a 4b	%case	PTV	
+er004:015	-	(;)	-	;␣
+er004:015	7a	@	-	sillä␣
+er004:015	8b 9a	@	-	aikakirjasta␣
+er004:015	9b	%case	LOC	
+er004:015	8a	%case	LOC	
+er004:015	7b	(@)	-	sinä␣
+er004:015	7b	@	-	huomaat␣
+er004:015	10a	@	-	ja␣
+er004:015	10b	(@)	-	saat␣
+er004:015	10b	@	-	tietää
+er004:015	-	(,)	-	,␣
+er004:015	11	@	-	että␣
+er004:015	13	@	-	se␣
+er004:015	12a	@	-	kaupunki␣
+er004:015	12b	%case	NOM	
+er004:015	-	(@)	-	on␣
+er004:015	-	(@)	-	ollut␣
+er004:015	15	@	-	kapinallinen␣
+er004:015	14	@	-	kaupunki
+er004:015	-	(,)	-	,␣
+er004:015	16a	@	-	joka␣
+er004:015	16b	(@)	-	on␣
+er004:015	16b	@	-	tuottanut␣
+er004:015	17	@	-	kuninkaille␣
+er004:015	18a	@	-	ja␣
+er004:015	18b	@	-	maakunnille␣
+er004:015	16b	@	-	vahinkoa␣
+er004:015	19a	@	-	ja␣
+er004:015	21b	@	-	jossa␣
+er004:015	21a	%case	LOC	
+er004:015	24a	@	-	ammoisista␣
+er004:015	24b	%case	LOC	
+er004:015	23	@	-	ajoista␣
+er004:015	22	%case	LOC	
+er004:015	20	(@)	-	on␣
+er004:015	20	@	-	pantu␣
+er004:015	20	@	-	toimeen␣
+er004:015	19b	@	-	levottomuuksia
+er004:015	-	(.)	-	.␣
+er004:015	25 26	@	-	Sentähden␣
+er004:015	28	@	-	se␣
+er004:015	27a	@	-	kaupunki␣
+er004:015	27b	%case	NOM	
+er004:015	29	(@)	-	on␣
+er004:015	29	@	-	hävitetty
+er004:015	-	(.)	-	.␣
+er004:016	er004:016	er004:016	VERSE	Esr␣4:16␣
+er004:016	2	@	-	Me␣
+er004:016	1	@	-	ilmoitamme␣
+er004:016	-	(@)	-	siis␣
+er004:016	3b	@	-	kuninkaalle
+er004:016	3a 3c	%case	LOC	
+er004:016	-	(,)	-	,␣
+er004:016	4	@	-	että␣
+er004:016	5	@	-	jos␣
+er004:016	7	@	-	se␣
+er004:016	6a	@	-	kaupunki␣
+er004:016	6b	%case	NOM	
+er004:016	8	@	-	rakennetaan␣
+er004:016	9a	@	-	ja␣
+er004:016	9b	@	-	muurit␣
+er004:016	9c	%case	NOM	
+er004:016	10	@	-	pannaan␣
+er004:016	10	@	-	kuntoon
+er004:016	(11a) (11b) (12)	-	UNTRANSLATED	
+er004:016	-	(,)	-	,␣
+er004:016	16	@	-	ei␣
+er004:016	18	@	-	sinulla␣
+er004:016	17	(@)	-	ole␣
+er004:016	17	@	-	oleva␣
+er004:016	-	(@)	-	mitään␣
+er004:016	13	@	-	osaa␣
+er004:016	14b	@	-	tällä␣
+er004:016	14b	@	-	puolella␣
+er004:016	14a	%case	LOC	
+er004:016	15a	@	-	Eufrat-virran␣
+er004:016	15b	%case	GEN	
+er004:016	-	(@)	-	olevaan␣
+er004:016	-	(@)	-	maahan
+er004:016	-	(.)	-	.
+er004:016	-	(@)	-	"␣
+er004:017	er004:017	er004:017	VERSE	Esr␣4:17␣
+er004:017	3a	@	-	Kuningas␣
+er004:017	3b	%case	NOM	
+er004:017	2	@	-	lähetti␣
+er004:017	1a	@	-	vastauksen␣
+er004:017	1b	%case	GEN	
+er004:017	6 7	@	-	käskynhaltija␣
+er004:017	5	@	-	Rehumille␣
+er004:017	4	%case	LOC	
+er004:017	8a	@	-	ja␣
+er004:017	9a	@	-	kirjuri␣
+er004:017	9b	%case	NOM	
+er004:017	8b	@	-	Simsaille␣
+er004:017	10a	@	-	ja␣
+er004:017	10b	@	-	muille␣
+er004:017	pers%11	@	-	heidän␣
+er004:017	11	@	-	virkatovereilleen
+er004:017	-	(,)	-	,␣
+er004:017	12	@	-	jotka␣
+er004:017	13	@	-	asuivat␣
+er004:017	14b	@	-	Samariassa␣
+er004:017	14a	%case	LOC	
+er004:017	15a	@	-	ja␣
+er004:017	15b	@	-	muualla␣
+er004:017	16	@	-	tällä␣
+er004:017	16	@	-	puolella␣
+er004:017	17a	@	-	Eufrat-virran
+er004:017	17b	%case	GEN	
+er004:017	-	(:)	-	:␣
+er004:017	-	(@)	-	"
+er004:017	18	@	-	Rauhaa
+er004:017	-	(@)	-	"␣
+er004:017	19a	@	-	ja␣
+er004:017	19b	@	-	niin␣
+er004:017	19b	@	-	edespäin
+er004:017	-	(.)	-	.␣
+er004:018	er004:018	er004:018	VERSE	Esr␣4:18␣
+er004:018	-	(@)	-	"
+er004:018	1a	@	-	Kirjelmä
+er004:018	1b	%case	NOM	
+er004:018	-	(,)	-	,␣
+er004:018	2	@	-	jonka␣
+er004:018	4	@	-	meille␣
+er004:018	3	@	-	lähetitte
+er004:018	-	(,)	-	,␣
+er004:018	6	(@)	-	on␣
+er004:018	7	@	-	minulle␣
+er004:018	5	@	-	tarkkaan␣
+er004:018	6	@	-	luettu
+er004:018	-	(.)	-	.␣
+er004:019	er004:019	er004:019	VERSE	Esr␣4:19␣
+er004:019	(1a)	-	UNTRANSLATED	
+er004:019	1b	@	-	Minä␣
+er004:019	2	@	-	annoin␣
+er004:019	3	@	-	käskyn␣
+er004:019	(4a)	-	UNTRANSLATED	
+er004:019	4b	@	-	tutkia␣
+er004:019	-	(@)	-	asiaa
+er004:019	-	(,)	-	,␣
+er004:019	5a	@	-	ja␣
+er004:019	5b	@	-	huomattiin
+er004:019	-	(,)	-	,␣
+er004:019	6	@	-	että␣
+er004:019	8	@	-	se␣
+er004:019	7a	@	-	kaupunki␣
+er004:019	7b	%case	NOM	
+er004:019	11a	@	-	ammoisista␣
+er004:019	11b	%case	LOC	
+er004:019	10	@	-	ajoista␣
+er004:019	9	@	-	asti␣
+er004:019	14	(@)	-	on␣
+er004:019	14	@	-	noussut␣
+er004:019	13	@	-	kuninkaita␣
+er004:019	12	@	-	vastaan␣
+er004:019	15a	@	-	ja␣
+er004:019	-	(@)	-	että␣
+er004:019	18	@	-	siellä␣
+er004:019	17	(@)	-	on␣
+er004:019	17	@	-	pantu␣
+er004:019	17	@	-	toimeen␣
+er004:019	15b	@	-	kapinoita␣
+er004:019	16a	@	-	ja␣
+er004:019	16b	@	-	levottomuuksia
+er004:019	-	(.)	-	.␣
+er004:020	er004:020	er004:020	VERSE	Esr␣4:20␣
+er004:020	(1a)	-	UNTRANSLATED	
+er004:020	5	@	-	Jerusalemissa␣
+er004:020	4	%case	LOC	
+er004:020	3	(@)	-	on␣
+er004:020	3	@	-	ollut␣
+er004:020	2	@	-	mahtavia␣
+er004:020	1b	@	-	kuninkaita
+er004:020	-	(,)	-	,␣
+er004:020	6a	@	-	jotka␣
+er004:020	6b	(@)	-	ovat␣
+er004:020	6b	@	-	hallinneet␣
+er004:020	7b	@	-	kaikkea␣
+er004:020	7a	%case	PTV	
+er004:020	9a	@	-	Eufrat-virran␣
+er004:020	9b	%case	GEN	
+er004:020	8	@	-	senpuoleista␣
+er004:020	-	(@)	-	maata␣
+er004:020	10a	@	-	ja␣
+er004:020	14	@	-	joille␣
+er004:020	13	(@)	-	on␣
+er004:020	13	@	-	suoritettu␣
+er004:020	10b	@	-	rahaveroa
+er004:020	-	(,)	-	,␣
+er004:020	11	@	-	luonnontuotteita␣
+er004:020	12a	@	-	ja␣
+er004:020	12b	@	-	tierahaa
+er004:020	-	(.)	-	.␣
+er004:021	er004:021	er004:021	VERSE	Esr␣4:21␣
+er004:021	2	@	-	Antakaa␣
+er004:021	1	@	-	siis␣
+er004:021	3	@	-	käsky
+er004:021	-	(,)	-	,␣
+er004:021	4a	@	-	että␣
+er004:021	6	@	-	ne␣
+er004:021	5a	@	-	miehet␣
+er004:021	5b	%case	NOM	
+er004:021	4b	(@)	-	on␣
+er004:021	4b	@	-	estettävä␣
+er004:021	4b	@	-	työstään␣
+er004:021	7a	@	-	ja␣
+er004:021	-	(@)	-	että␣
+er004:021	8	@	-	se␣
+er004:021	7b	@	-	kaupunki␣
+er004:021	7c	%case	NOM	
+er004:021	10	(@)	-	on␣
+er004:021	10	@	-	jätettävä␣
+er004:021	10	@	-	rakentamatta
+er004:021	9	%case	ABE	
+er004:021	-	(,)	-	,␣
+er004:021	11	@	-	kunnes␣
+er004:021	12	@	-	minulta␣
+er004:021	14	@	-	tulee␣
+er004:021	13a	@	-	käsky
+er004:021	13b	%case	NOM	
+er004:021	-	(.)	-	.␣
+er004:022	er004:022	er004:022	VERSE	Esr␣4:22␣
+er004:022	1a	@	-	Ja␣
+er004:022	1b	@	-	varokaa
+er004:022	2	%case	?	
+er004:022	-	(,)	-	,␣
+er004:022	3	@	-	ettette␣
+er004:022	4b	@	-	lyö␣
+er004:022	4b	@	-	laimin␣
+er004:022	4a	%case	?	
+er004:022	-	(@)	-	mitään␣
+er004:022	6	@	-	tässä␣
+er004:022	5	%case	LOC	
+er004:022	-	(@)	-	asiassa
+er004:022	-	(,)	-	,␣
+er004:022	7	@	-	etteivät␣
+er004:022	11	@	-	kuninkaat␣
+er004:022	8	@	-	kärsisi␣
+er004:022	-	(@)	-	siitä␣
+er004:022	10b	@	-	suurta␣
+er004:022	10a	%case	PTV	
+er004:022	9a	@	-	vahinkoa
+er004:022	9b	%case	PTV	
+er004:022	-	(.)	-	.
+er004:022	-	(@)	-	"␣
+er004:023	er004:023	er004:023	VERSE	Esr␣4:23␣
+er004:023	1 2 3	@	-	Niin␣
+er004:023	1 2 3	@	-	pian␣
+er004:023	1 2 3	@	-	kuin␣
+er004:023	9a	@	-	kuningas␣
+er004:023	(9b)	-	UNTRANSLATED	
+er004:023	7	@	-	Artahsastan␣
+er004:023	6	%case	GEN	
+er004:023	5a	@	-	kirjelmän␣
+er004:023	5b	%case	GEN	
+er004:023	4	@	-	jäljennös␣
+er004:023	10	(@)	-	oli␣
+er004:023	10	@	-	luettu␣
+er004:023	12	@	-	Rehumille
+er004:023	11	%case	LOC	
+er004:023	(13a)	-	UNTRANSLATED	
+er004:023	-	(,)	-	,␣
+er004:023	14a	@	-	kirjuri␣
+er004:023	14b	%case	NOM	
+er004:023	13b	@	-	Simsaille␣
+er004:023	15a	@	-	ja␣
+er004:023	pers%15b	@	-	heidän␣
+er004:023	15b	@	-	virkatovereilleen
+er004:023	-	(,)	-	,␣
+er004:023	16	@	-	menivät␣
+er004:023	16	(@)	-	he␣
+er004:023	17b	@	-	kiiruusti␣
+er004:023	17a	%case	?	
+er004:023	18b	@	-	Jerusalemiin␣
+er004:023	18a	%case	LOC	
+er004:023	20a	@	-	juutalaisten␣
+er004:023	20b	%case	GEN	
+er004:023	19	@	-	luo␣
+er004:023	21a	@	-	ja␣
+er004:023	21b	@	-	estivät␣
+er004:023	23b 24b	@	-	väkivoimalla␣
+er004:023	24a	%case	LOC	
+er004:023	23a	%case	LOC	
+er004:023	22	@	-	heidät␣
+er004:023	sem%21b	@	-	työtä␣
+er004:023	sem%21b	@	-	tekemästä
+er004:023	-	(.)	-	.␣
+er004:024	er004:024	er004:024	VERSE	Esr␣4:24␣
+er004:024	1a 1b	@	-	Silloin␣
+er004:024	2	@	-	pysähtyi␣
+er004:024	5a	@	-	Jumalan␣
+er004:024	5b	%case	GEN	
+er004:024	4	@	-	temppelin␣
+er004:024	3	@	-	rakennustyö␣
+er004:024	7b	@	-	Jerusalemissa␣
+er004:024	6 7a	%case	LOC	
+er004:024	8a	@	-	ja␣
+er004:024	8b	@	-	oli␣
+er004:024	9	@	-	pysähdyksissä␣
+er004:024	14	@	-	Daarejaveksen
+er004:024	-	(,)	-	,␣
+er004:024	16	@	-	Persian␣
+er004:024	15	@	-	kuninkaan
+er004:024	-	(,)	-	,␣
+er004:024	12	@	-	toiseen␣
+er004:024	11 13b	@	-	hallitusvuoteen␣
+er004:024	13a	%case	LOC	
+er004:024	10	@	-	asti
+er004:024	-	(.)	-	.␣
+er005:001	er005:001	er005:001	VERSE	Esr␣5:1␣
+er005:001	1a	@	-	Mutta␣
+er005:001	4a	@	-	profeetta␣
+er005:001	4b	%case	NOM	
+er005:001	2	@	-	Haggai␣
+er005:001	5a	@	-	ja␣
+er005:001	5b	@	-	Sakarja
+er005:001	-	(,)	-	,␣
+er005:001	7	@	-	Iddon␣
+er005:001	6	@	-	poika
+er005:001	-	(,)	-	,␣
+er005:001	9a	@	-	profeetat
+er005:001	9b	%case	NOM	
+er005:001	-	(,)	-	,␣
+er005:001	1b	@	-	ennustivat␣
+er005:001	13b	@	-	Juudassa␣
+er005:001	12 13a	%case	LOC	
+er005:001	14a	@	-	ja␣
+er005:001	14c	@	-	Jerusalemissa␣
+er005:001	14b	%case	LOC	
+er005:001	-	(@)	-	oleville␣
+er005:001	11a	@	-	juutalaisille␣
+er005:001	11b	%case	LOC	
+er005:001	10	%case	LOC	
+er005:001	17	@	-	Israelin␣
+er005:001	16	@	-	Jumalan␣
+er005:001	15b	@	-	nimeen
+er005:001	15a	%case	LOC	
+er005:001	-	(,)	-	,␣
+er005:001	18	@	-	hänen
+er005:001	-	(,)	-	,␣
+er005:001	-	(@)	-	jonka␣
+er005:001	18	@	-	nimiin␣
+er005:001	-	(@)	-	he␣
+er005:001	-	(@)	-	olivat␣
+er005:001	-	(@)	-	otetut
+er005:001	-	(.)	-	.␣
+er005:002	er005:002	er005:002	VERSE	Esr␣5:2␣
+er005:002	1a 1b	@	-	Niin␣
+er005:002	3	@	-	Serubbaabel
+er005:002	-	(,)	-	,␣
+er005:002	5	@	-	Sealtielin␣
+er005:002	4	@	-	poika
+er005:002	-	(,)	-	,␣
+er005:002	6a	@	-	ja␣
+er005:002	6b	@	-	Jeesua
+er005:002	-	(,)	-	,␣
+er005:002	8	@	-	Joosadakin␣
+er005:002	7	@	-	poika
+er005:002	-	(,)	-	,␣
+er005:002	2	@	-	nousivat␣
+er005:002	9a	@	-	ja␣
+er005:002	9b	@	-	alkoivat␣
+er005:002	10b	@	-	rakentaa␣
+er005:002	10a	%case	LAT	
+er005:002	12a	@	-	Jumalan␣
+er005:002	12b	%case	GEN	
+er005:002	11	@	-	temppeliä␣
+er005:002	14b	@	-	Jerusalemissa
+er005:002	13 14a	%case	LOC	
+er005:002	-	(,)	-	,␣
+er005:002	15a	@	-	ja␣
+er005:002	pers%15b	@	-	heidän␣
+er005:002	15b	@	-	kanssansa␣
+er005:002	19a	@	-	Jumalan␣
+er005:002	19b	%case	GEN	
+er005:002	18	%case	GEN	
+er005:002	17a	@	-	profeetat
+er005:002	17b	%case	NOM	
+er005:002	-	(,)	-	,␣
+er005:002	-	(@)	-	jotka␣
+er005:002	20	@	-	tukivat␣
+er005:002	21	@	-	heitä
+er005:002	-	(.)	-	.␣
+er005:003	er005:003	er005:003	VERSE	Esr␣5:3␣
+er005:003	sem%2a	@	-	Siihen␣
+er005:003	2a	@	-	aikaan␣
+er005:003	2b	%case	LOC	
+er005:003	1	%case	LOC	
+er005:003	3	@	-	tulivat␣
+er005:003	pers%4	@	-	heidän␣
+er005:003	4	@	-	luoksensa␣
+er005:003	5	@	-	Tattenai
+er005:003	-	(,)	-	,␣
+er005:003	8a	@	-	Eufrat-virran␣
+er005:003	8b	%case	GEN	
+er005:003	7	@	-	tämänpuoleisen␣
+er005:003	-	(@)	-	maan␣
+er005:003	6	@	-	käskynhaltija
+er005:003	-	(,)	-	,␣
+er005:003	9a	@	-	ja␣
+er005:003	9b	@	-	Setar-Boosenai␣
+er005:003	10a	@	-	sekä␣
+er005:003	pers%10b	@	-	heidän␣
+er005:003	10b	@	-	virkatoverinsa␣
+er005:003	11a	@	-	ja␣
+er005:003	12	@	-	sanoivat␣
+er005:003	13	@	-	heille␣
+er005:003	11b	@	-	näin
+er005:003	-	(:)	-	:␣
+er005:003	-	(@)	-	"
+er005:003	14	@	-	Kuka␣
+er005:003	15 17	(@)	-	on␣
+er005:003	15 17	@	-	käskenyt␣
+er005:003	16	@	-	teitä␣
+er005:003	20b	@	-	rakentamaan␣
+er005:003	20a	%case	LOC	
+er005:003	19	@	-	tätä␣
+er005:003	18a	@	-	temppeliä␣
+er005:003	18b	%case	PTV	
+er005:003	21a	@	-	ja␣
+er005:003	23b	@	-	panemaan␣
+er005:003	23a	%case	LOC	
+er005:003	23b	@	-	kuntoon␣
+er005:003	22	@	-	tätä␣
+er005:003	21b	@	-	muuria
+er005:003	21c	%case	PTV	
+er005:003	-	(?)	-	?
+er005:003	-	(@)	-	"␣
+er005:004	er005:004	er005:004	VERSE	Esr␣5:4␣
+er005:004	1 2	@	-	Niin␣
+er005:004	3	(@)	-	me␣
+er005:004	3	@	-	sanoimme␣
+er005:004	4	@	-	heille␣
+er005:004	(5)	-	UNTRANSLATED	
+er005:004	6	@	-	niiden␣
+er005:004	8a	@	-	miesten␣
+er005:004	8b	%case	GEN	
+er005:004	7	@	-	nimet
+er005:004	-	(,)	-	,␣
+er005:004	9	@	-	jotka␣
+er005:004	10	@	-	tätä␣
+er005:004	11a	@	-	rakennusta␣
+er005:004	11b	%case	PTV	
+er005:004	12	@	-	rakensivat
+er005:004	-	(.)	-	.␣
+er005:005	er005:005	er005:005	VERSE	Esr␣5:5␣
+er005:005	1a	@	-	Ja␣
+er005:005	6a	@	-	juutalaisten␣
+er005:005	6b	%case	GEN	
+er005:005	5	@	-	vanhinten␣
+er005:005	4	@	-	yllä␣
+er005:005	3	@	-	oli␣
+er005:005	pers%2	@	-	heidän␣
+er005:005	2	@	-	Jumalansa␣
+er005:005	1b	@	-	silmä
+er005:005	-	(,)	-	,␣
+er005:005	7a	@	-	niin␣
+er005:005	7b	@	-	ettei␣
+er005:005	9	@	-	heitä␣
+er005:005	8	@	-	estetty␣
+er005:005	8	@	-	työstä
+er005:005	-	(,)	-	,␣
+er005:005	10	@	-	vaan␣
+er005:005	13	@	-	meni␣
+er005:005	11a	@	-	kertomus␣
+er005:005	11b	%case	NOM	
+er005:005	-	(@)	-	asiasta␣
+er005:005	12b	@	-	Daarejavekselle␣
+er005:005	12a	%case	LOC	
+er005:005	14a	@	-	ja␣
+er005:005	-	(@)	-	odotettiin␣
+er005:005	(14b)	-	UNTRANSLATED	
+er005:005	18	@	-	sitä␣
+er005:005	17	@	-	koskevan␣
+er005:005	16a	@	-	kirjoituksen␣
+er005:005	16b	%case	GEN	
+er005:005	15	@	-	tuloa␣
+er005:005	sem%15	@	-	sieltä␣
+er005:005	15	@	-	takaisin
+er005:005	-	(.)	-	.␣
+er005:006	er005:006	er005:006	VERSE	Esr␣5:6␣
+er005:006	1	@	-	Jäljennös␣
+er005:006	2a	@	-	kirjeestä
+er005:006	2b	%case	LOC	
+er005:006	-	(,)	-	,␣
+er005:006	3	@	-	jonka␣
+er005:006	5	@	-	Tattenai
+er005:006	-	(,)	-	,␣
+er005:006	8a	@	-	Eufrat-virran␣
+er005:006	8b	%case	GEN	
+er005:006	7	@	-	tämänpuoleisen␣
+er005:006	-	(@)	-	maan␣
+er005:006	6	@	-	käskynhaltija
+er005:006	-	(,)	-	,␣
+er005:006	9a	@	-	ja␣
+er005:006	9b	@	-	Setar-Boosenai␣
+er005:006	10a	@	-	sekä␣
+er005:006	pers%10b	@	-	tämän␣
+er005:006	10b	@	-	virkatoverit
+er005:006	-	(,)	-	,␣
+er005:006	-	(@)	-	ne␣
+er005:006	11a	@	-	afarsakilaiset
+er005:006	11b	%case	NOM	
+er005:006	-	(,)	-	,␣
+er005:006	12	@	-	jotka␣
+er005:006	-	(@)	-	olivat␣
+er005:006	13b	@	-	tällä␣
+er005:006	13b	@	-	puolella␣
+er005:006	13a	%case	LOC	
+er005:006	14a	@	-	Eufrat-virran
+er005:006	14b	%case	GEN	
+er005:006	-	(,)	-	,␣
+er005:006	4	@	-	lähettivät␣
+er005:006	17a	@	-	kuningas␣
+er005:006	17b	%case	NOM	
+er005:006	16	@	-	Daarejavekselle
+er005:006	15	%case	LOC	
+er005:006	-	(;)	-	;␣
+er005:007	er005:007	er005:007	VERSE	Esr␣5:7␣
+er005:007	2	(@)	-	he␣
+er005:007	-	(@)	-	näet␣
+er005:007	2	@	-	lähettivät␣
+er005:007	3	@	-	hänelle␣
+er005:007	1a	@	-	kertomuksen
+er005:007	1b	%case	GEN	
+er005:007	-	(,)	-	,␣
+er005:007	4a	@	-	ja␣
+er005:007	6b	@	-	siihen␣
+er005:007	6a	%case	LOC	
+er005:007	5	(@)	-	oli␣
+er005:007	5	@	-	kirjoitettu␣
+er005:007	4b 4c	@	-	näin
+er005:007	-	(:)	-	:␣
+er005:007	-	(@)	-	"
+er005:007	8a	@	-	Kuningas␣
+er005:007	8b	%case	NOM	
+er005:007	7b	@	-	Daarejavekselle␣
+er005:007	7a	%case	LOC	
+er005:007	10a	@	-	kaikkea␣
+er005:007	10b	%case	PTV	
+er005:007	9a	@	-	rauhaa
+er005:007	9b	%case	PTV	
+er005:007	-	(!)	-	!␣
+er005:008	er005:008	er005:008	VERSE	Esr␣5:8␣
+er005:008	1	@	-	Tietäköön␣
+er005:008	2	%case	?	
+er005:008	3b	@	-	kuningas
+er005:008	3a 3c	%case	NOM	
+er005:008	-	(,)	-	,␣
+er005:008	4	@	-	että␣
+er005:008	5	(@)	-	me␣
+er005:008	5	@	-	menimme␣
+er005:008	6b	@	-	Juudan␣
+er005:008	7a	@	-	maakuntaan
+er005:008	7b	%case	LOC	
+er005:008	6a	%case	LOC	
+er005:008	-	(,)	-	,␣
+er005:008	10a	@	-	suuren␣
+er005:008	10b	%case	GEN	
+er005:008	9a	@	-	Jumalan␣
+er005:008	9b	%case	GEN	
+er005:008	8b	@	-	temppelille
+er005:008	8a	%case	LOC	
+er005:008	(11a)	-	UNTRANSLATED	
+er005:008	-	(.)	-	.␣
+er005:008	11b	@	-	Sitä␣
+er005:008	12	@	-	rakennetaan␣
+er005:008	14	@	-	suurista␣
+er005:008	13	@	-	kivistä
+er005:008	-	(,)	-	,␣
+er005:008	15a	@	-	ja␣
+er005:008	15b	@	-	hirsiä␣
+er005:008	16	@	-	pannaan␣
+er005:008	17b	@	-	seiniin
+er005:008	17a 17c	%case	LOC	
+er005:008	(18a)	-	UNTRANSLATED	
+er005:008	-	(.)	-	.␣
+er005:008	18b	@	-	Työ␣
+er005:008	18c	%case	NOM	
+er005:008	(19)	-	UNTRANSLATED	
+er005:008	21	@	-	tehdään␣
+er005:008	20	@	-	tarkasti␣
+er005:008	22a	@	-	ja␣
+er005:008	22b	@	-	sujuu␣
+er005:008	pers%23b	@	-	heidän␣
+er005:008	23b	@	-	käsissään
+er005:008	23a	%case	LOC	
+er005:008	-	(.)	-	.␣
+er005:009	er005:009	er005:009	VERSE	Esr␣5:9␣
+er005:009	1	@	-	Sitten␣
+er005:009	2	(@)	-	me␣
+er005:009	2	@	-	kysyimme␣
+er005:009	3b	@	-	vanhimmilta␣
+er005:009	3a 3c	%case	LOC	
+er005:009	-	(@)	-	ja␣
+er005:009	(4)	-	UNTRANSLATED	
+er005:009	6	@	-	sanoimme␣
+er005:009	7	@	-	heille␣
+er005:009	5	@	-	näin
+er005:009	-	(:)	-	:␣
+er005:009	-	(@)	-	'
+er005:009	8	@	-	Kuka␣
+er005:009	11 9	(@)	-	on␣
+er005:009	11 9	@	-	käskenyt␣
+er005:009	10	@	-	teitä␣
+er005:009	14b	@	-	rakentamaan␣
+er005:009	14a	%case	LOC	
+er005:009	13	@	-	tätä␣
+er005:009	12a	@	-	temppeliä␣
+er005:009	12b	%case	PTV	
+er005:009	15a	@	-	ja␣
+er005:009	17b	@	-	panemaan␣
+er005:009	17a	%case	LOC	
+er005:009	17b	@	-	kuntoon␣
+er005:009	16	@	-	tätä␣
+er005:009	15b	@	-	muuria
+er005:009	15c	%case	PTV	
+er005:009	-	(?)	-	?
+er005:009	-	(@)	-	'␣
+er005:010	er005:010	er005:010	VERSE	Esr␣5:10␣
+er005:010	3	(@)	-	Me␣
+er005:010	3	@	-	kysyimme␣
+er005:010	4	@	-	heiltä␣
+er005:010	1a 1b	@	-	myöskin␣
+er005:010	pers%2	@	-	heidän␣
+er005:010	2	@	-	nimiänsä␣
+er005:010	5b	@	-	ilmoittaaksemme␣
+er005:010	5a	%case	TRA	
+er005:010	-	(@)	-	ne␣
+er005:010	pers%5b	@	-	sinulle␣
+er005:010	-	(@)	-	ja␣
+er005:010	(6)	-	UNTRANSLATED	
+er005:010	7	@	-	kirjoitimme␣
+er005:010	sem%7	@	-	muistiin␣
+er005:010	-	(@)	-	niiden␣
+er005:010	9a	@	-	miesten␣
+er005:010	9b	%case	GEN	
+er005:010	8	@	-	nimet
+er005:010	-	(,)	-	,␣
+er005:010	10	@	-	jotka␣
+er005:010	-	(@)	-	ovat␣
+er005:010	pers%11b	@	-	heitä␣
+er005:010	11b	@	-	johtamassa
+er005:010	11a	%case	LOC	
+er005:010	-	(.)	-	.␣
+er005:011	er005:011	er005:011	VERSE	Esr␣5:11␣
+er005:011	1a	@	-	Ja␣
+er005:011	3	(@)	-	he␣
+er005:011	3	@	-	antoivat␣
+er005:011	pers%3	@	-	meille␣
+er005:011	1b	@	-	tämän␣
+er005:011	2a	@	-	vastauksen
+er005:011	2b	%case	GEN	
+er005:011	(4a) (4b)	-	UNTRANSLATED	
+er005:011	-	(:)	-	:␣
+er005:011	-	(@)	-	'
+er005:011	5	@	-	Me␣
+er005:011	6	@	-	olemme␣
+er005:011	10a	@	-	taivaan␣
+er005:011	10b	%case	GEN	
+er005:011	11a	@	-	ja␣
+er005:011	11b	@	-	maan␣
+er005:011	11c	%case	GEN	
+er005:011	9	@	-	Jumalan␣
+er005:011	8	%case	GEN	
+er005:011	7	@	-	palvelijoita
+er005:011	-	(,)	-	,␣
+er005:011	12a	@	-	ja␣
+er005:011	pro%12b	@	-	me␣
+er005:011	12b	@	-	rakennamme␣
+er005:011	-	(@)	-	uudestaan␣
+er005:011	13a	@	-	temppeliä
+er005:011	13b	%case	PTV	
+er005:011	-	(,)	-	,␣
+er005:011	14	@	-	joka␣
+er005:011	15	@	-	oli␣
+er005:011	16	@	-	rakennettu␣
+er005:011	20	@	-	monta␣
+er005:011	19	@	-	vuotta␣
+er005:011	17a 17b	@	-	sitten
+er005:011	(18) (21a)	-	UNTRANSLATED	
+er005:011	-	(.)	-	.␣
+er005:011	23	@	-	Suuri␣
+er005:011	22b	@	-	Israelin␣
+er005:011	22a	%case	GEN	
+er005:011	21b	@	-	kuningas␣
+er005:011	pers%24	@	-	sen␣
+er005:011	24	@	-	rakensi␣
+er005:011	25a	@	-	ja␣
+er005:011	25b	(@)	-	sai␣
+er005:011	pers%25b	@	-	sen␣
+er005:011	25b	@	-	valmiiksi
+er005:011	-	(.)	-	.␣
+er005:012	er005:012	er005:012	VERSE	Esr␣5:12␣
+er005:012	1	@	-	Mutta␣
+er005:012	2 3	@	-	koska␣
+er005:012	pers%5	@	-	meidän␣
+er005:012	5	@	-	isämme␣
+er005:012	4	@	-	vihoittivat␣
+er005:012	7a	@	-	taivaan␣
+er005:012	7b	%case	GEN	
+er005:012	6b	@	-	Jumalan
+er005:012	6a	%case	GEN	
+er005:012	-	(,)	-	,␣
+er005:012	8	@	-	antoi␣
+er005:012	8	(@)	-	hän␣
+er005:012	9	@	-	heidät␣
+er005:012	15a	@	-	kaldealaisen␣
+er005:012	15b	%case	GEN	
+er005:012	11	@	-	Nebukadnessarin
+er005:012	-	(,)	-	,␣
+er005:012	13	@	-	Baabelin␣
+er005:012	12	@	-	kuninkaan
+er005:012	-	(,)	-	,␣
+er005:012	10b	@	-	käsiin
+er005:012	10a	%case	LOC	
+er005:012	-	(;)	-	;␣
+er005:012	16a	@	-	ja␣
+er005:012	18	(@)	-	hän␣
+er005:012	18	@	-	hävitti␣
+er005:012	17	@	-	tämän␣
+er005:012	16b	@	-	temppelin␣
+er005:012	16c	%case	GEN	
+er005:012	19a	@	-	ja␣
+er005:012	20	@	-	vei␣
+er005:012	19b	@	-	kansan␣
+er005:012	19c	%case	GEN	
+er005:012	20	@	-	pakkosiirtolaisuuteen␣
+er005:012	21b	@	-	Baabeliin
+er005:012	21a	%case	LOC	
+er005:012	-	(.)	-	.␣
+er005:013	er005:013	er005:013	VERSE	Esr␣5:13␣
+er005:013	1	@	-	Mutta␣
+er005:013	4b	@	-	Kooreksen
+er005:013	4a	%case	GEN	
+er005:013	-	(,)	-	,␣
+er005:013	7	@	-	Baabelin␣
+er005:013	6	%case	GEN	
+er005:013	5a	@	-	kuninkaan
+er005:013	5b	%case	GEN	
+er005:013	-	(,)	-	,␣
+er005:013	3	@	-	ensimmäisenä␣
+er005:013	2b	@	-	hallitusvuotena␣
+er005:013	2a	%case	ESS	
+er005:013	10	@	-	antoi␣
+er005:013	9a	@	-	kuningas␣
+er005:013	9b	%case	NOM	
+er005:013	8	@	-	Koores␣
+er005:013	11	@	-	käskyn␣
+er005:013	15b	@	-	rakentaa␣
+er005:013	15a	%case	LAT	
+er005:013	-	(@)	-	uudestaan␣
+er005:013	14	@	-	tämän␣
+er005:013	13a	@	-	Jumalan␣
+er005:013	13b	%case	GEN	
+er005:013	12	@	-	temppelin
+er005:013	-	(.)	-	.␣
+er005:014	er005:014	er005:014	VERSE	Esr␣5:14␣
+er005:014	24a	@	-	Kuningas␣
+er005:014	24b	%case	NOM	
+er005:014	23	@	-	Koores␣
+er005:014	21	(@)	-	antoi␣
+er005:014	1a 1b	@	-	myös␣
+er005:014	21	@	-	tuoda␣
+er005:014	28	@	-	Baabelin␣
+er005:014	27	%case	GEN	
+er005:014	26a	@	-	temppelistä␣
+er005:014	26b	%case	LOC	
+er005:014	25	%case	LOC	
+er005:014	21	@	-	esiin␣
+er005:014	(22)	-	UNTRANSLATED	
+er005:014	5a	@	-	Jumalan␣
+er005:014	5b	%case	GEN	
+er005:014	4	@	-	temppelin␣
+er005:014	3	%case	GEN	
+er005:014	7a	@	-	kulta-~/kultakalut␣
+er005:014	7b	%case	NOM	
+er005:014	6	%case	NOM	
+er005:014	8a	@	-	ja␣
+er005:014	2a 8b	@	-	hopeakalut
+er005:014	2b 8c	%case	NOM	
+er005:014	-	(,)	-	,␣
+er005:014	9	@	-	jotka␣
+er005:014	10	@	-	Nebukadnessar␣
+er005:014	11	(@)	-	oli␣
+er005:014	11	@	-	vienyt␣
+er005:014	11	@	-	pois␣
+er005:014	15b	@	-	Jerusalemin␣
+er005:014	14 15a	%case	GEN	
+er005:014	13a	@	-	temppelistä␣
+er005:014	12 13b	%case	LOC	
+er005:014	16a	@	-	ja␣
+er005:014	16b	@	-	tuonut␣
+er005:014	(17)	-	UNTRANSLATED	
+er005:014	20	@	-	Baabelin␣
+er005:014	19	%case	GEN	
+er005:014	18b	@	-	temppeliin
+er005:014	18a 18c	%case	LOC	
+er005:014	-	(;)	-	;␣
+er005:014	29a	@	-	ja␣
+er005:014	29b	(@)	-	ne␣
+er005:014	29b	@	-	annettiin␣
+er005:014	30b 31	@	-	Sesbassar-nimiselle␣
+er005:014	30a	%case	LOC	
+er005:014	-	(@)	-	miehelle
+er005:014	-	(,)	-	,␣
+er005:014	32	@	-	jonka␣
+er005:014	34	(@)	-	hän␣
+er005:014	34	(@)	-	oli␣
+er005:014	34	@	-	asettanut␣
+er005:014	33	@	-	käskynhaltijaksi
+er005:014	-	(.)	-	.␣
+er005:015	er005:015	er005:015	VERSE	Esr␣5:15␣
+er005:015	1a	@	-	Ja␣
+er005:015	1b	(@)	-	hän␣
+er005:015	1b	@	-	sanoi␣
+er005:015	2	@	-	tälle
+er005:015	-	(:)	-	:␣
+er005:015	6	@	-	Ota␣
+er005:015	4	@	-	nämä␣
+er005:015	5a	@	-	kalut
+er005:015	5b	%case	NOM	
+er005:015	-	(,)	-	,␣
+er005:015	7	@	-	mene␣
+er005:015	-	(@)	-	ja␣
+er005:015	8	@	-	pane␣
+er005:015	9	@	-	ne␣
+er005:015	12b	@	-	Jerusalemin␣
+er005:015	11 12a	%case	GEN	
+er005:015	10b	@	-	temppeliin
+er005:015	10c	%case	LOC	
+er005:015	10a	%case	LOC	
+er005:015	-	(.)	-	.␣
+er005:015	13a	@	-	Ja␣
+er005:015	14a	@	-	Jumalan␣
+er005:015	14b	%case	GEN	
+er005:015	13b	@	-	temppeli␣
+er005:015	15	@	-	rakennettakoon␣
+er005:015	sem%17	@	-	entiselle␣
+er005:015	17	@	-	paikallensa
+er005:015	16	%case	LOC	
+er005:015	-	(.)	-	.␣
+er005:016	er005:016	er005:016	VERSE	Esr␣5:16␣
+er005:016	1	@	-	Niin␣
+er005:016	3	@	-	tämä␣
+er005:016	2	@	-	Sesbassar␣
+er005:016	4	@	-	tuli␣
+er005:016	-	(@)	-	ja␣
+er005:016	5	@	-	laski␣
+er005:016	9a	@	-	Jumalan␣
+er005:016	9b	%case	GEN	
+er005:016	8	@	-	temppelin␣
+er005:016	7	%case	GEN	
+er005:016	6a	@	-	perustuksen␣
+er005:016	6b	%case	GEN	
+er005:016	11b	@	-	Jerusalemissa
+er005:016	10 11a	%case	LOC	
+er005:016	-	(.)	-	.␣
+er005:016	12a	@	-	Ja␣
+er005:016	13	@	-	siitä␣
+er005:016	13	@	-	ajasta␣
+er005:016	12b	@	-	alkaen␣
+er005:016	15	@	-	tähän␣
+er005:016	14b	@	-	saakka␣
+er005:016	14a	%case	?	
+er005:016	pro%16	@	-	sitä␣
+er005:016	16	(@)	-	on␣
+er005:016	16	@	-	rakennettu
+er005:016	-	(,)	-	,␣
+er005:016	17a 17b	@	-	eikä␣
+er005:016	pro%18	@	-	se␣
+er005:016	-	(@)	-	vieläkään␣
+er005:016	18	@	-	ole␣
+er005:016	18	@	-	valmis
+er005:016	-	(.)	-	.
+er005:016	-	(@)	-	'␣
+er005:017	er005:017	er005:017	VERSE	Esr␣5:17␣
+er005:017	(1a)	-	UNTRANSLATED	
+er005:017	2	@	-	Jos␣
+er005:017	4a	@	-	kuningas␣
+er005:017	3 4b	%case	NOM	
+er005:017	1b	@	-	siis␣
+er005:017	5	@	-	hyväksi␣
+er005:017	5	@	-	näkee
+er005:017	-	(,)	-	,␣
+er005:017	-	(@)	-	niin␣
+er005:017	6	@	-	tutkittakoon␣
+er005:017	10a	@	-	kuninkaan␣
+er005:017	10b 9	%case	GEN	
+er005:017	7b 8a	@	-	aarrekammiossa␣
+er005:017	8b	%case	LOC	
+er005:017	7a	%case	LOC	
+er005:017	11	@	-	siellä␣
+er005:017	13b	@	-	Baabelissa
+er005:017	12 13a	%case	LOC	
+er005:017	-	(,)	-	,␣
+er005:017	15	@	-	onko␣
+er005:017	14	@	-	niin
+er005:017	-	(,)	-	,␣
+er005:017	16	@	-	että␣
+er005:017	19a	@	-	kuningas␣
+er005:017	19b	%case	NOM	
+er005:017	18	@	-	Koores␣
+er005:017	17	%case	NOM	
+er005:017	20	(@)	-	on␣
+er005:017	20	@	-	antanut␣
+er005:017	21	@	-	käskyn␣
+er005:017	22b	@	-	rakentaa␣
+er005:017	22a	%case	LAT	
+er005:017	25	@	-	tämän␣
+er005:017	24a	@	-	Jumalan␣
+er005:017	24b	%case	GEN	
+er005:017	23	@	-	temppelin␣
+er005:017	26b	@	-	Jerusalemissa
+er005:017	26a	%case	LOC	
+er005:017	-	(;)	-	;␣
+er005:017	27a	@	-	ja␣
+er005:017	31	@	-	lähettänee␣
+er005:017	28a	@	-	kuningas␣
+er005:017	28b	%case	NOM	
+er005:017	32	@	-	meille␣
+er005:017	31	@	-	tiedon␣
+er005:017	27b	@	-	tahdostansa␣
+er005:017	30	@	-	tässä␣
+er005:017	29	%case	LOC	
+er005:017	sem%30	@	-	asiassa
+er005:017	-	(.)	-	.
+er005:017	-	(@)	-	"␣
+er006:001	er006:001	er006:001	VERSE	Esr␣6:1␣
+er006:001	1a 1b	@	-	Niin␣
+er006:001	3a	@	-	kuningas␣
+er006:001	3b	%case	NOM	
+er006:001	2	@	-	Daarejaves␣
+er006:001	4	@	-	antoi␣
+er006:001	5	@	-	käskyn
+er006:001	-	(,)	-	,␣
+er006:001	6a	@	-	että␣
+er006:001	sem%6b	@	-	asiaa␣
+er006:001	6b	@	-	tutkittaisiin␣
+er006:001	13b	@	-	Baabelin␣
+er006:001	13a	%case	GEN	
+er006:001	7b 8a	@	-	arkistossa
+er006:001	8b	%case	LOC	
+er006:001	7a	%case	LOC	
+er006:001	-	(,)	-	,␣
+er006:001	9	@	-	jonne␣
+er006:001	-	(@)	-	myös␣
+er006:001	10a	@	-	aarteet␣
+er006:001	10b	%case	NOM	
+er006:001	11	@	-	koottiin
+er006:001	(12)	-	UNTRANSLATED	
+er006:001	-	(.)	-	.␣
+er006:002	er006:002	er006:002	VERSE	Esr␣6:2␣
+er006:002	1a	@	-	Ja␣
+er006:002	2b	@	-	Ahmetan␣
+er006:002	2a	%case	GEN	
+er006:002	3b	@	-	linnasta
+er006:002	3c	%case	LOC	
+er006:002	3a	%case	LOC	
+er006:002	-	(,)	-	,␣
+er006:002	5b	@	-	Meedian␣
+er006:002	4 5a	%case	GEN	
+er006:002	6a	@	-	maakunnasta
+er006:002	6b	%case	LOC	
+er006:002	-	(,)	-	,␣
+er006:002	1b	@	-	löydettiin␣
+er006:002	7	@	-	kirjakäärö
+er006:002	(8) (9a)	-	UNTRANSLATED	
+er006:002	-	(,)	-	,␣
+er006:002	11b	@	-	johon␣
+er006:002	11a	%case	LOC	
+er006:002	10	(@)	-	oli␣
+er006:002	10	@	-	kirjoitettu␣
+er006:002	9b	@	-	seuraavasti
+er006:002	-	(:)	-	:␣
+er006:002	-	(@)	-	"
+er006:002	12a	@	-	Muistettava␣
+er006:002	12a	@	-	tapahtuma
+er006:002	12b	%case	NOM	
+er006:002	-	(:)	-	:␣
+er006:003	er006:003	er006:003	VERSE	Esr␣6:3␣
+er006:003	4a	@	-	Kuningas␣
+er006:003	4b	%case	NOM	
+er006:003	3b	@	-	Kooreksen␣
+er006:003	3a	%case	GEN	
+er006:003	2	@	-	ensimmäisenä␣
+er006:003	1b	@	-	hallitusvuotena␣
+er006:003	1a	%case	ESS	
+er006:003	6a	@	-	kuningas␣
+er006:003	6b	%case	NOM	
+er006:003	5	@	-	Koores␣
+er006:003	7	@	-	antoi␣
+er006:003	8	@	-	käskyn
+er006:003	-	(:)	-	:␣
+er006:003	10a	@	-	Jumalan␣
+er006:003	10b	%case	GEN	
+er006:003	9	@	-	temppeli␣
+er006:003	11b	@	-	Jerusalemissa
+er006:003	11a	%case	LOC	
+er006:003	-	(,)	-	,␣
+er006:003	-	(@)	-	se␣
+er006:003	12a	@	-	temppeli␣
+er006:003	12b	%case	NOM	
+er006:003	13	@	-	rakennettakoon␣
+er006:003	14	@	-	paikaksi
+er006:003	-	(,)	-	,␣
+er006:003	15	@	-	jossa␣
+er006:003	17	@	-	uhreja␣
+er006:003	16	@	-	uhrataan
+er006:003	(18a)	-	UNTRANSLATED	
+er006:003	-	(.)	-	.␣
+er006:003	pers%18b	@	-	Sen␣
+er006:003	18b	@	-	perustukset␣
+er006:003	19	@	-	laskettakoon␣
+er006:003	19	@	-	lujiksi
+er006:003	-	(,)	-	,␣
+er006:003	pers%20	@	-	sen␣
+er006:003	20	@	-	korkeus␣
+er006:003	-	(@)	-	olkoon␣
+er006:003	22	@	-	kuusikymmentä␣
+er006:003	21	@	-	kyynärää␣
+er006:003	-	(@)	-	ja␣
+er006:003	23	@	-	leveys␣
+er006:003	25	@	-	kuusikymmentä␣
+er006:003	24	@	-	kyynärää
+er006:003	-	(.)	-	.␣
+er006:004	er006:004	er006:004	VERSE	Esr␣6:4␣
+er006:004	-	(@)	-	Siinä␣
+er006:004	-	(@)	-	olkoon␣
+er006:004	-	(@)	-	aina␣
+er006:004	-	(@)	-	rinnakkain␣
+er006:004	5	@	-	kolme␣
+er006:004	1 3	@	-	kivikertaa␣
+er006:004	2	%case	PTV	
+er006:004	4	@	-	suuria␣
+er006:004	4	@	-	kiviä␣
+er006:004	6a	@	-	ja␣
+er006:004	9	@	-	yksi␣
+er006:004	6b 8	@	-	hirsikerta␣
+er006:004	7	%case	NOM	
+er006:004	9	@	-	uusia␣
+er006:004	-	(@)	-	hirsiä
+er006:004	-	(;)	-	;␣
+er006:004	10a	@	-	ja␣
+er006:004	10b	@	-	kustannukset␣
+er006:004	10c	%case	NOM	
+er006:004	14	@	-	suoritettakoon␣
+er006:004	13a	@	-	kuninkaan␣
+er006:004	13b	%case	GEN	
+er006:004	12	@	-	hovista
+er006:004	11	%case	LOC	
+er006:004	-	(.)	-	.␣
+er006:005	er006:005	er006:005	VERSE	Esr␣6:5␣
+er006:005	1a	@	-	Ja␣
+er006:005	1b	@	-	myös␣
+er006:005	4a	@	-	Jumalan␣
+er006:005	4b	%case	GEN	
+er006:005	3	@	-	temppelin␣
+er006:005	6a	@	-	kulta-~/kultakalut␣
+er006:005	6b	%case	NOM	
+er006:005	5	%case	NOM	
+er006:005	7a	@	-	ja␣
+er006:005	2 7b	@	-	hopeakalut
+er006:005	7c	%case	NOM	
+er006:005	-	(,)	-	,␣
+er006:005	8	@	-	jotka␣
+er006:005	9	@	-	Nebukadnessar␣
+er006:005	10	@	-	vei␣
+er006:005	10	@	-	pois␣
+er006:005	14b	@	-	Jerusalemin␣
+er006:005	13 14a	%case	GEN	
+er006:005	12a	@	-	temppelistä␣
+er006:005	12b	%case	LOC	
+er006:005	11	%case	LOC	
+er006:005	15a	@	-	ja␣
+er006:005	15b	@	-	toi␣
+er006:005	16b	@	-	Baabeliin
+er006:005	16a	%case	LOC	
+er006:005	-	(,)	-	,␣
+er006:005	17	@	-	annettakoon␣
+er006:005	17	@	-	takaisin
+er006:005	-	(.)	-	.␣
+er006:005	-	(@)	-	Ne␣
+er006:005	(18a)	-	UNTRANSLATED	
+er006:005	18b	@	-	tulkoot␣
+er006:005	22b	@	-	paikoilleen␣
+er006:005	22a	%case	LOC	
+er006:005	21b	@	-	Jerusalemin␣
+er006:005	20 21a	%case	GEN	
+er006:005	19b	@	-	temppeliin
+er006:005	19a 19c	%case	LOC	
+er006:005	(23a)	-	UNTRANSLATED	
+er006:005	-	(,)	-	,␣
+er006:005	23b	@	-	pantakoon␣
+er006:005	-	(@)	-	ne␣
+er006:005	25a	@	-	Jumalan␣
+er006:005	25b	%case	GEN	
+er006:005	24b	@	-	temppeliin
+er006:005	24a	%case	LOC	
+er006:005	-	(.)	-	.
+er006:005	-	(@)	-	"␣
+er006:006	er006:006	er006:006	VERSE	Esr␣6:6␣
+er006:006	-	(-)	-	-␣
+er006:006	-	(@)	-	"
+er006:006	1	@	-	Niinmuodoin␣
+er006:006	-	(@)	-	on␣
+er006:006	-	(@)	-	sinun
+er006:006	-	(,)	-	,␣
+er006:006	2	@	-	Tattenai
+er006:006	-	(,)	-	,␣
+er006:006	-	(@)	-	joka␣
+er006:006	-	(@)	-	olet␣
+er006:006	5a	@	-	Eufrat-virran␣
+er006:006	5b	%case	GEN	
+er006:006	4	@	-	tuonpuoleisen␣
+er006:006	-	(@)	-	maan␣
+er006:006	3	@	-	käskynhaltija
+er006:006	-	(,)	-	,␣
+er006:006	-	(@)	-	sinun
+er006:006	-	(,)	-	,␣
+er006:006	6	@	-	Setar-Boosenai
+er006:006	-	(,)	-	,␣
+er006:006	7a	@	-	ja␣
+er006:006	pers%7b	@	-	teidän␣
+er006:006	7b	@	-	virkatoverienne
+er006:006	-	(,)	-	,␣
+er006:006	-	(@)	-	niiden␣
+er006:006	8a	@	-	afarsakilaisten
+er006:006	8b	%case	GEN	
+er006:006	-	(,)	-	,␣
+er006:006	9	@	-	jotka␣
+er006:006	-	(@)	-	ovat␣
+er006:006	10b	@	-	tuolla␣
+er006:006	10b	@	-	puolella␣
+er006:006	10a	%case	LOC	
+er006:006	11a	@	-	Eufrat-virran
+er006:006	11b	%case	GEN	
+er006:006	-	(,)	-	,␣
+er006:006	13	@	-	pysyttävä␣
+er006:006	15	@	-	siitä␣
+er006:006	14	%case	LOC	
+er006:006	12	@	-	erillänne
+er006:006	-	(.)	-	.␣
+er006:007	er006:007	er006:007	VERSE	Esr␣6:7␣
+er006:007	mod%1	@	-	Antakaa␣
+er006:007	4a	@	-	Jumalan␣
+er006:007	4b	%case	GEN	
+er006:007	3	@	-	temppelin␣
+er006:007	2b	@	-	rakennustyön␣
+er006:007	2a	%case	GEN	
+er006:007	1	@	-	olla␣
+er006:007	1	@	-	rauhassa
+er006:007	(5)	-	UNTRANSLATED	
+er006:007	-	(.)	-	.␣
+er006:007	7a	@	-	Juutalaisten␣
+er006:007	7b	%case	GEN	
+er006:007	6	@	-	käskynhaltija␣
+er006:007	8a	@	-	ja␣
+er006:007	(8b)	-	UNTRANSLATED	
+er006:007	9a	@	-	juutalaisten␣
+er006:007	9b	%case	GEN	
+er006:007	8c	@	-	vanhimmat␣
+er006:007	13	@	-	rakentakoot␣
+er006:007	11a	@	-	Jumalan␣
+er006:007	11b	%case	GEN	
+er006:007	10	@	-	temppelin␣
+er006:007	(12)	-	UNTRANSLATED	
+er006:007	15	@	-	paikallensa
+er006:007	14	%case	LOC	
+er006:007	-	(.)	-	.␣
+er006:008	er006:008	er006:008	VERSE	Esr␣6:8␣
+er006:008	1a	@	-	Ja␣
+er006:008	1b	@	-	minä␣
+er006:008	2	@	-	annan␣
+er006:008	3	@	-	käskyn
+er006:008	-	(,)	-	,␣
+er006:008	4a 4b 5	@	-	mitä␣
+er006:008	6	(@)	-	teidän␣
+er006:008	6	(@)	-	on␣
+er006:008	6	@	-	tehtävä␣
+er006:008	9a	@	-	juutalaisten␣
+er006:008	9b	%case	GEN	
+er006:008	8	@	-	vanhimmille␣
+er006:008	7	%case	LOC	
+er006:008	-	(@)	-	heidän␣
+er006:008	(10)	-	UNTRANSLATED	
+er006:008	11b	@	-	rakentaessaan␣
+er006:008	11a	%case	LOC	
+er006:008	13a	@	-	Jumalan␣
+er006:008	13b	%case	GEN	
+er006:008	12	@	-	temppeliä
+er006:008	(14) (15a)	-	UNTRANSLATED	
+er006:008	-	(:)	-	:␣
+er006:008	19	@	-	tuolta␣
+er006:008	19	@	-	puolelta␣
+er006:008	20a	@	-	Eufrat-virran␣
+er006:008	20b	%case	GEN	
+er006:008	-	(@)	-	tulevista␣
+er006:008	16a	@	-	kuninkaan␣
+er006:008	16b	%case	GEN	
+er006:008	15c 18	@	-	verotuloista␣
+er006:008	17	%case	LOC	
+er006:008	15b	%case	LOC	
+er006:008	24	@	-	suoritettakoon␣
+er006:008	23	%case	?	
+er006:008	26	@	-	niille␣
+er006:008	25b	@	-	miehille␣
+er006:008	25c	%case	LOC	
+er006:008	25a	%case	LOC	
+er006:008	21	@	-	tarkasti␣
+er006:008	-	(@)	-	ja␣
+er006:008	28 29b	@	-	viivyttelemättä␣
+er006:008	27 29a	%case	ABE	
+er006:008	22a	@	-	kustannukset
+er006:008	22b	%case	NOM	
+er006:008	-	(.)	-	.␣
+er006:009	er006:009	er006:009	VERSE	Esr␣6:9␣
+er006:009	1a	@	-	Ja␣
+er006:009	1b	@	-	mitä␣
+er006:009	2	@	-	tarvitaan
+er006:009	(3a)	-	UNTRANSLATED	
+er006:009	-	(,)	-	,␣
+er006:009	3b 4	@	-	mullikoita
+er006:009	(5a)	-	UNTRANSLATED	
+er006:009	-	(,)	-	,␣
+er006:009	5b	@	-	oinaita␣
+er006:009	6a	@	-	ja␣
+er006:009	6b	@	-	karitsoita␣
+er006:009	7b	@	-	polttouhreiksi␣
+er006:009	7a	%case	TRA	
+er006:009	9a	@	-	taivaan␣
+er006:009	9b	%case	GEN	
+er006:009	8b	@	-	Jumalalle
+er006:009	8a	%case	LOC	
+er006:009	-	(,)	-	,␣
+er006:009	10	@	-	nisuja
+er006:009	-	(,)	-	,␣
+er006:009	11	@	-	suolaa
+er006:009	-	(,)	-	,␣
+er006:009	12	@	-	viiniä␣
+er006:009	13a	@	-	ja␣
+er006:009	13b	@	-	öljyä
+er006:009	-	(,)	-	,␣
+er006:009	-	(@)	-	se␣
+er006:009	19	@	-	annettakoon␣
+er006:009	18	%case	?	
+er006:009	20	@	-	heille␣
+er006:009	17b	@	-	Jerusalemin␣
+er006:009	16 17a	%case	GEN	
+er006:009	15a	@	-	pappien␣
+er006:009	15b	%case	GEN	
+er006:009	14b	@	-	esityksestä␣
+er006:009	14a	%case	LOC	
+er006:009	-	(@)	-	joka␣
+er006:009	21	@	-	päivä
+er006:009	(22a) (22b)	-	UNTRANSLATED	
+er006:009	-	(,)	-	,␣
+er006:009	25	@	-	laiminlyömättä
+er006:009	23 24	%case	ABE	
+er006:009	-	(,)	-	,␣
+er006:010	er006:010	er006:010	VERSE	Esr␣6:10␣
+er006:010	1	@	-	että␣
+er006:010	pro%3	@	-	he␣
+er006:010	3	@	-	uhraisivat␣
+er006:010	2	%case	?	
+er006:010	4	@	-	suloisesti␣
+er006:010	4	@	-	tuoksuvia␣
+er006:010	4	@	-	uhreja␣
+er006:010	6a	@	-	taivaan␣
+er006:010	6b	%case	GEN	
+er006:010	5b	@	-	Jumalalle␣
+er006:010	5a	%case	LOC	
+er006:010	7a	@	-	ja␣
+er006:010	7b	@	-	rukoilisivat␣
+er006:010	9a	@	-	kuninkaan␣
+er006:010	9b	%case	GEN	
+er006:010	10a	@	-	ja␣
+er006:010	pers%10b	@	-	hänen␣
+er006:010	10b	@	-	poikiensa␣
+er006:010	8b	@	-	hengen␣
+er006:010	8a	@	-	puolesta
+er006:010	-	(.)	-	.␣
+er006:011	er006:011	er006:011	VERSE	Esr␣6:11␣
+er006:011	1a	@	-	Ja␣
+er006:011	1b	@	-	minä␣
+er006:011	2	@	-	annan␣
+er006:011	3	@	-	käskyn
+er006:011	-	(,)	-	,␣
+er006:011	4	@	-	että␣
+er006:011	5 6 7	@	-	kuka␣
+er006:011	5 6 7	@	-	ikinä␣
+er006:011	8	@	-	rikkoo␣
+er006:011	10	@	-	tämän␣
+er006:011	9a	@	-	määräyksen
+er006:011	9b	%case	GEN	
+er006:011	-	(,)	-	,␣
+er006:011	pers%14	@	-	hänen␣
+er006:011	14	@	-	talostaan␣
+er006:011	13	%case	LOC	
+er006:011	11	@	-	revittäköön␣
+er006:011	12	@	-	hirsi
+er006:011	-	(,)	-	,␣
+er006:011	15a	@	-	ja␣
+er006:011	16	(@)	-	hänet␣
+er006:011	15b	@	-	ripustettakoon␣
+er006:011	-	(@)	-	ja␣
+er006:011	16	@	-	naulittakoon␣
+er006:011	17	@	-	siihen
+er006:011	-	(,)	-	,␣
+er006:011	18a	@	-	ja␣
+er006:011	pers%18b	@	-	hänen␣
+er006:011	18b	@	-	talostaan␣
+er006:011	20	@	-	tehtäköön␣
+er006:011	22	@	-	siitä␣
+er006:011	21	@	-	syystä␣
+er006:011	19	@	-	soraläjä
+er006:011	-	(.)	-	.␣
+er006:012	er006:012	er006:012	VERSE	Esr␣6:12␣
+er006:012	1a	@	-	Ja␣
+er006:012	1b	@	-	Jumala
+er006:012	1c	%case	NOM	
+er006:012	-	(,)	-	,␣
+er006:012	2	@	-	joka␣
+er006:012	3	(@)	-	on␣
+er006:012	3	@	-	asettanut␣
+er006:012	4	@	-	nimensä␣
+er006:012	5	@	-	siihen
+er006:012	-	(,)	-	,␣
+er006:012	6	@	-	kukistakoon␣
+er006:012	7	@	-	jokaisen␣
+er006:012	8	@	-	kuninkaan␣
+er006:012	9a	@	-	ja␣
+er006:012	9b	@	-	kansan
+er006:012	-	(,)	-	,␣
+er006:012	10	@	-	joka␣
+er006:012	11	@	-	ojentaa␣
+er006:012	12	@	-	kätensä␣
+er006:012	13b	@	-	rikkomaan␣
+er006:012	13a	%case	LOC	
+er006:012	-	(@)	-	tätä␣
+er006:012	-	(@)	-	määräystä␣
+er006:012	14b	@	-	hävittämällä␣
+er006:012	14a	%case	LOC	
+er006:012	16a	@	-	Jumalan␣
+er006:012	16b	%case	GEN	
+er006:012	15	@	-	temppelin␣
+er006:012	(17)	-	UNTRANSLATED	
+er006:012	19b	@	-	Jerusalemissa
+er006:012	18 19a	%case	LOC	
+er006:012	-	(.)	-	.␣
+er006:012	20	@	-	Minä␣
+er006:012	21	@	-	Daarejaves␣
+er006:012	22	(@)	-	olen␣
+er006:012	22	@	-	antanut␣
+er006:012	-	(@)	-	tämän␣
+er006:012	23	@	-	käskyn
+er006:012	-	(;)	-	;␣
+er006:012	25	(@)	-	se␣
+er006:012	24	@	-	tarkoin␣
+er006:012	25	@	-	täytettäköön
+er006:012	-	(.)	-	.
+er006:012	-	(@)	-	"␣
+er006:013	er006:013	er006:013	VERSE	Esr␣6:13␣
+er006:013	1	@	-	Silloin␣
+er006:013	2	@	-	Tattenai
+er006:013	-	(,)	-	,␣
+er006:013	5a	@	-	Eufrat-virran␣
+er006:013	5b	%case	GEN	
+er006:013	4	@	-	tämänpuoleisen␣
+er006:013	-	(@)	-	maan␣
+er006:013	3	@	-	käskynhaltija
+er006:013	-	(,)	-	,␣
+er006:013	6	@	-	Setar-Boosenai␣
+er006:013	7a	@	-	ja␣
+er006:013	pers%7b	@	-	heidän␣
+er006:013	7b	@	-	virkatoverinsa␣
+er006:013	(8a) (8b)	-	UNTRANSLATED	
+er006:013	15	@	-	täyttivät␣
+er006:013	13 14	@	-	tarkoin␣
+er006:013	-	(@)	-	käskyn
+er006:013	-	(,)	-	,␣
+er006:013	9	@	-	jonka␣
+er006:013	12a	@	-	kuningas␣
+er006:013	12b	%case	NOM	
+er006:013	11	@	-	Daarejaves␣
+er006:013	10	(@)	-	oli␣
+er006:013	-	(@)	-	heille␣
+er006:013	10	@	-	lähettänyt
+er006:013	-	(.)	-	.␣
+er006:014	er006:014	er006:014	VERSE	Esr␣6:14␣
+er006:014	1a	@	-	Niin␣
+er006:014	2a	@	-	juutalaisten␣
+er006:014	2b	%case	GEN	
+er006:014	1b	@	-	vanhimmat␣
+er006:014	3	@	-	rakensivat
+er006:014	-	(,)	-	,␣
+er006:014	4a	@	-	ja␣
+er006:014	4b	@	-	työ␣
+er006:014	4b	@	-	onnistui␣
+er006:014	pro%4b	@	-	heille␣
+er006:014	8a	@	-	profeetta␣
+er006:014	6	@	-	Haggain␣
+er006:014	9a	@	-	ja␣
+er006:014	9b	@	-	Sakarjan
+er006:014	-	(,)	-	,␣
+er006:014	11	@	-	Iddon␣
+er006:014	10	@	-	pojan
+er006:014	-	(,)	-	,␣
+er006:014	5b	@	-	ennustuksen␣
+er006:014	5a	@	-	tukemana
+er006:014	-	(.)	-	.␣
+er006:014	12a	@	-	Ja␣
+er006:014	(12b) (13a)	-	UNTRANSLATED	
+er006:014	13b	@	-	he␣
+er006:014	13b	(@)	-	saivat␣
+er006:014	-	(@)	-	sen␣
+er006:014	13b	@	-	valmiiksi␣
+er006:014	17	@	-	Israelin␣
+er006:014	16	@	-	Jumalan␣
+er006:014	15	@	-	käskyn␣
+er006:014	18a	@	-	ja␣
+er006:014	19	@	-	Kooreksen
+er006:014	-	(,)	-	,␣
+er006:014	20b	@	-	Daarejaveksen␣
+er006:014	21a	@	-	ja␣
+er006:014	21b	@	-	Artahsastan
+er006:014	-	(,)	-	,␣
+er006:014	23	@	-	Persian␣
+er006:014	22	@	-	kuninkaan
+er006:014	-	(,)	-	,␣
+er006:014	18c	@	-	käskyn␣
+er006:014	14	@	-	mukaan
+er006:014	(18b) (20a)	-	UNTRANSLATED	
+er006:014	-	(.)	-	.␣
+er006:015	er006:015	er006:015	VERSE	Esr␣6:15␣
+er006:015	(1a)	-	UNTRANSLATED	
+er006:015	3	@	-	Tämä␣
+er006:015	2a	@	-	temppeli␣
+er006:015	2b	%case	NOM	
+er006:015	1b	@	-	valmistui␣
+er006:015	7b 8	@	-	adar-kuun␣
+er006:015	7a	%case	GEN	
+er006:015	6	@	-	kolmanneksi␣
+er006:015	5	@	-	päiväksi
+er006:015	4	%case	TRA	
+er006:015	-	(,)	-	,␣
+er006:015	10	@	-	nimittäin␣
+er006:015	9	%case	?	
+er006:015	15a	@	-	kuningas␣
+er006:015	15b	%case	NOM	
+er006:015	14	@	-	Daarejaveksen␣
+er006:015	12	@	-	kuudentena␣
+er006:015	11 13b	@	-	hallitusvuotena
+er006:015	13a	%case	ESS	
+er006:015	-	(.)	-	.␣
+er006:016	er006:016	er006:016	VERSE	Esr␣6:16␣
+er006:016	1a	@	-	Silloin␣
+er006:016	2 3	@	-	israelilaiset
+er006:016	-	(,)	-	,␣
+er006:016	4a	@	-	papit␣
+er006:016	4b	%case	NOM	
+er006:016	5a	@	-	ja␣
+er006:016	5b	@	-	leeviläiset␣
+er006:016	5c	%case	NOM	
+er006:016	6a	@	-	ja␣
+er006:016	6b	@	-	muut␣
+er006:016	7 8a	@	-	pakkosiirtolaiset
+er006:016	8b	%case	NOM	
+er006:016	-	(,)	-	,␣
+er006:016	1b	@	-	viettivät␣
+er006:016	11a	@	-	Jumalan␣
+er006:016	11b	%case	GEN	
+er006:016	10	@	-	temppelin␣
+er006:016	9	@	-	vihkiäisiä␣
+er006:016	(12)	-	UNTRANSLATED	
+er006:016	13b	@	-	iloiten␣
+er006:016	13a	%case	MAN	
+er006:017	er006:017	er006:017	VERSE	Esr␣6:17␣
+er006:017	1a	@	-	ja␣
+er006:017	1b	@	-	uhrasivat␣
+er006:017	4a	@	-	Jumalan␣
+er006:017	4b	%case	GEN	
+er006:017	3	@	-	temppelin␣
+er006:017	2b	@	-	vihkiäisissä␣
+er006:017	2a	%case	LOC	
+er006:017	(5)	-	UNTRANSLATED	
+er006:017	7	@	-	sata␣
+er006:017	6	@	-	härkää
+er006:017	-	(,)	-	,␣
+er006:017	9	@	-	kaksisataa␣
+er006:017	8	@	-	oinasta␣
+er006:017	-	(@)	-	ja␣
+er006:017	11 12	@	-	neljäsataa␣
+er006:017	10	@	-	karitsaa␣
+er006:017	13a	@	-	sekä␣
+er006:017	16b	@	-	syntiuhriksi␣
+er006:017	16a	%case	TRA	
+er006:017	18	@	-	koko␣
+er006:017	19	@	-	Israelin␣
+er006:017	17	@	-	puolesta␣
+er006:017	20 21	@	-	kaksitoista␣
+er006:017	13b 14	@	-	kaurista
+er006:017	-	(,)	-	,␣
+er006:017	24	@	-	Israelin␣
+er006:017	23	@	-	sukukuntien␣
+er006:017	22b	@	-	luvun␣
+er006:017	22a	@	-	mukaan
+er006:017	-	(.)	-	.␣
+er006:018	er006:018	er006:018	VERSE	Esr␣6:18␣
+er006:018	1a	@	-	Ja␣
+er006:018	1b	(@)	-	he␣
+er006:018	1b	@	-	asettivat␣
+er006:018	2a	@	-	papit␣
+er006:018	2b	%case	NOM	
+er006:018	3b	@	-	ryhmittäin␣
+er006:018	3a	%case	?	
+er006:018	4a	@	-	ja␣
+er006:018	4b	@	-	leeviläiset␣
+er006:018	4c	%case	NOM	
+er006:018	5b	@	-	osastoittain␣
+er006:018	5a	%case	?	
+er006:018	8a	@	-	Jumalan␣
+er006:018	8b	%case	GEN	
+er006:018	7	@	-	palvelukseen␣
+er006:018	6	%case	LOC	
+er006:018	10b	@	-	Jerusalemissa
+er006:018	10a 9	%case	LOC	
+er006:018	-	(,)	-	,␣
+er006:018	11a	@	-	niinkuin␣
+er006:018	11b	(@)	-	on␣
+er006:018	11b	@	-	kirjoitettuna␣
+er006:018	13	@	-	Mooseksen␣
+er006:018	12	@	-	kirjassa
+er006:018	-	(.)	-	.␣
+er006:019	er006:019	er006:019	VERSE	Esr␣6:19␣
+er006:019	1a	@	-	Sitten␣
+er006:019	2 (3a) 3b	@	-	pakkosiirtolaiset␣
+er006:019	1b	@	-	viettivät␣
+er006:019	(5a) 5b	@	-	pääsiäistä␣
+er006:019	4	%case	PTV	
+er006:019	(9a) 9b	@	-	ensimmäisen␣
+er006:019	8b	@	-	kuun␣
+er006:019	8a	%case	GEN	
+er006:019	6b 7	@	-	neljäntenätoista␣
+er006:019	6a	%case	ESS	
+er006:019	-	(@)	-	päivänä
+er006:019	-	(.)	-	.␣
+er006:020	er006:020	er006:020	VERSE	Esr␣6:20␣
+er006:020	1	@	-	Sillä␣
+er006:020	(3a) 3b	@	-	papit␣
+er006:020	4a	@	-	ja␣
+er006:020	(4b) 4c	@	-	leeviläiset␣
+er006:020	2	(@)	-	olivat␣
+er006:020	5b	@	-	yhtenä␣
+er006:020	5b	@	-	miehenä␣
+er006:020	5a	%case	ESS	
+er006:020	2	@	-	puhdistautuneet
+er006:020	-	(,)	-	,␣
+er006:020	-	(@)	-	niin␣
+er006:020	-	(@)	-	että␣
+er006:020	pers%6	@	-	he␣
+er006:020	6	@	-	kaikki␣
+er006:020	-	(@)	-	olivat␣
+er006:020	7	@	-	puhtaat
+er006:020	-	(.)	-	.␣
+er006:020	8a	@	-	Ja␣
+er006:020	8b	(@)	-	he␣
+er006:020	8b	@	-	teurastivat␣
+er006:020	(9a) 9b	@	-	pääsiäislampaan␣
+er006:020	10b	@	-	kaikille␣
+er006:020	10a	%case	LOC	
+er006:020	11 (12a) 12b	@	-	pakkosiirtolaisille
+er006:020	(13a)	-	UNTRANSLATED	
+er006:020	-	(,)	-	,␣
+er006:020	13c	@	-	veljillensä␣
+er006:020	13b	%case	LOC	
+er006:020	(14a) 14b	@	-	papeille␣
+er006:020	15a	@	-	ja␣
+er006:020	15b	@	-	itsellensä
+er006:020	-	(.)	-	.␣
+er006:021	er006:021	er006:021	VERSE	Esr␣6:21␣
+er006:021	1a	@	-	Ja␣
+er006:021	-	(@)	-	sitä␣
+er006:021	1b	@	-	söivät␣
+er006:021	-	(@)	-	kaikki␣
+er006:021	(5b) 5c	@	-	pakkosiirtolaisuudesta␣
+er006:021	5a	%case	LOC	
+er006:021	(4a) 4b	@	-	palanneet␣
+er006:021	2 3	@	-	israelilaiset␣
+er006:021	6a	@	-	sekä␣
+er006:021	6b	@	-	kaikki
+er006:021	-	(,)	-	,␣
+er006:021	-	(@)	-	jotka␣
+er006:021	(7a) 7b	(@)	-	olivat␣
+er006:021	(7a) 7b	@	-	eristäytyneet␣
+er006:021	(10a) 10b	@	-	maassa␣
+er006:021	-	(@)	-	asuvien␣
+er006:021	9	@	-	pakanain␣
+er006:021	8b	@	-	saastaisuudesta␣
+er006:021	8a	%case	LOC	
+er006:021	-	(@)	-	ja␣
+er006:021	sem%11	@	-	liittyneet␣
+er006:021	11	@	-	heihin␣
+er006:021	12b	@	-	etsiäkseen␣
+er006:021	12a	%case	TRA	
+er006:021	13b	@	-	Herraa
+er006:021	13a	%case	PTV	
+er006:021	-	(,)	-	,␣
+er006:021	15	@	-	Israelin␣
+er006:021	14	@	-	Jumalaa
+er006:021	-	(.)	-	.␣
+er006:022	er006:022	er006:022	VERSE	Esr␣6:22␣
+er006:022	1a	@	-	Ja␣
+er006:022	1b	(@)	-	he␣
+er006:022	1b	@	-	viettivät␣
+er006:022	3	@	-	happamattoman␣
+er006:022	3	@	-	leivän␣
+er006:022	2	@	-	juhlaa␣
+er006:022	4	@	-	seitsemän␣
+er006:022	5	@	-	päivää␣
+er006:022	6b	@	-	iloiten
+er006:022	6a	%case	MAN	
+er006:022	-	(,)	-	,␣
+er006:022	7	@	-	sillä␣
+er006:022	9	@	-	Herra␣
+er006:022	8	(@)	-	oli␣
+er006:022	8	@	-	ilahuttanut␣
+er006:022	pers%8	@	-	heitä
+er006:022	-	(,)	-	,␣
+er006:022	10a	@	-	kun␣
+er006:022	10b	(@)	-	oli␣
+er006:022	10b	@	-	kääntänyt␣
+er006:022	13	@	-	Assurin␣
+er006:022	12	@	-	kuninkaan␣
+er006:022	11	@	-	sydämen␣
+er006:022	pers%14	@	-	heidän␣
+er006:022	14	@	-	puolellensa
+er006:022	-	(,)	-	,␣
+er006:022	15a	@	-	niin␣
+er006:022	15a	@	-	että␣
+er006:022	15b	(@)	-	hän␣
+er006:022	15b	@	-	avusti␣
+er006:022	16	@	-	heitä␣
+er006:022	(19a) 19b	@	-	Jumalan
+er006:022	-	(,)	-	,␣
+er006:022	21	@	-	Israelin␣
+er006:022	20	@	-	Jumalan
+er006:022	-	(,)	-	,␣
+er006:022	18	@	-	temppelin␣
+er006:022	17b	@	-	rakentamistyössä
+er006:022	17a	%case	LOC	
+er006:022	-	(.)	-	.␣
+er007:001	er007:001	er007:001	VERSE	Esr␣7:1␣
+er007:001	(1a)	-	UNTRANSLATED	
+er007:001	(3a) 3b	@	-	Näiden␣
+er007:001	(2a) 2b	@	-	tapausten␣
+er007:001	1b	@	-	jälkeen
+er007:001	-	(,)	-	,␣
+er007:001	7	@	-	Persian␣
+er007:001	6	@	-	kuninkaan␣
+er007:001	5	@	-	Artahsastan␣
+er007:001	4b	@	-	hallituksen␣
+er007:001	4a	@	-	aikana
+er007:001	-	(,)	-	,␣
+er007:001	-	(@)	-	lähti␣
+er007:001	8	@	-	Esra
+er007:001	-	(,)	-	,␣
+er007:001	10	@	-	Serajan␣
+er007:001	9	@	-	poika
+er007:001	-	(,)	-	,␣
+er007:001	-	(@)	-	joka␣
+er007:001	-	(@)	-	oli␣
+er007:001	12	@	-	Asarjan␣
+er007:001	11	@	-	poika
+er007:001	-	(,)	-	,␣
+er007:001	-	(@)	-	joka␣
+er007:001	14	@	-	Hilkian␣
+er007:001	13	@	-	poika
+er007:001	-	(,)	-	,␣
+er007:002	er007:002	er007:002	VERSE	Esr␣7:2␣
+er007:002	-	(@)	-	joka␣
+er007:002	2	@	-	Sallumin␣
+er007:002	1	@	-	poika
+er007:002	-	(,)	-	,␣
+er007:002	-	(@)	-	joka␣
+er007:002	4	@	-	Saadokin␣
+er007:002	3	@	-	poika
+er007:002	-	(,)	-	,␣
+er007:002	-	(@)	-	joka␣
+er007:002	6	@	-	Ahitubin␣
+er007:002	5	@	-	poika
+er007:002	-	(,)	-	,␣
+er007:003	er007:003	er007:003	VERSE	Esr␣7:3␣
+er007:003	-	(@)	-	joka␣
+er007:003	2	@	-	Amarjan␣
+er007:003	1	@	-	poika
+er007:003	-	(,)	-	,␣
+er007:003	-	(@)	-	joka␣
+er007:003	4	@	-	Asarjan␣
+er007:003	3	@	-	poika
+er007:003	-	(,)	-	,␣
+er007:003	-	(@)	-	joka␣
+er007:003	6	@	-	Merajotin␣
+er007:003	5	@	-	poika
+er007:003	-	(,)	-	,␣
+er007:004	er007:004	er007:004	VERSE	Esr␣7:4␣
+er007:004	-	(@)	-	joka␣
+er007:004	2	@	-	Serahjan␣
+er007:004	1	@	-	poika
+er007:004	-	(,)	-	,␣
+er007:004	-	(@)	-	joka␣
+er007:004	4	@	-	Ussin␣
+er007:004	3	@	-	poika
+er007:004	-	(,)	-	,␣
+er007:004	-	(@)	-	joka␣
+er007:004	6	@	-	Bukkin␣
+er007:004	5	@	-	poika
+er007:004	-	(,)	-	,␣
+er007:005	er007:005	er007:005	VERSE	Esr␣7:5␣
+er007:005	-	(@)	-	joka␣
+er007:005	2	@	-	Abisuan␣
+er007:005	1	@	-	poika
+er007:005	-	(,)	-	,␣
+er007:005	-	(@)	-	joka␣
+er007:005	4	@	-	Piinehaan␣
+er007:005	3	@	-	poika
+er007:005	-	(,)	-	,␣
+er007:005	-	(@)	-	joka␣
+er007:005	6	@	-	Eleasarin␣
+er007:005	5	@	-	poika
+er007:005	-	(,)	-	,␣
+er007:005	-	(@)	-	joka␣
+er007:005	8	@	-	Aaronin
+er007:005	-	(,)	-	,␣
+er007:005	(10a) 10b	@	-	ylimmäisen␣
+er007:005	(9a) 9b	@	-	papin
+er007:005	-	(,)	-	,␣
+er007:005	7	@	-	poika␣
+er007:005	-	(-)	-	-␣
+er007:006	er007:006	er007:006	VERSE	Esr␣7:6␣
+er007:006	1	@	-	tämä␣
+er007:006	2	@	-	Esra␣
+er007:006	3	@	-	lähti␣
+er007:006	4b	@	-	Baabelista
+er007:006	4a	%case	LOC	
+er007:006	(5a)	-	UNTRANSLATED	
+er007:006	-	(.)	-	.␣
+er007:006	5b	@	-	Hän␣
+er007:006	-	(@)	-	oli␣
+er007:006	6	@	-	kirjanoppinut
+er007:006	-	(,)	-	,␣
+er007:006	7	@	-	perehtynyt␣
+er007:006	9	@	-	Mooseksen␣
+er007:006	8b	@	-	lakiin
+er007:006	8a	%case	LOC	
+er007:006	-	(,)	-	,␣
+er007:006	10	@	-	jonka␣
+er007:006	12	@	-	Herra
+er007:006	-	(,)	-	,␣
+er007:006	14	@	-	Israelin␣
+er007:006	13	@	-	Jumala
+er007:006	-	(,)	-	,␣
+er007:006	11	(@)	-	oli␣
+er007:006	11	@	-	antanut
+er007:006	-	(.)	-	.␣
+er007:006	15a	@	-	Ja␣
+er007:006	(17a) 17b	@	-	kuningas␣
+er007:006	15b	@	-	antoi␣
+er007:006	16	@	-	hänelle␣
+er007:006	22	@	-	kaikki
+er007:006	-	(,)	-	,␣
+er007:006	23	@	-	mitä␣
+er007:006	23	@	-	hän␣
+er007:006	23	@	-	halusi
+er007:006	-	(,)	-	,␣
+er007:006	18a	@	-	koska␣
+er007:006	pers%21	@	-	Esran␣
+er007:006	21	@	-	päällä␣
+er007:006	-	(@)	-	oli␣
+er007:006	19	@	-	Herran
+er007:006	-	(,)	-	,␣
+er007:006	pers%20	@	-	hänen␣
+er007:006	20	@	-	Jumalansa
+er007:006	-	(,)	-	,␣
+er007:006	18b	@	-	käsi
+er007:006	-	(.)	-	.␣
+er007:007	er007:007	er007:007	VERSE	Esr␣7:7␣
+er007:007	1a	@	-	Myös␣
+er007:007	2b 3	@	-	israelilaisia␣
+er007:007	2a	%case	PTV	
+er007:007	4a	@	-	ja␣
+er007:007	(5a) 5b	@	-	pappeja
+er007:007	4b	%case	PTV	
+er007:007	-	(,)	-	,␣
+er007:007	(6b) 6c	@	-	leeviläisiä
+er007:007	-	(,)	-	,␣
+er007:007	(7b) 7c	@	-	veisaajia
+er007:007	-	(,)	-	,␣
+er007:007	(8b) 8c	@	-	ovenvartijoita␣
+er007:007	9a	@	-	ja␣
+er007:007	(9b) 9c	@	-	temppelipalvelijoita␣
+er007:007	1b	@	-	lähti␣
+er007:007	(6a) (7a) (8a)	-	UNTRANSLATED	
+er007:007	11	@	-	Jerusalemiin␣
+er007:007	10	%case	LOC	
+er007:007	(15a) 15b	@	-	kuningas␣
+er007:007	14b	@	-	Artahsastan␣
+er007:007	14a	%case	GEN	
+er007:007	13	@	-	seitsemäntenä␣
+er007:007	12b	@	-	hallitusvuotena
+er007:007	12a	%case	ESS	
+er007:007	-	(.)	-	.␣
+er007:008	er007:008	er007:008	VERSE	Esr␣7:8␣
+er007:008	1a	@	-	Ja␣
+er007:008	1b	(@)	-	hän␣
+er007:008	1b	@	-	tuli␣
+er007:008	2	@	-	Jerusalemiin␣
+er007:008	(4a) 4b	@	-	viidennessä␣
+er007:008	3b	@	-	kuussa␣
+er007:008	3a	%case	LOC	
+er007:008	(5)	-	UNTRANSLATED	
+er007:008	8b	@	-	kuninkaan␣
+er007:008	8a	%case	GEN	
+er007:008	(7a) 7b	@	-	seitsemäntenä␣
+er007:008	6	@	-	hallitusvuotena
+er007:008	-	(.)	-	.␣
+er007:009	er007:009	er007:009	VERSE	Esr␣7:9␣
+er007:009	1	@	-	Sillä␣
+er007:009	(4a) 4b	@	-	ensimmäisen␣
+er007:009	3b	@	-	kuun␣
+er007:009	3a	%case	GEN	
+er007:009	2b	@	-	ensimmäisenä␣
+er007:009	2a	%case	ESS	
+er007:009	-	(@)	-	päivänä␣
+er007:009	6	@	-	alkoi␣
+er007:009	5	%case	?	
+er007:009	(7a) 7b	@	-	lähtö␣
+er007:009	8b	@	-	Baabelista
+er007:009	8a	%case	LOC	
+er007:009	-	(;)	-	;␣
+er007:009	9a	@	-	ja␣
+er007:009	(11a) 11b	@	-	viidennen␣
+er007:009	10b	@	-	kuun␣
+er007:009	10a	%case	GEN	
+er007:009	9c	@	-	ensimmäisenä␣
+er007:009	9b	%case	ESS	
+er007:009	-	(@)	-	päivänä␣
+er007:009	12	(@)	-	hän␣
+er007:009	12	@	-	tuli␣
+er007:009	14	@	-	Jerusalemiin
+er007:009	13	%case	LOC	
+er007:009	-	(,)	-	,␣
+er007:009	15a	@	-	koska␣
+er007:009	16	@	-	Jumalan␣
+er007:009	(17a) 17b	@	-	hyvä␣
+er007:009	15b	@	-	käsi␣
+er007:009	-	(@)	-	oli␣
+er007:009	pers%18	@	-	hänen␣
+er007:009	18	@	-	päällänsä
+er007:009	-	(.)	-	.␣
+er007:010	er007:010	er007:010	VERSE	Esr␣7:10␣
+er007:010	1	@	-	Sillä␣
+er007:010	2	@	-	Esra␣
+er007:010	3	(@)	-	oli␣
+er007:010	3	@	-	kiinnittänyt␣
+er007:010	4	@	-	sydämensä␣
+er007:010	8	@	-	Herran␣
+er007:010	7	@	-	lain␣
+er007:010	6	%case	GEN	
+er007:010	5b	@	-	tutkimiseen
+er007:010	5a	%case	LOC	
+er007:010	(9a)	-	UNTRANSLATED	
+er007:010	-	(,)	-	,␣
+er007:010	9c	@	-	seuratakseen␣
+er007:010	9b	%case	TRA	
+er007:010	9c	(@)	-	sitä␣
+er007:010	10a	@	-	ja␣
+er007:010	10c	@	-	opettaakseen␣
+er007:010	10b	%case	TRA	
+er007:010	11b	@	-	Israelissa␣
+er007:010	11a	%case	LOC	
+er007:010	12	@	-	lakia␣
+er007:010	13a	@	-	ja␣
+er007:010	13b	@	-	oikeutta
+er007:010	-	(.)	-	.␣
+er007:011	er007:011	er007:011	VERSE	Esr␣7:11␣
+er007:011	(1a)	-	UNTRANSLATED	
+er007:011	1b	@	-	Tämä␣
+er007:011	-	(@)	-	on␣
+er007:011	2	@	-	jäljennös␣
+er007:011	(3a) 3b	@	-	kirjeestä
+er007:011	-	(,)	-	,␣
+er007:011	4	@	-	jonka␣
+er007:011	(6a) 6b	@	-	kuningas␣
+er007:011	7	@	-	Artahsasta␣
+er007:011	5	@	-	antoi␣
+er007:011	(9a) 9b	@	-	pappi␣
+er007:011	8b	@	-	Esralle
+er007:011	8a	%case	LOC	
+er007:011	-	(,)	-	,␣
+er007:011	(10a) 10b	@	-	kirjanoppineelle
+er007:011	-	(,)	-	,␣
+er007:011	-	(@)	-	joka␣
+er007:011	-	(@)	-	oli␣
+er007:011	14	@	-	Herran␣
+er007:011	17	@	-	Israelille␣
+er007:011	16	%case	LOC	
+er007:011	-	(@)	-	antamien␣
+er007:011	12 13	@	-	käskyjen␣
+er007:011	15a	@	-	ja␣
+er007:011	15b	@	-	ohjeitten␣
+er007:011	11	@	-	tuntija
+er007:011	-	(:)	-	:␣
+er007:012	er007:012	er007:012	VERSE	Esr␣7:12␣
+er007:012	-	(@)	-	"
+er007:012	1	@	-	Artahsasta
+er007:012	-	(,)	-	,␣
+er007:012	3a	@	-	kuningasten␣
+er007:012	3b	%case	GEN	
+er007:012	2	@	-	kuningas
+er007:012	-	(,)	-	,␣
+er007:012	5a	@	-	pappi␣
+er007:012	5b	%case	NOM	
+er007:012	4b	@	-	Esralle
+er007:012	4a	%case	LOC	
+er007:012	-	(,)	-	,␣
+er007:012	10a	@	-	taivaan␣
+er007:012	10b	%case	GEN	
+er007:012	9	@	-	Jumalan␣
+er007:012	8	%case	GEN	
+er007:012	7a	@	-	lain␣
+er007:012	7b	%case	GEN	
+er007:012	6	@	-	tuntijalle
+er007:012	(11)	-	UNTRANSLATED	
+er007:012	-	(@)	-	"
+er007:012	-	(,)	-	,␣
+er007:012	12a	@	-	ja␣
+er007:012	12b	@	-	niin␣
+er007:012	12b	@	-	edespäin
+er007:012	-	(.)	-	.␣
+er007:013	er007:013	er007:013	VERSE	Esr␣7:13␣
+er007:013	-	(@)	-	"
+er007:013	1	@	-	Minä␣
+er007:013	2	@	-	annan␣
+er007:013	3	@	-	käskyn
+er007:013	-	(,)	-	,␣
+er007:013	4	@	-	että␣
+er007:013	pers%7b	@	-	minun␣
+er007:013	7b	@	-	valtakunnassani␣
+er007:013	7a	%case	LOC	
+er007:013	5	@	-	jokainen␣
+er007:013	10	@	-	Israelin␣
+er007:013	9a	@	-	kansan␣
+er007:013	9b	%case	GEN	
+er007:013	8	@	-	jäsen␣
+er007:013	11a	@	-	ja␣
+er007:013	pers%11b	@	-	sen␣
+er007:013	11b	@	-	papit␣
+er007:013	12a	@	-	ja␣
+er007:013	12b	@	-	leeviläiset
+er007:013	12c	%case	NOM	
+er007:013	-	(,)	-	,␣
+er007:013	pro%6	@	-	jotka␣
+er007:013	6	(@)	-	ovat␣
+er007:013	6	@	-	halukkaat␣
+er007:013	13b	@	-	lähtemään␣
+er007:013	13a	%case	LOC	
+er007:013	14b	@	-	Jerusalemiin
+er007:013	14a	%case	LOC	
+er007:013	-	(,)	-	,␣
+er007:013	16	@	-	lähtekööt␣
+er007:013	pers%15	@	-	sinun␣
+er007:013	15	@	-	kanssasi
+er007:013	-	(,)	-	,␣
+er007:014	er007:014	er007:014	VERSE	Esr␣7:14␣
+er007:014	1 2 3	@	-	koska␣
+er007:014	(4) (5)	-	UNTRANSLATED	
+er007:014	6a	@	-	kuningas␣
+er007:014	6b	%case	NOM	
+er007:014	7a	@	-	ja␣
+er007:014	pers%8	@	-	hänen␣
+er007:014	7b	@	-	seitsemän␣
+er007:014	8	@	-	neuvonantajaansa␣
+er007:014	9	(@)	-	ovat␣
+er007:014	9	@	-	lähettäneet␣
+er007:014	9	@	-	sinut␣
+er007:014	10b	@	-	tarkastamaan
+er007:014	10a	%case	LOC	
+er007:014	-	(,)	-	,␣
+er007:014	-	(@)	-	ovatko␣
+er007:014	-	(@)	-	olot␣
+er007:014	12	@	-	Juudassa␣
+er007:014	11	%case	LOC	
+er007:014	13a	@	-	ja␣
+er007:014	13c	@	-	Jerusalemissa␣
+er007:014	13b	%case	LOC	
+er007:014	pers%15	@	-	sinun␣
+er007:014	15	@	-	Jumalasi␣
+er007:014	14b	@	-	lain␣
+er007:014	14a	@	-	mukaiset
+er007:014	-	(,)	-	,␣
+er007:014	16	@	-	joka␣
+er007:014	-	(@)	-	on␣
+er007:014	pers%17b	@	-	sinun␣
+er007:014	17b	@	-	kädessäsi
+er007:014	17a	%case	LOC	
+er007:014	-	(,)	-	,␣
+er007:015	er007:015	er007:015	VERSE	Esr␣7:15␣
+er007:015	1a	@	-	ja␣
+er007:015	1c	@	-	viemään␣
+er007:015	1b	%case	LOC	
+er007:015	-	(@)	-	sinne␣
+er007:015	2	@	-	hopean␣
+er007:015	3a	@	-	ja␣
+er007:015	3b	@	-	kullan
+er007:015	-	(,)	-	,␣
+er007:015	4	@	-	minkä␣
+er007:015	5a	@	-	kuningas␣
+er007:015	5b	%case	NOM	
+er007:015	6a	@	-	ja␣
+er007:015	pers%6b	@	-	hänen␣
+er007:015	6b	@	-	neuvonantajansa␣
+er007:015	7	(@)	-	ovat␣
+er007:015	7	@	-	antaneet␣
+er007:015	7	@	-	vapaaehtoisena␣
+er007:015	7	@	-	lahjana␣
+er007:015	9	@	-	Israelin␣
+er007:015	8b	@	-	Jumalalle
+er007:015	8a	%case	LOC	
+er007:015	-	(,)	-	,␣
+er007:015	10	@	-	jonka␣
+er007:015	12	@	-	asumus␣
+er007:015	-	(@)	-	on␣
+er007:015	11b	@	-	Jerusalemissa
+er007:015	11a	%case	LOC	
+er007:015	-	(,)	-	,␣
+er007:016	er007:016	er007:016	VERSE	Esr␣7:16␣
+er007:016	1a	@	-	ja␣
+er007:016	-	(@)	-	myös␣
+er007:016	1b	@	-	kaiken␣
+er007:016	2	@	-	hopean␣
+er007:016	3a	@	-	ja␣
+er007:016	3b	@	-	kullan
+er007:016	-	(,)	-	,␣
+er007:016	4	@	-	minkä␣
+er007:016	5	@	-	saat␣
+er007:016	6b	@	-	koko␣
+er007:016	8	@	-	Baabelin␣
+er007:016	7	@	-	maakunnasta
+er007:016	6a	%case	LOC	
+er007:016	-	(,)	-	,␣
+er007:016	9	@	-	sekä␣
+er007:016	-	(@)	-	ne␣
+er007:016	10	@	-	vapaaehtoiset␣
+er007:016	10	@	-	lahjat
+er007:016	-	(,)	-	,␣
+er007:016	-	(@)	-	jotka␣
+er007:016	11a	@	-	kansa␣
+er007:016	11b	%case	NOM	
+er007:016	12a	@	-	ja␣
+er007:016	12b	@	-	papit␣
+er007:016	12c	%case	NOM	
+er007:016	13	@	-	antavat␣
+er007:016	15	@	-	Jumalansa␣
+er007:016	14b	@	-	temppeliin␣
+er007:016	14a	%case	LOC	
+er007:016	17b	@	-	Jerusalemiin
+er007:016	16 17a	%case	LOC	
+er007:016	-	(.)	-	.␣
+er007:017	er007:017	er007:017	VERSE	Esr␣7:17␣
+er007:017	5	@	-	Osta␣
+er007:017	1 2 3	@	-	siis␣
+er007:017	7	@	-	näillä␣
+er007:017	6b	@	-	rahoilla␣
+er007:017	6a 6c	%case	LOC	
+er007:017	4	@	-	mitä␣
+er007:017	4	@	-	tunnollisimmin␣
+er007:017	8	@	-	härkiä
+er007:017	-	(,)	-	,␣
+er007:017	9	@	-	oinaita␣
+er007:017	-	(@)	-	ja␣
+er007:017	10	@	-	karitsoita␣
+er007:017	11a	@	-	ynnä␣
+er007:017	pers%11b	@	-	niihin␣
+er007:017	-	(@)	-	kuuluvia␣
+er007:017	11b	@	-	ruoka-~/ruokauhreja␣
+er007:017	12a	@	-	ja␣
+er007:017	12b	@	-	juomauhreja
+er007:017	-	(;)	-	;␣
+er007:017	13a	@	-	ja␣
+er007:017	13b	@	-	uhraa␣
+er007:017	14	@	-	ne␣
+er007:017	pers%19	@	-	teidän␣
+er007:017	19	@	-	Jumalanne␣
+er007:017	18	@	-	temppelin␣
+er007:017	17	%case	GEN	
+er007:017	16a	@	-	alttarilla␣
+er007:017	16b	%case	LOC	
+er007:017	15	%case	LOC	
+er007:017	21b	@	-	Jerusalemissa
+er007:017	20 21a	%case	LOC	
+er007:017	-	(.)	-	.␣
+er007:018	er007:018	er007:018	VERSE	Esr␣7:18␣
+er007:018	1a	@	-	Ja␣
+er007:018	1b 2	@	-	mitä␣
+er007:018	4	@	-	sinä␣
+er007:018	5a	@	-	ja␣
+er007:018	(5b)	-	UNTRANSLATED	
+er007:018	pers%7	@	-	sinun␣
+er007:018	7	@	-	veljesi␣
+er007:018	8	@	-	näette␣
+er007:018	8	@	-	hyväksi␣
+er007:018	12b	@	-	tehdä␣
+er007:018	12a	%case	LAT	
+er007:018	10a	@	-	hopean␣
+er007:018	10b	%case	GEN	
+er007:018	11a	@	-	ja␣
+er007:018	11b	@	-	kullan␣
+er007:018	11c	%case	GEN	
+er007:018	9b	@	-	tähteillä
+er007:018	9a	%case	LOC	
+er007:018	-	(,)	-	,␣
+er007:018	15	(@)	-	se␣
+er007:018	15	@	-	tehkää␣
+er007:018	14	@	-	Jumalanne␣
+er007:018	13b	@	-	tahdon␣
+er007:018	13a	@	-	mukaan
+er007:018	-	(.)	-	.␣
+er007:019	er007:019	er007:019	VERSE	Esr␣7:19␣
+er007:019	(1a)	-	UNTRANSLATED	
+er007:019	-	(@)	-	Ne␣
+er007:019	1b	@	-	kalut
+er007:019	1c	%case	NOM	
+er007:019	-	(,)	-	,␣
+er007:019	2	@	-	jotka␣
+er007:019	4	@	-	sinulle␣
+er007:019	3	@	-	annetaan␣
+er007:019	5b	@	-	jumalanpalvelusta␣
+er007:019	5a	@	-	varten␣
+er007:019	pers%7	@	-	sinun␣
+er007:019	7	@	-	Jumalasi␣
+er007:019	6	@	-	temppelissä
+er007:019	-	(,)	-	,␣
+er007:019	8	@	-	jätä␣
+er007:019	11	@	-	Jerusalemin␣
+er007:019	10	@	-	Jumalan␣
+er007:019	9	@	-	eteen
+er007:019	-	(.)	-	.␣
+er007:020	er007:020	er007:020	VERSE	Esr␣7:20␣
+er007:020	1a	@	-	Ja␣
+er007:020	1b	@	-	muut␣
+er007:020	4	@	-	Jumalasi␣
+er007:020	3	@	-	temppelin␣
+er007:020	2	@	-	tarpeet
+er007:020	-	(,)	-	,␣
+er007:020	5	@	-	joita␣
+er007:020	6 7	@	-	joudut␣
+er007:020	8b	@	-	suorittamaan
+er007:020	8a	%case	LOC	
+er007:020	-	(,)	-	,␣
+er007:020	9	(@)	-	sinä␣
+er007:020	9	(@)	-	saat␣
+er007:020	9	@	-	suorittaa␣
+er007:020	13a	@	-	kuninkaan␣
+er007:020	13b	%case	GEN	
+er007:020	11 12	@	-	aarrekammiosta
+er007:020	10	%case	LOC	
+er007:020	-	(.)	-	.␣
+er007:021	er007:021	er007:021	VERSE	Esr␣7:21␣
+er007:021	1a	@	-	Ja␣
+er007:021	2	@	-	minä
+er007:021	1b	%case	NOM	
+er007:021	-	(,)	-	,␣
+er007:021	4a	@	-	kuningas␣
+er007:021	4b	%case	NOM	
+er007:021	3	@	-	Artahsasta
+er007:021	-	(,)	-	,␣
+er007:021	5	@	-	annan␣
+er007:021	6	@	-	käskyn␣
+er007:021	7b	@	-	kaikille␣
+er007:021	7a	%case	LOC	
+er007:021	8a	@	-	aarteistojen␣
+er007:021	8a	@	-	vartijoille␣
+er007:021	8b	%case	LOC	
+er007:021	(9)	-	UNTRANSLATED	
+er007:021	sem%10a	@	-	tuolla␣
+er007:021	10b	@	-	puolella␣
+er007:021	10a	%case	LOC	
+er007:021	11a	@	-	Eufrat-virran
+er007:021	11b	%case	GEN	
+er007:021	(12)	-	UNTRANSLATED	
+er007:021	-	(:)	-	:␣
+er007:021	-	(@)	-	'
+er007:021	13	@	-	Kaikki
+er007:021	-	(,)	-	,␣
+er007:021	14	@	-	mitä␣
+er007:021	17a	@	-	pappi␣
+er007:021	17b	%case	NOM	
+er007:021	16	@	-	Esra
+er007:021	-	(,)	-	,␣
+er007:021	22a	@	-	taivaan␣
+er007:021	22b	%case	GEN	
+er007:021	21	@	-	Jumalan␣
+er007:021	20	%case	GEN	
+er007:021	19a	@	-	lain␣
+er007:021	19b	%case	GEN	
+er007:021	18	@	-	tuntija
+er007:021	-	(,)	-	,␣
+er007:021	pers%15	@	-	teiltä␣
+er007:021	15	@	-	pyytää
+er007:021	-	(,)	-	,␣
+er007:021	24	(@)	-	se␣
+er007:021	23	@	-	tunnollisesti␣
+er007:021	24	@	-	toimitettakoon
+er007:021	-	(:)	-	:␣
+er007:022	er007:022	er007:022	VERSE	Esr␣7:22␣
+er007:022	2	@	-	hopeata␣
+er007:022	1	@	-	aina␣
+er007:022	4	@	-	sataan␣
+er007:022	3	@	-	talenttiin
+er007:022	1	%case	LOC	
+er007:022	(5a)	-	UNTRANSLATED	
+er007:022	-	(,)	-	,␣
+er007:022	6	@	-	nisuja␣
+er007:022	8	@	-	sataan␣
+er007:022	7	@	-	koor-mittaan
+er007:022	5b	%case	LOC	
+er007:022	(9a)	-	UNTRANSLATED	
+er007:022	-	(,)	-	,␣
+er007:022	10	@	-	viiniä␣
+er007:022	12	@	-	sataan␣
+er007:022	11	@	-	bat-mittaan
+er007:022	9b	%case	LOC	
+er007:022	(13a)	-	UNTRANSLATED	
+er007:022	-	(,)	-	,␣
+er007:022	15	@	-	öljyä␣
+er007:022	16	@	-	sataan␣
+er007:022	14	@	-	bat-mittaan␣
+er007:022	13b	@	-	saakka
+er007:022	-	(,)	-	,␣
+er007:022	17a	@	-	niin␣
+er007:022	17a	@	-	myös␣
+er007:022	17b	@	-	suoloja␣
+er007:022	19	@	-	ilman␣
+er007:022	18	%case	?	
+er007:022	20	@	-	määrää
+er007:022	-	(.)	-	.␣
+er007:023	er007:023	er007:023	VERSE	Esr␣7:23␣
+er007:023	1	@	-	Kaikki
+er007:023	-	(,)	-	,␣
+er007:023	2	@	-	mitä␣
+er007:023	6a	@	-	taivaan␣
+er007:023	6b	%case	GEN	
+er007:023	5	@	-	Jumala␣
+er007:023	4	@	-	käskee
+er007:023	3	%case	?	
+er007:023	-	(,)	-	,␣
+er007:023	7	@	-	tehtäköön␣
+er007:023	11a	@	-	taivaan␣
+er007:023	11b	%case	GEN	
+er007:023	10	@	-	Jumalan␣
+er007:023	9b	@	-	temppelille␣
+er007:023	9a	%case	LOC	
+er007:023	8	@	-	täsmällisesti
+er007:023	-	(,)	-	,␣
+er007:023	12	@	-	ettei␣
+er007:023	13	%case	?	
+er007:023	15	@	-	viha␣
+er007:023	14	@	-	kohtaisi␣
+er007:023	18a	@	-	kuninkaan␣
+er007:023	18b	%case	GEN	
+er007:023	19a	@	-	ja␣
+er007:023	pers%19b	@	-	hänen␣
+er007:023	19b	@	-	poikiensa␣
+er007:023	17	@	-	valtakuntaa
+er007:023	16	%case	PTV	
+er007:023	-	(.)	-	.␣
+er007:024	er007:024	er007:024	VERSE	Esr␣7:24␣
+er007:024	1a	@	-	Vielä␣
+er007:024	2	@	-	tehdään␣
+er007:024	1b	@	-	teille␣
+er007:024	2	@	-	tiettäväksi
+er007:024	-	(,)	-	,␣
+er007:024	17 3	@	-	ettei␣
+er007:024	-	(@)	-	kukaan␣
+er007:024	18	(@)	-	ole␣
+er007:024	18	@	-	oikeutettu␣
+er007:024	19b	@	-	vaatimaan␣
+er007:024	19a	%case	LOC	
+er007:024	14	@	-	rahaveroa
+er007:024	-	(,)	-	,␣
+er007:024	15	@	-	luonnontuotteita␣
+er007:024	16a	@	-	tai␣
+er007:024	16b	@	-	tierahoja␣
+er007:024	4	@	-	yhdeltäkään␣
+er007:024	5a	@	-	papilta␣
+er007:024	5b	%case	LOC	
+er007:024	6a	@	-	tai␣
+er007:024	6b	@	-	leeviläiseltä
+er007:024	6c	%case	LOC	
+er007:024	-	(,)	-	,␣
+er007:024	7a	@	-	veisaajalta
+er007:024	7b	%case	LOC	
+er007:024	-	(,)	-	,␣
+er007:024	8a	@	-	ovenvartijalta
+er007:024	8b	%case	LOC	
+er007:024	-	(,)	-	,␣
+er007:024	9a	@	-	temppelipalvelijalta␣
+er007:024	9b	%case	LOC	
+er007:024	10a	@	-	tai␣
+er007:024	-	(@)	-	muulta␣
+er007:024	13	@	-	tämän␣
+er007:024	12a	@	-	Jumalan␣
+er007:024	12b	%case	GEN	
+er007:024	11	@	-	temppelin␣
+er007:024	10b	@	-	tehtäviä␣
+er007:024	10b	@	-	toimittavalta
+er007:024	(20)	-	UNTRANSLATED	
+er007:024	-	(.)	-	.
+er007:024	-	(@)	-	'␣
+er007:025	er007:025	er007:025	VERSE	Esr␣7:25␣
+er007:025	1a	@	-	Ja␣
+er007:025	1b	@	-	sinä
+er007:025	-	(,)	-	,␣
+er007:025	2	@	-	Esra
+er007:025	-	(,)	-	,␣
+er007:025	7	@	-	aseta␣
+er007:025	4	@	-	Jumalasi␣
+er007:025	3b	@	-	viisauden␣
+er007:025	3a	@	-	mukaan
+er007:025	-	(,)	-	,␣
+er007:025	5	@	-	joka␣
+er007:025	-	(@)	-	on␣
+er007:025	pers%6b	@	-	sinun␣
+er007:025	6b	@	-	kädessäsi
+er007:025	6a	%case	LOC	
+er007:025	-	(,)	-	,␣
+er007:025	8	@	-	tuomareita␣
+er007:025	9a	@	-	ja␣
+er007:025	9b	@	-	lakimiehiä␣
+er007:025	13	@	-	tuomitsemaan␣
+er007:025	10 11	%case	LOC	
+er007:025	14b	@	-	kaikkea␣
+er007:025	14a	%case	PTV	
+er007:025	15a	@	-	kansaa␣
+er007:025	15b	%case	PTV	
+er007:025	(16)	-	UNTRANSLATED	
+er007:025	17b	@	-	tuolla␣
+er007:025	17b	@	-	puolella␣
+er007:025	17a	%case	LOC	
+er007:025	18a	@	-	Eufrat-virran
+er007:025	18b	%case	GEN	
+er007:025	-	(,)	-	,␣
+er007:025	19b	@	-	kaikkia
+er007:025	19a	%case	PTV	
+er007:025	-	(,)	-	,␣
+er007:025	-	(@)	-	jotka␣
+er007:025	20	@	-	tuntevat␣
+er007:025	pers%22	@	-	sinun␣
+er007:025	22	@	-	Jumalasi␣
+er007:025	21	@	-	lain
+er007:025	-	(;)	-	;␣
+er007:025	23a	@	-	ja␣
+er007:025	-	(@)	-	niille
+er007:025	-	(,)	-	,␣
+er007:025	23b	@	-	jotka␣
+er007:025	24	@	-	eivät␣
+er007:025	sem%25	@	-	sitä␣
+er007:025	25	@	-	tunne
+er007:025	-	(,)	-	,␣
+er007:025	26	@	-	opettakaa␣
+er007:025	26	(@)	-	sitä
+er007:025	-	(.)	-	.␣
+er007:026	er007:026	er007:026	VERSE	Esr␣7:26␣
+er007:026	1a	@	-	Ja␣
+er007:026	1b	@	-	jokainen
+er007:026	-	(,)	-	,␣
+er007:026	2	@	-	joka␣
+er007:026	3	@	-	ei␣
+er007:026	5	@	-	seuraa␣
+er007:026	4	%case	?	
+er007:026	pers%8	@	-	sinun␣
+er007:026	8	@	-	Jumalasi␣
+er007:026	7	%case	NOM.GEN	
+er007:026	6a	@	-	lakia␣
+er007:026	6b	%case	PTV	
+er007:026	9a	@	-	ja␣
+er007:026	11a	@	-	kuninkaan␣
+er007:026	10 11b	%case	GEN	
+er007:026	9b	@	-	lakia
+er007:026	9c	%case	PTV	
+er007:026	-	(,)	-	,␣
+er007:026	13a	@	-	tuomittakoon␣
+er007:026	13b 14	%case	?	
+er007:026	12	@	-	tarkoin␣
+er007:026	15	@	-	harkiten␣
+er007:026	16	%case	MAN	
+er007:026	17	@	-	joko␣
+er007:026	18b	@	-	kuolemaan␣
+er007:026	18a	%case	LOC	
+er007:026	19	@	-	tai␣
+er007:026	21b	@	-	karkoitukseen
+er007:026	21a	%case	LOC	
+er007:026	(22)	-	UNTRANSLATED	
+er007:026	-	(,)	-	,␣
+er007:026	23b 24	@	-	rahasakkoon␣
+er007:026	23a	%case	LOC	
+er007:026	25a	@	-	tai␣
+er007:026	25c	@	-	vankeuteen
+er007:026	25b	%case	LOC	
+er007:026	-	(.)	-	.
+er007:026	-	(@)	-	"␣
+er007:027	er007:027	er007:027	VERSE	Esr␣7:27␣
+er007:027	1	@	-	Kiitetty␣
+er007:027	1	(@)	-	olkoon␣
+er007:027	2	@	-	Herra
+er007:027	-	(,)	-	,␣
+er007:027	pers%4	@	-	meidän␣
+er007:027	4	@	-	isiemme␣
+er007:027	3	@	-	Jumala
+er007:027	-	(,)	-	,␣
+er007:027	5	@	-	joka␣
+er007:027	6	(@)	-	on␣
+er007:027	6	@	-	pannut␣
+er007:027	(9a) 9b	@	-	kuninkaan␣
+er007:027	8b	@	-	sydämeen
+er007:027	8a	%case	LOC	
+er007:027	-	(,)	-	,␣
+er007:027	7a 7b	@	-	että␣
+er007:027	10b	(@)	-	hänen␣
+er007:027	10b	(@)	-	on␣
+er007:027	10b	@	-	kaunistettava␣
+er007:027	10a	%case	NOM	
+er007:027	13	@	-	Herran␣
+er007:027	12	@	-	temppeliä␣
+er007:027	11	%case	PTV	
+er007:027	15b	@	-	Jerusalemissa␣
+er007:027	14 15a	%case	LOC	
+er007:028	er007:028	er007:028	VERSE	Esr␣7:28␣
+er007:028	1a	@	-	ja␣
+er007:028	-	(@)	-	joka␣
+er007:028	2	(@)	-	on␣
+er007:028	2	(@)	-	suonut␣
+er007:028	1b	@	-	minun␣
+er007:028	2	@	-	saavuttaa␣
+er007:028	(5a) 5b	@	-	kuninkaan
+er007:028	4a 4b	%case	GEN	
+er007:028	-	(,)	-	,␣
+er007:028	pers%6b	@	-	hänen␣
+er007:028	6b	@	-	neuvonantajainsa␣
+er007:028	(6a)	-	UNTRANSLATED	
+er007:028	7a	@	-	ja␣
+er007:028	7c	@	-	kaikkien␣
+er007:028	7b	%case	GEN	
+er007:028	(9a) 9b	@	-	kuninkaan␣
+er007:028	(10a) 10b	@	-	mahtavain␣
+er007:028	8	@	-	ruhtinasten␣
+er007:028	3	@	-	suosion
+er007:028	-	(.)	-	.␣
+er007:028	11a	@	-	Ja␣
+er007:028	11b	@	-	minä␣
+er007:028	12	@	-	rohkaisin␣
+er007:028	12	@	-	mieleni
+er007:028	-	(,)	-	,␣
+er007:028	13a	@	-	koska␣
+er007:028	14	@	-	Herran
+er007:028	-	(,)	-	,␣
+er007:028	pers%15	@	-	minun␣
+er007:028	15	@	-	Jumalani
+er007:028	-	(,)	-	,␣
+er007:028	13b	@	-	käsi␣
+er007:028	-	(@)	-	oli␣
+er007:028	pers%16	@	-	minun␣
+er007:028	16	@	-	päälläni
+er007:028	-	(,)	-	,␣
+er007:028	17a	@	-	ja␣
+er007:028	17b	(@)	-	minä␣
+er007:028	17b	@	-	kokosin␣
+er007:028	18b	@	-	Israelista␣
+er007:028	18a	%case	LOC	
+er007:028	19	@	-	päämiehiä␣
+er007:028	20b	@	-	lähtemään␣
+er007:028	20a	%case	LOC	
+er007:028	21	@	-	kanssani
+er007:028	-	(.)	-	.␣
+er008:001	er008:001	er008:001	VERSE	Esr␣8:1␣
+er008:001	(1a)	-	UNTRANSLATED	
+er008:001	1b	@	-	Nämä␣
+er008:001	-	(@)	-	olivat␣
+er008:001	-	(@)	-	ne␣
+er008:001	pers%3	@	-	heidän␣
+er008:001	2 3	@	-	perhekunta-päämiehensä␣
+er008:001	4a	@	-	ja␣
+er008:001	pers%4b	@	-	heidän␣
+er008:001	4b	@	-	sukuluetteloihinsa␣
+er008:001	4b	@	-	merkityt
+er008:001	-	(,)	-	,␣
+er008:001	-	(@)	-	jotka␣
+er008:001	(9a) 9b	@	-	kuningas␣
+er008:001	8	@	-	Artahsastan␣
+er008:001	7b	@	-	hallituksen␣
+er008:001	7a	@	-	aikana␣
+er008:001	(5a) 5b	@	-	lähtivät␣
+er008:001	pers%6	@	-	minun␣
+er008:001	6	@	-	kanssani␣
+er008:001	10b	@	-	Baabelista
+er008:001	10a	%case	LOC	
+er008:001	-	(:)	-	:␣
+er008:002	er008:002	er008:002	VERSE	Esr␣8:2␣
+er008:002	2	@	-	Piinehaan␣
+er008:002	1b	@	-	jälkeläisiä␣
+er008:002	1a	%case	PTV	
+er008:002	3	@	-	Geersom
+er008:002	-	(;)	-	;␣
+er008:002	6	@	-	Iitamarin␣
+er008:002	5b	@	-	jälkeläisiä␣
+er008:002	5a	%case	PTV	
+er008:002	7	@	-	Daniel
+er008:002	-	(;)	-	;␣
+er008:002	10	@	-	Daavidin␣
+er008:002	9b	@	-	jälkeläisiä␣
+er008:002	9a	%case	PTV	
+er008:002	11	@	-	Hattus
+er008:002	-	(;)	-	;␣
+er008:003	er008:003	er008:003	VERSE	Esr␣8:3␣
+er008:003	2	@	-	Sekanjan␣
+er008:003	1b	@	-	jälkeläisiä
+er008:003	1a	%case	PTV	
+er008:003	-	(,)	-	,␣
+er008:003	5	@	-	Paroksen␣
+er008:003	4b	@	-	jälkeläisiä
+er008:003	4a	%case	PTV	
+er008:003	-	(,)	-	,␣
+er008:003	6	@	-	Sakarja␣
+er008:003	7a	@	-	ja␣
+er008:003	pers%7b	@	-	hänen␣
+er008:003	7b	@	-	kanssaan␣
+er008:003	10 (11a) 11b	@	-	sata␣
+er008:003	10 (11a) 11b	@	-	viisikymmentä␣
+er008:003	8	@	-	sukuluetteloihin␣
+er008:003	8	@	-	merkittyä␣
+er008:003	9b	@	-	miestä
+er008:003	9a	%case	PTV	
+er008:003	-	(;)	-	;␣
+er008:004	er008:004	er008:004	VERSE	Esr␣8:4␣
+er008:004	2	@	-	Pahat-Mooabin␣
+er008:004	1b	@	-	jälkeläisiä␣
+er008:004	1a	%case	PTV	
+er008:004	3	@	-	Eljoenai
+er008:004	-	(,)	-	,␣
+er008:004	5	@	-	Serahjan␣
+er008:004	4	@	-	poika
+er008:004	-	(,)	-	,␣
+er008:004	6a	@	-	ja␣
+er008:004	pers%6b	@	-	hänen␣
+er008:004	6b	@	-	kanssaan␣
+er008:004	7	@	-	kaksisataa␣
+er008:004	(8a) 8b	@	-	miestä
+er008:004	-	(;)	-	;␣
+er008:005	er008:005	er008:005	VERSE	Esr␣8:5␣
+er008:005	2	@	-	Sekanjan␣
+er008:005	1b	@	-	jälkeläisiä␣
+er008:005	1a	%case	PTV	
+er008:005	4	@	-	Jahasielin␣
+er008:005	3	@	-	poika␣
+er008:005	5a	@	-	ja␣
+er008:005	pers%5b	@	-	hänen␣
+er008:005	5b	@	-	kanssaan␣
+er008:005	6 7	@	-	kolmesataa␣
+er008:005	(8a) 8b	@	-	miestä
+er008:005	-	(;)	-	;␣
+er008:006	er008:006	er008:006	VERSE	Esr␣8:6␣
+er008:006	(1a)	-	UNTRANSLATED	
+er008:006	2	@	-	Aadinin␣
+er008:006	1c	@	-	jälkeläisiä␣
+er008:006	1b	%case	PTV	
+er008:006	3	@	-	Ebed
+er008:006	-	(,)	-	,␣
+er008:006	5	@	-	Joonatanin␣
+er008:006	4	@	-	poika
+er008:006	-	(,)	-	,␣
+er008:006	6a	@	-	ja␣
+er008:006	pers%6b	@	-	hänen␣
+er008:006	6b	@	-	kanssaan␣
+er008:006	7	@	-	viisikymmentä␣
+er008:006	(8a) 8b	@	-	miestä
+er008:006	-	(;)	-	;␣
+er008:007	er008:007	er008:007	VERSE	Esr␣8:7␣
+er008:007	(1a)	-	UNTRANSLATED	
+er008:007	2	@	-	Eelamin␣
+er008:007	1c	@	-	jälkeläisiä␣
+er008:007	1b	%case	PTV	
+er008:007	3	@	-	Jesaja
+er008:007	-	(,)	-	,␣
+er008:007	5	@	-	Ataljan␣
+er008:007	4	@	-	poika
+er008:007	-	(,)	-	,␣
+er008:007	6a	@	-	ja␣
+er008:007	pers%6b	@	-	hänen␣
+er008:007	6b	@	-	kanssaan␣
+er008:007	7	@	-	seitsemänkymmentä␣
+er008:007	(8a) 8b	@	-	miestä
+er008:007	-	(;)	-	;␣
+er008:008	er008:008	er008:008	VERSE	Esr␣8:8␣
+er008:008	(1a)	-	UNTRANSLATED	
+er008:008	2	@	-	Sefatjan␣
+er008:008	1c	@	-	jälkeläisiä␣
+er008:008	1b	%case	PTV	
+er008:008	3	@	-	Sebadja
+er008:008	-	(,)	-	,␣
+er008:008	5	@	-	Miikaelin␣
+er008:008	4	@	-	poika
+er008:008	-	(,)	-	,␣
+er008:008	6a	@	-	ja␣
+er008:008	pers%6b	@	-	hänen␣
+er008:008	6b	@	-	kanssaan␣
+er008:008	7	@	-	kahdeksankymmentä␣
+er008:008	(8a) 8b	@	-	miestä
+er008:008	-	(;)	-	;␣
+er008:009	er008:009	er008:009	VERSE	Esr␣8:9␣
+er008:009	2	@	-	Jooabin␣
+er008:009	1b	@	-	jälkeläisiä␣
+er008:009	1a	%case	PTV	
+er008:009	3	@	-	Obadja
+er008:009	-	(,)	-	,␣
+er008:009	5	@	-	Jehielin␣
+er008:009	4	@	-	poika
+er008:009	-	(,)	-	,␣
+er008:009	6a	@	-	ja␣
+er008:009	pers%6b	@	-	hänen␣
+er008:009	6b	@	-	kanssaan␣
+er008:009	7 (8a) 8b 9	@	-	kaksisataa␣
+er008:009	7 (8a) 8b 9	@	-	kahdeksantoista␣
+er008:009	(10a) 10b	@	-	miestä
+er008:009	-	(;)	-	;␣
+er008:010	er008:010	er008:010	VERSE	Esr␣8:10␣
+er008:010	(1a)	-	UNTRANSLATED	
+er008:010	2	@	-	Selomitin␣
+er008:010	1c	@	-	jälkeläisiä␣
+er008:010	1b	%case	PTV	
+er008:010	4	@	-	Joosifjan␣
+er008:010	3	@	-	poika␣
+er008:010	5a	@	-	ja␣
+er008:010	pers%5b	@	-	hänen␣
+er008:010	5b	@	-	kanssaan␣
+er008:010	6 (7a) 7b	@	-	sata␣
+er008:010	6 (7a) 7b	@	-	kuusikymmentä␣
+er008:010	(8a) 8b	@	-	miestä
+er008:010	-	(;)	-	;␣
+er008:011	er008:011	er008:011	VERSE	Esr␣8:11␣
+er008:011	(1a)	-	UNTRANSLATED	
+er008:011	2	@	-	Beebain␣
+er008:011	1c	@	-	jälkeläisiä␣
+er008:011	1b	%case	PTV	
+er008:011	3	@	-	Sakarja
+er008:011	-	(,)	-	,␣
+er008:011	5	@	-	Beebain␣
+er008:011	4	@	-	poika
+er008:011	-	(,)	-	,␣
+er008:011	6a	@	-	ja␣
+er008:011	pers%6b	@	-	hänen␣
+er008:011	6b	@	-	kanssaan␣
+er008:011	7 (8a) 8b	@	-	kaksikymmentä␣
+er008:011	7 (8a) 8b	@	-	kahdeksan␣
+er008:011	(9a) 9b	@	-	miestä
+er008:011	-	(;)	-	;␣
+er008:012	er008:012	er008:012	VERSE	Esr␣8:12␣
+er008:012	(1a)	-	UNTRANSLATED	
+er008:012	2	@	-	Asgadin␣
+er008:012	1c	@	-	jälkeläisiä␣
+er008:012	1b	%case	PTV	
+er008:012	3	@	-	Joohanan
+er008:012	-	(,)	-	,␣
+er008:012	5a 5b	@	-	Hakkatanin␣
+er008:012	4	@	-	poika
+er008:012	-	(,)	-	,␣
+er008:012	6a	@	-	ja␣
+er008:012	pers%6b	@	-	hänen␣
+er008:012	6b	@	-	kanssaan␣
+er008:012	7 (8a) 8b	@	-	sata␣
+er008:012	7 (8a) 8b	@	-	kymmenen␣
+er008:012	(9a) 9b	@	-	miestä
+er008:012	-	(;)	-	;␣
+er008:013	er008:013	er008:013	VERSE	Esr␣8:13␣
+er008:013	(1a)	-	UNTRANSLATED	
+er008:013	2	@	-	Adonikamin␣
+er008:013	1c	@	-	jälkeläisiä␣
+er008:013	1b	%case	PTV	
+er008:013	3	@	-	myöhemmin␣
+er008:013	3	@	-	tulleet
+er008:013	(4a)	-	UNTRANSLATED	
+er008:013	-	(,)	-	,␣
+er008:013	pers%5	@	-	joiden␣
+er008:013	5	@	-	nimet␣
+er008:013	4b	@	-	olivat␣
+er008:013	6	@	-	Elifelet
+er008:013	-	(,)	-	,␣
+er008:013	7	@	-	Jeguel␣
+er008:013	8a	@	-	ja␣
+er008:013	8b	@	-	Semaja
+er008:013	-	(,)	-	,␣
+er008:013	9a	@	-	ja␣
+er008:013	pers%9b	@	-	heidän␣
+er008:013	9b	@	-	kanssaan␣
+er008:013	10	@	-	kuusikymmentä␣
+er008:013	(11a) 11b	@	-	miestä
+er008:013	-	(;)	-	;␣
+er008:014	er008:014	er008:014	VERSE	Esr␣8:14␣
+er008:014	(1a)	-	UNTRANSLATED	
+er008:014	2	@	-	Bigvain␣
+er008:014	1c	@	-	jälkeläisiä␣
+er008:014	1b	%case	PTV	
+er008:014	3	@	-	Uutai␣
+er008:014	4a	@	-	ja␣
+er008:014	4b	@	-	Sabbud␣
+er008:014	6a	@	-	ja␣
+er008:014	pers%6b	@	-	heidän␣
+er008:014	6b	@	-	kanssaan␣
+er008:014	7	@	-	seitsemänkymmentä␣
+er008:014	(8a) 8b	@	-	miestä
+er008:014	-	(.)	-	.␣
+er008:015	er008:015	er008:015	VERSE	Esr␣8:15␣
+er008:015	1a	@	-	Ja␣
+er008:015	1b	(@)	-	minä␣
+er008:015	1b	@	-	kokosin␣
+er008:015	pers%1b	@	-	heidät␣
+er008:015	(3a) 3b	@	-	joelle
+er008:015	2	%case	LOC	
+er008:015	-	(,)	-	,␣
+er008:015	-	(@)	-	joka␣
+er008:015	(4a) 4b	@	-	juoksee␣
+er008:015	6	@	-	Ahavaan␣
+er008:015	5	@	-	päin
+er008:015	-	(,)	-	,␣
+er008:015	7a	@	-	ja␣
+er008:015	7b	(@)	-	me␣
+er008:015	7b	(@)	-	olimme␣
+er008:015	8	@	-	siellä␣
+er008:015	7b	@	-	leiriytyneinä␣
+er008:015	10	@	-	kolme␣
+er008:015	9	@	-	päivää
+er008:015	-	(.)	-	.␣
+er008:015	11a	@	-	Mutta␣
+er008:015	-	(@)	-	kun␣
+er008:015	11b	(@)	-	minä␣
+er008:015	11b	@	-	tarkkasin␣
+er008:015	12b	@	-	kansaa␣
+er008:015	12a	%case	PTV	
+er008:015	13a	@	-	ja␣
+er008:015	13c	@	-	pappeja
+er008:015	13b	%case	PTV	
+er008:015	(14a)	-	UNTRANSLATED	
+er008:015	-	(,)	-	,␣
+er008:015	16	@	-	en␣
+er008:015	17	@	-	löytänyt␣
+er008:015	18	@	-	sieltä␣
+er008:015	14b	@	-	yhtään␣
+er008:015	14c 15	@	-	leeviläistä
+er008:015	-	(.)	-	.␣
+er008:016	er008:016	er008:016	VERSE	Esr␣8:16␣
+er008:016	1a	@	-	Silloin␣
+er008:016	1b	(@)	-	minä␣
+er008:016	1b	@	-	lähetin␣
+er008:016	11	@	-	päämiehet␣
+er008:016	2b	@	-	Elieserin
+er008:016	2a	%case	GEN	
+er008:016	-	(,)	-	,␣
+er008:016	3b	@	-	Arielin
+er008:016	3a	%case	GEN	
+er008:016	-	(,)	-	,␣
+er008:016	4b	@	-	Semajan
+er008:016	4a	%case	GEN	
+er008:016	-	(,)	-	,␣
+er008:016	5c	@	-	Elnatanin
+er008:016	5b	%case	GEN	
+er008:016	-	(,)	-	,␣
+er008:016	6c	@	-	Jaaribin
+er008:016	6b	%case	GEN	
+er008:016	-	(,)	-	,␣
+er008:016	7c	@	-	Elnatanin
+er008:016	7b	%case	GEN	
+er008:016	-	(,)	-	,␣
+er008:016	8c	@	-	Naatanin
+er008:016	8b	%case	GEN	
+er008:016	-	(,)	-	,␣
+er008:016	9c	@	-	Sakarjan␣
+er008:016	9b	%case	GEN	
+er008:016	10a	@	-	ja␣
+er008:016	10c	@	-	Mesullamin␣
+er008:016	10b	%case	GEN	
+er008:016	(5a) (6a) (7a) (8a) (9a)	-	UNTRANSLATED	
+er008:016	12a	@	-	sekä␣
+er008:016	14	@	-	opettajat␣
+er008:016	12c	@	-	Joojaribin␣
+er008:016	12b	%case	GEN	
+er008:016	13a	@	-	ja␣
+er008:016	13c	@	-	Elnatanin␣
+er008:016	13b	%case	GEN	
+er008:017	er008:017	er008:017	VERSE	Esr␣8:17␣
+er008:017	2a	@	-	ja␣
+er008:017	2b	@	-	käskin␣
+er008:017	3	@	-	heidän␣
+er008:017	-	(@)	-	mennä␣
+er008:017	(6a) 6b	@	-	päämies␣
+er008:017	5	@	-	Iddon␣
+er008:017	4	@	-	luo␣
+er008:017	7b	@	-	Kaasifjan␣
+er008:017	(8a) 8b	@	-	paikkakunnalle
+er008:017	7a	%case	LOC	
+er008:017	-	(;)	-	;␣
+er008:017	9a	@	-	ja␣
+er008:017	9b	(@)	-	minä␣
+er008:017	9b	@	-	panin␣
+er008:017	pers%10b	@	-	heidän␣
+er008:017	10b	@	-	suuhunsa␣
+er008:017	10a	%case	LOC	
+er008:017	11	@	-	sanat
+er008:017	-	(,)	-	,␣
+er008:017	-	(@)	-	jotka␣
+er008:017	-	(@)	-	heidän␣
+er008:017	12b	(@)	-	oli␣
+er008:017	12b	@	-	puhuttava␣
+er008:017	12a	%case	NOM	
+er008:017	15	@	-	veljilleen␣
+er008:017	14	@	-	Iddolle␣
+er008:017	13	%case	LOC	
+er008:017	-	(@)	-	ja␣
+er008:017	(17a) 17b	@	-	temppelipalvelijoille
+er008:017	-	(,)	-	,␣
+er008:017	18b	@	-	Kaasifjan␣
+er008:017	(19a) 19b	@	-	paikkakunnalla
+er008:017	18a	%case	LOC	
+er008:017	-	(,)	-	,␣
+er008:017	20a	@	-	että␣
+er008:017	20b	(@)	-	he␣
+er008:017	20b	@	-	toisivat␣
+er008:017	21	@	-	meille␣
+er008:017	22	@	-	palvelijoita␣
+er008:017	pers%24	@	-	meidän␣
+er008:017	24	@	-	Jumalamme␣
+er008:017	23b	@	-	temppeliä␣
+er008:017	23a	@	-	varten
+er008:017	-	(.)	-	.␣
+er008:018	er008:018	er008:018	VERSE	Esr␣8:18␣
+er008:018	1a	@	-	Ja␣
+er008:018	3a	@	-	koska␣
+er008:018	pers%4	@	-	meidän␣
+er008:018	4	@	-	Jumalamme␣
+er008:018	(5a) 5b	@	-	hyvä␣
+er008:018	3b	@	-	käsi␣
+er008:018	-	(@)	-	oli␣
+er008:018	pers%6	@	-	meidän␣
+er008:018	6	@	-	päällämme
+er008:018	-	(,)	-	,␣
+er008:018	1b	@	-	toivat␣
+er008:018	1b	(@)	-	he␣
+er008:018	2	@	-	meille␣
+er008:018	8	@	-	ymmärtäväisen␣
+er008:018	7	@	-	miehen
+er008:018	-	(,)	-	,␣
+er008:018	-	(@)	-	joka␣
+er008:018	-	(@)	-	oli␣
+er008:018	10	@	-	Mahlin
+er008:018	-	(,)	-	,␣
+er008:018	12	@	-	Leevin␣
+er008:018	11	@	-	pojan␣
+er008:018	-	(@)	-	ja␣
+er008:018	14	@	-	Israelin␣
+er008:018	13	@	-	pojan␣
+er008:018	9b	@	-	pojan
+er008:018	-	(,)	-	,␣
+er008:018	9a	@	-	jälkeläisiä
+er008:018	-	(,)	-	,␣
+er008:018	15a	@	-	ja␣
+er008:018	15b	@	-	Seerebjan␣
+er008:018	16b	@	-	poikineen␣
+er008:018	16a	%case	CMT	
+er008:018	17a	@	-	ja␣
+er008:018	17b	@	-	veljineen
+er008:018	-	(,)	-	,␣
+er008:018	18 19	@	-	kahdeksantoista␣
+er008:018	-	(@)	-	miestä
+er008:018	-	(,)	-	,␣
+er008:019	er008:019	er008:019	VERSE	Esr␣8:19␣
+er008:019	1a	@	-	ja␣
+er008:019	2	@	-	Hasabjan␣
+er008:019	1b	%case	GEN	
+er008:019	3a	@	-	ja␣
+er008:019	pers%3b	@	-	hänen␣
+er008:019	3b	@	-	kanssaan␣
+er008:019	4	@	-	Jesajan
+er008:019	-	(,)	-	,␣
+er008:019	-	(@)	-	joka␣
+er008:019	-	(@)	-	oli␣
+er008:019	6	@	-	Merarin␣
+er008:019	5b	@	-	jälkeläisiä
+er008:019	5a	%case	PTV	
+er008:019	-	(,)	-	,␣
+er008:019	7	@	-	veljineen␣
+er008:019	8a	@	-	ja␣
+er008:019	8b	@	-	poikineen
+er008:019	-	(,)	-	,␣
+er008:019	9	@	-	kaksikymmentä
+er008:019	-	(,)	-	,␣
+er008:020	er008:020	er008:020	VERSE	Esr␣8:20␣
+er008:020	1a	@	-	niin␣
+er008:020	1a	@	-	myös␣
+er008:020	(2a) 2b	@	-	temppelipalvelijoista
+er008:020	1b	%case	LOC	
+er008:020	-	(,)	-	,␣
+er008:020	3a	@	-	jotka␣
+er008:020	4	@	-	Daavid␣
+er008:020	5a	@	-	ja␣
+er008:020	(5b) 5c	@	-	päämiehet␣
+er008:020	3b	(@)	-	olivat␣
+er008:020	3b	@	-	antaneet␣
+er008:020	(7a) 7b	@	-	leeviläisille␣
+er008:020	6b	@	-	palvelemaan␣
+er008:020	6a	%case	LOC	
+er008:020	-	(@)	-	heitä
+er008:020	-	(,)	-	,␣
+er008:020	(10a) 10b 9	@	-	kaksisataa␣
+er008:020	(10a) 10b 9	@	-	kaksikymmentä␣
+er008:020	8	@	-	temppelipalvelijaa
+er008:020	-	(,)	-	,␣
+er008:020	11	@	-	kaikki␣
+er008:020	13b	@	-	nimeltä␣
+er008:020	13a	%case	LOC	
+er008:020	12	@	-	mainittuja
+er008:020	-	(.)	-	.␣
+er008:021	er008:021	er008:021	VERSE	Esr␣8:21␣
+er008:021	(1a)	-	UNTRANSLATED	
+er008:021	1b	(@)	-	Minä␣
+er008:021	1b	@	-	kuulutin␣
+er008:021	2	@	-	siellä␣
+er008:021	(5a) 5b 6	@	-	Ahava-joella␣
+er008:021	4	%case	LOC	
+er008:021	3	@	-	paaston
+er008:021	-	(,)	-	,␣
+er008:021	7a	@	-	että␣
+er008:021	7b	(@)	-	me␣
+er008:021	7b	@	-	nöyrtyisimme␣
+er008:021	9	@	-	Jumalamme␣
+er008:021	8a 8b	@	-	edessä␣
+er008:021	-	(@)	-	ja␣
+er008:021	10b	@	-	anoisimme␣
+er008:021	10a	%case	?	
+er008:021	11	@	-	häneltä␣
+er008:021	13	@	-	suotuisaa␣
+er008:021	12	@	-	matkaa␣
+er008:021	14	@	-	itsellemme
+er008:021	(15a)	-	UNTRANSLATED	
+er008:021	-	(,)	-	,␣
+er008:021	15c	@	-	vaimoillemme␣
+er008:021	15b	%case	LOC	
+er008:021	-	(@)	-	ja␣
+er008:021	15c	@	-	lapsillemme␣
+er008:021	15b	%case	LOC	
+er008:021	16a	@	-	ja␣
+er008:021	16c	@	-	kaikelle␣
+er008:021	16b	%case	LOC	
+er008:021	17	@	-	omaisuudellemme
+er008:021	-	(.)	-	.␣
+er008:022	er008:022	er008:022	VERSE	Esr␣8:22␣
+er008:022	1	@	-	Sillä␣
+er008:022	2	(@)	-	minua␣
+er008:022	2	@	-	hävetti␣
+er008:022	3b	@	-	pyytää␣
+er008:022	3a	%case	LAT	
+er008:022	(5a) 5b	@	-	kuninkaalta␣
+er008:022	4	%case	LOC	
+er008:022	6	@	-	sotaväkeä␣
+er008:022	7a	@	-	ja␣
+er008:022	7b	@	-	ratsumiehiä␣
+er008:022	8b	@	-	auttamaan␣
+er008:022	8a	%case	LOC	
+er008:022	pers%8b	@	-	meitä␣
+er008:022	9b	@	-	vihollisia␣
+er008:022	9a	@	-	vastaan␣
+er008:022	10b	@	-	matkalla
+er008:022	10a	%case	LOC	
+er008:022	-	(,)	-	,␣
+er008:022	11	@	-	koska␣
+er008:022	12	(@)	-	me␣
+er008:022	12	(@)	-	olimme␣
+er008:022	12	@	-	sanoneet␣
+er008:022	13b	@	-	kuninkaalle␣
+er008:022	13a	%case	LOC	
+er008:022	14a 14b	@	-	näin
+er008:022	-	(:)	-	:␣
+er008:022	-	(@)	-	"
+er008:022	pers%16	@	-	Meidän␣
+er008:022	16	@	-	Jumalamme␣
+er008:022	15	@	-	käsi␣
+er008:022	-	(@)	-	on␣
+er008:022	18	@	-	kaikkien␣
+er008:022	17	@	-	päällä
+er008:022	-	(,)	-	,␣
+er008:022	-	(@)	-	jotka␣
+er008:022	19	@	-	etsivät␣
+er008:022	pers%19	@	-	häntä
+er008:022	-	(,)	-	,␣
+er008:022	-	(@)	-	heidän␣
+er008:022	20b	@	-	parhaakseen
+er008:022	20a	%case	TRA	
+er008:022	-	(;)	-	;␣
+er008:022	21a	@	-	mutta␣
+er008:022	pers%21b	@	-	hänen␣
+er008:022	21b	@	-	voimansa␣
+er008:022	22a	@	-	ja␣
+er008:022	22b	@	-	vihansa␣
+er008:022	-	(@)	-	on␣
+er008:022	24	@	-	kaikkia␣
+er008:022	23	@	-	vastaan
+er008:022	-	(,)	-	,␣
+er008:022	-	(@)	-	jotka␣
+er008:022	25	@	-	hylkäävät␣
+er008:022	pers%25	@	-	hänet
+er008:022	-	(@)	-	"
+er008:022	-	(.)	-	.␣
+er008:023	er008:023	er008:023	VERSE	Esr␣8:23␣
+er008:023	1a	@	-	Niin␣
+er008:023	1b	(@)	-	me␣
+er008:023	1b	@	-	paastosimme␣
+er008:023	2a	@	-	ja␣
+er008:023	2b	@	-	anoimme␣
+er008:023	5	@	-	tätä␣
+er008:023	4	%case	PTV	
+er008:023	3b	@	-	Jumalaltamme
+er008:023	3a	%case	LOC	
+er008:023	-	(,)	-	,␣
+er008:023	6a	@	-	ja␣
+er008:023	6b	(@)	-	hän␣
+er008:023	6b	@	-	kuuli␣
+er008:023	7	@	-	meidän␣
+er008:023	6b	@	-	rukouksemme
+er008:023	-	(.)	-	.␣
+er008:024	er008:024	er008:024	VERSE	Esr␣8:24␣
+er008:024	1a	@	-	Ja␣
+er008:024	1b	(@)	-	minä␣
+er008:024	1b	@	-	valitsin␣
+er008:024	(3a) 3b	@	-	pappien␣
+er008:024	2b	@	-	päämiehistä␣
+er008:024	2a	%case	LOC	
+er008:024	4 5	@	-	kaksitoista
+er008:024	-	(,)	-	,␣
+er008:024	6a	@	-	nimittäin␣
+er008:024	6b	@	-	Seerebjan␣
+er008:024	-	(@)	-	ja␣
+er008:024	7	@	-	Hasabjan␣
+er008:024	8a	@	-	ja␣
+er008:024	pers%8b	@	-	heidän␣
+er008:024	8b	@	-	kanssaan␣
+er008:024	10	@	-	kymmenen␣
+er008:024	pers%9b	@	-	heidän␣
+er008:024	9b	@	-	veljistään
+er008:024	9a	%case	LOC	
+er008:024	-	(,)	-	,␣
+er008:025	er008:025	er008:025	VERSE	Esr␣8:25␣
+er008:025	2a	@	-	ja␣
+er008:025	2b	@	-	punnitsin␣
+er008:025	3	@	-	heille␣
+er008:025	(5a) 5b	@	-	hopean␣
+er008:025	4	%case	GEN	
+er008:025	6a	@	-	ja␣
+er008:025	(7a) 7b	@	-	kullan␣
+er008:025	6b	%case	GEN	
+er008:025	8a	@	-	ja␣
+er008:025	(9a) 9b	@	-	kalut
+er008:025	8b	%case	NOM	
+er008:025	-	(,)	-	,␣
+er008:025	-	(@)	-	sen␣
+er008:025	10	@	-	antimen
+er008:025	-	(,)	-	,␣
+er008:025	13a	@	-	jonka␣
+er008:025	(14a) 14b	@	-	kuningas␣
+er008:025	15a	@	-	ja␣
+er008:025	pers%15b	@	-	hänen␣
+er008:025	15b	@	-	neuvonantajansa␣
+er008:025	16a	@	-	ja␣
+er008:025	16b	@	-	ruhtinaansa␣
+er008:025	17a	@	-	ja␣
+er008:025	17b	@	-	kaikki␣
+er008:025	(19a) 19b	@	-	siellä␣
+er008:025	(19a) 19b	@	-	olevat␣
+er008:025	18	@	-	israelilaiset␣
+er008:025	13b	(@)	-	olivat␣
+er008:025	13b	@	-	antaneet␣
+er008:025	pers%12	@	-	meidän␣
+er008:025	12	@	-	Jumalamme␣
+er008:025	11	@	-	temppeliä␣
+er008:025	-	(@)	-	varten
+er008:025	-	(.)	-	.␣
+er008:026	er008:026	er008:026	VERSE	Esr␣8:26␣
+er008:026	(1a)	-	UNTRANSLATED	
+er008:026	1b	(@)	-	Minä␣
+er008:026	1b	@	-	punnitsin␣
+er008:026	pers%3	@	-	heille␣
+er008:026	3	@	-	käteen␣
+er008:026	2	%case	LOC	
+er008:026	4	@	-	hopeata␣
+er008:026	6 7 (8a) 8b	@	-	kuusisataa␣
+er008:026	6 7 (8a) 8b	@	-	viisikymmentä␣
+er008:026	5	@	-	talenttia␣
+er008:026	9a	@	-	sekä␣
+er008:026	10 9b	@	-	hopeakaluja␣
+er008:026	11	@	-	sata␣
+er008:026	12b	@	-	talenttia␣
+er008:026	12a	%case	PTV	
+er008:026	-	(@)	-	ja␣
+er008:026	13	@	-	kultaa␣
+er008:026	14	@	-	sata␣
+er008:026	15	@	-	talenttia
+er008:026	-	(,)	-	,␣
+er008:027	er008:027	er008:027	VERSE	Esr␣8:27␣
+er008:027	(1a)	-	UNTRANSLATED	
+er008:027	3	@	-	kaksikymmentä␣
+er008:027	1b 2	@	-	kultapikaria
+er008:027	-	(,)	-	,␣
+er008:027	4a	@	-	arvoltaan␣
+er008:027	5	@	-	tuhat␣
+er008:027	4b	@	-	dareikkia
+er008:027	-	(,)	-	,␣
+er008:027	6a	@	-	sekä␣
+er008:027	10	@	-	kaksi␣
+er008:027	9	@	-	hienoa
+er008:027	-	(,)	-	,␣
+er008:027	8	@	-	kullankiiltävää␣
+er008:027	6b 7	@	-	vaskiastiaa
+er008:027	-	(,)	-	,␣
+er008:027	11	@	-	kallisarvoista␣
+er008:027	12a	@	-	kuin␣
+er008:027	12b	@	-	kulta
+er008:027	-	(.)	-	.␣
+er008:028	er008:028	er008:028	VERSE	Esr␣8:28␣
+er008:028	1a	@	-	Ja␣
+er008:028	1b	(@)	-	minä␣
+er008:028	1b	@	-	sanoin␣
+er008:028	2	@	-	heille
+er008:028	-	(:)	-	:␣
+er008:028	-	(@)	-	"
+er008:028	3	@	-	Te␣
+er008:028	-	(@)	-	olette␣
+er008:028	4	@	-	pyhitetyt␣
+er008:028	5b	@	-	Herralle
+er008:028	5a	%case	LOC	
+er008:028	-	(,)	-	,␣
+er008:028	6a	@	-	ja␣
+er008:028	(6b) 6c	@	-	kalut␣
+er008:028	-	(@)	-	ovat␣
+er008:028	7	@	-	pyhitetyt
+er008:028	-	(;)	-	;␣
+er008:028	8a	@	-	ja␣
+er008:028	(8b) 8c	@	-	hopea␣
+er008:028	9a	@	-	ja␣
+er008:028	(9b) 9c	@	-	kulta␣
+er008:028	-	(@)	-	on␣
+er008:028	10	@	-	vapaaehtoinen␣
+er008:028	10	@	-	lahja␣
+er008:028	11b	@	-	Herralle
+er008:028	11a	%case	LOC	
+er008:028	-	(,)	-	,␣
+er008:028	pers%13	@	-	teidän␣
+er008:028	13	@	-	isienne␣
+er008:028	12	@	-	Jumalalle
+er008:028	-	(.)	-	.␣
+er008:029	er008:029	er008:029	VERSE	Esr␣8:29␣
+er008:029	1	@	-	Vartioikaa␣
+er008:029	-	(@)	-	siis␣
+er008:029	-	(@)	-	niitä␣
+er008:029	2a	@	-	ja␣
+er008:029	2b	@	-	säilyttäkää␣
+er008:029	-	(@)	-	ne
+er008:029	-	(,)	-	,␣
+er008:029	3	@	-	kunnes␣
+er008:029	4	@	-	punnitsette␣
+er008:029	-	(@)	-	ne␣
+er008:029	(7a) 7b	@	-	pappien␣
+er008:029	6	@	-	päämiesten␣
+er008:029	8a	@	-	ja␣
+er008:029	(8b) 8c	@	-	leeviläisten␣
+er008:029	9a	@	-	ja␣
+er008:029	11b	@	-	Israelin␣
+er008:029	11a	%case	GEN	
+er008:029	(10a) 10b 9b	@	-	perhekunta-päämiesten␣
+er008:029	5a 5b	@	-	edessä␣
+er008:029	12b	@	-	Jerusalemissa
+er008:029	12a	%case	LOC	
+er008:029	-	(,)	-	,␣
+er008:029	15	@	-	Herran␣
+er008:029	14	@	-	temppelin␣
+er008:029	(13a) 13b	@	-	kammioissa
+er008:029	-	(.)	-	.
+er008:029	-	(@)	-	"␣
+er008:030	er008:030	er008:030	VERSE	Esr␣8:30␣
+er008:030	1a	@	-	Niin␣
+er008:030	(2a) 2b	@	-	papit␣
+er008:030	3a	@	-	ja␣
+er008:030	(3b) 3c	@	-	leeviläiset␣
+er008:030	1b	@	-	ottivat␣
+er008:030	1b	@	-	vastaan␣
+er008:030	4	@	-	punnitun␣
+er008:030	(5a) 5b	@	-	hopean␣
+er008:030	6a	@	-	ja␣
+er008:030	(6b) 6c	@	-	kullan␣
+er008:030	7a	@	-	ja␣
+er008:030	(7b) 7c	@	-	kalut␣
+er008:030	8b	@	-	viedäkseen␣
+er008:030	8a	%case	TRA	
+er008:030	-	(@)	-	ne␣
+er008:030	9b	@	-	Jerusalemiin
+er008:030	9a	%case	LOC	
+er008:030	-	(,)	-	,␣
+er008:030	pers%11	@	-	meidän␣
+er008:030	11	@	-	Jumalamme␣
+er008:030	10b	@	-	temppeliin
+er008:030	10a	%case	LOC	
+er008:030	-	(.)	-	.␣
+er008:031	er008:031	er008:031	VERSE	Esr␣8:31␣
+er008:031	1a	@	-	Sitten␣
+er008:031	1b	(@)	-	me␣
+er008:031	1b	@	-	lähdimme␣
+er008:031	1b	@	-	liikkeelle␣
+er008:031	2b 3	@	-	Ahava-joelta␣
+er008:031	2a	%case	LOC	
+er008:031	(7a) 7b	@	-	ensimmäisen␣
+er008:031	6b	@	-	kuun␣
+er008:031	6a	%case	GEN	
+er008:031	4b 5	@	-	kahdentenatoista␣
+er008:031	4a	%case	ESS	
+er008:031	-	(@)	-	päivänä␣
+er008:031	8b	@	-	mennäksemme␣
+er008:031	8a	%case	TRA	
+er008:031	9	@	-	Jerusalemiin
+er008:031	-	(.)	-	.␣
+er008:031	10a	@	-	Ja␣
+er008:031	pers%11	@	-	meidän␣
+er008:031	11	@	-	Jumalamme␣
+er008:031	10b	@	-	käsi␣
+er008:031	12	@	-	oli␣
+er008:031	pers%13	@	-	meidän␣
+er008:031	13	@	-	päällämme
+er008:031	-	(,)	-	,␣
+er008:031	14a	@	-	ja␣
+er008:031	14b	(@)	-	hän␣
+er008:031	14b	@	-	pelasti␣
+er008:031	pers%14b	@	-	meidät␣
+er008:031	16	@	-	vihollisten␣
+er008:031	15b	@	-	käsistä␣
+er008:031	15a	%case	LOC	
+er008:031	17a	@	-	ja␣
+er008:031	17b	@	-	väijytyksistä␣
+er008:031	(19a) 19b	@	-	tiellä
+er008:031	18	%case	LOC	
+er008:031	-	(.)	-	.␣
+er008:032	er008:032	er008:032	VERSE	Esr␣8:32␣
+er008:032	1a	@	-	Ja␣
+er008:032	1b	(@)	-	me␣
+er008:032	1b	@	-	tulimme␣
+er008:032	2	@	-	Jerusalemiin␣
+er008:032	3a	@	-	ja␣
+er008:032	3b	@	-	olimme␣
+er008:032	4	@	-	siellä␣
+er008:032	3b	@	-	alallamme␣
+er008:032	6	@	-	kolme␣
+er008:032	5	@	-	päivää
+er008:032	-	(.)	-	.␣
+er008:033	er008:033	er008:033	VERSE	Esr␣8:33␣
+er008:033	1a	@	-	Mutta␣
+er008:033	(2a) 2b	@	-	neljäntenä␣
+er008:033	1c	@	-	päivänä␣
+er008:033	1b	%case	ESS	
+er008:033	3	@	-	punnittiin␣
+er008:033	(4a) 4b	@	-	hopea␣
+er008:033	5a	@	-	ja␣
+er008:033	(5b) 5c	@	-	kulta␣
+er008:033	6a	@	-	ja␣
+er008:033	(6b) 6c	@	-	kalut␣
+er008:033	pers%8	@	-	meidän␣
+er008:033	8	@	-	Jumalamme␣
+er008:033	7b	@	-	temppelissä␣
+er008:033	7a	%case	LOC	
+er008:033	(14a) 14b	@	-	pappi␣
+er008:033	11	@	-	Meremotille
+er008:033	-	(,)	-	,␣
+er008:033	13	@	-	Uurian␣
+er008:033	12	@	-	pojalle
+er008:033	-	(,)	-	,␣
+er008:033	10	@	-	käteen
+er008:033	9	%case	LOC	
+er008:033	-	(;)	-	;␣
+er008:033	15a	@	-	ja␣
+er008:033	pers%15b	@	-	hänen␣
+er008:033	15b	@	-	kanssaan␣
+er008:033	-	(@)	-	oli␣
+er008:033	16	@	-	Eleasar
+er008:033	-	(,)	-	,␣
+er008:033	18	@	-	Piinehaan␣
+er008:033	17	@	-	poika
+er008:033	-	(,)	-	,␣
+er008:033	19a	@	-	ja␣
+er008:033	pers%19b	@	-	heidän␣
+er008:033	19b	@	-	kanssansa␣
+er008:033	(26a) 26b	@	-	leeviläiset␣
+er008:033	20	@	-	Joosabad
+er008:033	-	(,)	-	,␣
+er008:033	22	@	-	Jeesuan␣
+er008:033	21	@	-	poika
+er008:033	-	(,)	-	,␣
+er008:033	23a	@	-	ja␣
+er008:033	23b	@	-	Nooadja
+er008:033	-	(,)	-	,␣
+er008:033	25	@	-	Binnuin␣
+er008:033	24	@	-	poika
+er008:033	-	(.)	-	.␣
+er008:034	er008:034	er008:034	VERSE	Esr␣8:34␣
+er008:034	(3a) 3b	@	-	Kaikki␣
+er008:034	-	(@)	-	punnittiin␣
+er008:034	1b	@	-	lukumäärän␣
+er008:034	-	(@)	-	ja␣
+er008:034	2b	@	-	painon␣
+er008:034	1a	@	-	mukaan
+er008:034	(2a)	-	UNTRANSLATED	
+er008:034	-	(,)	-	,␣
+er008:034	4a	@	-	ja␣
+er008:034	5	@	-	koko␣
+er008:034	(6a) 6b	@	-	paino␣
+er008:034	4b	@	-	kirjoitettiin␣
+er008:034	(7a) 7b (8a) 8b	@	-	silloin␣
+er008:034	4b	@	-	muistiin
+er008:034	-	(.)	-	.␣
+er008:035	er008:035	er008:035	VERSE	Esr␣8:35␣
+er008:035	-	(@)	-	Ja␣
+er008:035	(2b) 2c	@	-	vankeudesta␣
+er008:035	2a	%case	LOC	
+er008:035	(1a) 1b	@	-	tulleet␣
+er008:035	3 (4a) 4b	@	-	pakkosiirtolaiset␣
+er008:035	5	@	-	uhrasivat␣
+er008:035	6	@	-	polttouhreiksi␣
+er008:035	8	@	-	Israelin␣
+er008:035	7b	@	-	Jumalalle␣
+er008:035	7a	%case	LOC	
+er008:035	10 11	@	-	kaksitoista␣
+er008:035	9	@	-	härkää␣
+er008:035	13	@	-	koko␣
+er008:035	14	@	-	Israelin␣
+er008:035	12	@	-	puolesta
+er008:035	-	(,)	-	,␣
+er008:035	16 (17a) 17b	@	-	yhdeksänkymmentä␣
+er008:035	16 (17a) 17b	@	-	kuusi␣
+er008:035	15	@	-	oinasta
+er008:035	-	(,)	-	,␣
+er008:035	19 (20a) 20b	@	-	seitsemänkymmentä␣
+er008:035	19 (20a) 20b	@	-	seitsemän␣
+er008:035	18	@	-	karitsaa␣
+er008:035	-	(@)	-	ja␣
+er008:035	23 24	@	-	kaksitoista␣
+er008:035	21 22	@	-	syntiuhrikaurista
+er008:035	-	(,)	-	,␣
+er008:035	(25a) 25b	@	-	kaikki␣
+er008:035	26	@	-	polttouhriksi␣
+er008:035	27b	@	-	Herralle
+er008:035	27a	%case	LOC	
+er008:035	-	(.)	-	.␣
+er008:036	er008:036	er008:036	VERSE	Esr␣8:36␣
+er008:036	1a	@	-	Ja␣
+er008:036	1b	(@)	-	he␣
+er008:036	1b	@	-	jättivät␣
+er008:036	(4a) 4b	@	-	kuninkaan␣
+er008:036	3	@	-	määräykset␣
+er008:036	2	%case	NOM	
+er008:036	(6a) 6b	@	-	kuninkaan␣
+er008:036	5b	@	-	satraapeille␣
+er008:036	5a	%case	LOC	
+er008:036	7a	@	-	ja␣
+er008:036	7b	@	-	käskynhaltijoille
+er008:036	-	(,)	-	,␣
+er008:036	-	(@)	-	jotka␣
+er008:036	-	(@)	-	olivat␣
+er008:036	8	@	-	tällä␣
+er008:036	8	@	-	puolella␣
+er008:036	(9a) 9b	@	-	Eufrat-virran
+er008:036	-	(,)	-	,␣
+er008:036	10a	@	-	ja␣
+er008:036	10b	(@)	-	nämä␣
+er008:036	10b	@	-	avustivat␣
+er008:036	(12a) 12b	@	-	kansaa␣
+er008:036	11	%case	PTV	
+er008:036	13a	@	-	ja␣
+er008:036	(15a) 15b	@	-	Jumalan␣
+er008:036	14	@	-	temppeliä
+er008:036	13b	%case	PTV	
+er008:036	-	(.)	-	.␣
+er009:001	er009:001	er009:001	VERSE	Esr␣9:1␣
+er009:001	(1a)	-	UNTRANSLATED	
+er009:001	1b	@	-	Kun␣
+er009:001	2	@	-	tämä␣
+er009:001	1c	(@)	-	oli␣
+er009:001	1c	@	-	suoritettu␣
+er009:001	1c	@	-	loppuun
+er009:001	-	(,)	-	,␣
+er009:001	3	@	-	astuivat␣
+er009:001	(5a) 5b	@	-	päämiehet␣
+er009:001	pers%4	@	-	minun␣
+er009:001	4	@	-	tyköni␣
+er009:001	-	(@)	-	ja␣
+er009:001	6a 6b	@	-	sanoivat
+er009:001	-	(:)	-	:␣
+er009:001	-	(@)	-	"
+er009:001	7	@	-	Ei␣
+er009:001	(9a) 9b	@	-	kansa
+er009:001	-	(,)	-	,␣
+er009:001	-	(@)	-	ei␣
+er009:001	10	@	-	Israel␣
+er009:001	11a	@	-	eivätkä␣
+er009:001	(11b) 11c	@	-	papit␣
+er009:001	12a	@	-	ja␣
+er009:001	(12b) 12c	@	-	leeviläiset␣
+er009:001	8	(@)	-	ole␣
+er009:001	8	@	-	eristäytyneet␣
+er009:001	(14a) 14b	@	-	maan␣
+er009:001	13b	@	-	kansoista␣
+er009:001	13a	%case	LOC	
+er009:001	-	(@)	-	ja␣
+er009:001	pers%15b	@	-	niiden␣
+er009:001	15b	@	-	kauhistavista␣
+er009:001	15b	@	-	teoista␣
+er009:001	15a	%case	LOC	
+er009:001	-	(-)	-	-␣
+er009:001	-	(@)	-	ei␣
+er009:001	16b	@	-	kanaanilaisista
+er009:001	16a	%case	LOC	
+er009:001	-	(,)	-	,␣
+er009:001	(17a) 17b	@	-	heettiläisistä
+er009:001	-	(,)	-	,␣
+er009:001	(18a) 18b	@	-	perissiläisistä
+er009:001	-	(,)	-	,␣
+er009:001	(19a) 19b	@	-	jebusilaisista
+er009:001	-	(,)	-	,␣
+er009:001	(20a) 20b	@	-	ammonilaisista
+er009:001	-	(,)	-	,␣
+er009:001	(21a) 21b	@	-	mooabilaisista
+er009:001	-	(,)	-	,␣
+er009:001	(22a) 22b	@	-	egyptiläisistä␣
+er009:001	23a	@	-	eikä␣
+er009:001	(23b) 23c	@	-	amorilaisista
+er009:001	-	(.)	-	.␣
+er009:002	er009:002	er009:002	VERSE	Esr␣9:2␣
+er009:002	1	@	-	Sillä␣
+er009:002	pers%3b	@	-	näiden␣
+er009:002	3b	@	-	tyttäriä␣
+er009:002	3a	%case	PTV	
+er009:002	2	(@)	-	he␣
+er009:002	2	(@)	-	ovat␣
+er009:002	2	@	-	ottaneet␣
+er009:002	4	@	-	itsellensä␣
+er009:002	5a	@	-	ja␣
+er009:002	5c	@	-	pojillensa␣
+er009:002	5b	%case	LOC	
+er009:002	-	(@)	-	vaimoiksi
+er009:002	-	(,)	-	,␣
+er009:002	6a	@	-	ja␣
+er009:002	-	(@)	-	niin␣
+er009:002	6b	(@)	-	on␣
+er009:002	(8a) 8b	@	-	pyhä␣
+er009:002	7	@	-	siemen␣
+er009:002	6b	@	-	sekaantunut␣
+er009:002	(10a) 10b	@	-	maan␣
+er009:002	9b	@	-	kansoihin
+er009:002	9a	%case	LOC	
+er009:002	-	(.)	-	.␣
+er009:002	11a	@	-	Ja␣
+er009:002	(12a) 12b	@	-	päämiesten␣
+er009:002	13a	@	-	ja␣
+er009:002	(13b) 13c	@	-	esimiesten␣
+er009:002	11b	@	-	käsi␣
+er009:002	14	(@)	-	on␣
+er009:002	14	@	-	ollut␣
+er009:002	17	@	-	ensimmäisenä␣
+er009:002	(16a) 16b	@	-	tässä␣
+er009:002	15b	@	-	uskottomassa␣
+er009:002	15b	@	-	menossa
+er009:002	15a	%case	LOC	
+er009:002	-	(.)	-	.
+er009:002	-	(@)	-	"␣
+er009:003	er009:003	er009:003	VERSE	Esr␣9:3␣
+er009:003	(1a)	-	UNTRANSLATED	
+er009:003	1b	@	-	Kun␣
+er009:003	pers%1c	@	-	minä␣
+er009:003	(3a) 3b (4a) 4b	@	-	tämän␣
+er009:003	2	%case	GEN	
+er009:003	1c	@	-	kuulin
+er009:003	-	(,)	-	,␣
+er009:003	5	@	-	repäisin␣
+er009:003	5	(@)	-	minä␣
+er009:003	7	@	-	vaatteeni␣
+er009:003	6	%case	NOM.GEN	
+er009:003	8a	@	-	ja␣
+er009:003	8b	@	-	viittani
+er009:003	(9a)	-	UNTRANSLATED	
+er009:003	-	(,)	-	,␣
+er009:003	9b	@	-	revin␣
+er009:003	11	@	-	pääni␣
+er009:003	10b	@	-	hiuksia␣
+er009:003	10a	%case	PTV	
+er009:003	12a	@	-	ja␣
+er009:003	12b	@	-	partaani␣
+er009:003	13a	@	-	ja␣
+er009:003	13b	@	-	istuin␣
+er009:003	14	@	-	tyrmistyneenä
+er009:003	-	(.)	-	.␣
+er009:004	er009:004	er009:004	VERSE	Esr␣9:4␣
+er009:004	1a	@	-	Ja␣
+er009:004	pers%1b	@	-	minun␣
+er009:004	1b	@	-	luokseni␣
+er009:004	2	@	-	kokoontuivat␣
+er009:004	3	@	-	kaikki
+er009:004	-	(,)	-	,␣
+er009:004	-	(@)	-	jotka␣
+er009:004	4	@	-	pelkäsivät␣
+er009:004	-	(@)	-	sitä
+er009:004	-	(,)	-	,␣
+er009:004	-	(@)	-	mitä␣
+er009:004	(5a)	-	UNTRANSLATED	
+er009:004	7	@	-	Israelin␣
+er009:004	6	@	-	Jumala␣
+er009:004	-	(@)	-	oli␣
+er009:004	5b	@	-	puhunut␣
+er009:004	(10a) 10b	@	-	pakkosiirtolaisten␣
+er009:004	9	@	-	uskottomuudesta
+er009:004	8	%case	LOC	
+er009:004	-	(,)	-	,␣
+er009:004	11a	@	-	ja␣
+er009:004	11b	@	-	minä␣
+er009:004	sem%12	@	-	jäin␣
+er009:004	12	@	-	istumaan␣
+er009:004	13	@	-	tyrmistyneenä␣
+er009:004	15b (16a) 16b	@	-	ehtoouhriin␣
+er009:004	14 15a	@	-	asti
+er009:004	-	(.)	-	.␣
+er009:005	er009:005	er009:005	VERSE	Esr␣9:5␣
+er009:005	1a	@	-	Mutta␣
+er009:005	1c (2a) 2b	@	-	ehtoouhrin␣
+er009:005	1b	@	-	aikana␣
+er009:005	3	(@)	-	minä␣
+er009:005	3	@	-	nousin␣
+er009:005	4b	@	-	nöyryyttämästä␣
+er009:005	4a	%case	LOC	
+er009:005	pers%4b	@	-	itseäni␣
+er009:005	(5a) (5b)	-	UNTRANSLATED	
+er009:005	8a	@	-	ja␣
+er009:005	10 8b	@	-	polvistuin
+er009:005	9	%case	?	
+er009:005	-	(,)	-	,␣
+er009:005	5c	@	-	repäisin␣
+er009:005	6	@	-	vaatteeni␣
+er009:005	7a	@	-	ja␣
+er009:005	7b	@	-	viittani␣
+er009:005	11a	@	-	ja␣
+er009:005	11b	@	-	ojensin␣
+er009:005	12	@	-	käteni␣
+er009:005	14	@	-	Herran
+er009:005	-	(,)	-	,␣
+er009:005	15	@	-	Jumalani
+er009:005	-	(,)	-	,␣
+er009:005	13	@	-	puoleen
+er009:005	-	(,)	-	,␣
+er009:006	er009:006	er009:006	VERSE	Esr␣9:6␣
+er009:006	1a	@	-	ja␣
+er009:006	1b	(@)	-	minä␣
+er009:006	1b	@	-	sanoin
+er009:006	-	(:)	-	:␣
+er009:006	-	(@)	-	"
+er009:006	2	@	-	Jumalani
+er009:006	-	(,)	-	,␣
+er009:006	3	(@)	-	minä␣
+er009:006	3	(@)	-	olen␣
+er009:006	3	@	-	häpeissäni␣
+er009:006	4a	@	-	enkä␣
+er009:006	4b	@	-	kehtaa␣
+er009:006	5b	@	-	kohottaa␣
+er009:006	5a	%case	LAT	
+er009:006	7	@	-	kasvojani␣
+er009:006	pers%8	@	-	sinun␣
+er009:006	8	@	-	puoleesi
+er009:006	-	(,)	-	,␣
+er009:006	pers%6	@	-	minun␣
+er009:006	6	@	-	Jumalani
+er009:006	-	(;)	-	;␣
+er009:006	9	@	-	sillä␣
+er009:006	pers%10	@	-	meidän␣
+er009:006	10	@	-	rikkomuksemme␣
+er009:006	11	(@)	-	ovat␣
+er009:006	11	@	-	nousseet␣
+er009:006	13	@	-	päämme␣
+er009:006	12b	@	-	ylitse␣
+er009:006	12a	%case	?	
+er009:006	14a	@	-	ja␣
+er009:006	pers%14b	@	-	meidän␣
+er009:006	14b	@	-	syyllisyytemme␣
+er009:006	15	(@)	-	on␣
+er009:006	15	@	-	kohonnut␣
+er009:006	17b	@	-	taivaaseen␣
+er009:006	16 17a	@	-	asti
+er009:006	-	(.)	-	.␣
+er009:007	er009:007	er009:007	VERSE	Esr␣9:7␣
+er009:007	2	@	-	Isiemme␣
+er009:007	1b	@	-	päivistä␣
+er009:007	1a	%case	LOC	
+er009:007	6	@	-	aina␣
+er009:007	(8a) 8b	@	-	tähän␣
+er009:007	(7a) 7b	@	-	päivään␣
+er009:007	6	@	-	asti␣
+er009:007	-	(@)	-	on␣
+er009:007	3	@	-	meidän␣
+er009:007	4b	@	-	syyllisyytemme␣
+er009:007	4a	%case	NOM.GEN	
+er009:007	-	(@)	-	ollut␣
+er009:007	5	@	-	suuri
+er009:007	-	(;)	-	;␣
+er009:007	9a	@	-	ja␣
+er009:007	9c	@	-	rikkomustemme␣
+er009:007	9b	@	-	tähden␣
+er009:007	10	(@)	-	on␣
+er009:007	11	@	-	meidät
+er009:007	-	(,)	-	,␣
+er009:007	pers%12	@	-	meidän␣
+er009:007	12	@	-	kuninkaamme␣
+er009:007	-	(@)	-	ja␣
+er009:007	13	@	-	pappimme␣
+er009:007	10	@	-	annettu␣
+er009:007	(16a) 16b	@	-	maan␣
+er009:007	15	@	-	kuningasten␣
+er009:007	14b	@	-	käsiin␣
+er009:007	14a	%case	LOC	
+er009:007	17b	@	-	miekan
+er009:007	-	(,)	-	,␣
+er009:007	18b	@	-	vankeuden
+er009:007	-	(,)	-	,␣
+er009:007	19c	@	-	ryöstön␣
+er009:007	20a	@	-	ja␣
+er009:007	20c 21	@	-	häpeän␣
+er009:007	17a	@	-	alaisiksi
+er009:007	(18a) (19a) (19b) (20b)	-	UNTRANSLATED	
+er009:007	-	(,)	-	,␣
+er009:007	22a	@	-	niinkuin␣
+er009:007	(23a) 23b	@	-	tähän␣
+er009:007	(22b) 22c	@	-	päivään␣
+er009:007	-	(@)	-	saakka␣
+er009:007	-	(@)	-	on␣
+er009:007	-	(@)	-	tapahtunut
+er009:007	-	(.)	-	.␣
+er009:008	er009:008	er009:008	VERSE	Esr␣9:8␣
+er009:008	1a	@	-	Mutta␣
+er009:008	1b	@	-	nyt␣
+er009:008	4	(@)	-	on␣
+er009:008	-	(@)	-	meille␣
+er009:008	2b 3	@	-	hetkiseksi␣
+er009:008	2a	%case	TRA	
+er009:008	4	@	-	tullut␣
+er009:008	5	@	-	armo␣
+er009:008	7	@	-	Herralta
+er009:008	6a 6b	%case	LOC	
+er009:008	-	(,)	-	,␣
+er009:008	pers%8	@	-	meidän␣
+er009:008	8	@	-	Jumalaltamme
+er009:008	-	(,)	-	,␣
+er009:008	9a	@	-	koska␣
+er009:008	9b	(@)	-	hän␣
+er009:008	9b	(@)	-	on␣
+er009:008	9b	(@)	-	sallinut␣
+er009:008	11	@	-	pelastuneen␣
+er009:008	11	@	-	joukon␣
+er009:008	10	@	-	meistä␣
+er009:008	9b	@	-	jäädä␣
+er009:008	9b	@	-	jäljelle␣
+er009:008	12a	@	-	ja␣
+er009:008	12c	@	-	antanut␣
+er009:008	12b	%case	NOM	
+er009:008	13	@	-	meille␣
+er009:008	14	@	-	jalansijan␣
+er009:008	16	@	-	pyhässä␣
+er009:008	15b	@	-	paikassansa
+er009:008	15a	%case	LOC	
+er009:008	-	(,)	-	,␣
+er009:008	17a	@	-	että␣
+er009:008	-	(@)	-	hän
+er009:008	-	(,)	-	,␣
+er009:008	pers%19	@	-	meidän␣
+er009:008	19	@	-	Jumalamme
+er009:008	-	(,)	-	,␣
+er009:008	17b	@	-	valaisisi␣
+er009:008	pers%18	@	-	meidän␣
+er009:008	18	@	-	silmämme␣
+er009:008	20a	@	-	ja␣
+er009:008	20c	@	-	soisi␣
+er009:008	20b	%case	?	
+er009:008	pers%20c	@	-	meidän␣
+er009:008	22	@	-	hiukan␣
+er009:008	21	@	-	hengähtää␣
+er009:008	23b	@	-	orjuudessamme
+er009:008	23a	%case	LOC	
+er009:008	-	(.)	-	.␣
+er009:009	er009:009	er009:009	VERSE	Esr␣9:9␣
+er009:009	1	@	-	Sillä␣
+er009:009	2	@	-	orjia␣
+er009:009	3	@	-	me␣
+er009:009	-	(@)	-	olemme
+er009:009	-	(;)	-	;␣
+er009:009	4a	@	-	mutta␣
+er009:009	4c	@	-	orjuudessamme␣
+er009:009	4b	%case	LOC	
+er009:009	5	@	-	ei␣
+er009:009	pers%7	@	-	meidän␣
+er009:009	7	@	-	Jumalamme␣
+er009:009	6	(@)	-	ole␣
+er009:009	pers%6	@	-	meitä␣
+er009:009	6	@	-	hyljännyt
+er009:009	-	(,)	-	,␣
+er009:009	8a	@	-	vaan␣
+er009:009	8b	(@)	-	on␣
+er009:009	8b	(@)	-	suonut␣
+er009:009	9	@	-	meidän␣
+er009:009	8b	@	-	saavuttaa␣
+er009:009	13	@	-	Persian␣
+er009:009	12	@	-	kuningasten␣
+er009:009	11a 11b	%case	GEN	
+er009:009	10	@	-	suosion␣
+er009:009	-	(@)	-	ja␣
+er009:009	14b 16	@	-	hengähtää
+er009:009	14a	%case	LAT	
+er009:009	(15)	-	UNTRANSLATED	
+er009:009	-	(,)	-	,␣
+er009:009	17b	@	-	pystyttääksemme␣
+er009:009	17a	%case	TRA	
+er009:009	20	@	-	Jumalamme␣
+er009:009	19	@	-	temppelin␣
+er009:009	18	%case	GEN	
+er009:009	21a	@	-	ja␣
+er009:009	21c	@	-	kohottaaksemme␣
+er009:009	21b	%case	TRA	
+er009:009	pers%23	@	-	sen␣
+er009:009	23	@	-	raunioistaan
+er009:009	22	%case	LOC	
+er009:009	-	(,)	-	,␣
+er009:009	24a	@	-	ja␣
+er009:009	24c	(@)	-	on␣
+er009:009	24c	@	-	antanut␣
+er009:009	24b	%case	NOM	
+er009:009	25	@	-	meille␣
+er009:009	26	@	-	suojatun␣
+er009:009	26	@	-	paikan␣
+er009:009	27b	@	-	Juudassa␣
+er009:009	27a	%case	LOC	
+er009:009	28a	@	-	ja␣
+er009:009	28c	@	-	Jerusalemissa
+er009:009	28b	%case	LOC	
+er009:009	-	(.)	-	.␣
+er009:010	er009:010	er009:010	VERSE	Esr␣9:10␣
+er009:010	1a	@	-	Ja␣
+er009:010	1b	@	-	nyt
+er009:010	-	(,)	-	,␣
+er009:010	4	@	-	Jumalamme
+er009:010	-	(,)	-	,␣
+er009:010	2	@	-	mitä␣
+er009:010	3	(@)	-	me␣
+er009:010	3	@	-	sanomme␣
+er009:010	-	(@)	-	kaiken␣
+er009:010	6	@	-	tämän␣
+er009:010	5	@	-	jälkeen
+er009:010	-	(?)	-	?␣
+er009:010	8	(@)	-	Mehän␣
+er009:010	7	%case	NOM	
+er009:010	8	(@)	-	olemme␣
+er009:010	8	@	-	hyljänneet␣
+er009:010	pers%9	@	-	sinun␣
+er009:010	9	@	-	käskysi
+er009:010	-	(,)	-	,␣
+er009:011	er009:011	er009:011	VERSE	Esr␣9:11␣
+er009:011	1	@	-	jotka␣
+er009:011	2	(@)	-	sinä␣
+er009:011	2	(@)	-	olet␣
+er009:011	2	@	-	antanut␣
+er009:011	4	@	-	palvelijaisi
+er009:011	-	(,)	-	,␣
+er009:011	(5a) 5b	@	-	profeettain
+er009:011	-	(,)	-	,␣
+er009:011	3a 3b	@	-	kautta
+er009:011	-	(,)	-	,␣
+er009:011	6a 6b	@	-	sanoen
+er009:011	-	(:)	-	:␣
+er009:011	-	(@)	-	'
+er009:011	(7a) 7b	@	-	Maa
+er009:011	-	(,)	-	,␣
+er009:011	8	@	-	jota␣
+er009:011	9	@	-	te␣
+er009:011	10	@	-	menette␣
+er009:011	11b	@	-	ottamaan␣
+er009:011	11a	%case	LOC	
+er009:011	11b	@	-	omaksenne
+er009:011	-	(,)	-	,␣
+er009:011	-	(@)	-	se␣
+er009:011	12	@	-	maa␣
+er009:011	14	@	-	on␣
+er009:011	13	@	-	saastainen␣
+er009:011	(17a) 17b	@	-	maan␣
+er009:011	16	@	-	kansojen␣
+er009:011	15b	@	-	saastaisuuden␣
+er009:011	15a	@	-	tähden␣
+er009:011	-	(@)	-	ja␣
+er009:011	pers%18b	@	-	niitten␣
+er009:011	18b	@	-	kauhistavien␣
+er009:011	18b	@	-	tekojen␣
+er009:011	18a	@	-	tähden
+er009:011	-	(,)	-	,␣
+er009:011	19	@	-	joilla␣
+er009:011	20	(@)	-	he␣
+er009:011	24b	@	-	saastaisuudessansa␣
+er009:011	24a	%case	LOC	
+er009:011	20	(@)	-	ovat␣
+er009:011	20	@	-	täyttäneet␣
+er009:011	pers%20	@	-	sen␣
+er009:011	21b	@	-	äärestä␣
+er009:011	21a	%case	LOC	
+er009:011	23	@	-	ääreen
+er009:011	22	%case	LOC	
+er009:011	-	(.)	-	.␣
+er009:012	er009:012	er009:012	VERSE	Esr␣9:12␣
+er009:012	(1a)	-	UNTRANSLATED	
+er009:012	3	@	-	Älkää␣
+er009:012	1b	@	-	siis␣
+er009:012	4	@	-	antako␣
+er009:012	2	@	-	tyttäriänne␣
+er009:012	pers%5b	@	-	heidän␣
+er009:012	5b	@	-	pojillensa␣
+er009:012	5a	%case	LOC	
+er009:012	6a 7	@	-	älkääkä␣
+er009:012	8	@	-	ottako␣
+er009:012	pers%6b	@	-	heidän␣
+er009:012	6b	@	-	tyttäriänsä␣
+er009:012	9b	@	-	pojillenne␣
+er009:012	9a	%case	LOC	
+er009:012	-	(@)	-	vaimoiksi
+er009:012	-	(.)	-	.␣
+er009:012	10b	@	-	Älkää␣
+er009:012	10a	@	-	myös␣
+er009:012	15	@	-	koskaan␣
+er009:012	14	%case	?	
+er009:012	11	@	-	harrastako␣
+er009:012	pers%12	@	-	heidän␣
+er009:012	12	@	-	menestystään␣
+er009:012	13a	@	-	ja␣
+er009:012	13b	@	-	onneansa
+er009:012	-	(,)	-	,␣
+er009:012	16	@	-	että␣
+er009:012	17	(@)	-	te␣
+er009:012	17	@	-	vahvistuisitte␣
+er009:012	18a	@	-	ja␣
+er009:012	18b	(@)	-	saisitte␣
+er009:012	18b	@	-	syödä␣
+er009:012	20	@	-	parasta
+er009:012	19	%case	PTV	
+er009:012	-	(,)	-	,␣
+er009:012	-	(@)	-	mitä␣
+er009:012	(21a) 21b	@	-	maassa␣
+er009:012	-	(@)	-	on
+er009:012	-	(,)	-	,␣
+er009:012	22a	@	-	ja␣
+er009:012	22b	@	-	jättäisitte␣
+er009:012	-	(@)	-	sen␣
+er009:012	22b	@	-	perinnöksi␣
+er009:012	23b	@	-	lapsillenne␣
+er009:012	23a	%case	LOC	
+er009:012	25	@	-	ikuisiksi␣
+er009:012	25	@	-	ajoiksi
+er009:012	24	%case	TRA	
+er009:012	-	(.)	-	.
+er009:012	-	(@)	-	'␣
+er009:013	er009:013	er009:013	VERSE	Esr␣9:13␣
+er009:013	(1a)	-	UNTRANSLATED	
+er009:013	2	@	-	Kaiken␣
+er009:013	-	(@)	-	sen␣
+er009:013	1b	@	-	jälkeen
+er009:013	-	(,)	-	,␣
+er009:013	-	(@)	-	mikä␣
+er009:013	(3a) 3b	(@)	-	on␣
+er009:013	4	@	-	meitä␣
+er009:013	(3a) 3b	@	-	kohdannut␣
+er009:013	(6a) 6b	@	-	pahojen␣
+er009:013	5b	@	-	tekojemme␣
+er009:013	7a	@	-	ja␣
+er009:013	(8a) 8b	@	-	suuren␣
+er009:013	7c	@	-	syyllisyytemme␣
+er009:013	5a	@	-	tähden␣
+er009:013	(7b)	-	UNTRANSLATED	
+er009:013	-	(-)	-	-␣
+er009:013	-	(@)	-	ja␣
+er009:013	9	@	-	kuitenkin␣
+er009:013	10	@	-	sinä
+er009:013	-	(,)	-	,␣
+er009:013	11	@	-	Jumalamme
+er009:013	-	(,)	-	,␣
+er009:013	12	(@)	-	olet␣
+er009:013	12	@	-	jättänyt␣
+er009:013	13b	@	-	huomioon␣
+er009:013	13b	@	-	ottamatta␣
+er009:013	13a	%case	ABE	
+er009:013	pers%14b	@	-	meidän␣
+er009:013	14b	@	-	rikkomuksiamme␣
+er009:013	14a	%case	PTV	
+er009:013	15a	@	-	ja␣
+er009:013	15b	(@)	-	olet␣
+er009:013	15b	@	-	sallinut␣
+er009:013	16	@	-	meistä␣
+er009:013	(18a) 18b	@	-	tämmöisen␣
+er009:013	-	(@)	-	joukon␣
+er009:013	17	@	-	pelastua␣
+er009:013	-	(-)	-	-␣
+er009:014	er009:014	er009:014	VERSE	Esr␣9:14␣
+er009:014	1b	@	-	kävisimmekö␣
+er009:014	1b	(@)	-	me␣
+er009:014	1a	%case	NOM	
+er009:014	-	(@)	-	nyt␣
+er009:014	-	(@)	-	jälleen␣
+er009:014	2b	@	-	rikkomaan␣
+er009:014	2a	%case	LOC	
+er009:014	pers%3	@	-	sinun␣
+er009:014	3	@	-	käskyjäsi␣
+er009:014	4a	@	-	ja␣
+er009:014	4c	@	-	lankoutumaan␣
+er009:014	4b	%case	LOC	
+er009:014	5b	@	-	kansojen␣
+er009:014	5a	@	-	kanssa
+er009:014	-	(,)	-	,␣
+er009:014	(7a) 7b	@	-	joiden␣
+er009:014	-	(@)	-	teot␣
+er009:014	-	(@)	-	ovat␣
+er009:014	(6a) 6b	@	-	kauhistavaiset
+er009:014	-	(?)	-	?␣
+er009:014	(8a) 8b	@	-	Etkö␣
+er009:014	9	(@)	-	sinä␣
+er009:014	-	(@)	-	silloin␣
+er009:014	9	@	-	vihastuisi␣
+er009:014	10	@	-	meihin␣
+er009:014	11	@	-	siihen␣
+er009:014	11	@	-	asti
+er009:014	-	(,)	-	,␣
+er009:014	-	(@)	-	että␣
+er009:014	12	@	-	tekisit␣
+er009:014	-	(@)	-	meistä␣
+er009:014	12	@	-	lopun
+er009:014	-	(,)	-	,␣
+er009:014	13a	@	-	niin␣
+er009:014	13b	@	-	ettei␣
+er009:014	13b	@	-	ketään␣
+er009:014	14	@	-	jäisi␣
+er009:014	14	@	-	jäljelle␣
+er009:014	15a	@	-	eikä␣
+er009:014	13b	@	-	kukaan␣
+er009:014	15b	@	-	pelastuisi
+er009:014	-	(?)	-	?␣
+er009:015	er009:015	er009:015	VERSE	Esr␣9:15␣
+er009:015	1	@	-	Herra
+er009:015	-	(,)	-	,␣
+er009:015	3	@	-	Israelin␣
+er009:015	2	@	-	Jumala
+er009:015	-	(,)	-	,␣
+er009:015	5	@	-	sinä␣
+er009:015	-	(@)	-	olet␣
+er009:015	4	@	-	vanhurskas
+er009:015	-	(,)	-	,␣
+er009:015	6	@	-	sillä␣
+er009:015	7	(@)	-	meistä␣
+er009:015	7	(@)	-	on␣
+er009:015	7	@	-	jäljellä␣
+er009:015	8	@	-	pelastuneita␣
+er009:015	-	(@)	-	vain␣
+er009:015	-	(@)	-	sen␣
+er009:015	-	(@)	-	verran
+er009:015	-	(,)	-	,␣
+er009:015	9a	@	-	kuin␣
+er009:015	(10a) 10b	@	-	tänä␣
+er009:015	(9b) 9c	@	-	päivänä␣
+er009:015	-	(@)	-	on
+er009:015	-	(.)	-	.␣
+er009:015	11	@	-	Katso
+er009:015	-	(,)	-	,␣
+er009:015	pers%11	@	-	me␣
+er009:015	-	(@)	-	olemme␣
+er009:015	pers%12b	@	-	sinun␣
+er009:015	12b	@	-	edessäsi␣
+er009:015	12a	%case	LOC	
+er009:015	13b	@	-	syyllisyydessämme
+er009:015	13a	%case	LOC	
+er009:015	-	(;)	-	;␣
+er009:015	(14) 15	@	-	emmekä␣
+er009:015	-	(@)	-	me␣
+er009:015	19	@	-	tämän␣
+er009:015	18	@	-	tähden␣
+er009:015	16b	(@)	-	voi␣
+er009:015	pers%17b	@	-	sinun␣
+er009:015	17b	@	-	edessäsi␣
+er009:015	17a	%case	LOC	
+er009:015	16b	@	-	kestää
+er009:015	16a	%case	LAT	
+er009:015	-	(.)	-	.
+er009:015	-	(@)	-	"␣
+er010:001	er010:001	er010:001	VERSE	Esr␣10:1␣
+er010:001	(1a)	-	UNTRANSLATED	
+er010:001	1b	@	-	Kun␣
+er010:001	2	@	-	Esra␣
+er010:001	-	(@)	-	näin␣
+er010:001	1c	@	-	rukoili␣
+er010:001	3a	@	-	ja␣
+er010:001	3c	@	-	tunnusti
+er010:001	3b	%case	?	
+er010:001	-	(,)	-	,␣
+er010:001	4	@	-	itkien␣
+er010:001	5a	@	-	ja␣
+er010:001	5b	@	-	maahan␣
+er010:001	5b	@	-	langeten
+er010:001	-	(,)	-	,␣
+er010:001	(8a) 8b	@	-	Jumalan␣
+er010:001	7	@	-	temppelin␣
+er010:001	6b	@	-	edustalla
+er010:001	6a	%case	LOC	
+er010:001	-	(,)	-	,␣
+er010:001	9	@	-	kokoontui␣
+er010:001	pers%10	@	-	hänen␣
+er010:001	10	@	-	luoksensa␣
+er010:001	14	@	-	sangen␣
+er010:001	13	@	-	suuri␣
+er010:001	12	@	-	joukko␣
+er010:001	11b	@	-	Israelin␣
+er010:001	11a	%case	GEN	
+er010:001	15	@	-	miehiä
+er010:001	(16a)	-	UNTRANSLATED	
+er010:001	-	(,)	-	,␣
+er010:001	16b	@	-	naisia␣
+er010:001	17a	@	-	ja␣
+er010:001	17b	@	-	lapsia
+er010:001	-	(;)	-	;␣
+er010:001	18	@	-	sillä␣
+er010:001	(20a) 20b	@	-	kansakin␣
+er010:001	19	@	-	itki␣
+er010:001	21 22	@	-	katkerasti
+er010:001	-	(.)	-	.␣
+er010:002	er010:002	er010:002	VERSE	Esr␣10:2␣
+er010:002	1a	@	-	Ja␣
+er010:002	2	@	-	Sekanja
+er010:002	-	(,)	-	,␣
+er010:002	4	@	-	Jehielin␣
+er010:002	3	@	-	poika
+er010:002	-	(,)	-	,␣
+er010:002	7	@	-	Eelamin␣
+er010:002	5b	@	-	jälkeläisiä
+er010:002	5a	%case	PTV	
+er010:002	-	(,)	-	,␣
+er010:002	1b	@	-	puhkesi␣
+er010:002	1b	@	-	puhumaan␣
+er010:002	8a	@	-	ja␣
+er010:002	8b	@	-	sanoi␣
+er010:002	9b	@	-	Esralle
+er010:002	9a	%case	LOC	
+er010:002	-	(:)	-	:␣
+er010:002	-	(@)	-	"
+er010:002	10	@	-	Me␣
+er010:002	11	(@)	-	olemme␣
+er010:002	11	(@)	-	olleet␣
+er010:002	11	@	-	uskottomat␣
+er010:002	12b	@	-	Jumalaamme␣
+er010:002	12a	@	-	kohtaan
+er010:002	-	(,)	-	,␣
+er010:002	13a	@	-	kun␣
+er010:002	13b	(@)	-	olemme␣
+er010:002	13b	@	-	ottaneet␣
+er010:002	15	@	-	muukalaisia␣
+er010:002	14	@	-	vaimoja␣
+er010:002	(17a) 17b	@	-	maan␣
+er010:002	16b	@	-	kansoista
+er010:002	16a	%case	LOC	
+er010:002	-	(.)	-	.␣
+er010:002	18a	@	-	Mutta␣
+er010:002	18b	@	-	kuitenkin␣
+er010:002	19	@	-	on␣
+er010:002	21b	@	-	Israelilla␣
+er010:002	21a	%case	LOC	
+er010:002	(22) 23	@	-	vielä␣
+er010:002	20	@	-	toivoa
+er010:002	-	(.)	-	.␣
+er010:003	er010:003	er010:003	VERSE	Esr␣10:3␣
+er010:003	1a	@	-	Niin␣
+er010:003	2	@	-	tehkäämme␣
+er010:003	1b	@	-	nyt␣
+er010:003	4b	@	-	Jumalamme␣
+er010:003	4a	@	-	kanssa␣
+er010:003	3	@	-	liitto
+er010:003	-	(,)	-	,␣
+er010:003	5a	@	-	että␣
+er010:003	5b	(@)	-	me␣
+er010:003	11	@	-	Herran␣
+er010:003	10b	@	-	neuvon␣
+er010:003	10a	@	-	mukaan␣
+er010:003	12a	@	-	ja␣
+er010:003	-	(@)	-	niiden␣
+er010:003	-	(@)	-	neuvon␣
+er010:003	-	(@)	-	mukaan
+er010:003	-	(,)	-	,␣
+er010:003	-	(@)	-	jotka␣
+er010:003	(12b) 12c	@	-	pelkäävät␣
+er010:003	pers%14	@	-	meidän␣
+er010:003	14	@	-	Jumalamme␣
+er010:003	13b	@	-	käskyä
+er010:003	13a	%case	PTV	
+er010:003	-	(,)	-	,␣
+er010:003	5b	@	-	toimitamme␣
+er010:003	5b	@	-	pois␣
+er010:003	6	@	-	kaikki␣
+er010:003	-	(@)	-	ne␣
+er010:003	7	@	-	vaimot␣
+er010:003	8a	@	-	ja␣
+er010:003	9	@	-	heistä␣
+er010:003	(8b) 8c	@	-	syntyneet␣
+er010:003	(8b) 8c	@	-	lapset
+er010:003	(15a)	-	UNTRANSLATED	
+er010:003	-	(;)	-	;␣
+er010:003	16	@	-	tehtäköön␣
+er010:003	15c	@	-	lain␣
+er010:003	15b	@	-	mukaan
+er010:003	-	(.)	-	.␣
+er010:004	er010:004	er010:004	VERSE	Esr␣10:4␣
+er010:004	1	@	-	Nouse
+er010:004	-	(,)	-	,␣
+er010:004	2	@	-	sillä␣
+er010:004	-	(@)	-	tämä␣
+er010:004	-	(@)	-	on␣
+er010:004	3	@	-	sinun␣
+er010:004	(4a) 4b	@	-	asiasi
+er010:004	-	(,)	-	,␣
+er010:004	5a	@	-	ja␣
+er010:004	5b	@	-	me␣
+er010:004	-	(@)	-	olemme␣
+er010:004	pers%6	@	-	sinun␣
+er010:004	6	@	-	kanssasi
+er010:004	-	(.)	-	.␣
+er010:004	7	@	-	Ole␣
+er010:004	7	@	-	luja␣
+er010:004	8a	@	-	ja␣
+er010:004	8b	@	-	ryhdy␣
+er010:004	8b	@	-	toimeen
+er010:004	-	(.)	-	.
+er010:004	-	(@)	-	"␣
+er010:005	er010:005	er010:005	VERSE	Esr␣10:5␣
+er010:005	1a	@	-	Niin␣
+er010:005	2	@	-	Esra␣
+er010:005	1b	@	-	nousi␣
+er010:005	3a	@	-	ja␣
+er010:005	3b	@	-	vannotti␣
+er010:005	(6a) 6b	@	-	pappien␣
+er010:005	5	@	-	päämiehet
+er010:005	4	%case	NOM	
+er010:005	-	(,)	-	,␣
+er010:005	(7a) 7b	@	-	leeviläiset␣
+er010:005	8a	@	-	ja␣
+er010:005	8b	@	-	kaiken␣
+er010:005	9	@	-	Israelin␣
+er010:005	10b	@	-	tekemään␣
+er010:005	10a	%case	LOC	
+er010:005	(11a) 11b (12a) 12b	@	-	näin
+er010:005	-	(.)	-	.␣
+er010:005	13a	@	-	Ja␣
+er010:005	13b	(@)	-	he␣
+er010:005	13b	@	-	vannoivat
+er010:005	-	(.)	-	.␣
+er010:006	er010:006	er010:006	VERSE	Esr␣10:6␣
+er010:006	1a	@	-	Niin␣
+er010:006	2	@	-	Esra␣
+er010:006	1b	@	-	nousi␣
+er010:006	(5a) 5b	@	-	Jumalan␣
+er010:006	4	@	-	temppelin␣
+er010:006	3b 3c	@	-	edustalta␣
+er010:006	3a	%case	LOC	
+er010:006	6a	@	-	ja␣
+er010:006	6b	@	-	meni␣
+er010:006	9	@	-	Joohananin
+er010:006	-	(,)	-	,␣
+er010:006	11	@	-	Eljasibin␣
+er010:006	10	@	-	pojan
+er010:006	-	(,)	-	,␣
+er010:006	8	@	-	kammioon
+er010:006	7	%case	LOC	
+er010:006	(12a)	-	UNTRANSLATED	
+er010:006	-	(.)	-	.␣
+er010:006	13	@	-	Sinne␣
+er010:006	12b	@	-	tultuaan␣
+er010:006	16	(@)	-	hän␣
+er010:006	15	@	-	ei␣
+er010:006	16	@	-	syönyt␣
+er010:006	14	@	-	leipää␣
+er010:006	17a 18	@	-	eikä␣
+er010:006	19	@	-	juonut␣
+er010:006	17b	@	-	vettä
+er010:006	-	(,)	-	,␣
+er010:006	20	@	-	sillä␣
+er010:006	-	(@)	-	niin␣
+er010:006	pro%21	@	-	hän␣
+er010:006	21	@	-	suri␣
+er010:006	(24a) 24b	@	-	pakkosiirtolaisten␣
+er010:006	23	@	-	uskottomuutta
+er010:006	22	%case	PTV	
+er010:006	-	(.)	-	.␣
+er010:007	er010:007	er010:007	VERSE	Esr␣10:7␣
+er010:007	1a	@	-	Ja␣
+er010:007	5b	@	-	kaikille␣
+er010:007	5a	%case	LOC	
+er010:007	6 (7a) 7b	@	-	pakkosiirtolaisille␣
+er010:007	1b 2	@	-	kuulutettiin␣
+er010:007	3b	@	-	Juudassa␣
+er010:007	3a	%case	LOC	
+er010:007	4a	@	-	ja␣
+er010:007	4b	@	-	Jerusalemissa
+er010:007	-	(,)	-	,␣
+er010:007	8a	@	-	että␣
+er010:007	8b	(@)	-	heidän␣
+er010:007	mod%8b	@	-	tuli␣
+er010:007	8b	@	-	kokoontua␣
+er010:007	9	@	-	Jerusalemiin
+er010:007	-	(;)	-	;␣
+er010:008	er010:008	er010:008	VERSE	Esr␣10:8␣
+er010:008	1a	@	-	ja␣
+er010:008	1b 2	@	-	joka␣
+er010:008	3	@	-	ei␣
+er010:008	4	@	-	tullut␣
+er010:008	5b	@	-	kolmen␣
+er010:008	(6a) 6b	@	-	päivän␣
+er010:008	5a	@	-	kuluessa
+er010:008	-	(,)	-	,␣
+er010:008	(8a) 8b	@	-	päämiesten␣
+er010:008	9a	@	-	ja␣
+er010:008	(9b) 9c	@	-	vanhinten␣
+er010:008	7b	@	-	päätöksen␣
+er010:008	7a	@	-	mukaan
+er010:008	-	(,)	-	,␣
+er010:008	pers%12	@	-	sen␣
+er010:008	11	@	-	koko␣
+er010:008	12	@	-	omaisuus␣
+er010:008	10	(@)	-	oli␣
+er010:008	10	@	-	vihittävä␣
+er010:008	10	@	-	tuhon␣
+er010:008	10	@	-	omaksi␣
+er010:008	13a	@	-	ja␣
+er010:008	13b	@	-	hän␣
+er010:008	13b	@	-	itse␣
+er010:008	14	(@)	-	tuleva␣
+er010:008	14	@	-	erotetuksi␣
+er010:008	(16a) 16b	@	-	pakkosiirtolaisten␣
+er010:008	15b	@	-	seurakunnasta
+er010:008	15a	%case	LOC	
+er010:008	-	(.)	-	.␣
+er010:009	er010:009	er010:009	VERSE	Esr␣10:9␣
+er010:009	1a	@	-	Niin␣
+er010:009	2	@	-	kaikki␣
+er010:009	4	@	-	Juudan␣
+er010:009	5a	@	-	ja␣
+er010:009	5b	@	-	Benjaminin␣
+er010:009	3	@	-	miehet␣
+er010:009	1b	@	-	kokoontuivat␣
+er010:009	6	@	-	Jerusalemiin␣
+er010:009	7b	@	-	kolmanneksi␣
+er010:009	7a	%case	TRA	
+er010:009	(8a) 8b	@	-	päiväksi
+er010:009	-	(,)	-	,␣
+er010:009	9	@	-	joka␣
+er010:009	-	(@)	-	oli␣
+er010:009	(11a) 11b	@	-	yhdeksännen␣
+er010:009	10	@	-	kuun␣
+er010:009	(12a) 12b	@	-	kahdeskymmenes␣
+er010:009	-	(@)	-	päivä
+er010:009	(13a) (13b)	-	UNTRANSLATED	
+er010:009	-	(.)	-	.␣
+er010:009	14a	@	-	Ja␣
+er010:009	15	@	-	kaikki␣
+er010:009	(16a) 16b	@	-	kansa␣
+er010:009	14b	@	-	asettui␣
+er010:009	(19a) 19b	@	-	Jumalan␣
+er010:009	18	@	-	temppelin␣
+er010:009	17b	@	-	aukealle
+er010:009	17a	%case	LOC	
+er010:009	-	(,)	-	,␣
+er010:009	20	@	-	vavisten␣
+er010:009	23a	@	-	sekä␣
+er010:009	(22a) 22b	@	-	asian␣
+er010:009	21	@	-	tähden␣
+er010:009	23a	@	-	että␣
+er010:009	(23c) 23d	@	-	rankkasateen␣
+er010:009	23b	@	-	vuoksi
+er010:009	-	(.)	-	.␣
+er010:010	er010:010	er010:010	VERSE	Esr␣10:10␣
+er010:010	1a	@	-	Ja␣
+er010:010	(3a) 3b	@	-	pappi␣
+er010:010	2	@	-	Esra␣
+er010:010	1b	@	-	nousi␣
+er010:010	4a	@	-	ja␣
+er010:010	4b	@	-	sanoi␣
+er010:010	5	@	-	heille
+er010:010	-	(:)	-	:␣
+er010:010	-	(@)	-	"
+er010:010	6	@	-	Te␣
+er010:010	7	(@)	-	olette␣
+er010:010	7	@	-	olleet␣
+er010:010	7	@	-	uskottomat
+er010:010	-	(,)	-	,␣
+er010:010	8a	@	-	kun␣
+er010:010	8b	(@)	-	olette␣
+er010:010	8b	@	-	ottaneet␣
+er010:010	10	@	-	muukalaisia␣
+er010:010	9	@	-	vaimoja
+er010:010	-	(,)	-	,␣
+er010:010	11a	@	-	ja␣
+er010:010	-	(@)	-	niin␣
+er010:010	11b	(@)	-	te␣
+er010:010	11b	(@)	-	olette␣
+er010:010	11b	@	-	lisänneet␣
+er010:010	14	@	-	Israelin␣
+er010:010	13	@	-	syyllisyyttä
+er010:010	12	%case	PTV	
+er010:010	-	(.)	-	.␣
+er010:011	er010:011	er010:011	VERSE	Esr␣10:11␣
+er010:011	1a	@	-	Mutta␣
+er010:011	2	@	-	antakaa␣
+er010:011	1b	@	-	nyt␣
+er010:011	4b	@	-	Herralle
+er010:011	4a	%case	LOC	
+er010:011	-	(,)	-	,␣
+er010:011	6	@	-	isienne␣
+er010:011	5	@	-	Jumalalle
+er010:011	-	(,)	-	,␣
+er010:011	3	@	-	kunnia␣
+er010:011	7a	@	-	ja␣
+er010:011	7b	@	-	tehkää␣
+er010:011	pers%8	@	-	hänen␣
+er010:011	8	@	-	tahtonsa
+er010:011	(9a)	-	UNTRANSLATED	
+er010:011	-	(:)	-	:␣
+er010:011	9b	@	-	eristäytykää␣
+er010:011	(11a) 11b	@	-	maan␣
+er010:011	10b	@	-	kansoista␣
+er010:011	10a	%case	LOC	
+er010:011	12a	@	-	ja␣
+er010:011	(14a) 14b	@	-	muukalaisista␣
+er010:011	(13a) 13b	@	-	vaimoista
+er010:011	12b	%case	LOC	
+er010:011	-	(.)	-	.
+er010:011	-	(@)	-	"␣
+er010:012	er010:012	er010:012	VERSE	Esr␣10:12␣
+er010:012	1a	@	-	Niin␣
+er010:012	2	@	-	koko␣
+er010:012	(3a) 3b	@	-	seurakunta␣
+er010:012	1b	@	-	vastasi␣
+er010:012	4a	@	-	ja␣
+er010:012	4b	@	-	sanoi␣
+er010:012	6	@	-	suurella␣
+er010:012	5	@	-	äänellä
+er010:012	-	(:)	-	:␣
+er010:012	-	(@)	-	"
+er010:012	9a	@	-	Niinkuin␣
+er010:012	pers%9b	@	-	sinä␣
+er010:012	-	(@)	-	olet␣
+er010:012	9b	@	-	puhunut
+er010:012	-	(,)	-	,␣
+er010:012	7	@	-	niin␣
+er010:012	11b	(@)	-	on␣
+er010:012	10	@	-	meidän␣
+er010:012	11b	@	-	tehtävä
+er010:012	11a	%case	NOM	
+er010:012	-	(.)	-	.␣
+er010:013	er010:013	er010:013	VERSE	Esr␣10:13␣
+er010:013	1	@	-	Mutta␣
+er010:013	(2a) 2b	@	-	kansaa␣
+er010:013	-	(@)	-	on␣
+er010:013	3	@	-	paljon
+er010:013	-	(,)	-	,␣
+er010:013	4a	@	-	ja␣
+er010:013	-	(@)	-	on␣
+er010:013	(4b) 4c 5	@	-	sadeaika
+er010:013	-	(,)	-	,␣
+er010:013	6a	@	-	niin␣
+er010:013	6b	@	-	ettei␣
+er010:013	7	@	-	voida␣
+er010:013	8b	@	-	seisoa␣
+er010:013	8a	%case	LAT	
+er010:013	9b	@	-	ulkona
+er010:013	9a	%case	?	
+er010:013	-	(.)	-	.␣
+er010:013	10a 11	@	-	Eikä␣
+er010:013	-	(@)	-	tämä␣
+er010:013	-	(@)	-	ole␣
+er010:013	13	@	-	yhden␣
+er010:013	14a 14b	@	-	tai␣
+er010:013	15b	@	-	kahden␣
+er010:013	12b	@	-	päivän␣
+er010:013	12a	%case	GEN	
+er010:013	(10b) 10c	@	-	toimitus
+er010:013	(15a)	-	UNTRANSLATED	
+er010:013	-	(,)	-	,␣
+er010:013	16	@	-	sillä␣
+er010:013	17	(@)	-	me␣
+er010:013	17	(@)	-	olemme␣
+er010:013	17	@	-	paljon␣
+er010:013	(20a) 20b	@	-	siinä␣
+er010:013	19b	@	-	asiassa␣
+er010:013	19a	%case	LOC	
+er010:013	18b	@	-	rikkoneet
+er010:013	18a	%case	NOM	
+er010:013	-	(.)	-	.␣
+er010:014	er010:014	er010:014	VERSE	Esr␣10:14␣
+er010:014	1	@	-	Käykööt␣
+er010:014	2	%inflection	ACT.IMP.3P	
+er010:014	pers%3	@	-	meidän␣
+er010:014	3	@	-	päämiehemme␣
+er010:014	1	@	-	esiin␣
+er010:014	4b	@	-	koko␣
+er010:014	(5a) 5b	@	-	seurakunnan␣
+er010:014	4a	@	-	puolesta
+er010:014	-	(,)	-	,␣
+er010:014	6a	@	-	ja␣
+er010:014	6b	@	-	kaikki
+er010:014	-	(,)	-	,␣
+er010:014	7	@	-	jotka␣
+er010:014	8b	@	-	kaupungeissamme␣
+er010:014	8a	%case	LOC	
+er010:014	(9a) 9b	(@)	-	ovat␣
+er010:014	(9a) 9b	@	-	ottaneet␣
+er010:014	11	@	-	muukalaisia␣
+er010:014	10	@	-	vaimoja
+er010:014	-	(,)	-	,␣
+er010:014	12	@	-	tulkoot␣
+er010:014	-	(@)	-	tänne␣
+er010:014	14	@	-	määrättyinä␣
+er010:014	13b	@	-	aikoina␣
+er010:014	13a	%case	ESS	
+er010:014	15a	@	-	ja␣
+er010:014	pers%15b	@	-	heidän␣
+er010:014	15b	@	-	kanssansa␣
+er010:014	-	(@)	-	kunkin␣
+er010:014	17	@	-	kaupungin␣
+er010:014	18a 18b	%case	GEN	
+er010:014	16	@	-	vanhimmat␣
+er010:014	19a	@	-	ja␣
+er010:014	19b	@	-	tuomarit
+er010:014	-	(,)	-	,␣
+er010:014	20	@	-	kunnes␣
+er010:014	pers%25	@	-	meistä␣
+er010:014	21b	(@)	-	on␣
+er010:014	21b	@	-	käännetty␣
+er010:014	21a	%case	NOM	
+er010:014	25	@	-	pois␣
+er010:014	24	@	-	Jumalan␣
+er010:014	23	@	-	viha
+er010:014	-	(,)	-	,␣
+er010:014	-	(@)	-	joka␣
+er010:014	-	(@)	-	on␣
+er010:014	22	@	-	syttynyt␣
+er010:014	(28a) 28b	@	-	tämän␣
+er010:014	27b	@	-	asian␣
+er010:014	26 27a	@	-	tähden
+er010:014	-	(.)	-	.
+er010:014	-	(@)	-	"␣
+er010:015	er010:015	er010:015	VERSE	Esr␣10:15␣
+er010:015	1	@	-	Ainoastaan␣
+er010:015	2	@	-	Joonatan
+er010:015	-	(,)	-	,␣
+er010:015	4	@	-	Asaelin␣
+er010:015	3	@	-	poika
+er010:015	-	(,)	-	,␣
+er010:015	5a	@	-	ja␣
+er010:015	5b	@	-	Jahseja
+er010:015	-	(,)	-	,␣
+er010:015	7	@	-	Tikvan␣
+er010:015	6	@	-	poika
+er010:015	-	(,)	-	,␣
+er010:015	8	@	-	nousivat␣
+er010:015	10	@	-	tätä␣
+er010:015	9	@	-	vastustamaan
+er010:015	-	(,)	-	,␣
+er010:015	11a	@	-	ja␣
+er010:015	11b	@	-	Mesullam␣
+er010:015	12a	@	-	ja␣
+er010:015	(13a) 13b	@	-	leeviläinen␣
+er010:015	12b	@	-	Sabbetai␣
+er010:015	14	@	-	kannattivat␣
+er010:015	pers%14	@	-	heitä
+er010:015	-	(.)	-	.␣
+er010:016	er010:016	er010:016	VERSE	Esr␣10:16␣
+er010:016	1a	@	-	Mutta␣
+er010:016	3 (4a) 4b	@	-	pakkosiirtolaiset␣
+er010:016	1b	@	-	tekivät␣
+er010:016	2	@	-	näin
+er010:016	-	(,)	-	,␣
+er010:016	5a	@	-	ja␣
+er010:016	5b	@	-	valittiin␣
+er010:016	(7a) 7b	@	-	pappi␣
+er010:016	6	@	-	Esra␣
+er010:016	-	(@)	-	sekä␣
+er010:016	8	@	-	miehiä
+er010:016	-	(,)	-	,␣
+er010:016	(10a) 10b 9	@	-	perhekunta-päämiehiä
+er010:016	-	(,)	-	,␣
+er010:016	11b 12	@	-	perhekuntien␣
+er010:016	11a	@	-	mukaan
+er010:016	(13a)	-	UNTRANSLATED	
+er010:016	-	(,)	-	,␣
+er010:016	13b	@	-	kaikki␣
+er010:016	14b	@	-	nimeltään␣
+er010:016	14a	@	-	mainittuja
+er010:016	(15a)	-	UNTRANSLATED	
+er010:016	-	(.)	-	.␣
+er010:016	(19a) 19b	@	-	Kymmenennen␣
+er010:016	18b	@	-	kuun␣
+er010:016	18a	%case	GEN	
+er010:016	17	@	-	ensimmäisenä␣
+er010:016	16b	@	-	päivänä␣
+er010:016	16a	%case	ESS	
+er010:016	15b	(@)	-	he␣
+er010:016	15b	@	-	istuivat␣
+er010:016	20b	@	-	tutkimaan␣
+er010:016	20a	%case	LOC	
+er010:016	(21a) 21b	@	-	asiaa
+er010:016	-	(,)	-	,␣
+er010:017	er010:017	er010:017	VERSE	Esr␣10:17␣
+er010:017	1a	@	-	ja␣
+er010:017	(11a) 11b	@	-	ensimmäisen␣
+er010:017	10b	@	-	kuun␣
+er010:017	10a	%case	GEN	
+er010:017	9	@	-	ensimmäiseen␣
+er010:017	8	@	-	päivään␣
+er010:017	7	%case	LOC	
+er010:017	1b	(@)	-	he␣
+er010:017	1b	@	-	olivat␣
+er010:017	1b	@	-	selvillä␣
+er010:017	2b	@	-	kaikista␣
+er010:017	2a	%case	LOC	
+er010:017	3	@	-	miehistä
+er010:017	-	(,)	-	,␣
+er010:017	-	(@)	-	jotka␣
+er010:017	(4a) 4b	(@)	-	olivat␣
+er010:017	(4a) 4b	@	-	ottaneet␣
+er010:017	6	@	-	muukalaisia␣
+er010:017	5	@	-	vaimoja
+er010:017	-	(.)	-	.␣
+er010:018	er010:018	er010:018	VERSE	Esr␣10:18␣
+er010:018	(1a)	-	UNTRANSLATED	
+er010:018	(3a) 3b	@	-	Pappien␣
+er010:018	2b	@	-	poikia
+er010:018	2a	%case	PTV	
+er010:018	-	(,)	-	,␣
+er010:018	4	@	-	jotka␣
+er010:018	5	(@)	-	olivat␣
+er010:018	5	@	-	ottaneet␣
+er010:018	7	@	-	muukalaisia␣
+er010:018	6	@	-	vaimoja
+er010:018	-	(,)	-	,␣
+er010:018	1b	@	-	havaittiin␣
+er010:018	-	(@)	-	olevan
+er010:018	-	(:)	-	:␣
+er010:018	9	@	-	Jeesuan
+er010:018	-	(,)	-	,␣
+er010:018	11	@	-	Joosadakin␣
+er010:018	10	@	-	pojan
+er010:018	-	(,)	-	,␣
+er010:018	8b	@	-	jälkeläisiä␣
+er010:018	8a	%case	PTV	
+er010:018	12a	@	-	ja␣
+er010:018	pers%12b	@	-	hänen␣
+er010:018	12b	@	-	veljiään
+er010:018	-	(:)	-	:␣
+er010:018	13	@	-	Maaseja
+er010:018	(14a)	-	UNTRANSLATED	
+er010:018	-	(,)	-	,␣
+er010:018	14b	@	-	Elieser
+er010:018	(15a)	-	UNTRANSLATED	
+er010:018	-	(,)	-	,␣
+er010:018	15b	@	-	Jaarib␣
+er010:018	16a	@	-	ja␣
+er010:018	16b	@	-	Gedalja
+er010:018	-	(,)	-	,␣
+er010:019	er010:019	er010:019	VERSE	Esr␣10:19␣
+er010:019	-	(@)	-	jotka␣
+er010:019	(1a)	-	UNTRANSLATED	
+er010:019	2	@	-	kättä␣
+er010:019	1b	@	-	lyöden␣
+er010:019	-	(@)	-	lupasivat␣
+er010:019	3b	@	-	toimittaa␣
+er010:019	3a	%case	LAT	
+er010:019	3b	@	-	pois␣
+er010:019	4	@	-	vaimonsa␣
+er010:019	5a	@	-	ja␣
+er010:019	5b	@	-	syyllisinä␣
+er010:019	-	(@)	-	uhrata␣
+er010:019	6 7	@	-	oinaan␣
+er010:019	9	@	-	syyllisyytensä␣
+er010:019	8	@	-	sovittamiseksi
+er010:019	-	(;)	-	;␣
+er010:020	er010:020	er010:020	VERSE	Esr␣10:20␣
+er010:020	(1a)	-	UNTRANSLATED	
+er010:020	2	@	-	Immerin␣
+er010:020	1c	@	-	jälkeläisiä␣
+er010:020	1b	%case	PTV	
+er010:020	3	@	-	Hanani␣
+er010:020	4a	@	-	ja␣
+er010:020	4b	@	-	Sebadja
+er010:020	-	(;)	-	;␣
+er010:021	er010:021	er010:021	VERSE	Esr␣10:21␣
+er010:021	(1a)	-	UNTRANSLATED	
+er010:021	2	@	-	Haarimin␣
+er010:021	1c	@	-	jälkeläisiä␣
+er010:021	1b	%case	PTV	
+er010:021	3	@	-	Maaseja
+er010:021	(4a)	-	UNTRANSLATED	
+er010:021	-	(,)	-	,␣
+er010:021	4b	@	-	Elia
+er010:021	(5a)	-	UNTRANSLATED	
+er010:021	-	(,)	-	,␣
+er010:021	5b	@	-	Semaja
+er010:021	(6a)	-	UNTRANSLATED	
+er010:021	-	(,)	-	,␣
+er010:021	6b	@	-	Jehiel␣
+er010:021	7a	@	-	ja␣
+er010:021	7b	@	-	Ussia
+er010:021	-	(;)	-	;␣
+er010:022	er010:022	er010:022	VERSE	Esr␣10:22␣
+er010:022	(1a)	-	UNTRANSLATED	
+er010:022	2	@	-	Pashurin␣
+er010:022	1c	@	-	jälkeläisiä␣
+er010:022	1b	%case	PTV	
+er010:022	3	@	-	Eljoenai
+er010:022	-	(,)	-	,␣
+er010:022	4	@	-	Maaseja
+er010:022	-	(,)	-	,␣
+er010:022	5	@	-	Ismael
+er010:022	-	(,)	-	,␣
+er010:022	6	@	-	Netanel
+er010:022	-	(,)	-	,␣
+er010:022	7	@	-	Joosabad␣
+er010:022	8a	@	-	ja␣
+er010:022	8b	@	-	Elasa
+er010:022	-	(.)	-	.␣
+er010:023	er010:023	er010:023	VERSE	Esr␣10:23␣
+er010:023	(1a)	-	UNTRANSLATED	
+er010:023	(2a) 2b	@	-	Leeviläisiä
+er010:023	1b	%case	PTV	
+er010:023	-	(:)	-	:␣
+er010:023	3	@	-	Joosabad
+er010:023	(4a)	-	UNTRANSLATED	
+er010:023	-	(,)	-	,␣
+er010:023	4b	@	-	Siimei
+er010:023	(5a)	-	UNTRANSLATED	
+er010:023	-	(,)	-	,␣
+er010:023	5b	@	-	Kelaja
+er010:023	-	(,)	-	,␣
+er010:023	6	@	-	se␣
+er010:023	-	(@)	-	on␣
+er010:023	7	@	-	Kelita
+er010:023	-	(,)	-	,␣
+er010:023	8	@	-	Petahja
+er010:023	-	(,)	-	,␣
+er010:023	9	@	-	Juuda␣
+er010:023	10a	@	-	ja␣
+er010:023	10b	@	-	Elieser
+er010:023	-	(.)	-	.␣
+er010:024	er010:024	er010:024	VERSE	Esr␣10:24␣
+er010:024	(1a)	-	UNTRANSLATED	
+er010:024	(2a) 2b	@	-	Veisaajia
+er010:024	1b	%case	PTV	
+er010:024	-	(:)	-	:␣
+er010:024	3	@	-	Eljasib
+er010:024	(4a)	-	UNTRANSLATED	
+er010:024	-	(.)	-	.␣
+er010:024	(5a) 5b	@	-	Ovenvartijoita
+er010:024	4b	%case	PTV	
+er010:024	-	(:)	-	:␣
+er010:024	6	@	-	Sallum
+er010:024	(7a)	-	UNTRANSLATED	
+er010:024	-	(,)	-	,␣
+er010:024	7b	@	-	Telem␣
+er010:024	8a	@	-	ja␣
+er010:024	8b	@	-	Uuri
+er010:024	-	(.)	-	.␣
+er010:025	er010:025	er010:025	VERSE	Esr␣10:25␣
+er010:025	(1a)	-	UNTRANSLATED	
+er010:025	1c	@	-	Israelilaisia
+er010:025	1b	%case	PTV	
+er010:025	-	(:)	-	:␣
+er010:025	3	@	-	Paroksen␣
+er010:025	2b	@	-	jälkeläisiä␣
+er010:025	2a	%case	PTV	
+er010:025	4	@	-	Ramja
+er010:025	(5a)	-	UNTRANSLATED	
+er010:025	-	(,)	-	,␣
+er010:025	5b	@	-	Jissia
+er010:025	(6a)	-	UNTRANSLATED	
+er010:025	-	(,)	-	,␣
+er010:025	6b	@	-	Malkia
+er010:025	(7a)	-	UNTRANSLATED	
+er010:025	-	(,)	-	,␣
+er010:025	7b	@	-	Miijamin
+er010:025	(8a)	-	UNTRANSLATED	
+er010:025	-	(,)	-	,␣
+er010:025	8b	@	-	Elasar
+er010:025	(9a)	-	UNTRANSLATED	
+er010:025	-	(,)	-	,␣
+er010:025	9b	@	-	Malkia␣
+er010:025	10a	@	-	ja␣
+er010:025	10b	@	-	Benaja
+er010:025	-	(:)	-	:␣
+er010:026	er010:026	er010:026	VERSE	Esr␣10:26␣
+er010:026	(1a)	-	UNTRANSLATED	
+er010:026	2	@	-	Eelamin␣
+er010:026	1c	@	-	jälkeläisiä␣
+er010:026	1b	%case	PTV	
+er010:026	3	@	-	Mattanja
+er010:026	-	(,)	-	,␣
+er010:026	4	@	-	Sakarja
+er010:026	(5a)	-	UNTRANSLATED	
+er010:026	-	(,)	-	,␣
+er010:026	5b	@	-	Jehiel
+er010:026	(6a)	-	UNTRANSLATED	
+er010:026	-	(,)	-	,␣
+er010:026	6b	@	-	Abdi
+er010:026	(7a)	-	UNTRANSLATED	
+er010:026	-	(,)	-	,␣
+er010:026	7b	@	-	Jeremot␣
+er010:026	8a	@	-	ja␣
+er010:026	8b	@	-	Elia
+er010:026	-	(;)	-	;␣
+er010:027	er010:027	er010:027	VERSE	Esr␣10:27␣
+er010:027	(1a)	-	UNTRANSLATED	
+er010:027	2	@	-	Sattun␣
+er010:027	1c	@	-	jälkeläisiä␣
+er010:027	1b	%case	PTV	
+er010:027	3	@	-	Eljoenai
+er010:027	-	(,)	-	,␣
+er010:027	4	@	-	Eljasib
+er010:027	-	(,)	-	,␣
+er010:027	5	@	-	Mattanja
+er010:027	(6a)	-	UNTRANSLATED	
+er010:027	-	(,)	-	,␣
+er010:027	6b	@	-	Jeremot
+er010:027	(7a)	-	UNTRANSLATED	
+er010:027	-	(,)	-	,␣
+er010:027	7b	@	-	Saabad␣
+er010:027	8a	@	-	ja␣
+er010:027	8b	@	-	Asisa
+er010:027	-	(;)	-	;␣
+er010:028	er010:028	er010:028	VERSE	Esr␣10:28␣
+er010:028	(1a)	-	UNTRANSLATED	
+er010:028	2	@	-	Beebain␣
+er010:028	1c	@	-	jälkeläisiä␣
+er010:028	1b	%case	PTV	
+er010:028	3	@	-	Joohanan
+er010:028	-	(,)	-	,␣
+er010:028	4	@	-	Hananja
+er010:028	-	(,)	-	,␣
+er010:028	5	@	-	Sabbai␣
+er010:028	-	(@)	-	ja␣
+er010:028	6	@	-	Atlai
+er010:028	-	(;)	-	;␣
+er010:029	er010:029	er010:029	VERSE	Esr␣10:29␣
+er010:029	(1a)	-	UNTRANSLATED	
+er010:029	2	@	-	Baanin␣
+er010:029	1c	@	-	jälkeläisiä␣
+er010:029	1b	%case	PTV	
+er010:029	3	@	-	Mesullam
+er010:029	-	(,)	-	,␣
+er010:029	4	@	-	Malluk
+er010:029	(5a)	-	UNTRANSLATED	
+er010:029	-	(,)	-	,␣
+er010:029	5b	@	-	Adaja
+er010:029	-	(,)	-	,␣
+er010:029	6	@	-	Jaasub
+er010:029	(7a)	-	UNTRANSLATED	
+er010:029	-	(,)	-	,␣
+er010:029	7b	@	-	Seal␣
+er010:029	-	(@)	-	ja␣
+er010:029	8	@	-	Jeramot
+er010:029	-	(;)	-	;␣
+er010:030	er010:030	er010:030	VERSE	Esr␣10:30␣
+er010:030	(1a)	-	UNTRANSLATED	
+er010:030	2	@	-	Pahat-Mooabin␣
+er010:030	1c	@	-	jälkeläisiä␣
+er010:030	1b	%case	PTV	
+er010:030	3	@	-	Adna
+er010:030	(4a)	-	UNTRANSLATED	
+er010:030	-	(,)	-	,␣
+er010:030	4b	@	-	Kelal
+er010:030	-	(,)	-	,␣
+er010:030	5	@	-	Benaja
+er010:030	-	(,)	-	,␣
+er010:030	6	@	-	Maaseja
+er010:030	-	(,)	-	,␣
+er010:030	7	@	-	Mattanja
+er010:030	-	(,)	-	,␣
+er010:030	8	@	-	Besalel
+er010:030	(9a)	-	UNTRANSLATED	
+er010:030	-	(,)	-	,␣
+er010:030	9b	@	-	Binnui␣
+er010:030	10a	@	-	ja␣
+er010:030	10b	@	-	Manasse
+er010:030	-	(;)	-	;␣
+er010:031	er010:031	er010:031	VERSE	Esr␣10:31␣
+er010:031	(1a)	-	UNTRANSLATED	
+er010:031	2	@	-	Haarimin␣
+er010:031	1b	@	-	jälkeläisiä␣
+er010:031	3	@	-	Elieser
+er010:031	-	(,)	-	,␣
+er010:031	4	@	-	Jissia
+er010:031	-	(,)	-	,␣
+er010:031	5	@	-	Malkia
+er010:031	-	(,)	-	,␣
+er010:031	6	@	-	Semaja
+er010:031	-	(,)	-	,␣
+er010:031	7	@	-	Simeon
+er010:031	-	(,)	-	,␣
+er010:032	er010:032	er010:032	VERSE	Esr␣10:32␣
+er010:032	1	@	-	Benjamin
+er010:032	-	(,)	-	,␣
+er010:032	2	@	-	Malluk␣
+er010:032	-	(@)	-	ja␣
+er010:032	3	@	-	Semarja
+er010:032	-	(;)	-	;␣
+er010:033	er010:033	er010:033	VERSE	Esr␣10:33␣
+er010:033	2	@	-	Haasumin␣
+er010:033	1b	@	-	jälkeläisiä␣
+er010:033	1a	%case	PTV	
+er010:033	3	@	-	Mattenai
+er010:033	-	(,)	-	,␣
+er010:033	4	@	-	Mattatta
+er010:033	-	(,)	-	,␣
+er010:033	5	@	-	Saabad
+er010:033	-	(,)	-	,␣
+er010:033	6	@	-	Elifelet
+er010:033	-	(,)	-	,␣
+er010:033	7	@	-	Jeremai
+er010:033	-	(,)	-	,␣
+er010:033	8	@	-	Manasse␣
+er010:033	-	(@)	-	ja␣
+er010:033	9	@	-	Siimei
+er010:033	-	(;)	-	;␣
+er010:034	er010:034	er010:034	VERSE	Esr␣10:34␣
+er010:034	2	@	-	Baanin␣
+er010:034	1b	@	-	jälkeläisiä␣
+er010:034	1a	%case	PTV	
+er010:034	3	@	-	Maadai
+er010:034	-	(,)	-	,␣
+er010:034	4	@	-	Amram
+er010:034	(5a)	-	UNTRANSLATED	
+er010:034	-	(,)	-	,␣
+er010:034	5b	@	-	Uuel
+er010:034	-	(,)	-	,␣
+er010:035	er010:035	er010:035	VERSE	Esr␣10:35␣
+er010:035	1	@	-	Benaja
+er010:035	-	(,)	-	,␣
+er010:035	2	@	-	Beedja
+er010:035	-	(,)	-	,␣
+er010:035	4	@	-	Keluhu
+er010:035	-	(,)	-	,␣
+er010:036	er010:036	er010:036	VERSE	Esr␣10:36␣
+er010:036	1	@	-	Vanja
+er010:036	-	(,)	-	,␣
+er010:036	2	@	-	Meremot
+er010:036	-	(,)	-	,␣
+er010:036	3	@	-	Eljasib
+er010:036	-	(,)	-	,␣
+er010:037	er010:037	er010:037	VERSE	Esr␣10:37␣
+er010:037	1	@	-	Mattanja
+er010:037	-	(,)	-	,␣
+er010:037	2	@	-	Mattenai
+er010:037	-	(,)	-	,␣
+er010:037	4b	@	-	Jaasai
+er010:037	-	(,)	-	,␣
+er010:038	er010:038	er010:038	VERSE	Esr␣10:38␣
+er010:038	(1a)	-	UNTRANSLATED	
+er010:038	1b	@	-	Baani
+er010:038	(2a)	-	UNTRANSLATED	
+er010:038	-	(,)	-	,␣
+er010:038	2b	@	-	Binnui
+er010:038	-	(,)	-	,␣
+er010:038	3	@	-	Siimei
+er010:038	-	(,)	-	,␣
+er010:039	er010:039	er010:039	VERSE	Esr␣10:39␣
+er010:039	(1a)	-	UNTRANSLATED	
+er010:039	1b	@	-	Selemja
+er010:039	(2a)	-	UNTRANSLATED	
+er010:039	-	(,)	-	,␣
+er010:039	2b	@	-	Naatan
+er010:039	(3a)	-	UNTRANSLATED	
+er010:039	-	(,)	-	,␣
+er010:039	3b	@	-	Adaja
+er010:039	-	(,)	-	,␣
+er010:040	er010:040	er010:040	VERSE	Esr␣10:40␣
+er010:040	1	@	-	Maknadbai
+er010:040	-	(,)	-	,␣
+er010:040	2	@	-	Saasai
+er010:040	-	(,)	-	,␣
+er010:040	3	@	-	Saarai
+er010:040	-	(,)	-	,␣
+er010:041	er010:041	er010:041	VERSE	Esr␣10:41␣
+er010:041	1	@	-	Asarel
+er010:041	(2a)	-	UNTRANSLATED	
+er010:041	-	(,)	-	,␣
+er010:041	2b	@	-	Selemja
+er010:041	-	(,)	-	,␣
+er010:041	3	@	-	Semarja
+er010:041	-	(,)	-	,␣
+er010:042	er010:042	er010:042	VERSE	Esr␣10:42␣
+er010:042	1	@	-	Sallum
+er010:042	-	(,)	-	,␣
+er010:042	2	@	-	Amarja␣
+er010:042	-	(@)	-	ja␣
+er010:042	3	@	-	Joosef
+er010:042	-	(;)	-	;␣
+er010:043	er010:043	er010:043	VERSE	Esr␣10:43␣
+er010:043	2	@	-	Nebon␣
+er010:043	1b	@	-	jälkeläisiä␣
+er010:043	1a	%case	PTV	
+er010:043	3	@	-	Jegiel
+er010:043	-	(,)	-	,␣
+er010:043	4	@	-	Mattitja
+er010:043	-	(,)	-	,␣
+er010:043	5	@	-	Saabad
+er010:043	-	(,)	-	,␣
+er010:043	6	@	-	Sebina
+er010:043	-	(,)	-	,␣
+er010:043	8	@	-	Jaddai
+er010:043	(9a)	-	UNTRANSLATED	
+er010:043	-	(,)	-	,␣
+er010:043	9b	@	-	Jooel␣
+er010:043	-	(@)	-	ja␣
+er010:043	10	@	-	Benaja
+er010:043	-	(.)	-	.␣
+er010:044	er010:044	er010:044	VERSE	Esr␣10:44␣
+er010:044	2	@	-	Nämä␣
+er010:044	1	@	-	kaikki␣
+er010:044	4	(@)	-	olivat␣
+er010:044	4	@	-	ottaneet␣
+er010:044	6	@	-	muukalaisia␣
+er010:044	5	@	-	vaimoja
+er010:044	-	(;)	-	;␣
+er010:044	7a	@	-	ja␣
+er010:044	7b	@	-	osa␣
+er010:044	8	@	-	näistä␣
+er010:044	9	@	-	vaimoista␣
+er010:044	(10a)	-	UNTRANSLATED	
+er010:044	10b	(@)	-	oli␣
+er010:044	10b	@	-	synnyttänyt␣
+er010:044	11	@	-	lapsia
+er010:044	-	(.)	-	.␣

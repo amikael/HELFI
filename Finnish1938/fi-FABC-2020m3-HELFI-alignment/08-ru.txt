@@ -1,0 +1,2677 @@
+ru001:001	ru001:001	ru001:001	VERSE	Ruut␣1:1␣
+ru001:001	(1a) (1b)	-	UNTRANSLATED	
+ru001:001	2b	@	-	Siihen␣
+ru001:001	2b	@	-	aikaan␣
+ru001:001	2a	@	-	kun␣
+ru001:001	(4a) 4b	@	-	tuomarit␣
+ru001:001	3	@	-	hallitsivat
+ru001:001	(5a)	-	UNTRANSLATED	
+ru001:001	-	(,)	-	,␣
+ru001:001	5b	@	-	tuli␣
+ru001:001	6	@	-	nälänhätä␣
+ru001:001	7b	@	-	maahan
+ru001:001	7a	%case	LOC	
+ru001:001	-	(.)	-	.␣
+ru001:001	8a	@	-	Silloin␣
+ru001:001	-	(@)	-	muuan␣
+ru001:001	11	@	-	Juudan␣
+ru001:001	10b	@	-	Beetlehemin␣
+ru001:001	10a	%case	GEN	
+ru001:001	9	@	-	mies␣
+ru001:001	8b	@	-	lähti␣
+ru001:001	-	(@)	-	sieltä␣
+ru001:001	12a	@	-	ja␣
+ru001:001	12b	@	-	asettui␣
+ru001:001	16b	@	-	vaimonsa␣
+ru001:001	17a	@	-	ja␣
+ru001:001	17b	@	-	kahden␣
+ru001:001	18	@	-	poikansa␣
+ru001:001	16a	@	-	kanssa␣
+ru001:001	(15)	-	UNTRANSLATED	
+ru001:001	12b	@	-	muukalaisena␣
+ru001:001	12b	@	-	asumaan␣
+ru001:001	14	@	-	Mooabin␣
+ru001:001	13b	@	-	maahan
+ru001:001	13a	%case	LOC	
+ru001:001	-	(.)	-	.␣
+ru001:002	ru001:002	ru001:002	VERSE	Ruut␣1:2␣
+ru001:002	(1a)	-	UNTRANSLATED	
+ru001:002	(2a) 2b	@	-	Miehen␣
+ru001:002	1b	@	-	nimi␣
+ru001:002	-	(@)	-	oli␣
+ru001:002	3	@	-	Elimelek
+ru001:002	(4a)	-	UNTRANSLATED	
+ru001:002	-	(,)	-	,␣
+ru001:002	pers%5	@	-	hänen␣
+ru001:002	5	@	-	vaimonsa␣
+ru001:002	4b	@	-	nimi␣
+ru001:002	-	(@)	-	oli␣
+ru001:002	6	@	-	Noomi␣
+ru001:002	7a	@	-	ja␣
+ru001:002	pers%9	@	-	hänen␣
+ru001:002	8	@	-	kahden␣
+ru001:002	9	@	-	poikansa␣
+ru001:002	7b	@	-	nimet␣
+ru001:002	10	@	-	Mahlon␣
+ru001:002	11a	@	-	ja␣
+ru001:002	11b	@	-	Kiljon
+ru001:002	-	(;)	-	;␣
+ru001:002	-	(@)	-	he␣
+ru001:002	-	(@)	-	olivat␣
+ru001:002	12	@	-	efratilaisia␣
+ru001:002	14	@	-	Juudan␣
+ru001:002	13b	@	-	Beetlehemistä
+ru001:002	13a	%case	LOC	
+ru001:002	-	(.)	-	.␣
+ru001:002	15a	@	-	Niin␣
+ru001:002	15b	(@)	-	he␣
+ru001:002	15b	@	-	tulivat␣
+ru001:002	17	@	-	Mooabin␣
+ru001:002	16	@	-	maahan␣
+ru001:002	18a	@	-	ja␣
+ru001:002	18b	@	-	oleskelivat␣
+ru001:002	19	@	-	siellä
+ru001:002	-	(.)	-	.␣
+ru001:003	ru001:003	ru001:003	VERSE	Ruut␣1:3␣
+ru001:003	1a	@	-	Ja␣
+ru001:003	2	@	-	Elimelek
+ru001:003	-	(,)	-	,␣
+ru001:003	4	@	-	Noomin␣
+ru001:003	3	@	-	mies
+ru001:003	-	(,)	-	,␣
+ru001:003	1b	@	-	kuoli
+ru001:003	-	(,)	-	,␣
+ru001:003	5a	@	-	ja␣
+ru001:003	pro%6	@	-	Noomi␣
+ru001:003	5b	@	-	jäi␣
+ru001:003	5b	@	-	jälkeen␣
+ru001:003	7b	@	-	kahden␣
+ru001:003	8	@	-	poikansa␣
+ru001:003	7a	@	-	kanssa
+ru001:003	-	(.)	-	.␣
+ru001:004	ru001:004	ru001:004	VERSE	Ruut␣1:4␣
+ru001:004	(1a)	-	UNTRANSLATED	
+ru001:004	1b	(@)	-	Nämä␣
+ru001:004	1b	@	-	ottivat␣
+ru001:004	2	@	-	itselleen␣
+ru001:004	4	@	-	mooabilaiset␣
+ru001:004	3	@	-	vaimot
+ru001:004	-	(;)	-	;␣
+ru001:004	(6a) 6b	@	-	toisen␣
+ru001:004	5	@	-	nimi␣
+ru001:004	-	(@)	-	oli␣
+ru001:004	7	@	-	Orpa␣
+ru001:004	8a	@	-	ja␣
+ru001:004	(9a) 9b	@	-	toisen␣
+ru001:004	8b	@	-	nimi␣
+ru001:004	10	@	-	Ruut
+ru001:004	-	(.)	-	.␣
+ru001:004	11a	@	-	Ja␣
+ru001:004	11b	(@)	-	he␣
+ru001:004	11b	@	-	asuivat␣
+ru001:004	12	@	-	siellä␣
+ru001:004	13a	@	-	noin␣
+ru001:004	13b	@	-	kymmenen␣
+ru001:004	14	@	-	vuotta
+ru001:004	-	(.)	-	.␣
+ru001:005	ru001:005	ru001:005	VERSE	Ruut␣1:5␣
+ru001:005	1a	@	-	Ja␣
+ru001:005	2	@	-	myös␣
+ru001:005	pers%3	@	-	nuo␣
+ru001:005	3	@	-	molemmat
+ru001:005	-	(,)	-	,␣
+ru001:005	4	@	-	Mahlon␣
+ru001:005	5a	@	-	ja␣
+ru001:005	5b	@	-	Kiljon
+ru001:005	-	(,)	-	,␣
+ru001:005	1b	@	-	kuolivat
+ru001:005	-	(,)	-	,␣
+ru001:005	6a	@	-	niin␣
+ru001:005	6a	@	-	että␣
+ru001:005	(7a) 7b	@	-	vaimo␣
+ru001:005	6b	@	-	jäi␣
+ru001:005	6b	@	-	yksin␣
+ru001:005	6b	@	-	jälkeen␣
+ru001:005	8b	@	-	kahdesta␣
+ru001:005	8a	%case	LOC	
+ru001:005	9	@	-	pojastaan␣
+ru001:005	10a	@	-	ja␣
+ru001:005	10c	@	-	miehestään
+ru001:005	10b	%case	LOC	
+ru001:005	-	(.)	-	.␣
+ru001:006	ru001:006	ru001:006	VERSE	Ruut␣1:6␣
+ru001:006	1a	@	-	Silloin␣
+ru001:006	2	@	-	hän␣
+ru001:006	1b	@	-	nousi␣
+ru001:006	3b	@	-	miniöineen␣
+ru001:006	3a	%case	CMT	
+ru001:006	4b	@	-	palataksensa␣
+ru001:006	4a	%case	TRA	
+ru001:006	4b	@	-	takaisin␣
+ru001:006	6	@	-	Mooabin␣
+ru001:006	5b	@	-	maasta
+ru001:006	5a	%case	LOC	
+ru001:006	-	(,)	-	,␣
+ru001:006	7	@	-	sillä␣
+ru001:006	8	(@)	-	hän␣
+ru001:006	8	(@)	-	oli␣
+ru001:006	8	@	-	kuullut␣
+ru001:006	10	@	-	Mooabin␣
+ru001:006	9b	@	-	maassa
+ru001:006	9a	%case	LOC	
+ru001:006	-	(,)	-	,␣
+ru001:006	11	@	-	että␣
+ru001:006	13	@	-	Herra␣
+ru001:006	12	(@)	-	oli␣
+ru001:006	12	@	-	pitänyt␣
+ru001:006	15	@	-	kansastansa␣
+ru001:006	14	%case	LOC	
+ru001:006	12	@	-	huolen␣
+ru001:006	16a	@	-	ja␣
+ru001:006	16b	@	-	antanut␣
+ru001:006	17	@	-	sille␣
+ru001:006	18	@	-	leipää
+ru001:006	-	(.)	-	.␣
+ru001:007	ru001:007	ru001:007	VERSE	Ruut␣1:7␣
+ru001:007	1a	@	-	Niin␣
+ru001:007	1b	(@)	-	hän␣
+ru001:007	1b	@	-	lähti␣
+ru001:007	9	@	-	yhdessä␣
+ru001:007	7b	@	-	molempien␣
+ru001:007	8	@	-	miniäinsä␣
+ru001:007	7a	@	-	kanssa␣
+ru001:007	3a	@	-	siitä␣
+ru001:007	3b	@	-	paikasta
+ru001:007	2	%case	LOC	
+ru001:007	-	(,)	-	,␣
+ru001:007	4	@	-	jossa␣
+ru001:007	6	%case	LOC	
+ru001:007	5	(@)	-	oli␣
+ru001:007	5	@	-	oleskellut
+ru001:007	-	(.)	-	.␣
+ru001:007	10a	@	-	Ja␣
+ru001:007	10b	(@)	-	heidän␣
+ru001:007	11b	@	-	tietä␣
+ru001:007	11a	%case	PTV	
+ru001:007	10b	@	-	käydessään␣
+ru001:007	12b	@	-	matkalla␣
+ru001:007	12a	%case	LOC	
+ru001:007	15	@	-	Juudan␣
+ru001:007	14	@	-	maahan␣
+ru001:007	13	%case	LOC	
+ru001:008	ru001:008	ru001:008	VERSE	Ruut␣1:8␣
+ru001:008	(1a)	-	UNTRANSLATED	
+ru001:008	1b	@	-	sanoi␣
+ru001:008	2	@	-	Noomi␣
+ru001:008	3b	@	-	molemmille␣
+ru001:008	3a	%case	LOC	
+ru001:008	4	@	-	miniöillensä
+ru001:008	-	(:)	-	:␣
+ru001:008	-	(@)	-	"
+ru001:008	5	@	-	Menkää
+ru001:008	-	(,)	-	,␣
+ru001:008	6	@	-	palatkaa␣
+ru001:008	7	@	-	kumpikin␣
+ru001:008	9	@	-	äitinne␣
+ru001:008	8b	@	-	kotiin
+ru001:008	8a	%case	LOC	
+ru001:008	-	(.)	-	.␣
+ru001:008	12	@	-	Herra␣
+ru001:008	11	@	-	tehköön␣
+ru001:008	13	@	-	teille␣
+ru001:008	14	@	-	laupeuden
+ru001:008	-	(,)	-	,␣
+ru001:008	15a 15b	@	-	niinkuin␣
+ru001:008	16	(@)	-	te␣
+ru001:008	16	(@)	-	olette␣
+ru001:008	(18a) 18b	@	-	vainajille␣
+ru001:008	17	%case	LOC	
+ru001:008	19a	@	-	ja␣
+ru001:008	19b	@	-	minulle␣
+ru001:008	16	@	-	tehneet
+ru001:008	-	(.)	-	.␣
+ru001:009	ru001:009	ru001:009	VERSE	Ruut␣1:9␣
+ru001:009	2	@	-	Herra␣
+ru001:009	1	@	-	suokoon
+ru001:009	(3)	-	UNTRANSLATED	
+ru001:009	-	(,)	-	,␣
+ru001:009	4a	@	-	että␣
+ru001:009	4b	@	-	saisitte␣
+ru001:009	5	@	-	turvan␣
+ru001:009	6	@	-	kumpikin␣
+ru001:009	8	@	-	miehenne␣
+ru001:009	7	@	-	kodissa
+ru001:009	-	(.)	-	.
+ru001:009	-	(@)	-	"␣
+ru001:009	9a	@	-	Ja␣
+ru001:009	9b	(@)	-	hän␣
+ru001:009	9b	@	-	suuteli␣
+ru001:009	10	@	-	heitä
+ru001:009	-	(.)	-	.␣
+ru001:009	11a	@	-	Mutta␣
+ru001:009	11b	(@)	-	he␣
+ru001:009	11b	@	-	korottivat␣
+ru001:009	12	@	-	äänensä␣
+ru001:009	13a	@	-	ja␣
+ru001:009	13b	@	-	itkivät␣
+ru001:010	ru001:010	ru001:010	VERSE	Ruut␣1:10␣
+ru001:010	1a	@	-	ja␣
+ru001:010	1b	@	-	sanoivat␣
+ru001:010	2	@	-	hänelle
+ru001:010	(3)	-	UNTRANSLATED	
+ru001:010	-	(:)	-	:␣
+ru001:010	-	(@)	-	"
+ru001:010	5	(@)	-	Me␣
+ru001:010	5	@	-	seuraamme␣
+ru001:010	4	@	-	sinua␣
+ru001:010	pers%6b	@	-	sinun␣
+ru001:010	6b	@	-	kansasi␣
+ru001:010	6a	@	-	luo
+ru001:010	-	(@)	-	"
+ru001:010	-	(.)	-	.␣
+ru001:011	ru001:011	ru001:011	VERSE	Ruut␣1:11␣
+ru001:011	1a	@	-	Mutta␣
+ru001:011	2	@	-	Noomi␣
+ru001:011	1b	@	-	vastasi
+ru001:011	-	(:)	-	:␣
+ru001:011	-	(@)	-	"
+ru001:011	3	@	-	Kääntykää␣
+ru001:011	3	@	-	takaisin
+ru001:011	-	(,)	-	,␣
+ru001:011	4	@	-	tyttäreni
+ru001:011	-	(;)	-	;␣
+ru001:011	5	@	-	miksi␣
+ru001:011	6	(@)	-	te␣
+ru001:011	6	@	-	lähtisitte␣
+ru001:011	pers%7	@	-	minun␣
+ru001:011	7	@	-	kanssani
+ru001:011	-	(?)	-	?␣
+ru001:011	8a	@	-	Voinko␣
+ru001:011	9	@	-	minä␣
+ru001:011	8b	@	-	enää␣
+ru001:011	11b	@	-	saada␣
+ru001:011	11a	%case	LAT	
+ru001:011	10	@	-	poikia␣
+ru001:011	(12a) (12b)	-	UNTRANSLATED	
+ru001:011	14b	@	-	miehiksi␣
+ru001:011	14a	%case	TRA	
+ru001:011	13	@	-	teille
+ru001:011	-	(?)	-	?␣
+ru001:012	ru001:012	ru001:012	VERSE	Ruut␣1:12␣
+ru001:012	1	@	-	Kääntykää␣
+ru001:012	1	@	-	takaisin
+ru001:012	-	(,)	-	,␣
+ru001:012	2	@	-	tyttäreni
+ru001:012	-	(,)	-	,␣
+ru001:012	3	@	-	menkää
+ru001:012	-	(,)	-	,␣
+ru001:012	4	@	-	sillä␣
+ru001:012	5	(@)	-	minä␣
+ru001:012	5	@	-	olen␣
+ru001:012	6a	@	-	liian␣
+ru001:012	5	@	-	vanha␣
+ru001:012	6b	@	-	joutuakseni␣
+ru001:012	7b	@	-	miehelään
+ru001:012	7a	%case	LOC	
+ru001:012	-	(.)	-	.␣
+ru001:012	8	@	-	Vaikka␣
+ru001:012	9	@	-	ajattelisinkin
+ru001:012	-	(:)	-	:␣
+ru001:012	-	(@)	-	'
+ru001:012	11	@	-	Minulla␣
+ru001:012	10	@	-	on␣
+ru001:012	-	(@)	-	vielä␣
+ru001:012	12	@	-	toivoa
+ru001:012	-	(@)	-	'
+ru001:012	-	(,)	-	,␣
+ru001:012	13	@	-	ja␣
+ru001:012	13	@	-	vaikka␣
+ru001:012	-	(@)	-	vielä␣
+ru001:012	15a	@	-	tänä␣
+ru001:012	15b	@	-	yönä␣
+ru001:012	14	@	-	joutuisin␣
+ru001:012	16b	@	-	miehelään␣
+ru001:012	16a	%case	LOC	
+ru001:012	17a	@	-	ja␣
+ru001:012	(17b)	-	UNTRANSLATED	
+ru001:012	18	@	-	synnyttäisin␣
+ru001:012	19	@	-	poikia
+ru001:012	-	(,)	-	,␣
+ru001:013	ru001:013	ru001:013	VERSE	Ruut␣1:13␣
+ru001:013	1a	@	-	ette␣
+ru001:013	1a	@	-	kai␣
+ru001:013	2	(@)	-	te␣
+ru001:013	1b	@	-	kuitenkaan␣
+ru001:013	2	@	-	odottaisi
+ru001:013	-	(,)	-	,␣
+ru001:013	3 4	@	-	kunnes␣
+ru001:013	5	(@)	-	he␣
+ru001:013	5	@	-	kasvaisivat␣
+ru001:013	5	@	-	suuriksi
+ru001:013	-	(,)	-	,␣
+ru001:013	6a	@	-	ette␣
+ru001:013	6a	@	-	kai␣
+ru001:013	7	(@)	-	te␣
+ru001:013	6b	@	-	kuitenkaan␣
+ru001:013	7	@	-	sulkeutuisi␣
+ru001:013	7	@	-	huoneeseen␣
+ru001:013	-	(@)	-	ja␣
+ru001:013	9	@	-	olisi␣
+ru001:013	10b	@	-	miehelään␣
+ru001:013	10a	%case	LOC	
+ru001:013	8a 8b	@	-	menemättä
+ru001:013	-	(.)	-	.␣
+ru001:013	11	@	-	Ei
+ru001:013	-	(,)	-	,␣
+ru001:013	12	@	-	tyttäreni
+ru001:013	(13)	-	UNTRANSLATED	
+ru001:013	-	(;)	-	;␣
+ru001:013	15	@	-	minä␣
+ru001:013	-	(@)	-	olen␣
+ru001:013	16	@	-	hyvin␣
+ru001:013	14	@	-	murheissani␣
+ru001:013	pers%17	@	-	teidän␣
+ru001:013	17	@	-	tähtenne
+ru001:013	-	(,)	-	,␣
+ru001:013	18	@	-	sillä␣
+ru001:013	22	@	-	Herran␣
+ru001:013	21	@	-	käsi␣
+ru001:013	19	(@)	-	on␣
+ru001:013	19	@	-	sattunut␣
+ru001:013	20	@	-	minuun
+ru001:013	-	(.)	-	.
+ru001:013	-	(@)	-	"␣
+ru001:014	ru001:014	ru001:014	VERSE	Ruut␣1:14␣
+ru001:014	1a	@	-	Niin␣
+ru001:014	1b	(@)	-	he␣
+ru001:014	1b	@	-	korottivat␣
+ru001:014	4	@	-	vielä␣
+ru001:014	2	@	-	äänensä␣
+ru001:014	3a	@	-	ja␣
+ru001:014	3b	@	-	itkivät
+ru001:014	-	(.)	-	.␣
+ru001:014	5a	@	-	Silloin␣
+ru001:014	6	@	-	Orpa␣
+ru001:014	5b	@	-	suuteli␣
+ru001:014	7b	@	-	anoppiaan␣
+ru001:014	7a	%case	PTV	
+ru001:014	-	(@)	-	jäähyväisiksi
+ru001:014	-	(,)	-	,␣
+ru001:014	8a	@	-	mutta␣
+ru001:014	8b	@	-	Ruut␣
+ru001:014	9	@	-	riippui␣
+ru001:014	9	@	-	kiinni␣
+ru001:014	10	@	-	hänessä
+ru001:014	-	(.)	-	.␣
+ru001:015	ru001:015	ru001:015	VERSE	Ruut␣1:15␣
+ru001:015	1a	@	-	Ja␣
+ru001:015	pro%1b	@	-	Noomi␣
+ru001:015	1b	@	-	sanoi
+ru001:015	-	(:)	-	:␣
+ru001:015	-	(@)	-	"
+ru001:015	2	@	-	Katso
+ru001:015	-	(,)	-	,␣
+ru001:015	4	@	-	kälysi␣
+ru001:015	3	(@)	-	on␣
+ru001:015	3	@	-	kääntynyt␣
+ru001:015	3	@	-	takaisin␣
+ru001:015	pers%6	@	-	oman␣
+ru001:015	6	@	-	kansansa␣
+ru001:015	5	%case	NOM.GEN	
+ru001:015	7a	@	-	ja␣
+ru001:015	8	@	-	jumalansa␣
+ru001:015	7b	@	-	luo
+ru001:015	-	(,)	-	,␣
+ru001:015	9	@	-	käänny␣
+ru001:015	-	(@)	-	sinäkin␣
+ru001:015	11	@	-	kälysi␣
+ru001:015	10	@	-	kanssa
+ru001:015	-	(@)	-	"
+ru001:015	-	(.)	-	.␣
+ru001:016	ru001:016	ru001:016	VERSE	Ruut␣1:16␣
+ru001:016	1a	@	-	Mutta␣
+ru001:016	2	@	-	Ruut␣
+ru001:016	1b	@	-	vastasi
+ru001:016	-	(:)	-	:␣
+ru001:016	-	(@)	-	"
+ru001:016	3	@	-	Älä␣
+ru001:016	4	@	-	vaadi␣
+ru001:016	5	@	-	minua␣
+ru001:016	6b	@	-	jättämään␣
+ru001:016	6a	%case	LOC	
+ru001:016	pers%6b	@	-	sinua␣
+ru001:016	7a	@	-	ja␣
+ru001:016	7b	@	-	kääntymään␣
+ru001:016	7b	@	-	takaisin
+ru001:016	-	(,)	-	,␣
+ru001:016	8a	@	-	pois␣
+ru001:016	pers%8b	@	-	sinun␣
+ru001:016	8b	@	-	tyköäsi
+ru001:016	-	(.)	-	.␣
+ru001:016	9	@	-	Sillä␣
+ru001:016	11	@	-	mihin␣
+ru001:016	10	%case	LOC	
+ru001:016	12	(@)	-	sinä␣
+ru001:016	12	@	-	menet
+ru001:016	-	(,)	-	,␣
+ru001:016	-	(@)	-	sinne␣
+ru001:016	13	(@)	-	minäkin␣
+ru001:016	13	@	-	menen
+ru001:016	-	(,)	-	,␣
+ru001:016	14a	@	-	ja␣
+ru001:016	14c	@	-	mihin␣
+ru001:016	14b	%case	LOC	
+ru001:016	15	(@)	-	sinä␣
+ru001:016	15	@	-	jäät
+ru001:016	-	(,)	-	,␣
+ru001:016	-	(@)	-	sinne␣
+ru001:016	16	(@)	-	minäkin␣
+ru001:016	16	@	-	jään
+ru001:016	-	(;)	-	;␣
+ru001:016	pers%17	@	-	sinun␣
+ru001:016	17	@	-	kansasi␣
+ru001:016	-	(@)	-	on␣
+ru001:016	pers%18	@	-	minun␣
+ru001:016	18	@	-	kansani
+ru001:016	(19a)	-	UNTRANSLATED	
+ru001:016	-	(,)	-	,␣
+ru001:016	pers%19b	@	-	sinun␣
+ru001:016	19b	@	-	Jumalasi␣
+ru001:016	-	(@)	-	on␣
+ru001:016	pers%20	@	-	minun␣
+ru001:016	20	@	-	Jumalani
+ru001:016	-	(.)	-	.␣
+ru001:017	ru001:017	ru001:017	VERSE	Ruut␣1:17␣
+ru001:017	1b	@	-	Missä␣
+ru001:017	1a	%case	LOC	
+ru001:017	2	(@)	-	sinä␣
+ru001:017	2	@	-	kuolet
+ru001:017	-	(,)	-	,␣
+ru001:017	-	(@)	-	siellä␣
+ru001:017	3	(@)	-	minäkin␣
+ru001:017	sem%3	@	-	tahdon␣
+ru001:017	3	@	-	kuolla␣
+ru001:017	4a	@	-	ja␣
+ru001:017	4b	@	-	sinne␣
+ru001:017	5	@	-	tulla␣
+ru001:017	5	@	-	haudatuksi
+ru001:017	-	(.)	-	.␣
+ru001:017	8	@	-	Herra␣
+ru001:017	6 7	@	-	rangaiskoon␣
+ru001:017	9	@	-	minua␣
+ru001:017	-	(@)	-	nyt␣
+ru001:017	10a	@	-	ja␣
+ru001:017	10b 11	@	-	vasta
+ru001:017	-	(,)	-	,␣
+ru001:017	12	@	-	jos␣
+ru001:017	-	(@)	-	muu␣
+ru001:017	-	(@)	-	kuin␣
+ru001:017	(13a) 13b	@	-	kuolema␣
+ru001:017	14	@	-	erottaa␣
+ru001:017	15	@	-	meidät
+ru001:017	16a 16b	%case	ACC	
+ru001:017	-	(.)	-	.
+ru001:017	-	(@)	-	"␣
+ru001:018	ru001:018	ru001:018	VERSE	Ruut␣1:18␣
+ru001:018	1a	@	-	Kun␣
+ru001:018	pro%1b	@	-	Noomi␣
+ru001:018	1b	@	-	näki
+ru001:018	-	(,)	-	,␣
+ru001:018	2	@	-	että␣
+ru001:018	4	@	-	hän␣
+ru001:018	3	(@)	-	oli␣
+ru001:018	3	@	-	lujasti␣
+ru001:018	3	@	-	päättänyt␣
+ru001:018	5b	@	-	seurata␣
+ru001:018	5a	%case	LAT	
+ru001:018	6	@	-	häntä
+ru001:018	-	(,)	-	,␣
+ru001:018	7a	@	-	ei␣
+ru001:018	7b	(@)	-	hän␣
+ru001:018	7b	@	-	enää␣
+ru001:018	8b	@	-	puhunut␣
+ru001:018	8a	%case	?	
+ru001:018	-	(@)	-	siitä␣
+ru001:018	pers%9	@	-	hänen␣
+ru001:018	9	@	-	kanssansa
+ru001:018	-	(.)	-	.␣
+ru001:019	ru001:019	ru001:019	VERSE	Ruut␣1:19␣
+ru001:019	1a	@	-	Niin␣
+ru001:019	1b	(@)	-	he␣
+ru001:019	1b	@	-	kulkivat␣
+ru001:019	2	@	-	molemmat␣
+ru001:019	2	@	-	yhdessä
+ru001:019	-	(,)	-	,␣
+ru001:019	3	@	-	kunnes␣
+ru001:019	4	@	-	tulivat␣
+ru001:019	5	@	-	Beetlehemiin
+ru001:019	-	(.)	-	.␣
+ru001:019	6a	@	-	Ja␣
+ru001:019	(6b)	-	UNTRANSLATED	
+ru001:019	7a	@	-	kun␣
+ru001:019	pers%7b	@	-	he␣
+ru001:019	7b	@	-	tulivat␣
+ru001:019	8	@	-	Beetlehemiin
+ru001:019	(9a)	-	UNTRANSLATED	
+ru001:019	-	(,)	-	,␣
+ru001:019	9b	@	-	joutui␣
+ru001:019	10	@	-	koko␣
+ru001:019	(11a) 11b	@	-	kaupunki␣
+ru001:019	9b	@	-	liikkeelle␣
+ru001:019	pers%12	@	-	heidän␣
+ru001:019	12	@	-	tähtensä
+ru001:019	-	(,)	-	,␣
+ru001:019	13a	@	-	ja␣
+ru001:019	pro%13b	@	-	vaimot␣
+ru001:019	13b	@	-	sanoivat
+ru001:019	-	(:)	-	:␣
+ru001:019	-	(@)	-	"
+ru001:019	14a	@	-	Onko␣
+ru001:019	14b	@	-	tämä␣
+ru001:019	15	@	-	Noomi
+ru001:019	-	(?)	-	?
+ru001:019	-	(@)	-	"␣
+ru001:020	ru001:020	ru001:020	VERSE	Ruut␣1:20␣
+ru001:020	1a	@	-	Mutta␣
+ru001:020	1b	(@)	-	hän␣
+ru001:020	1b	@	-	vastasi␣
+ru001:020	2	@	-	heille
+ru001:020	-	(:)	-	:␣
+ru001:020	-	(@)	-	"
+ru001:020	3	@	-	Älkää␣
+ru001:020	4	@	-	kutsuko␣
+ru001:020	5	@	-	minua␣
+ru001:020	6	@	-	Noomiksi
+ru001:020	-	(,)	-	,␣
+ru001:020	7	@	-	kutsukaa␣
+ru001:020	8	@	-	minua␣
+ru001:020	9	@	-	Maaraksi
+ru001:020	-	(,)	-	,␣
+ru001:020	10	@	-	sillä␣
+ru001:020	12	@	-	Kaikkivaltias␣
+ru001:020	11	(@)	-	on␣
+ru001:020	11	@	-	antanut␣
+ru001:020	13	@	-	minulle␣
+ru001:020	14	@	-	paljon␣
+ru001:020	sem%11	@	-	katkerata␣
+ru001:020	11	@	-	murhetta
+ru001:020	-	(.)	-	.␣
+ru001:021	ru001:021	ru001:021	VERSE	Ruut␣1:21␣
+ru001:021	2	@	-	Rikkaana␣
+ru001:021	1	@	-	minä␣
+ru001:021	3	@	-	lähdin
+ru001:021	-	(,)	-	,␣
+ru001:021	4a	@	-	mutta␣
+ru001:021	4b	@	-	tyhjänä␣
+ru001:021	6	@	-	Herra␣
+ru001:021	5	(@)	-	antaa␣
+ru001:021	pers%5	@	-	minun␣
+ru001:021	5	@	-	palata
+ru001:021	-	(.)	-	.␣
+ru001:021	7	@	-	Miksi␣
+ru001:021	-	(@)	-	siis␣
+ru001:021	8	@	-	kutsutte␣
+ru001:021	9	@	-	minua␣
+ru001:021	10	@	-	Noomiksi
+ru001:021	-	(,)	-	,␣
+ru001:021	11a	@	-	kun␣
+ru001:021	11b	@	-	Herra␣
+ru001:021	12	(@)	-	on␣
+ru001:021	pers%13	@	-	minua␣
+ru001:021	13	@	-	vastaan␣
+ru001:021	12	@	-	todistanut␣
+ru001:021	14a	@	-	ja␣
+ru001:021	14b	@	-	Kaikkivaltias␣
+ru001:021	15	(@)	-	on␣
+ru001:021	15	@	-	tuottanut␣
+ru001:021	16	@	-	minulle␣
+ru001:021	15	@	-	onnettomuutta
+ru001:021	-	(?)	-	?
+ru001:021	-	(@)	-	"␣
+ru001:022	ru001:022	ru001:022	VERSE	Ruut␣1:22␣
+ru001:022	1a	@	-	Niin␣
+ru001:022	2	@	-	Noomi␣
+ru001:022	1b	@	-	palasi␣
+ru001:022	(3a)	-	UNTRANSLATED	
+ru001:022	5	@	-	miniänsä
+ru001:022	-	(,)	-	,␣
+ru001:022	(4a) 4b	@	-	mooabilaisen␣
+ru001:022	3b	@	-	Ruutin
+ru001:022	-	(,)	-	,␣
+ru001:022	6	@	-	kanssa
+ru001:022	-	(,)	-	,␣
+ru001:022	7a	@	-	joka␣
+ru001:022	7b	@	-	tuli␣
+ru001:022	9	@	-	Mooabin␣
+ru001:022	8b	@	-	maasta
+ru001:022	8a	%case	LOC	
+ru001:022	-	(;)	-	;␣
+ru001:022	10a	@	-	ja␣
+ru001:022	10b	@	-	he␣
+ru001:022	11	@	-	saapuivat␣
+ru001:022	12	@	-	Beetlehemiin␣
+ru001:022	14 15	@	-	ohranleikkuun␣
+ru001:022	13b	@	-	alussa
+ru001:022	13a	%case	LOC	
+ru001:022	-	(.)	-	.␣
+ru002:001	ru002:001	ru002:001	VERSE	Ruut␣2:1␣
+ru002:001	(1a)	-	UNTRANSLATED	
+ru002:001	1c	@	-	Noomilla␣
+ru002:001	1b	%case	LOC	
+ru002:001	-	(@)	-	oli␣
+ru002:001	4b	@	-	miehensä␣
+ru002:001	4a	@	-	puolelta␣
+ru002:001	3	@	-	sukulainen
+ru002:001	-	(,)	-	,␣
+ru002:001	6	@	-	hyvin␣
+ru002:001	7	@	-	varakas␣
+ru002:001	5	@	-	mies
+ru002:001	-	(,)	-	,␣
+ru002:001	9	@	-	Elimelekin␣
+ru002:001	8b	@	-	sukua
+ru002:001	8a	%case	PTV	
+ru002:001	(10a)	-	UNTRANSLATED	
+ru002:001	-	(,)	-	,␣
+ru002:001	10b	@	-	nimeltä␣
+ru002:001	11	@	-	Booas
+ru002:001	-	(.)	-	.␣
+ru002:002	ru002:002	ru002:002	VERSE	Ruut␣2:2␣
+ru002:002	1a	@	-	Ja␣
+ru002:002	(3a) 3b	@	-	mooabilainen␣
+ru002:002	2	@	-	Ruut␣
+ru002:002	1b	@	-	sanoi␣
+ru002:002	5	@	-	Noomille
+ru002:002	4	%case	LOC	
+ru002:002	-	(:)	-	:␣
+ru002:002	-	(@)	-	"
+ru002:002	6	(@)	-	Anna␣
+ru002:002	7	%inflection	ACT.IMP.2S	
+ru002:002	6	(@)	-	minun␣
+ru002:002	6	@	-	mennä␣
+ru002:002	(8a) 8b	@	-	pellolle␣
+ru002:002	9b	@	-	poimimaan␣
+ru002:002	9a	%inflection	INF3.ILL	
+ru002:002	10b	@	-	tähkiä␣
+ru002:002	10a	%case	PTV	
+ru002:002	-	(@)	-	jonkun␣
+ru002:002	11	@	-	jäljessä
+ru002:002	-	(,)	-	,␣
+ru002:002	12	@	-	jonka␣
+ru002:002	15b	@	-	silmien␣
+ru002:002	15a	@	-	edessä␣
+ru002:002	13	@	-	saan␣
+ru002:002	14	@	-	armon
+ru002:002	(16a)	-	UNTRANSLATED	
+ru002:002	-	(@)	-	"
+ru002:002	-	(.)	-	.␣
+ru002:002	pro%16b	@	-	Noomi␣
+ru002:002	16b	@	-	vastasi␣
+ru002:002	17	@	-	hänelle
+ru002:002	-	(:)	-	:␣
+ru002:002	-	(@)	-	"
+ru002:002	18	@	-	Mene
+ru002:002	-	(,)	-	,␣
+ru002:002	19	@	-	tyttäreni
+ru002:002	-	(!)	-	!
+ru002:002	-	(@)	-	"␣
+ru002:003	ru002:003	ru002:003	VERSE	Ruut␣2:3␣
+ru002:003	1a	@	-	Niin␣
+ru002:003	1b	(@)	-	hän␣
+ru002:003	1b	@	-	lähti␣
+ru002:003	2a	@	-	ja␣
+ru002:003	2b	@	-	meni␣
+ru002:003	3b	@	-	poimimaan␣
+ru002:003	3a	%inflection	INF3.ILL	
+ru002:003	-	(@)	-	eräälle␣
+ru002:003	4b	@	-	pellolle␣
+ru002:003	4a	%case	LOC	
+ru002:003	(6a) 6b	@	-	leikkuuväen␣
+ru002:003	5	@	-	jäljessä
+ru002:003	-	(;)	-	;␣
+ru002:003	7a	@	-	ja␣
+ru002:003	pers%8	@	-	hänelle␣
+ru002:003	7b	@	-	sattui␣
+ru002:003	8	%case	?	
+ru002:003	-	(@)	-	niin
+ru002:003	-	(,)	-	,␣
+ru002:003	-	(@)	-	että␣
+ru002:003	-	(@)	-	se␣
+ru002:003	(10a) 10b 9	@	-	peltopalsta␣
+ru002:003	-	(@)	-	oli␣
+ru002:003	11b	@	-	Booaan
+ru002:003	11a	%case	GEN	
+ru002:003	-	(,)	-	,␣
+ru002:003	12	@	-	joka␣
+ru002:003	-	(@)	-	oli␣
+ru002:003	14	@	-	Elimelekin␣
+ru002:003	13b	@	-	sukua
+ru002:003	13a	%case	PTV	
+ru002:003	-	(.)	-	.␣
+ru002:004	ru002:004	ru002:004	VERSE	Ruut␣2:4␣
+ru002:004	1a	@	-	Ja␣
+ru002:004	1b	@	-	katso
+ru002:004	-	(,)	-	,␣
+ru002:004	2	@	-	Booas␣
+ru002:004	3	@	-	tuli␣
+ru002:004	4b	@	-	Beetlehemistä
+ru002:004	4a	%case	LOC	
+ru002:004	-	(,)	-	,␣
+ru002:004	5a	@	-	ja␣
+ru002:004	5b	(@)	-	hän␣
+ru002:004	5b	@	-	sanoi␣
+ru002:004	6b	@	-	leikkuuväelle
+ru002:004	6a	%case	LOC	
+ru002:004	-	(:)	-	:␣
+ru002:004	-	(@)	-	"
+ru002:004	7	@	-	Herra␣
+ru002:004	-	(@)	-	olkoon␣
+ru002:004	pers%8	@	-	teidän␣
+ru002:004	8	@	-	kanssanne
+ru002:004	(9a)	-	UNTRANSLATED	
+ru002:004	-	(!)	-	!
+ru002:004	-	(@)	-	"␣
+ru002:004	9b	(@)	-	He␣
+ru002:004	9b	@	-	vastasivat␣
+ru002:004	10	@	-	hänelle
+ru002:004	-	(:)	-	:␣
+ru002:004	-	(@)	-	"
+ru002:004	12	@	-	Herra␣
+ru002:004	11	@	-	siunatkoon␣
+ru002:004	pers%11	@	-	sinua
+ru002:004	-	(!)	-	!
+ru002:004	-	(@)	-	"␣
+ru002:005	ru002:005	ru002:005	VERSE	Ruut␣2:5␣
+ru002:005	1a	@	-	Sitten␣
+ru002:005	2	@	-	Booas␣
+ru002:005	1b	@	-	sanoi␣
+ru002:005	3b	@	-	palvelijallensa
+ru002:005	3a	%case	LOC	
+ru002:005	-	(,)	-	,␣
+ru002:005	4a	@	-	joka␣
+ru002:005	4b	@	-	oli␣
+ru002:005	(6a) 6b	@	-	leikkuuväen␣
+ru002:005	5	@	-	päällysmiehenä
+ru002:005	-	(:)	-	:␣
+ru002:005	-	(@)	-	"
+ru002:005	7b	@	-	Kenen␣
+ru002:005	7a	%case	GEN	
+ru002:005	(9a) 9b	@	-	tuo␣
+ru002:005	(8a) 8b	@	-	nuori␣
+ru002:005	(8a) 8b	@	-	nainen␣
+ru002:005	-	(@)	-	on
+ru002:005	-	(?)	-	?
+ru002:005	-	(@)	-	"␣
+ru002:006	ru002:006	ru002:006	VERSE	Ruut␣2:6␣
+ru002:006	(1a)	-	UNTRANSLATED	
+ru002:006	(2a) 2b	@	-	Palvelija
+ru002:006	-	(,)	-	,␣
+ru002:006	3a	@	-	joka␣
+ru002:006	3b	@	-	oli␣
+ru002:006	(5a) 5b	@	-	leikkuuväen␣
+ru002:006	4	@	-	päällysmiehenä
+ru002:006	-	(,)	-	,␣
+ru002:006	1b	@	-	vastasi␣
+ru002:006	6a	@	-	ja␣
+ru002:006	6b	@	-	sanoi
+ru002:006	-	(:)	-	:␣
+ru002:006	-	(@)	-	"
+ru002:006	9	@	-	Se␣
+ru002:006	-	(@)	-	on␣
+ru002:006	-	(@)	-	se␣
+ru002:006	7	@	-	nuori␣
+ru002:006	8	@	-	mooabitar
+ru002:006	-	(,)	-	,␣
+ru002:006	10a	@	-	joka␣
+ru002:006	10b	@	-	tuli␣
+ru002:006	12	@	-	Noomin␣
+ru002:006	11	@	-	mukana␣
+ru002:006	14	@	-	Mooabin␣
+ru002:006	13b	@	-	maasta
+ru002:006	13a	%case	LOC	
+ru002:006	-	(.)	-	.␣
+ru002:007	ru002:007	ru002:007	VERSE	Ruut␣2:7␣
+ru002:007	(1a)	-	UNTRANSLATED	
+ru002:007	1b	(@)	-	Hän␣
+ru002:007	1b	@	-	sanoi
+ru002:007	-	(:)	-	:␣
+ru002:007	-	(@)	-	'
+ru002:007	2	(@)	-	Salli␣
+ru002:007	3	%inflection	ACT.IMP.2S	
+ru002:007	2	(@)	-	minun␣
+ru002:007	2	@	-	poimia␣
+ru002:007	4a	@	-	ja␣
+ru002:007	4b	@	-	koota␣
+ru002:007	-	(@)	-	tähkiä␣
+ru002:007	5b	@	-	lyhteiden␣
+ru002:007	5a	@	-	väliltä␣
+ru002:007	(7a) 7b	@	-	leikkuuväen␣
+ru002:007	6	@	-	jäljessä
+ru002:007	-	(@)	-	'
+ru002:007	-	(.)	-	.␣
+ru002:007	8a	@	-	Niin␣
+ru002:007	8b	(@)	-	hän␣
+ru002:007	8b	@	-	tuli␣
+ru002:007	9a	@	-	ja␣
+ru002:007	9b	(@)	-	on␣
+ru002:007	9b	@	-	ahertanut␣
+ru002:007	(11a) 11b	@	-	aamusta␣
+ru002:007	10b	@	-	varhain␣
+ru002:007	10a	%case	?	
+ru002:007	(12a)	-	UNTRANSLATED	
+ru002:007	13	@	-	tähän␣
+ru002:007	12b	@	-	saakka
+ru002:007	-	(;)	-	;␣
+ru002:007	14	@	-	vasta␣
+ru002:007	14	@	-	äsken␣
+ru002:007	15	(@)	-	hän␣
+ru002:007	17	@	-	hiukan␣
+ru002:007	15	@	-	levähti␣
+ru002:007	-	(@)	-	tuolla␣
+ru002:007	(16a) 16b	@	-	majassa
+ru002:007	-	(.)	-	.
+ru002:007	-	(@)	-	"␣
+ru002:008	ru002:008	ru002:008	VERSE	Ruut␣2:8␣
+ru002:008	1a	@	-	Niin␣
+ru002:008	2	@	-	Booas␣
+ru002:008	1b	@	-	sanoi␣
+ru002:008	4	@	-	Ruutille
+ru002:008	3	%case	LOC	
+ru002:008	-	(:)	-	:␣
+ru002:008	-	(@)	-	"
+ru002:008	6	@	-	Kuules
+ru002:008	5a 5b	%clitic	s	
+ru002:008	-	(,)	-	,␣
+ru002:008	7	@	-	tyttäreni
+ru002:008	-	(!)	-	!␣
+ru002:008	8	@	-	Älä␣
+ru002:008	9	@	-	mene␣
+ru002:008	12	@	-	muiden␣
+ru002:008	11b	@	-	pelloille␣
+ru002:008	11a	%case	LOC	
+ru002:008	10b	@	-	poimimaan␣
+ru002:008	10a	%case	LOC	
+ru002:008	14	@	-	äläkä␣
+ru002:008	13a 13b	%case	?	
+ru002:008	15	@	-	lähde␣
+ru002:008	15	@	-	pois␣
+ru002:008	16b	@	-	täältä
+ru002:008	16a	%case	LOC	
+ru002:008	-	(,)	-	,␣
+ru002:008	17a	@	-	vaan␣
+ru002:008	18	@	-	pysyttele␣
+ru002:008	17b	@	-	täällä␣
+ru002:008	pers%20	@	-	minun␣
+ru002:008	20	@	-	palvelijattarieni␣
+ru002:008	19	@	-	mukana
+ru002:008	-	(.)	-	.␣
+ru002:009	ru002:009	ru002:009	VERSE	Ruut␣2:9␣
+ru002:009	1	@	-	Pidä␣
+ru002:009	1	@	-	silmällä
+ru002:009	-	(,)	-	,␣
+ru002:009	3	@	-	millä␣
+ru002:009	2b	@	-	pellolla␣
+ru002:009	2a	%case	LOC	
+ru002:009	4	@	-	leikataan
+ru002:009	-	(,)	-	,␣
+ru002:009	5a	@	-	ja␣
+ru002:009	5b	@	-	kulje␣
+ru002:009	pers%6	@	-	heidän␣
+ru002:009	6	@	-	jäljessään
+ru002:009	-	(.)	-	.␣
+ru002:009	8	(@)	-	Minä␣
+ru002:009	8	(@)	-	olen␣
+ru002:009	8	@	-	kieltänyt␣
+ru002:009	7a 7b	%inflection	ACT.PCP2.PERF	
+ru002:009	(10a) 10b	@	-	palvelijoitani␣
+ru002:009	9	%case	PTV	
+ru002:009	12	@	-	koskemasta␣
+ru002:009	11a 11b	%case	LOC	
+ru002:009	pers%12	@	-	sinuun
+ru002:009	-	(.)	-	.␣
+ru002:009	13a	@	-	Jos␣
+ru002:009	13b	(@)	-	sinun␣
+ru002:009	13b	@	-	tulee␣
+ru002:009	13b	@	-	jano
+ru002:009	-	(,)	-	,␣
+ru002:009	14a	@	-	niin␣
+ru002:009	14b	@	-	mene␣
+ru002:009	(16a) 16b	@	-	astioille␣
+ru002:009	15	%case	LOC	
+ru002:009	17a	@	-	ja␣
+ru002:009	17b	@	-	juo␣
+ru002:009	-	(@)	-	vettä
+ru002:009	-	(,)	-	,␣
+ru002:009	18b	@	-	jota␣
+ru002:009	18a	%case	PTV	
+ru002:009	(20a) 20b	@	-	palvelijat␣
+ru002:009	19	@	-	ammentavat
+ru002:009	-	(.)	-	.
+ru002:009	-	(@)	-	"␣
+ru002:010	ru002:010	ru002:010	VERSE	Ruut␣2:10␣
+ru002:010	1a	@	-	Silloin␣
+ru002:010	pro%1b	@	-	Ruut␣
+ru002:010	1b	@	-	heittäytyi␣
+ru002:010	3	@	-	kasvoilleen
+ru002:010	2	%case	LOC	
+ru002:010	(4a)	-	UNTRANSLATED	
+ru002:010	-	(,)	-	,␣
+ru002:010	4b	@	-	kumartui␣
+ru002:010	5	@	-	maahan␣
+ru002:010	6a	@	-	ja␣
+ru002:010	6b	@	-	sanoi␣
+ru002:010	7	@	-	hänelle
+ru002:010	-	(:)	-	:␣
+ru002:010	-	(@)	-	"
+ru002:010	8	@	-	Miten␣
+ru002:010	9	(@)	-	olen␣
+ru002:010	9	@	-	saanut␣
+ru002:010	10	@	-	armon␣
+ru002:010	pers%11b	@	-	sinun␣
+ru002:010	11b	@	-	silmiesi␣
+ru002:010	11a	@	-	edessä
+ru002:010	-	(,)	-	,␣
+ru002:010	12a	@	-	niin␣
+ru002:010	12a	@	-	että␣
+ru002:010	12b	@	-	huolehdit␣
+ru002:010	pers%12b	@	-	minusta
+ru002:010	-	(,)	-	,␣
+ru002:010	13a	@	-	vaikka␣
+ru002:010	13b	@	-	olen␣
+ru002:010	14	@	-	vieras
+ru002:010	-	(?)	-	?
+ru002:010	-	(@)	-	"␣
+ru002:011	ru002:011	ru002:011	VERSE	Ruut␣2:11␣
+ru002:011	(1a)	-	UNTRANSLATED	
+ru002:011	2	@	-	Booas␣
+ru002:011	1b	@	-	vastasi␣
+ru002:011	3a	@	-	ja␣
+ru002:011	3b	@	-	sanoi␣
+ru002:011	4	@	-	hänelle
+ru002:011	-	(:)	-	:␣
+ru002:011	-	(@)	-	"
+ru002:011	7	@	-	Minulle␣
+ru002:011	6	(@)	-	on␣
+ru002:011	6	@	-	kerrottu␣
+ru002:011	5	%case	NOM	
+ru002:011	8	@	-	kaikki
+ru002:011	-	(,)	-	,␣
+ru002:011	9	@	-	mitä␣
+ru002:011	10	(@)	-	sinä␣
+ru002:011	10	(@)	-	olet␣
+ru002:011	10	@	-	tehnyt␣
+ru002:011	12	@	-	anopillesi␣
+ru002:011	11	%case	LOC	
+ru002:011	15	@	-	miehesi␣
+ru002:011	14	@	-	kuoltua
+ru002:011	13	%case	PTV	
+ru002:011	-	(,)	-	,␣
+ru002:011	16a	@	-	kuinka␣
+ru002:011	16b	@	-	jätit␣
+ru002:011	17	@	-	isäsi␣
+ru002:011	18a	@	-	ja␣
+ru002:011	18b	@	-	äitisi␣
+ru002:011	19a	@	-	ja␣
+ru002:011	19b 20	@	-	synnyinmaasi␣
+ru002:011	21a	@	-	ja␣
+ru002:011	21b	@	-	lähdit␣
+ru002:011	23	@	-	kansan␣
+ru002:011	22	@	-	luo
+ru002:011	-	(,)	-	,␣
+ru002:011	24	@	-	jota␣
+ru002:011	25	@	-	et␣
+ru002:011	27 28	@	-	ennen␣
+ru002:011	26	@	-	tuntenut
+ru002:011	-	(.)	-	.␣
+ru002:012	ru002:012	ru002:012	VERSE	Ruut␣2:12␣
+ru002:012	2	@	-	Herra␣
+ru002:012	1	@	-	palkitkoon␣
+ru002:012	-	(@)	-	sinulle␣
+ru002:012	3	@	-	tekosi
+ru002:012	(4a)	-	UNTRANSLATED	
+ru002:012	-	(;)	-	;␣
+ru002:012	4b	@	-	tulkoon␣
+ru002:012	pers%5	@	-	sinulle␣
+ru002:012	6	@	-	täysi␣
+ru002:012	5	@	-	palkka␣
+ru002:012	8	@	-	Herralta
+ru002:012	-	(,)	-	,␣
+ru002:012	10	@	-	Israelin␣
+ru002:012	9	@	-	Jumalalta
+ru002:012	7a 7b	%case	LOC	
+ru002:012	-	(,)	-	,␣
+ru002:012	11	@	-	jonka␣
+ru002:012	15	@	-	siipien␣
+ru002:012	14	@	-	alta␣
+ru002:012	12	(@)	-	olet␣
+ru002:012	12	@	-	tullut␣
+ru002:012	13b	@	-	turvaa␣
+ru002:012	13a	%case	PTV	
+ru002:012	13b	@	-	etsimään
+ru002:012	-	(.)	-	.
+ru002:012	-	(@)	-	"␣
+ru002:013	ru002:013	ru002:013	VERSE	Ruut␣2:13␣
+ru002:013	(1a)	-	UNTRANSLATED	
+ru002:013	pro%1b	@	-	Ruut␣
+ru002:013	1b	@	-	sanoi
+ru002:013	-	(:)	-	:␣
+ru002:013	-	(@)	-	"
+ru002:013	2	(@)	-	Minä␣
+ru002:013	2	(@)	-	olen␣
+ru002:013	2	@	-	saanut␣
+ru002:013	3	@	-	armon␣
+ru002:013	pers%4b	@	-	sinun␣
+ru002:013	4b	@	-	silmiesi␣
+ru002:013	4a	@	-	edessä
+ru002:013	-	(,)	-	,␣
+ru002:013	5	@	-	herrani
+ru002:013	-	(,)	-	,␣
+ru002:013	6	@	-	sillä␣
+ru002:013	7	(@)	-	sinä␣
+ru002:013	7	(@)	-	olet␣
+ru002:013	7	@	-	lohduttanut␣
+ru002:013	pers%7	@	-	minua␣
+ru002:013	8a	@	-	ja␣
+ru002:013	(8b)	-	UNTRANSLATED	
+ru002:013	10 11 9	@	-	puhutellut␣
+ru002:013	12	@	-	palvelijatartasi␣
+ru002:013	10 11 9	@	-	ystävällisesti
+ru002:013	-	(,)	-	,␣
+ru002:013	13a	@	-	vaikka␣
+ru002:013	(13b)	-	UNTRANSLATED	
+ru002:013	14	@	-	en␣
+ru002:013	15	@	-	ole␣
+ru002:013	16b	@	-	yhdenkään␣
+ru002:013	pers%17	@	-	sinun␣
+ru002:013	17	@	-	palvelijattaresi␣
+ru002:013	16a	@	-	vertainen
+ru002:013	-	(@)	-	"
+ru002:013	-	(.)	-	.␣
+ru002:014	ru002:014	ru002:014	VERSE	Ruut␣2:14␣
+ru002:014	(1a)	-	UNTRANSLATED	
+ru002:014	4b (5a) 5b	@	-	Ruoka-ajan␣
+ru002:014	4a	@	-	tultua␣
+ru002:014	3	@	-	Booas␣
+ru002:014	1b	@	-	sanoi␣
+ru002:014	2	@	-	hänelle
+ru002:014	-	(:)	-	:␣
+ru002:014	-	(@)	-	"
+ru002:014	6	@	-	Käy␣
+ru002:014	7	@	-	tänne␣
+ru002:014	(8a)	-	UNTRANSLATED	
+ru002:014	(10a) 10b 8b 9	@	-	ruualle␣
+ru002:014	11a	@	-	ja␣
+ru002:014	11b	@	-	kasta␣
+ru002:014	12	@	-	palasesi␣
+ru002:014	13b	@	-	hapanviiniin
+ru002:014	13a	%case	LOC	
+ru002:014	-	(@)	-	"
+ru002:014	-	(.)	-	.␣
+ru002:014	14a	@	-	Niin␣
+ru002:014	pro%14b	@	-	Ruut␣
+ru002:014	14b	@	-	istui␣
+ru002:014	(16a) 16b	@	-	leikkuuväen␣
+ru002:014	15b	@	-	viereen
+ru002:014	15a	%case	LOC	
+ru002:014	-	(;)	-	;␣
+ru002:014	17a	@	-	ja␣
+ru002:014	pro%17b	@	-	Booas␣
+ru002:014	17b	@	-	pani␣
+ru002:014	pers%18	@	-	hänen␣
+ru002:014	18	@	-	eteensä␣
+ru002:014	19	@	-	paahdettuja␣
+ru002:014	19	@	-	jyviä
+ru002:014	-	(,)	-	,␣
+ru002:014	20a	@	-	niin␣
+ru002:014	20a	@	-	että␣
+ru002:014	20b	(@)	-	hän␣
+ru002:014	20b	@	-	söi␣
+ru002:014	21b	@	-	tarpeeksensa␣
+ru002:014	21a	%inflection	ADV.-3	
+ru002:014	22a	@	-	ja␣
+ru002:014	22b	@	-	jäi␣
+ru002:014	22b	@	-	tähteeksikin
+ru002:014	-	(.)	-	.␣
+ru002:015	ru002:015	ru002:015	VERSE	Ruut␣2:15␣
+ru002:015	1a	@	-	Kun␣
+ru002:015	1b	(@)	-	hän␣
+ru002:015	-	(@)	-	sitten␣
+ru002:015	1b	@	-	nousi␣
+ru002:015	2b	@	-	poimimaan
+ru002:015	2a	%case	LOC	
+ru002:015	(3a)	-	UNTRANSLATED	
+ru002:015	-	(,)	-	,␣
+ru002:015	3b	@	-	käski␣
+ru002:015	4	@	-	Booas␣
+ru002:015	6	@	-	palvelijoitaan␣
+ru002:015	5	%case	PTV	
+ru002:015	7a 7b	@	-	sanoen
+ru002:015	-	(:)	-	:␣
+ru002:015	-	(@)	-	"
+ru002:015	11	(@)	-	Hän␣
+ru002:015	11	(@)	-	saa␣
+ru002:015	11	@	-	poimia␣
+ru002:015	8	@	-	myöskin␣
+ru002:015	(10a) 10b	@	-	lyhteiden␣
+ru002:015	9	@	-	väliltä
+ru002:015	-	(;)	-	;␣
+ru002:015	12a	@	-	ja␣
+ru002:015	13	(@)	-	te␣
+ru002:015	12b	@	-	ette␣
+ru002:015	13	(@)	-	saa␣
+ru002:015	13	@	-	loukata␣
+ru002:015	pers%13	@	-	häntä
+ru002:015	-	(.)	-	.␣
+ru002:016	ru002:016	ru002:016	VERSE	Ruut␣2:16␣
+ru002:016	1b	@	-	Voittepa␣
+ru002:016	1a	%case	?	
+ru002:016	3	@	-	vetää␣
+ru002:016	2	%case	LAT	
+ru002:016	(4)	-	UNTRANSLATED	
+ru002:016	(6a) 6b	@	-	sitomistakin␣
+ru002:016	5	%case	LOC	
+ru002:016	-	(@)	-	joitakin␣
+ru002:016	-	(@)	-	tähkiä␣
+ru002:016	7a	@	-	ja␣
+ru002:016	7b	@	-	jättää␣
+ru002:016	sem%7b	@	-	ne␣
+ru002:016	8b	(@)	-	hänen␣
+ru002:016	8b	@	-	poimittavikseen
+ru002:016	8a	%inflection	PSS.PCP1.PL.TRA.-3	
+ru002:016	-	(;)	-	;␣
+ru002:016	9a	@	-	ja␣
+ru002:016	10	(@)	-	te␣
+ru002:016	9b	@	-	ette␣
+ru002:016	10	(@)	-	saa␣
+ru002:016	10	@	-	nuhdella␣
+ru002:016	11	@	-	häntä
+ru002:016	-	(.)	-	.
+ru002:016	-	(@)	-	"␣
+ru002:017	ru002:017	ru002:017	VERSE	Ruut␣2:17␣
+ru002:017	1a	@	-	Niin␣
+ru002:017	pro%1b	@	-	Ruut␣
+ru002:017	1b	@	-	poimi␣
+ru002:017	2b	@	-	pellolla␣
+ru002:017	2a	%case	LOC	
+ru002:017	(4a) 4b	@	-	iltaan␣
+ru002:017	3	@	-	asti
+ru002:017	-	(;)	-	;␣
+ru002:017	5a	@	-	sitten␣
+ru002:017	5b	(@)	-	hän␣
+ru002:017	5b	@	-	pui
+ru002:017	-	(,)	-	,␣
+ru002:017	7	@	-	mitä␣
+ru002:017	6	%case	PTV	
+ru002:017	8	(@)	-	oli␣
+ru002:017	8	(@)	-	saanut␣
+ru002:017	8	@	-	poimituksi
+ru002:017	-	(,)	-	,␣
+ru002:017	9a	@	-	ja␣
+ru002:017	-	(@)	-	siitä␣
+ru002:017	9b	@	-	tuli␣
+ru002:017	10a	@	-	noin␣
+ru002:017	10b	@	-	eefa-mitan␣
+ru002:017	-	(@)	-	verta␣
+ru002:017	11	@	-	ohria
+ru002:017	-	(.)	-	.␣
+ru002:018	ru002:018	ru002:018	VERSE	Ruut␣2:18␣
+ru002:018	1a	@	-	Ja␣
+ru002:018	1b	(@)	-	hän␣
+ru002:018	1b	@	-	otti␣
+ru002:018	-	(@)	-	ne␣
+ru002:018	2a	@	-	ja␣
+ru002:018	2b	@	-	tuli␣
+ru002:018	(3a) 3b	@	-	kaupunkiin␣
+ru002:018	4a	@	-	ja␣
+ru002:018	4b	@	-	näytti␣
+ru002:018	5	@	-	anopillensa
+ru002:018	-	(,)	-	,␣
+ru002:018	7	@	-	mitä␣
+ru002:018	6	%case	PTV	
+ru002:018	8	(@)	-	oli␣
+ru002:018	8	@	-	poiminut
+ru002:018	-	(.)	-	.␣
+ru002:018	9a	@	-	Sen␣
+ru002:018	9a	@	-	jälkeen␣
+ru002:018	pro%9b	@	-	Ruut␣
+ru002:018	9b	@	-	otti␣
+ru002:018	9b	@	-	esille␣
+ru002:018	14	@	-	tähteet␣
+ru002:018	12 13	%case	NOM	
+ru002:018	-	(@)	-	ruuasta
+ru002:018	-	(,)	-	,␣
+ru002:018	-	(@)	-	josta␣
+ru002:018	-	(@)	-	oli␣
+ru002:018	15b	@	-	syönyt␣
+ru002:018	15a	%case	NOM	
+ru002:018	15b	@	-	tarpeekseen
+ru002:018	-	(,)	-	,␣
+ru002:018	10a	@	-	ja␣
+ru002:018	10b	@	-	antoi␣
+ru002:018	-	(@)	-	ne␣
+ru002:018	11	@	-	hänelle
+ru002:018	-	(.)	-	.␣
+ru002:019	ru002:019	ru002:019	VERSE	Ruut␣2:19␣
+ru002:019	1a	@	-	Silloin␣
+ru002:019	pers%3	@	-	hänen␣
+ru002:019	3	@	-	anoppinsa␣
+ru002:019	1b	@	-	sanoi␣
+ru002:019	2	@	-	hänelle
+ru002:019	-	(:)	-	:␣
+ru002:019	-	(@)	-	"
+ru002:019	4	@	-	Missä␣
+ru002:019	5	(@)	-	olet␣
+ru002:019	(6a) 6b	@	-	tänään␣
+ru002:019	5	@	-	poiminut␣
+ru002:019	7a	@	-	ja␣
+ru002:019	7b	@	-	missä␣
+ru002:019	8	(@)	-	olet␣
+ru002:019	8	@	-	tehnyt␣
+ru002:019	8	@	-	työtä
+ru002:019	-	(?)	-	?␣
+ru002:019	11	@	-	Siunattu␣
+ru002:019	9	@	-	olkoon␣
+ru002:019	-	(@)	-	se
+ru002:019	-	(,)	-	,␣
+ru002:019	-	(@)	-	joka␣
+ru002:019	-	(@)	-	on␣
+ru002:019	pers%10	@	-	sinusta␣
+ru002:019	10	@	-	huolehtinut
+ru002:019	-	(.)	-	.
+ru002:019	-	(@)	-	"␣
+ru002:019	12a	@	-	Sitten␣
+ru002:019	12b	(@)	-	hän␣
+ru002:019	12b	@	-	ilmoitti␣
+ru002:019	13b	@	-	anopillensa
+ru002:019	13a	%case	LOC	
+ru002:019	-	(,)	-	,␣
+ru002:019	15	@	-	kenen␣
+ru002:019	14	%case	GEN	
+ru002:019	17	@	-	luona␣
+ru002:019	16	(@)	-	hän␣
+ru002:019	16	(@)	-	oli␣
+ru002:019	16	@	-	ollut␣
+ru002:019	16	@	-	työssä
+ru002:019	-	(,)	-	,␣
+ru002:019	18b	@	-	sanoen
+ru002:019	18a	%case	MAN	
+ru002:019	-	(:)	-	:␣
+ru002:019	-	(@)	-	"
+ru002:019	20a	@	-	Se␣
+ru002:019	20b	@	-	mies
+ru002:019	-	(,)	-	,␣
+ru002:019	21	@	-	jonka␣
+ru002:019	23	@	-	luona␣
+ru002:019	22	@	-	olin␣
+ru002:019	24a	@	-	tänä␣
+ru002:019	24b	@	-	päivänä␣
+ru002:019	22	@	-	työssä
+ru002:019	-	(,)	-	,␣
+ru002:019	-	(@)	-	on␣
+ru002:019	19	@	-	nimeltään␣
+ru002:019	25	@	-	Booas
+ru002:019	-	(@)	-	"
+ru002:019	-	(.)	-	.␣
+ru002:020	ru002:020	ru002:020	VERSE	Ruut␣2:20␣
+ru002:020	(1a)	-	UNTRANSLATED	
+ru002:020	2	@	-	Noomi␣
+ru002:020	1b	@	-	sanoi␣
+ru002:020	3b	@	-	miniällensä
+ru002:020	3a	%case	LOC	
+ru002:020	-	(:)	-	:␣
+ru002:020	-	(@)	-	"
+ru002:020	4	@	-	Siunatkoon␣
+ru002:020	5	@	-	häntä␣
+ru002:020	6b	@	-	Herra
+ru002:020	6a	%case	NOM	
+ru002:020	-	(,)	-	,␣
+ru002:020	7	@	-	joka␣
+ru002:020	8 9	(@)	-	on␣
+ru002:020	8 9	@	-	osoittanut␣
+ru002:020	10	@	-	laupeutta␣
+ru002:020	(12a) 12b	@	-	eläviä␣
+ru002:020	11	%case	PTV	
+ru002:020	13a	@	-	ja␣
+ru002:020	(14a) 14b	@	-	kuolleita␣
+ru002:020	13b	@	-	kohtaan
+ru002:020	-	(@)	-	"
+ru002:020	-	(.)	-	.␣
+ru002:020	15a	@	-	Ja␣
+ru002:020	17	@	-	Noomi␣
+ru002:020	15b	@	-	sanoi␣
+ru002:020	(16)	-	UNTRANSLATED	
+ru002:020	-	(@)	-	vielä
+ru002:020	-	(:)	-	:␣
+ru002:020	-	(@)	-	"
+ru002:020	(20a) 20b	@	-	Hän␣
+ru002:020	22	@	-	on␣
+ru002:020	18	@	-	sukulaisemme␣
+ru002:020	19	%case	NOM.GEN	
+ru002:020	-	(@)	-	ja␣
+ru002:020	pers%21b	@	-	meidän␣
+ru002:020	21b	@	-	sukulunastajiamme
+ru002:020	21a	%case	PTV	
+ru002:020	-	(@)	-	"
+ru002:020	-	(.)	-	.␣
+ru002:021	ru002:021	ru002:021	VERSE	Ruut␣2:21␣
+ru002:021	1a	@	-	Silloin␣
+ru002:021	(3a) 3b	@	-	mooabilainen␣
+ru002:021	2	@	-	Ruut␣
+ru002:021	1b	@	-	sanoi
+ru002:021	-	(:)	-	:␣
+ru002:021	-	(@)	-	"
+ru002:021	4	@	-	Vielä␣
+ru002:021	(5)	-	UNTRANSLATED	
+ru002:021	6	(@)	-	hän␣
+ru002:021	6	@	-	sanoi␣
+ru002:021	7	@	-	minulle
+ru002:021	-	(:)	-	:␣
+ru002:021	-	(@)	-	'
+ru002:021	12	@	-	Pysyttele␣
+ru002:021	-	(@)	-	vain␣
+ru002:021	11	@	-	minun␣
+ru002:021	10	%case	GEN	
+ru002:021	(9a) 9b	@	-	palvelijaini␣
+ru002:021	8	@	-	mukana␣
+ru002:021	14	@	-	siihen␣
+ru002:021	13	@	-	asti
+ru002:021	-	(,)	-	,␣
+ru002:021	-	(@)	-	että␣
+ru002:021	15	(@)	-	he␣
+ru002:021	15	(@)	-	saavat␣
+ru002:021	17	@	-	kaiken␣
+ru002:021	16	%case	GEN	
+ru002:021	20	@	-	minun␣
+ru002:021	19	%case	GEN	
+ru002:021	(18a) 18b	@	-	leikkuuni␣
+ru002:021	15	@	-	lopetetuksi
+ru002:021	-	(@)	-	'
+ru002:021	-	(@)	-	"
+ru002:021	-	(.)	-	.␣
+ru002:022	ru002:022	ru002:022	VERSE	Ruut␣2:22␣
+ru002:022	1a	@	-	Niin␣
+ru002:022	2	@	-	Noomi␣
+ru002:022	1b	@	-	sanoi␣
+ru002:022	5	@	-	miniällensä␣
+ru002:022	4	@	-	Ruutille
+ru002:022	3	%case	LOC	
+ru002:022	-	(:)	-	:␣
+ru002:022	-	(@)	-	"
+ru002:022	6	@	-	Hyvä␣
+ru002:022	-	(@)	-	on
+ru002:022	-	(,)	-	,␣
+ru002:022	7	@	-	tyttäreni
+ru002:022	(8)	-	UNTRANSLATED	
+ru002:022	-	(,)	-	,␣
+ru002:022	9	@	-	lähde␣
+ru002:022	pers%11	@	-	hänen␣
+ru002:022	11	@	-	palvelijattariensa␣
+ru002:022	10	@	-	mukana
+ru002:022	-	(,)	-	,␣
+ru002:022	12a	@	-	niin␣
+ru002:022	12b	@	-	et␣
+ru002:022	13	@	-	joudu␣
+ru002:022	14	%inflection	ACT.PRES.NEG	
+ru002:022	13	@	-	sysittäväksi␣
+ru002:022	16	@	-	muiden␣
+ru002:022	15b	@	-	pelloilla
+ru002:022	15a	%case	LOC	
+ru002:022	-	(@)	-	"
+ru002:022	-	(.)	-	.␣
+ru002:023	ru002:023	ru002:023	VERSE	Ruut␣2:23␣
+ru002:023	1a	@	-	Ja␣
+ru002:023	1b	(@)	-	hän␣
+ru002:023	1b	@	-	pysytteli␣
+ru002:023	3	@	-	Booaan␣
+ru002:023	2b	@	-	palvelijattarien␣
+ru002:023	2a	@	-	seurassa␣
+ru002:023	4b	@	-	poimien␣
+ru002:023	4a	%case	MAN	
+ru002:023	-	(@)	-	tähkiä
+ru002:023	-	(,)	-	,␣
+ru002:023	5	@	-	kunnes␣
+ru002:023	7 (8a) 8b	@	-	ohran-~/ohranleikkuu␣
+ru002:023	9a	@	-	ja␣
+ru002:023	(10a) 10b 9b	@	-	nisunleikkuu␣
+ru002:023	6	@	-	oli␣
+ru002:023	6	@	-	lopussa
+ru002:023	-	(.)	-	.␣
+ru002:023	11a	@	-	Sitten␣
+ru002:023	11b	(@)	-	hän␣
+ru002:023	11b	@	-	jäi␣
+ru002:023	11b	(@)	-	olemaan␣
+ru002:023	13	@	-	anoppinsa␣
+ru002:023	12	@	-	luo
+ru002:023	-	(.)	-	.␣
+ru003:001	ru003:001	ru003:001	VERSE	Ruut␣3:1␣
+ru003:001	1a	@	-	Niin␣
+ru003:001	3	@	-	Noomi
+ru003:001	-	(,)	-	,␣
+ru003:001	pers%4	@	-	hänen␣
+ru003:001	4	@	-	anoppinsa
+ru003:001	-	(,)	-	,␣
+ru003:001	1b	@	-	sanoi␣
+ru003:001	2	@	-	hänelle
+ru003:001	-	(:)	-	:␣
+ru003:001	-	(@)	-	"
+ru003:001	5	@	-	Tyttäreni
+ru003:001	(6a) (6b)	-	UNTRANSLATED	
+ru003:001	-	(,)	-	,␣
+ru003:001	7	(@)	-	minäpä␣
+ru003:001	7	@	-	hankin␣
+ru003:001	8	@	-	sinulle␣
+ru003:001	9	@	-	turvapaikan
+ru003:001	-	(,)	-	,␣
+ru003:001	10	@	-	että␣
+ru003:001	12	@	-	sinun␣
+ru003:001	11	@	-	kävisi␣
+ru003:001	11	@	-	hyvin
+ru003:001	-	(.)	-	.␣
+ru003:002	ru003:002	ru003:002	VERSE	Ruut␣3:2␣
+ru003:002	(1a) (1b)	-	UNTRANSLATED	
+ru003:002	2a 2b	@	-	Onhan␣
+ru003:002	3	@	-	Booas
+ru003:002	-	(,)	-	,␣
+ru003:002	5	@	-	jonka␣
+ru003:002	8	@	-	palvelijattarien␣
+ru003:002	7	@	-	kanssa␣
+ru003:002	6	@	-	olit
+ru003:002	-	(,)	-	,␣
+ru003:002	4	@	-	sukulaisemme
+ru003:002	-	(;)	-	;␣
+ru003:002	9	@	-	katso
+ru003:002	-	(,)	-	,␣
+ru003:002	10	@	-	hän␣
+ru003:002	11	@	-	viskaa␣
+ru003:002	15a	@	-	tänä␣
+ru003:002	15b	@	-	yönä␣
+ru003:002	(14a) 14b	@	-	ohria␣
+ru003:002	13	@	-	puimatantereella
+ru003:002	12	%case	LOC	
+ru003:002	-	(.)	-	.␣
+ru003:003	ru003:003	ru003:003	VERSE	Ruut␣3:3␣
+ru003:003	1a	@	-	Niin␣
+ru003:003	1b	@	-	peseydy␣
+ru003:003	-	(@)	-	nyt␣
+ru003:003	2a	@	-	ja␣
+ru003:003	2b	@	-	voitele␣
+ru003:003	2b	@	-	itsesi␣
+ru003:003	3a	@	-	ja␣
+ru003:003	3b 5	@	-	pukeudu␣
+ru003:003	8a	@	-	ja␣
+ru003:003	8b	@	-	mene␣
+ru003:003	(9a) 9b	@	-	puimatantereelle
+ru003:003	-	(;)	-	;␣
+ru003:003	-	(@)	-	mutta␣
+ru003:003	10	@	-	älä␣
+ru003:003	11	@	-	näyttäydy␣
+ru003:003	12b	@	-	hänelle
+ru003:003	12a	%case	LOC	
+ru003:003	-	(,)	-	,␣
+ru003:003	13	@	-	ennenkuin␣
+ru003:003	14	(@)	-	hän␣
+ru003:003	14	@	-	on␣
+ru003:003	15b	@	-	syönyt␣
+ru003:003	15a	%case	NOM	
+ru003:003	16a	@	-	ja␣
+ru003:003	16c	@	-	juonut
+ru003:003	16b	%case	NOM	
+ru003:003	-	(.)	-	.␣
+ru003:004	ru003:004	ru003:004	VERSE	Ruut␣3:4␣
+ru003:004	(1a) (1b)	-	UNTRANSLATED	
+ru003:004	2a	@	-	Kun␣
+ru003:004	2b	(@)	-	hän␣
+ru003:004	2b	@	-	panee␣
+ru003:004	2b	@	-	maata
+ru003:004	-	(,)	-	,␣
+ru003:004	3a	@	-	niin␣
+ru003:004	3b	@	-	katso
+ru003:004	-	(,)	-	,␣
+ru003:004	6	@	-	mihin␣
+ru003:004	8	%case	LOC	
+ru003:004	(5a) 5b	@	-	paikkaan␣
+ru003:004	4	%case	LOC	
+ru003:004	7	(@)	-	hän␣
+ru003:004	7	@	-	panee␣
+ru003:004	7	@	-	maata
+ru003:004	-	(,)	-	,␣
+ru003:004	9a	@	-	ja␣
+ru003:004	9b	@	-	mene␣
+ru003:004	10a	@	-	ja␣
+ru003:004	10b	@	-	nosta␣
+ru003:004	-	(@)	-	peitettä␣
+ru003:004	pers%11	@	-	hänen␣
+ru003:004	11	@	-	jalkojensa␣
+ru003:004	11	@	-	kohdalta␣
+ru003:004	13a	@	-	ja␣
+ru003:004	13b	@	-	pane␣
+ru003:004	-	(@)	-	siihen␣
+ru003:004	13b	@	-	maata
+ru003:004	-	(;)	-	;␣
+ru003:004	14b	@	-	hän␣
+ru003:004	15	@	-	sanoo␣
+ru003:004	14a	@	-	sitten␣
+ru003:004	16	@	-	sinulle
+ru003:004	-	(,)	-	,␣
+ru003:004	18	@	-	mitä␣
+ru003:004	17	%case	PTV	
+ru003:004	19	(@)	-	sinun␣
+ru003:004	19	(@)	-	on␣
+ru003:004	19	@	-	tehtävä
+ru003:004	-	(.)	-	.
+ru003:004	-	(@)	-	"␣
+ru003:005	ru003:005	ru003:005	VERSE	Ruut␣3:5␣
+ru003:005	(1a)	-	UNTRANSLATED	
+ru003:005	pro%1b	@	-	Ruut␣
+ru003:005	1b	@	-	vastasi␣
+ru003:005	2	@	-	hänelle
+ru003:005	-	(:)	-	:␣
+ru003:005	-	(@)	-	"
+ru003:005	8	(@)	-	Minä␣
+ru003:005	8	@	-	teen␣
+ru003:005	3	@	-	kaiken
+ru003:005	-	(,)	-	,␣
+ru003:005	4	@	-	mitä␣
+ru003:005	5	@	-	sanot
+ru003:005	-	(@)	-	"
+ru003:005	-	(.)	-	.␣
+ru003:006	ru003:006	ru003:006	VERSE	Ruut␣3:6␣
+ru003:006	1a	@	-	Niin␣
+ru003:006	1b	(@)	-	hän␣
+ru003:006	1b	@	-	meni␣
+ru003:006	1b	@	-	alas␣
+ru003:006	(2a) 2b	@	-	puimatantereelle␣
+ru003:006	3a	@	-	ja␣
+ru003:006	3b	@	-	teki␣
+ru003:006	4b	@	-	aivan␣
+ru003:006	4a 5	@	-	niin
+ru003:006	-	(,)	-	,␣
+ru003:006	4a 5	@	-	kuin␣
+ru003:006	pers%7	@	-	hänen␣
+ru003:006	7	@	-	anoppinsa␣
+ru003:006	6	(@)	-	oli␣
+ru003:006	pers%6	@	-	häntä␣
+ru003:006	6	@	-	käskenyt
+ru003:006	-	(.)	-	.␣
+ru003:007	ru003:007	ru003:007	VERSE	Ruut␣3:7␣
+ru003:007	1a	@	-	Ja␣
+ru003:007	-	(@)	-	kun␣
+ru003:007	2	@	-	Booas␣
+ru003:007	1b	(@)	-	oli␣
+ru003:007	1b	@	-	syönyt␣
+ru003:007	3a	@	-	ja␣
+ru003:007	3b	@	-	juonut
+ru003:007	(4a)	-	UNTRANSLATED	
+ru003:007	-	(,)	-	,␣
+ru003:007	4b	@	-	tuli␣
+ru003:007	pers%5	@	-	hänen␣
+ru003:007	5	@	-	sydämensä␣
+ru003:007	4b	@	-	iloiseksi
+ru003:007	-	(,)	-	,␣
+ru003:007	6a	@	-	ja␣
+ru003:007	6b	(@)	-	hän␣
+ru003:007	6b	@	-	meni␣
+ru003:007	7b	@	-	maata␣
+ru003:007	7a	%case	LAT	
+ru003:007	8b (9a) 9b	@	-	viljakasan␣
+ru003:007	8a	@	-	ääreen
+ru003:007	-	(.)	-	.␣
+ru003:007	10a	@	-	Ja␣
+ru003:007	pro%10b	@	-	Ruut␣
+ru003:007	10b	@	-	tuli␣
+ru003:007	11b	@	-	hiljaa␣
+ru003:007	11a	%case	MAN	
+ru003:007	12a	@	-	ja␣
+ru003:007	12b	@	-	nosti␣
+ru003:007	-	(@)	-	peitettä␣
+ru003:007	pers%13	@	-	hänen␣
+ru003:007	13	@	-	jalkojensa␣
+ru003:007	13	@	-	kohdalta␣
+ru003:007	14a	@	-	ja␣
+ru003:007	14b	@	-	pani␣
+ru003:007	-	(@)	-	siihen␣
+ru003:007	14b	@	-	maata
+ru003:007	-	(.)	-	.␣
+ru003:008	ru003:008	ru003:008	VERSE	Ruut␣3:8␣
+ru003:008	(1a) (1b)	-	UNTRANSLATED	
+ru003:008	2b (3a) 3b	@	-	Puoliyön␣
+ru003:008	2a	@	-	aikana␣
+ru003:008	(4a)	-	UNTRANSLATED	
+ru003:008	(5a) 5b	@	-	mies␣
+ru003:008	4b	@	-	säikähti␣
+ru003:008	6a	@	-	ja␣
+ru003:008	6b	@	-	kumartui␣
+ru003:008	6b	@	-	eteenpäin
+ru003:008	-	(;)	-	;␣
+ru003:008	7a	@	-	ja␣
+ru003:008	7b	@	-	katso
+ru003:008	-	(,)	-	,␣
+ru003:008	8	@	-	nainen␣
+ru003:008	9	@	-	makasi␣
+ru003:008	pers%10	@	-	hänen␣
+ru003:008	10	@	-	jalkapohjissaan
+ru003:008	-	(.)	-	.␣
+ru003:009	ru003:009	ru003:009	VERSE	Ruut␣3:9␣
+ru003:009	1a	@	-	Ja␣
+ru003:009	1b	(@)	-	hän␣
+ru003:009	1b	@	-	kysyi
+ru003:009	-	(:)	-	:␣
+ru003:009	-	(@)	-	"
+ru003:009	2	@	-	Kuka␣
+ru003:009	3	@	-	sinä␣
+ru003:009	-	(@)	-	olet
+ru003:009	(4a)	-	UNTRANSLATED	
+ru003:009	-	(?)	-	?
+ru003:009	-	(@)	-	"␣
+ru003:009	4b	(@)	-	Hän␣
+ru003:009	4b	@	-	vastasi
+ru003:009	-	(:)	-	:␣
+ru003:009	-	(@)	-	"
+ru003:009	5	@	-	Minä␣
+ru003:009	-	(@)	-	olen␣
+ru003:009	6	@	-	Ruut
+ru003:009	-	(,)	-	,␣
+ru003:009	7	@	-	palvelijattaresi
+ru003:009	(8a)	-	UNTRANSLATED	
+ru003:009	-	(.)	-	.␣
+ru003:009	8b	@	-	Levitä␣
+ru003:009	9	@	-	liepeesi␣
+ru003:009	11	@	-	palvelijattaresi␣
+ru003:009	10	@	-	yli
+ru003:009	-	(,)	-	,␣
+ru003:009	12	@	-	sillä␣
+ru003:009	14	@	-	sinä␣
+ru003:009	-	(@)	-	olet␣
+ru003:009	-	(@)	-	minun␣
+ru003:009	13	@	-	sukulunastajani
+ru003:009	-	(.)	-	.
+ru003:009	-	(@)	-	"␣
+ru003:010	ru003:010	ru003:010	VERSE	Ruut␣3:10␣
+ru003:010	(1a)	-	UNTRANSLATED	
+ru003:010	1b	(@)	-	Hän␣
+ru003:010	1b	@	-	sanoi
+ru003:010	-	(:)	-	:␣
+ru003:010	-	(@)	-	"
+ru003:010	4b	@	-	Herra␣
+ru003:010	4a	%case	NOM	
+ru003:010	2	@	-	siunatkoon␣
+ru003:010	3	@	-	sinua
+ru003:010	-	(,)	-	,␣
+ru003:010	5	@	-	tyttäreni
+ru003:010	-	(!)	-	!␣
+ru003:010	6	(@)	-	Sinä␣
+ru003:010	6	(@)	-	olet␣
+ru003:010	6	@	-	osoittanut␣
+ru003:010	7	@	-	sukurakkauttasi␣
+ru003:010	-	(@)	-	nyt␣
+ru003:010	(8a) 8b	@	-	viimeksi␣
+ru003:010	-	(@)	-	vielä␣
+ru003:010	6	@	-	kauniimmin␣
+ru003:010	9	@	-	kuin␣
+ru003:010	(10a) 10b	@	-	aikaisemmin
+ru003:010	-	(,)	-	,␣
+ru003:010	11a	@	-	kun␣
+ru003:010	11b	@	-	et␣
+ru003:010	12	(@)	-	ole␣
+ru003:010	12	@	-	kulkenut␣
+ru003:010	(14a) 14b	@	-	nuorten␣
+ru003:010	(14a) 14b	@	-	miesten␣
+ru003:010	13	@	-	jäljessä
+ru003:010	-	(,)	-	,␣
+ru003:010	-	(@)	-	et␣
+ru003:010	16	@	-	köyhien␣
+ru003:010	15	%case	GEN	
+ru003:010	17a	@	-	etkä␣
+ru003:010	18	@	-	rikkaitten
+ru003:010	17b	%case	GEN	
+ru003:010	-	(.)	-	.␣
+ru003:011	ru003:011	ru003:011	VERSE	Ruut␣3:11␣
+ru003:011	1a	@	-	Ja␣
+ru003:011	1b	@	-	nyt
+ru003:011	-	(,)	-	,␣
+ru003:011	2	@	-	tyttäreni
+ru003:011	-	(,)	-	,␣
+ru003:011	3	@	-	älä␣
+ru003:011	4	@	-	pelkää
+ru003:011	-	(;)	-	;␣
+ru003:011	5	@	-	kaiken
+ru003:011	-	(,)	-	,␣
+ru003:011	6	@	-	mitä␣
+ru003:011	7	@	-	sanot
+ru003:011	-	(,)	-	,␣
+ru003:011	8	@	-	teen␣
+ru003:011	8	(@)	-	minä␣
+ru003:011	9	@	-	sinulle
+ru003:011	-	(.)	-	.␣
+ru003:011	10	@	-	Sillä␣
+ru003:011	pers%14	@	-	minun␣
+ru003:011	14	@	-	kansani␣
+ru003:011	13	@	-	portissa␣
+ru003:011	12	@	-	jokainen␣
+ru003:011	11	@	-	tietää␣
+ru003:011	18	@	-	sinut␣
+ru003:011	15	%inflection	PERS.SG.ACC	
+ru003:011	17	@	-	kunnialliseksi␣
+ru003:011	16	@	-	naiseksi
+ru003:011	-	(.)	-	.␣
+ru003:012	ru003:012	ru003:012	VERSE	Ruut␣3:12␣
+ru003:012	(1a) (1b) (2)	-	UNTRANSLATED	
+ru003:012	3	@	-	Totta␣
+ru003:012	3	@	-	on
+ru003:012	-	(,)	-	,␣
+ru003:012	4 5	@	-	että␣
+ru003:012	8	@	-	minä␣
+ru003:012	-	(@)	-	olen␣
+ru003:012	-	(@)	-	sinun␣
+ru003:012	7	@	-	sukulunastajasi
+ru003:012	-	(,)	-	,␣
+ru003:012	9a	@	-	mutta␣
+ru003:012	10	@	-	on␣
+ru003:012	9b	@	-	vielä␣
+ru003:012	-	(@)	-	toinen␣
+ru003:012	11	@	-	sukulunastaja
+ru003:012	-	(,)	-	,␣
+ru003:012	-	(@)	-	joka␣
+ru003:012	-	(@)	-	on␣
+ru003:012	12	@	-	läheisempi␣
+ru003:012	13	@	-	kuin␣
+ru003:012	pers%13	@	-	minä
+ru003:012	-	(.)	-	.␣
+ru003:013	ru003:013	ru003:013	VERSE	Ruut␣3:13␣
+ru003:013	1	@	-	Jää␣
+ru003:013	-	(@)	-	tähän␣
+ru003:013	(2a) 2b	@	-	yöksi
+ru003:013	(3a) (3b)	-	UNTRANSLATED	
+ru003:013	-	(;)	-	;␣
+ru003:013	5	@	-	jos␣
+ru003:013	6	(@)	-	hän␣
+ru003:013	4b	@	-	huomenna␣
+ru003:013	4a	%case	?	
+ru003:013	6	@	-	lunastaa␣
+ru003:013	pers%6	@	-	sinut
+ru003:013	-	(,)	-	,␣
+ru003:013	7	@	-	niin␣
+ru003:013	7	@	-	hyvä
+ru003:013	-	(;)	-	;␣
+ru003:013	8	@	-	lunastakoon
+ru003:013	-	(.)	-	.␣
+ru003:013	9a	@	-	Mutta␣
+ru003:013	10 9b	@	-	jollei␣
+ru003:013	11	(@)	-	hän␣
+ru003:013	11	@	-	halua␣
+ru003:013	12b	@	-	lunastaa␣
+ru003:013	12a	%case	LAT	
+ru003:013	pers%12b	@	-	sinua
+ru003:013	-	(,)	-	,␣
+ru003:013	13a	@	-	niin␣
+ru003:013	14	@	-	minä␣
+ru003:013	13b	@	-	lunastan␣
+ru003:013	pers%13b	@	-	sinut
+ru003:013	-	(,)	-	,␣
+ru003:013	15	@	-	niin␣
+ru003:013	15	@	-	totta␣
+ru003:013	15	@	-	kuin␣
+ru003:013	16	@	-	Herra␣
+ru003:013	15	@	-	elää
+ru003:013	-	(.)	-	.␣
+ru003:013	17	@	-	Lepää␣
+ru003:013	-	(@)	-	siinä␣
+ru003:013	(19a) 19b	@	-	aamuun␣
+ru003:013	18	@	-	asti
+ru003:013	-	(.)	-	.
+ru003:013	-	(@)	-	"␣
+ru003:014	ru003:014	ru003:014	VERSE	Ruut␣3:14␣
+ru003:014	1a	@	-	Niin␣
+ru003:014	1b	(@)	-	hän␣
+ru003:014	1b	@	-	lepäsi␣
+ru003:014	pers%3	@	-	hänen␣
+ru003:014	3	@	-	jalkapohjissaan␣
+ru003:014	(5a) 5b	@	-	aamuun␣
+ru003:014	4	@	-	asti
+ru003:014	-	(,)	-	,␣
+ru003:014	6a	@	-	mutta␣
+ru003:014	6b	@	-	nousi
+ru003:014	-	(,)	-	,␣
+ru003:014	8a 8b	@	-	ennenkuin␣
+ru003:014	10	@	-	kukaan␣
+ru003:014	-	(@)	-	vielä␣
+ru003:014	9	(@)	-	voi␣
+ru003:014	9	@	-	tuntea␣
+ru003:014	12	@	-	toisensa
+ru003:014	11	%case	NOM.GEN	
+ru003:014	-	(.)	-	.␣
+ru003:014	13a	@	-	Ja␣
+ru003:014	pro%13b	@	-	Booas␣
+ru003:014	13b	@	-	ajatteli
+ru003:014	-	(:)	-	:␣
+ru003:014	-	(@)	-	"
+ru003:014	14	@	-	Älköön␣
+ru003:014	15	@	-	tulko␣
+ru003:014	15	@	-	tunnetuksi
+ru003:014	-	(,)	-	,␣
+ru003:014	16	@	-	että␣
+ru003:014	18a	@	-	tuo␣
+ru003:014	18b	@	-	nainen␣
+ru003:014	17	(@)	-	on␣
+ru003:014	17	@	-	tullut␣
+ru003:014	-	(@)	-	tänne␣
+ru003:014	(19a) 19b	@	-	puimatantereelle
+ru003:014	-	(@)	-	"
+ru003:014	-	(.)	-	.␣
+ru003:015	ru003:015	ru003:015	VERSE	Ruut␣3:15␣
+ru003:015	1a	@	-	Ja␣
+ru003:015	1b	(@)	-	hän␣
+ru003:015	1b	@	-	sanoi
+ru003:015	-	(:)	-	:␣
+ru003:015	-	(@)	-	"
+ru003:015	2	@	-	Anna␣
+ru003:015	-	(@)	-	tänne␣
+ru003:015	(3a) 3b	@	-	vaippa
+ru003:015	-	(,)	-	,␣
+ru003:015	4	@	-	joka␣
+ru003:015	-	(@)	-	on␣
+ru003:015	5	@	-	ylläsi
+ru003:015	-	(,)	-	,␣
+ru003:015	6a	@	-	ja␣
+ru003:015	6b	@	-	pidä␣
+ru003:015	7	@	-	sitä
+ru003:015	-	(@)	-	"
+ru003:015	-	(.)	-	.␣
+ru003:015	8a	@	-	Ja␣
+ru003:015	pro%8b	@	-	Ruut␣
+ru003:015	8b	@	-	piti␣
+ru003:015	9	@	-	sitä
+ru003:015	-	(.)	-	.␣
+ru003:015	10a	@	-	Silloin␣
+ru003:015	10b	(@)	-	hän␣
+ru003:015	10b	@	-	mittasi␣
+ru003:015	-	(@)	-	siihen␣
+ru003:015	11	@	-	kuusi␣
+ru003:015	-	(@)	-	mittaa␣
+ru003:015	12	@	-	ohria␣
+ru003:015	13a	@	-	ja␣
+ru003:015	13b	@	-	pani␣
+ru003:015	-	(@)	-	ne␣
+ru003:015	pers%14	@	-	hänen␣
+ru003:015	14	@	-	selkäänsä
+ru003:015	-	(.)	-	.␣
+ru003:015	15a	@	-	Ja␣
+ru003:015	15b	(@)	-	hän␣
+ru003:015	15b	@	-	meni␣
+ru003:015	(16a) 16b	@	-	kaupunkiin
+ru003:015	-	(.)	-	.␣
+ru003:016	ru003:016	ru003:016	VERSE	Ruut␣3:16␣
+ru003:016	1a	@	-	Ja␣
+ru003:016	pro%1b	@	-	Ruut␣
+ru003:016	1b	@	-	tuli␣
+ru003:016	3	@	-	anoppinsa␣
+ru003:016	2	@	-	luo
+ru003:016	-	(,)	-	,␣
+ru003:016	4a	@	-	joka␣
+ru003:016	4b	@	-	sanoi
+ru003:016	-	(:)	-	:␣
+ru003:016	-	(@)	-	"
+ru003:016	5	@	-	Kuinka␣
+ru003:016	5	@	-	kävi
+ru003:016	6	%case	?	
+ru003:016	-	(,)	-	,␣
+ru003:016	7	@	-	tyttäreni
+ru003:016	-	(?)	-	?
+ru003:016	-	(@)	-	"␣
+ru003:016	8a	@	-	Niin␣
+ru003:016	8b	(@)	-	hän␣
+ru003:016	8b	@	-	kertoi␣
+ru003:016	9	@	-	hänelle␣
+ru003:016	11	@	-	kaikki
+ru003:016	10	%case	NOM	
+ru003:016	-	(,)	-	,␣
+ru003:016	12	@	-	mitä␣
+ru003:016	(15a) 15b	@	-	mies␣
+ru003:016	13	(@)	-	oli␣
+ru003:016	14	@	-	hänelle␣
+ru003:016	13	@	-	tehnyt
+ru003:016	-	(;)	-	;␣
+ru003:017	ru003:017	ru003:017	VERSE	Ruut␣3:17␣
+ru003:017	1a	@	-	ja␣
+ru003:017	1b	(@)	-	hän␣
+ru003:017	1b	@	-	sanoi
+ru003:017	-	(:)	-	:␣
+ru003:017	-	(@)	-	"
+ru003:017	(4a) 4b	@	-	Nämä␣
+ru003:017	2	@	-	kuusi␣
+ru003:017	-	(@)	-	mittaa␣
+ru003:017	(3a) 3b	@	-	ohria␣
+ru003:017	5	(@)	-	hän␣
+ru003:017	5	@	-	antoi␣
+ru003:017	6	@	-	minulle
+ru003:017	-	(,)	-	,␣
+ru003:017	8	@	-	sanoen
+ru003:017	7	%inflection	ACT.INF2.MAN	
+ru003:017	-	(:)	-	:␣
+ru003:017	-	(@)	-	'
+ru003:017	11	@	-	Et␣
+ru003:017	12	(@)	-	saa␣
+ru003:017	12	@	-	mennä␣
+ru003:017	13	@	-	tyhjin␣
+ru003:017	13	@	-	käsin␣
+ru003:017	15	@	-	anoppisi␣
+ru003:017	14	@	-	luo
+ru003:017	-	(@)	-	'
+ru003:017	-	(@)	-	"
+ru003:017	-	(.)	-	.␣
+ru003:018	ru003:018	ru003:018	VERSE	Ruut␣3:18␣
+ru003:018	1a	@	-	Silloin␣
+ru003:018	pro%1b	@	-	Noomi␣
+ru003:018	1b	@	-	sanoi
+ru003:018	-	(:)	-	:␣
+ru003:018	-	(@)	-	"
+ru003:018	2	@	-	Pysy␣
+ru003:018	2	@	-	alallasi
+ru003:018	-	(,)	-	,␣
+ru003:018	3	@	-	tyttäreni
+ru003:018	-	(,)	-	,␣
+ru003:018	4 5	@	-	kunnes␣
+ru003:018	6	(@)	-	saat␣
+ru003:018	6	@	-	tietää
+ru003:018	-	(,)	-	,␣
+ru003:018	7	@	-	kuinka␣
+ru003:018	9	@	-	asia␣
+ru003:018	8	@	-	päättyy
+ru003:018	-	(;)	-	;␣
+ru003:018	10	@	-	sillä␣
+ru003:018	(13a) 13b	@	-	mies␣
+ru003:018	11	@	-	ei␣
+ru003:018	12	@	-	suo␣
+ru003:018	sem%12	@	-	itselleen␣
+ru003:018	12	@	-	lepoa
+ru003:018	-	(,)	-	,␣
+ru003:018	14 15	@	-	ennenkuin␣
+ru003:018	16	(@)	-	hän␣
+ru003:018	18a	@	-	tänä␣
+ru003:018	18b	@	-	päivänä␣
+ru003:018	16	@	-	saattaa␣
+ru003:018	(17a) 17b	@	-	asian␣
+ru003:018	16	@	-	päätökseen
+ru003:018	-	(@)	-	"
+ru003:018	-	(.)	-	.␣
+ru004:001	ru004:001	ru004:001	VERSE	Ruut␣4:1␣
+ru004:001	1a	@	-	Mutta␣
+ru004:001	1b	@	-	Booas␣
+ru004:001	2	@	-	meni␣
+ru004:001	-	(@)	-	kaupungin␣
+ru004:001	(3a) 3b	@	-	porttiin␣
+ru004:001	4a	@	-	ja␣
+ru004:001	4b	@	-	istuutui␣
+ru004:001	5	@	-	sinne
+ru004:001	-	(.)	-	.␣
+ru004:001	6a	@	-	Ja␣
+ru004:001	6b	@	-	katso
+ru004:001	-	(,)	-	,␣
+ru004:001	(7a) 7b	@	-	sukulunastaja
+ru004:001	-	(,)	-	,␣
+ru004:001	9	@	-	josta␣
+ru004:001	11	@	-	Booas␣
+ru004:001	10	(@)	-	oli␣
+ru004:001	10	@	-	puhunut
+ru004:001	-	(,)	-	,␣
+ru004:001	8	@	-	kulki␣
+ru004:001	-	(@)	-	siitä␣
+ru004:001	8	@	-	ohitse
+ru004:001	-	(;)	-	;␣
+ru004:001	12a	@	-	ja␣
+ru004:001	pro%12b	@	-	Booas␣
+ru004:001	12b	@	-	sanoi
+ru004:001	-	(:)	-	:␣
+ru004:001	-	(@)	-	"
+ru004:001	16 17	@	-	Sinä␣
+ru004:001	16 17	@	-	siellä
+ru004:001	-	(,)	-	,␣
+ru004:001	13	@	-	poikkea␣
+ru004:001	15	@	-	tänne␣
+ru004:001	14	@	-	istumaan
+ru004:001	(18a)	-	UNTRANSLATED	
+ru004:001	-	(@)	-	"
+ru004:001	-	(.)	-	.␣
+ru004:001	18b	(@)	-	Hän␣
+ru004:001	18b	@	-	poikkesi␣
+ru004:001	19a	@	-	ja␣
+ru004:001	19b	@	-	istui␣
+ru004:001	-	(@)	-	siihen
+ru004:001	-	(.)	-	.␣
+ru004:002	ru004:002	ru004:002	VERSE	Ruut␣4:2␣
+ru004:002	1a	@	-	Senjälkeen␣
+ru004:002	pro%1b	@	-	Booas␣
+ru004:002	1b	@	-	otti␣
+ru004:002	(5a) 5b	@	-	kaupungin␣
+ru004:002	4b	@	-	vanhimpia␣
+ru004:002	4a	%case	PTV	
+ru004:002	2	@	-	kymmenen␣
+ru004:002	3	@	-	miestä␣
+ru004:002	6a	@	-	ja␣
+ru004:002	6b	@	-	sanoi
+ru004:002	-	(:)	-	:␣
+ru004:002	-	(@)	-	"
+ru004:002	7	@	-	Istukaa␣
+ru004:002	8	@	-	tähän
+ru004:002	-	(@)	-	"
+ru004:002	-	(.)	-	.␣
+ru004:002	9a	@	-	Ja␣
+ru004:002	9b	(@)	-	he␣
+ru004:002	9b	@	-	istuivat
+ru004:002	-	(.)	-	.␣
+ru004:003	ru004:003	ru004:003	VERSE	Ruut␣4:3␣
+ru004:003	1a	@	-	Sitten␣
+ru004:003	pro%1b	@	-	Booas␣
+ru004:003	1b	@	-	sanoi␣
+ru004:003	2b	@	-	sukulunastajalle
+ru004:003	2a	%case	LOC	
+ru004:003	-	(:)	-	:␣
+ru004:003	-	(@)	-	"
+ru004:003	-	(@)	-	Sen␣
+ru004:003	3 (4a) 4b	@	-	peltopalstan
+ru004:003	-	(,)	-	,␣
+ru004:003	5	@	-	joka␣
+ru004:003	-	(@)	-	oli␣
+ru004:003	6b	@	-	veljellämme␣
+ru004:003	6a	%case	LOC	
+ru004:003	7b	@	-	Elimelekillä
+ru004:003	7a	%case	LOC	
+ru004:003	-	(,)	-	,␣
+ru004:003	8	(@)	-	on␣
+ru004:003	9	@	-	Noomi
+ru004:003	-	(,)	-	,␣
+ru004:003	10a	@	-	joka␣
+ru004:003	10b	(@)	-	on␣
+ru004:003	10b	@	-	palannut␣
+ru004:003	12	@	-	Mooabin␣
+ru004:003	11b	@	-	maasta
+ru004:003	11a	%case	LOC	
+ru004:003	-	(,)	-	,␣
+ru004:003	8	@	-	myynyt
+ru004:003	-	(.)	-	.␣
+ru004:004	ru004:004	ru004:004	VERSE	Ruut␣4:4␣
+ru004:004	1a	@	-	Sentähden␣
+ru004:004	2	@	-	ajattelin
+ru004:004	1b	%inflection	ACT.PAST.1S	
+ru004:004	-	(:)	-	:␣
+ru004:004	3	(@)	-	minä␣
+ru004:004	3	@	-	ilmoitan␣
+ru004:004	-	(@)	-	siitä␣
+ru004:004	4	@	-	sinulle␣
+ru004:004	5a 5b	@	-	ja␣
+ru004:004	5a 5b	@	-	sanon
+ru004:004	-	(:)	-	:␣
+ru004:004	6	@	-	osta␣
+ru004:004	-	(@)	-	se␣
+ru004:004	-	(@)	-	tässä␣
+ru004:004	(8a) 8b	@	-	saapuvilla␣
+ru004:004	(8a) 8b	@	-	olevien␣
+ru004:004	(7)	-	UNTRANSLATED	
+ru004:004	9a	@	-	ja␣
+ru004:004	pers%11	@	-	minun␣
+ru004:004	11	@	-	kansani␣
+ru004:004	10	@	-	vanhimpien␣
+ru004:004	9b	@	-	läsnäollessa
+ru004:004	-	(.)	-	.␣
+ru004:004	12	@	-	Jos␣
+ru004:004	asp%13	@	-	tahdot␣
+ru004:004	-	(@)	-	sen␣
+ru004:004	13	@	-	lunastaa␣
+ru004:004	13	@	-	sukuun
+ru004:004	-	(,)	-	,␣
+ru004:004	-	(@)	-	niin␣
+ru004:004	14	@	-	lunasta
+ru004:004	-	(.)	-	.␣
+ru004:004	15a	@	-	Mutta␣
+ru004:004	15b 16	@	-	ellet␣
+ru004:004	asp%17	@	-	tahdo␣
+ru004:004	-	(@)	-	sitä␣
+ru004:004	17	@	-	lunastaa
+ru004:004	-	(,)	-	,␣
+ru004:004	-	(@)	-	niin␣
+ru004:004	18	@	-	ilmoita␣
+ru004:004	19	@	-	minulle
+ru004:004	-	(,)	-	,␣
+ru004:004	21a	@	-	että␣
+ru004:004	21b	(@)	-	saan␣
+ru004:004	-	(@)	-	sen␣
+ru004:004	21b	@	-	tietää
+ru004:004	-	(;)	-	;␣
+ru004:004	22	@	-	sillä␣
+ru004:004	23	@	-	ei␣
+ru004:004	23	@	-	ole␣
+ru004:004	-	(@)	-	ketään␣
+ru004:004	24	@	-	muuta␣
+ru004:004	25b	@	-	sukulunastajaa␣
+ru004:004	25a	%case	PTV	
+ru004:004	24	@	-	kuin␣
+ru004:004	pers%24	@	-	sinä
+ru004:004	-	(,)	-	,␣
+ru004:004	26a	@	-	ja␣
+ru004:004	pers%27	@	-	sinun␣
+ru004:004	27	@	-	jälkeesi␣
+ru004:004	26b	@	-	minä
+ru004:004	(28a)	-	UNTRANSLATED	
+ru004:004	-	(.)	-	.
+ru004:004	-	(@)	-	"␣
+ru004:004	28b	(@)	-	Hän␣
+ru004:004	28b	@	-	sanoi
+ru004:004	-	(:)	-	:␣
+ru004:004	-	(@)	-	"
+ru004:004	29	@	-	Minä␣
+ru004:004	30	@	-	lunastan␣
+ru004:004	-	(@)	-	sen
+ru004:004	-	(@)	-	"
+ru004:004	-	(.)	-	.␣
+ru004:005	ru004:005	ru004:005	VERSE	Ruut␣4:5␣
+ru004:005	1a	@	-	Niin␣
+ru004:005	2	@	-	Booas␣
+ru004:005	1b	@	-	sanoi
+ru004:005	-	(:)	-	:␣
+ru004:005	-	(@)	-	"
+ru004:005	4	@	-	Ostaessasi␣
+ru004:005	3a 3b	%case	LOC	
+ru004:005	(5a) 5b	@	-	pellon␣
+ru004:005	7	@	-	Noomilta␣
+ru004:005	6a 6b	%case	LOC	
+ru004:005	(8a)	-	UNTRANSLATED	
+ru004:005	14	@	-	ostat␣
+ru004:005	-	(@)	-	sen␣
+ru004:005	-	(@)	-	myöskin␣
+ru004:005	(10a) 10b	@	-	mooabilaiselta␣
+ru004:005	9	@	-	Ruutilta
+ru004:005	8b 8c	%case	LOC	
+ru004:005	-	(,)	-	,␣
+ru004:005	(12a) 12b	@	-	vainajan␣
+ru004:005	11	@	-	leskeltä
+ru004:005	-	(,)	-	,␣
+ru004:005	-	(@)	-	ja␣
+ru004:005	-	(@)	-	sinun␣
+ru004:005	15b	(@)	-	on␣
+ru004:005	15b	@	-	pysytettävä␣
+ru004:005	15a	%case	NOM	
+ru004:005	(17a) 17b	@	-	vainajan␣
+ru004:005	16	@	-	nimi␣
+ru004:005	pers%19	@	-	hänen␣
+ru004:005	19	@	-	perintöosassaan
+ru004:005	18	%case	LOC	
+ru004:005	-	(@)	-	"
+ru004:005	-	(.)	-	.␣
+ru004:006	ru004:006	ru004:006	VERSE	Ruut␣4:6␣
+ru004:006	1a	@	-	Silloin␣
+ru004:006	1b	@	-	sanoi␣
+ru004:006	(2a) 2b	@	-	sukulunastaja
+ru004:006	-	(:)	-	:␣
+ru004:006	-	(@)	-	"
+ru004:006	3	@	-	En␣
+ru004:006	4	@	-	voi␣
+ru004:006	6b	@	-	lunastaa␣
+ru004:006	6a	%case	LAT	
+ru004:006	-	(@)	-	sitä␣
+ru004:006	7	@	-	itselleni
+ru004:006	-	(,)	-	,␣
+ru004:006	8	@	-	sillä␣
+ru004:006	8	@	-	siten␣
+ru004:006	9	(@)	-	minä␣
+ru004:006	9	@	-	turmelisin␣
+ru004:006	pers%11	@	-	oman␣
+ru004:006	11	@	-	perintöosani
+ru004:006	10	%case	NOM.GEN	
+ru004:006	-	(.)	-	.␣
+ru004:006	12	@	-	Lunasta␣
+ru004:006	14	@	-	sinä␣
+ru004:006	13	@	-	itsellesi
+ru004:006	-	(,)	-	,␣
+ru004:006	-	(@)	-	mitä␣
+ru004:006	pers%16	@	-	minun␣
+ru004:006	16	(@)	-	olisi␣
+ru004:006	16	@	-	lunastettava
+ru004:006	15	%case	NOM	
+ru004:006	(17)	-	UNTRANSLATED	
+ru004:006	-	(;)	-	;␣
+ru004:006	19	(@)	-	minä␣
+ru004:006	18	@	-	en␣
+ru004:006	19	@	-	voi␣
+ru004:006	-	(@)	-	sitä␣
+ru004:006	20b	@	-	tehdä
+ru004:006	20a	%case	LAT	
+ru004:006	-	(.)	-	.
+ru004:006	-	(@)	-	"␣
+ru004:007	ru004:007	ru004:007	VERSE	Ruut␣4:7␣
+ru004:007	(1a)	-	UNTRANSLATED	
+ru004:007	2b	@	-	Muinoin␣
+ru004:007	2a	%case	?	
+ru004:007	-	(@)	-	oli␣
+ru004:007	3b	@	-	Israelissa␣
+ru004:007	3a	%case	LOC	
+ru004:007	(5a) 5b	@	-	lunastus-~/lunastuskauppoja␣
+ru004:007	4	%case	PTV	
+ru004:007	6a	@	-	ja␣
+ru004:007	(7a) 7b	@	-	vaihtokauppoja␣
+ru004:007	6b	%case	PTV	
+ru004:007	8b	@	-	vahvistettaessa␣
+ru004:007	10 8a 9	%case	LOC	
+ru004:007	-	(@)	-	tapa␣
+ru004:007	1b	@	-	tällainen
+ru004:007	-	(:)	-	:␣
+ru004:007	11	@	-	riisuttiin␣
+ru004:007	12	%inflection	PSS.PAST	
+ru004:007	13	@	-	kenkä␣
+ru004:007	14a	@	-	ja␣
+ru004:007	14b	@	-	annettiin␣
+ru004:007	15b	@	-	toiselle
+ru004:007	15a	%case	LOC	
+ru004:007	(16a)	-	UNTRANSLATED	
+ru004:007	-	(;)	-	;␣
+ru004:007	16b	@	-	tätä␣
+ru004:007	-	(@)	-	käytettiin␣
+ru004:007	18b	@	-	Israelissa␣
+ru004:007	18a	%case	LOC	
+ru004:007	(17a) 17b	@	-	todistuksena
+ru004:007	-	(.)	-	.␣
+ru004:008	ru004:008	ru004:008	VERSE	Ruut␣4:8␣
+ru004:008	1a	@	-	Niin␣
+ru004:008	(2a) 2b	@	-	sukulunastaja␣
+ru004:008	1b	@	-	sanoi␣
+ru004:008	3b	@	-	Booaalle
+ru004:008	3a	%case	LOC	
+ru004:008	-	(:)	-	:␣
+ru004:008	-	(@)	-	"
+ru004:008	4	@	-	Osta␣
+ru004:008	4	(@)	-	sinä␣
+ru004:008	-	(@)	-	se␣
+ru004:008	5	@	-	itsellesi
+ru004:008	-	(@)	-	"
+ru004:008	-	(.)	-	.␣
+ru004:008	6a	@	-	Ja␣
+ru004:008	6b	(@)	-	hän␣
+ru004:008	6b	@	-	veti␣
+ru004:008	7	@	-	kengän␣
+ru004:008	-	(@)	-	jalastaan
+ru004:008	-	(.)	-	.␣
+ru004:009	ru004:009	ru004:009	VERSE	Ruut␣4:9␣
+ru004:009	1a	@	-	Silloin␣
+ru004:009	1b	@	-	sanoi␣
+ru004:009	2	@	-	Booas␣
+ru004:009	3b	@	-	vanhimmille␣
+ru004:009	3a	%case	LOC	
+ru004:009	4a	@	-	ja␣
+ru004:009	4b	@	-	kaikelle␣
+ru004:009	(5a) 5b	@	-	kansalle
+ru004:009	-	(:)	-	:␣
+ru004:009	-	(@)	-	"
+ru004:009	7	@	-	Te␣
+ru004:009	-	(@)	-	olette␣
+ru004:009	(8a) 8b	@	-	tänään␣
+ru004:009	6	@	-	todistajina
+ru004:009	-	(,)	-	,␣
+ru004:009	9	@	-	että␣
+ru004:009	10	(@)	-	minä␣
+ru004:009	10	@	-	ostan␣
+ru004:009	21	@	-	Noomilta␣
+ru004:009	20a 20b	%case	LOC	
+ru004:009	12	@	-	kaiken␣
+ru004:009	11	%case	GEN	
+ru004:009	14b	@	-	Elimelekin␣
+ru004:009	13 14a	%case	GEN	
+ru004:009	15a	@	-	ja␣
+ru004:009	16	@	-	kaiken␣
+ru004:009	15b	%case	GEN	
+ru004:009	18b	@	-	Kiljonin␣
+ru004:009	17 18a	%case	GEN	
+ru004:009	19a	@	-	ja␣
+ru004:009	19b	@	-	Mahlonin␣
+ru004:009	-	(@)	-	omaisuuden
+ru004:009	-	(.)	-	.␣
+ru004:010	ru004:010	ru004:010	VERSE	Ruut␣4:10␣
+ru004:010	1a	@	-	Samalla␣
+ru004:010	7	(@)	-	minä␣
+ru004:010	7	(@)	-	olen␣
+ru004:010	7	@	-	ostanut␣
+ru004:010	1b	@	-	myös␣
+ru004:010	(4a) 4b	@	-	mooabilaisen␣
+ru004:010	3	@	-	Ruutin
+ru004:010	2	%case	GEN	
+ru004:010	-	(,)	-	,␣
+ru004:010	6	@	-	Mahlonin␣
+ru004:010	5	@	-	lesken
+ru004:010	-	(,)	-	,␣
+ru004:010	9b	@	-	vaimokseni
+ru004:010	8 9a	%case	TRA	
+ru004:010	-	(,)	-	,␣
+ru004:010	10b	@	-	pysyttääkseni␣
+ru004:010	10a	%case	TRA	
+ru004:010	(12a) 12b	@	-	vainajan␣
+ru004:010	11	@	-	nimen␣
+ru004:010	pers%14	@	-	hänen␣
+ru004:010	14	@	-	perintöosassaan
+ru004:010	13	%case	LOC	
+ru004:010	-	(,)	-	,␣
+ru004:010	15a 15b	@	-	ettei␣
+ru004:010	(18a) 18b	@	-	vainajan␣
+ru004:010	17	@	-	nimi␣
+ru004:010	16	@	-	häviäisi␣
+ru004:010	pers%20	@	-	hänen␣
+ru004:010	20	@	-	veljiensä␣
+ru004:010	19b	@	-	keskuudesta␣
+ru004:010	19a	%case	LOC	
+ru004:010	21a	@	-	eikä␣
+ru004:010	pers%22	@	-	hänen␣
+ru004:010	22	@	-	kotipaikkansa␣
+ru004:010	21c	@	-	portista
+ru004:010	21b	%case	LOC	
+ru004:010	-	(;)	-	;␣
+ru004:010	-	(@)	-	sen␣
+ru004:010	23	@	-	todistajat␣
+ru004:010	24	@	-	te␣
+ru004:010	-	(@)	-	olette␣
+ru004:010	25a	@	-	tänä␣
+ru004:010	25b	@	-	päivänä
+ru004:010	-	(.)	-	.
+ru004:010	-	(@)	-	"␣
+ru004:011	ru004:011	ru004:011	VERSE	Ruut␣4:11␣
+ru004:011	1a	@	-	Niin␣
+ru004:011	2	@	-	kaikki␣
+ru004:011	(3a) 3b	@	-	kansa
+ru004:011	-	(,)	-	,␣
+ru004:011	4	@	-	joka␣
+ru004:011	-	(@)	-	oli␣
+ru004:011	5b	@	-	portissa␣
+ru004:011	5a	%case	LOC	
+ru004:011	-	(@)	-	saapuvilla
+ru004:011	-	(,)	-	,␣
+ru004:011	6a	@	-	ja␣
+ru004:011	(6b) 6c	@	-	vanhimmat␣
+ru004:011	1b	@	-	sanoivat
+ru004:011	-	(:)	-	:␣
+ru004:011	-	(@)	-	"
+ru004:011	-	(@)	-	Me␣
+ru004:011	-	(@)	-	olemme␣
+ru004:011	-	(@)	-	sen␣
+ru004:011	7	@	-	todistajat
+ru004:011	-	(.)	-	.␣
+ru004:011	8	@	-	Suokoon␣
+ru004:011	9	@	-	Herra
+ru004:011	-	(,)	-	,␣
+ru004:011	-	(@)	-	että␣
+ru004:011	(11a) 11b	@	-	vaimo
+ru004:011	10	%case	NOM	
+ru004:011	-	(,)	-	,␣
+ru004:011	12a	@	-	joka␣
+ru004:011	12b	@	-	tulee␣
+ru004:011	14	@	-	taloosi
+ru004:011	13	%case	LOC	
+ru004:011	-	(,)	-	,␣
+ru004:011	-	(@)	-	tulisi␣
+ru004:011	15b	@	-	Raakelin␣
+ru004:011	15a	%case	GEN	
+ru004:011	16a	@	-	ja␣
+ru004:011	16c	@	-	Leean␣
+ru004:011	16b	@	-	kaltaiseksi
+ru004:011	-	(,)	-	,␣
+ru004:011	17	@	-	jotka␣
+ru004:011	19	@	-	molemmat␣
+ru004:011	18	@	-	rakensivat␣
+ru004:011	22	@	-	Israelin␣
+ru004:011	21	@	-	huoneen
+ru004:011	20	%case	GEN	
+ru004:011	(23a)	-	UNTRANSLATED	
+ru004:011	-	(.)	-	.␣
+ru004:011	23b	@	-	Tee␣
+ru004:011	24	@	-	väkeviä␣
+ru004:011	24	@	-	tekoja␣
+ru004:011	25b	@	-	Efratassa␣
+ru004:011	25a	%case	LOC	
+ru004:011	26a	@	-	ja␣
+ru004:011	26b	@	-	saata␣
+ru004:011	27	@	-	nimesi␣
+ru004:011	26b	@	-	kuuluisaksi␣
+ru004:011	28b	@	-	Beetlehemissä
+ru004:011	28a	%case	LOC	
+ru004:011	-	(.)	-	.␣
+ru004:012	ru004:012	ru004:012	VERSE	Ruut␣4:12␣
+ru004:012	1a	@	-	Ja␣
+ru004:012	1b	@	-	tulkoon␣
+ru004:012	-	(@)	-	niistä␣
+ru004:012	(10a) 10b	@	-	jälkeläisistä
+ru004:012	9	%case	LOC	
+ru004:012	-	(,)	-	,␣
+ru004:012	11	@	-	jotka␣
+ru004:012	13	@	-	Herra␣
+ru004:012	12	@	-	antaa␣
+ru004:012	14	@	-	sinulle␣
+ru004:012	(17a) 17b	@	-	tästä␣
+ru004:012	(16a) 16b	@	-	nuoresta␣
+ru004:012	(16a) 16b	@	-	naisesta
+ru004:012	15	%case	LOC	
+ru004:012	-	(,)	-	,␣
+ru004:012	pers%2	@	-	sinulle␣
+ru004:012	2	@	-	suku
+ru004:012	-	(,)	-	,␣
+ru004:012	4	@	-	Pereksen␣
+ru004:012	3b	@	-	suvun␣
+ru004:012	3a	@	-	kaltainen
+ru004:012	-	(,)	-	,␣
+ru004:012	-	(@)	-	hänen
+ru004:012	-	(,)	-	,␣
+ru004:012	5	@	-	jonka␣
+ru004:012	7	@	-	Taamar␣
+ru004:012	6	@	-	synnytti␣
+ru004:012	8b	@	-	Juudalle
+ru004:012	8a	%case	LOC	
+ru004:012	-	(.)	-	.
+ru004:012	-	(@)	-	"␣
+ru004:013	ru004:013	ru004:013	VERSE	Ruut␣4:13␣
+ru004:013	1a	@	-	Niin␣
+ru004:013	2	@	-	Booas␣
+ru004:013	1b	@	-	otti␣
+ru004:013	4	@	-	Ruutin
+ru004:013	3	%case	GEN	
+ru004:013	-	(,)	-	,␣
+ru004:013	5a	@	-	ja␣
+ru004:013	5b	(@)	-	tämä␣
+ru004:013	5b	@	-	tuli␣
+ru004:013	6	@	-	hänen␣
+ru004:013	7b	@	-	vaimokseen
+ru004:013	7a	%case	TRA	
+ru004:013	-	(.)	-	.␣
+ru004:013	8a	@	-	Ja␣
+ru004:013	8b	(@)	-	hän␣
+ru004:013	8b	@	-	yhtyi␣
+ru004:013	9	@	-	häneen
+ru004:013	-	(;)	-	;␣
+ru004:013	10a	@	-	ja␣
+ru004:013	11	@	-	Herra␣
+ru004:013	10b	@	-	antoi␣
+ru004:013	12	@	-	hänen␣
+ru004:013	13	@	-	tulla␣
+ru004:013	13	@	-	raskaaksi
+ru004:013	-	(,)	-	,␣
+ru004:013	14a	@	-	ja␣
+ru004:013	14b	(@)	-	hän␣
+ru004:013	14b	@	-	synnytti␣
+ru004:013	15	@	-	pojan
+ru004:013	-	(.)	-	.␣
+ru004:014	ru004:014	ru004:014	VERSE	Ruut␣4:14␣
+ru004:014	1a	@	-	Silloin␣
+ru004:014	(2a) 2b	@	-	vaimot␣
+ru004:014	1b	@	-	sanoivat␣
+ru004:014	4	@	-	Noomille
+ru004:014	3	%case	LOC	
+ru004:014	-	(:)	-	:␣
+ru004:014	-	(@)	-	"
+ru004:014	5	@	-	Kiitetty␣
+ru004:014	5	(@)	-	olkoon␣
+ru004:014	6	@	-	Herra
+ru004:014	-	(,)	-	,␣
+ru004:014	7	@	-	joka␣
+ru004:014	12a	@	-	tänä␣
+ru004:014	12b	@	-	päivänä␣
+ru004:014	9	(@)	-	salli␣
+ru004:014	8	%inflection	ACT.PAST.3S	
+ru004:014	10	@	-	sinun␣
+ru004:014	9	@	-	saada␣
+ru004:014	11	@	-	sukulunastajan
+ru004:014	(13a)	-	UNTRANSLATED	
+ru004:014	-	(.)	-	.␣
+ru004:014	pers%14	@	-	Hänen␣
+ru004:014	14	@	-	nimensä␣
+ru004:014	13b	@	-	tulee␣
+ru004:014	13b	@	-	kuuluisaksi␣
+ru004:014	15b	@	-	Israelissa
+ru004:014	15a	%case	LOC	
+ru004:014	-	(.)	-	.␣
+ru004:015	ru004:015	ru004:015	VERSE	Ruut␣4:15␣
+ru004:015	(1a)	-	UNTRANSLATED	
+ru004:015	1b	(@)	-	Hän␣
+ru004:015	1b	@	-	on␣
+ru004:015	3b 4	@	-	virvoittava␣
+ru004:015	3a	%case	NOM	
+ru004:015	2	@	-	sinua
+ru004:015	-	(,)	-	,␣
+ru004:015	5a	@	-	ja␣
+ru004:015	-	(@)	-	hänestä␣
+ru004:015	-	(@)	-	on␣
+ru004:015	-	(@)	-	tuleva␣
+ru004:015	pers%7	@	-	sinun␣
+ru004:015	7	@	-	vanhuutesi␣
+ru004:015	6	%case	NOM.GEN	
+ru004:015	5c	@	-	tuki
+ru004:015	5b	%case	NOM	
+ru004:015	-	(,)	-	,␣
+ru004:015	8	@	-	sillä␣
+ru004:015	9	@	-	miniäsi
+ru004:015	-	(,)	-	,␣
+ru004:015	10	@	-	joka␣
+ru004:015	11	@	-	rakastaa␣
+ru004:015	pers%11	@	-	sinua
+ru004:015	-	(,)	-	,␣
+ru004:015	12	(@)	-	on␣
+ru004:015	pers%12	@	-	hänet␣
+ru004:015	12	@	-	synnyttänyt
+ru004:015	-	(,)	-	,␣
+ru004:015	14	@	-	hän
+ru004:015	-	(,)	-	,␣
+ru004:015	13	@	-	joka␣
+ru004:015	-	(@)	-	on␣
+ru004:015	16	@	-	sinulle␣
+ru004:015	15	@	-	parempi␣
+ru004:015	17a	@	-	kuin␣
+ru004:015	17b	@	-	seitsemän␣
+ru004:015	18	@	-	poikaa
+ru004:015	-	(.)	-	.
+ru004:015	-	(@)	-	"␣
+ru004:016	ru004:016	ru004:016	VERSE	Ruut␣4:16␣
+ru004:016	1a	@	-	Niin␣
+ru004:016	2	@	-	Noomi␣
+ru004:016	1b	@	-	otti␣
+ru004:016	(4a) 4b	@	-	lapsen
+ru004:016	3	%case	GEN	
+ru004:016	(5a)	-	UNTRANSLATED	
+ru004:016	-	(,)	-	,␣
+ru004:016	5b	@	-	pani␣
+ru004:016	pers%5b	@	-	sen␣
+ru004:016	6b	@	-	helmaansa␣
+ru004:016	6a	%case	LOC	
+ru004:016	7a	@	-	ja␣
+ru004:016	7b	@	-	rupesi␣
+ru004:016	8	@	-	sen␣
+ru004:016	9b	@	-	hoitajaksi
+ru004:016	9a	%case	TRA	
+ru004:016	-	(.)	-	.␣
+ru004:017	ru004:017	ru004:017	VERSE	Ruut␣4:17␣
+ru004:017	1a	@	-	Ja␣
+ru004:017	(3a) 3b	@	-	naapurivaimot␣
+ru004:017	1b	@	-	antoivat␣
+ru004:017	2	@	-	lapselle␣
+ru004:017	4	@	-	nimen
+ru004:017	-	(,)	-	,␣
+ru004:017	5a 5b	@	-	sanoen
+ru004:017	-	(:)	-	:␣
+ru004:017	-	(@)	-	"
+ru004:017	8b	@	-	Noomille␣
+ru004:017	8a	%case	LOC	
+ru004:017	6	(@)	-	on␣
+ru004:017	6	@	-	syntynyt␣
+ru004:017	7	@	-	poika
+ru004:017	-	(@)	-	"
+ru004:017	-	(.)	-	.␣
+ru004:017	9a	@	-	Ja␣
+ru004:017	9b	(@)	-	he␣
+ru004:017	9b	@	-	panivat␣
+ru004:017	pers%10	@	-	hänen␣
+ru004:017	10	@	-	nimekseen␣
+ru004:017	11	@	-	Oobed
+ru004:017	-	(.)	-	.␣
+ru004:017	12	@	-	Hänestä␣
+ru004:017	-	(@)	-	tuli␣
+ru004:017	14	@	-	Iisain
+ru004:017	-	(,)	-	,␣
+ru004:017	16	@	-	Daavidin␣
+ru004:017	15	@	-	isän
+ru004:017	-	(,)	-	,␣
+ru004:017	13	@	-	isä
+ru004:017	-	(.)	-	.␣
+ru004:018	ru004:018	ru004:018	VERSE	Ruut␣4:18␣
+ru004:018	(1a)	-	UNTRANSLATED	
+ru004:018	1b	@	-	Tämä␣
+ru004:018	-	(@)	-	on␣
+ru004:018	3	@	-	Pereksen␣
+ru004:018	2	@	-	sukuluettelo
+ru004:018	-	(:)	-	:␣
+ru004:018	4	@	-	Perekselle␣
+ru004:018	5	@	-	syntyi␣
+ru004:018	7	@	-	Hesron
+ru004:018	6	%case	NOM	
+ru004:018	-	(.)	-	.␣
+ru004:019	ru004:019	ru004:019	VERSE	Ruut␣4:19␣
+ru004:019	(1a)	-	UNTRANSLATED	
+ru004:019	1b	@	-	Hesronille␣
+ru004:019	2	@	-	syntyi␣
+ru004:019	4	@	-	Raam
+ru004:019	3	%case	NOM	
+ru004:019	-	(,)	-	,␣
+ru004:019	5a	@	-	ja␣
+ru004:019	5b	@	-	Raamille␣
+ru004:019	6	@	-	syntyi␣
+ru004:019	8	@	-	Amminadab
+ru004:019	7	%case	NOM	
+ru004:019	-	(.)	-	.␣
+ru004:020	ru004:020	ru004:020	VERSE	Ruut␣4:20␣
+ru004:020	(1a)	-	UNTRANSLATED	
+ru004:020	1b	@	-	Amminadabille␣
+ru004:020	2	@	-	syntyi␣
+ru004:020	4	@	-	Nahson
+ru004:020	3	%case	NOM	
+ru004:020	-	(,)	-	,␣
+ru004:020	5a	@	-	ja␣
+ru004:020	5b	@	-	Nahsonille␣
+ru004:020	6	@	-	syntyi␣
+ru004:020	8	@	-	Salma
+ru004:020	7	%case	NOM	
+ru004:020	-	(.)	-	.␣
+ru004:021	ru004:021	ru004:021	VERSE	Ruut␣4:21␣
+ru004:021	(1a)	-	UNTRANSLATED	
+ru004:021	1b	@	-	Salmalle␣
+ru004:021	2	@	-	syntyi␣
+ru004:021	4	@	-	Booas
+ru004:021	3	%case	NOM	
+ru004:021	-	(,)	-	,␣
+ru004:021	5a	@	-	ja␣
+ru004:021	5b	@	-	Booaalle␣
+ru004:021	6	@	-	syntyi␣
+ru004:021	8	@	-	Oobed
+ru004:021	7	%case	NOM	
+ru004:021	-	(.)	-	.␣
+ru004:022	ru004:022	ru004:022	VERSE	Ruut␣4:22␣
+ru004:022	(1a)	-	UNTRANSLATED	
+ru004:022	1b	@	-	Oobedille␣
+ru004:022	2	@	-	syntyi␣
+ru004:022	4	@	-	Iisai
+ru004:022	3	%case	NOM	
+ru004:022	-	(,)	-	,␣
+ru004:022	5a	@	-	ja␣
+ru004:022	5b	@	-	Iisaille␣
+ru004:022	6	@	-	syntyi␣
+ru004:022	8	@	-	Daavid
+ru004:022	7	%case	NOM	
+ru004:022	-	(.)	-	.␣
