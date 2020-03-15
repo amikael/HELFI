@@ -5,4 +5,4 @@ The Synthesis of the Components:
 
 On licensing, see the files: 
 * FABC-2020m3-README.txt
-* FABC-2020m3-AIKA-lemmas-morpholog-COPYING.txt
+* FABC-2020m3-HELFI-alignment-COPYING.txt
