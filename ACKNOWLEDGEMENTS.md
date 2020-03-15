@@ -1,4 +1,4 @@
-## Acknowledgements and Contributors
+## Acknowledgements
 
 The dataset was created between 1991-2020 in two phases.  The **Product Development** phase (the Finnish Analytical Bible Concordance Project 1991-1997) was funded by Aika[media] Oy.  The Finnish lemmatisation has been supported by Aikamedia's collaboration with [Lingsoft Oy](https://www.lingsoft.fi/) and Professor Kimmo Koskenniemi at the University of Helsinki (UH).  The members of the editorial board were:  
 * **Executive Editor** [Valtter Luoto](https://fi.wikipedia.org/wiki/Valtter_Luoto) (the publication of Bible Encyclopedias, visionary goals, concept design, and funding negotiation at Aika Oy), 
