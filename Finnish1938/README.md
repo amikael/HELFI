@@ -1,8 +1,8 @@
 The Finnish 1933/1938 Bible Translation
 
-1. The Finnish Analytical Bible Concordance 2020.3 Text Edition
-1. The HELFI Alignment Data
-1. The AIKA Lemmas and Morphology
+1. The Finnish Analytical Bible Concordance (FABC) 2020.3 Text Edition
+1. The HELFI Alignment Data of the FABC 2020.3 Text Edition
+1. The AIKA Lemmas and Morphology of the FABC 2020.3 Text Edition
 
 The subdirectories contain:
 
