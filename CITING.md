@@ -20,7 +20,7 @@ The alignment excludes and data does not include the Hebrew, Greek and Finnish b
 
 ## The In-House Version of the Alignment Database
 
-The in-house version of the alignment database was first included to a proprietary Scaffold Corpus inside the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  After the Scaffold Corpus was ready, the publisher used it to produce the handbook in a few months:
+The in-house version of the alignment database was first included to a proprietary Scaffold Corpus inside the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  After the Scaffold Corpus was ready, the publisher used it to produce, in a few months, the first two volumes of a 4-volume handbook series that also contained Hebrew-Finnish, Aramaic-Finnish and Greek-Finnish lexicons (Volumes 2-3).
 
 > Valtter Luoto, Matti Liljeqvist, Anssi Yli-Jyrä, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, editors. (1997). _Iso Raamatun Sanahakemisto (The Finnish Analytical Bible Concordance)_, volumes 1–2. Raamatun Tietokirja, Aika Oy Kristilliset Kirjat, Keuruu, Finland.
 
