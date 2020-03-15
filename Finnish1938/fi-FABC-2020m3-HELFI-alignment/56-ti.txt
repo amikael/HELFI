@@ -1,0 +1,921 @@
+ti001:001	ti001:001	ti001:001	VERSE	Tiit␣1:1␣
+ti001:001	1	@	-	Paavali
+ti001:001	-	(,)	-	,␣
+ti001:001	3a	@	-	Jumalan␣
+ti001:001	2	@	-	palvelija␣
+ti001:001	5	@	-	ja␣
+ti001:001	6	@	-	Jeesuksen␣
+ti001:001	7	@	-	Kristuksen␣
+ti001:001	4	@	-	apostoli␣
+ti001:001	11	@	-	Jumalan␣
+ti001:001	10	@	-	valittujen␣
+ti001:001	9	@	-	uskoa␣
+ti001:001	12	@	-	ja␣
+ti001:001	-	(@)	-	sen␣
+ti001:001	14	@	-	totuuden␣
+ti001:001	13	@	-	tuntemista␣
+ti001:001	8	@	-	varten
+ti001:001	-	(,)	-	,␣
+ti001:001	15	@	-	joka␣
+ti001:001	-	(@)	-	on␣
+ti001:001	17	@	-	jumalisuuden␣
+ti001:001	16	@	-	mukainen
+ti001:001	-	(,)	-	,␣
+ti001:002	ti001:002	ti001:002	VERSE	Tiit␣1:2␣
+ti001:002	-	(@)	-	apostoli␣
+ti001:002	-	(@)	-	sen␣
+ti001:002	4a	@	-	iankaikkisen␣
+ti001:002	3	@	-	elämän␣
+ti001:002	2	@	-	toivon␣
+ti001:002	1	@	-	perusteella
+ti001:002	4b	,	-	,␣
+ti001:002	5	@	-	jonka␣
+ti001:002	9	@	-	Jumala
+ti001:002	-	(,)	-	,␣
+ti001:002	7	@	-	joka␣
+ti001:002	8	@	-	ei␣
+ti001:002	8	@	-	valhettele
+ti001:002	-	(,)	-	,␣
+ti001:002	6	(@)	-	on␣
+ti001:002	6	@	-	luvannut␣
+ti001:002	10	@	-	ennen␣
+ti001:002	12a	@	-	ikuisia␣
+ti001:002	11	@	-	aikoja␣
+ti001:002	12b	-	-	-␣
+ti001:003	ti001:003	ti001:003	VERSE	Tiit␣1:3␣
+ti001:003	2	@	-	mutta␣
+ti001:003	-	(@)	-	kun␣
+ti001:003	3	@	-	aika␣
+ti001:003	pro%4	(@)	-	oli␣
+ti001:003	pro%4	@	-	tullut
+ti001:003	-	(,)	-	,␣
+ti001:003	1	@	-	ilmoitti␣
+ti001:003	1	(@)	-	hän␣
+ti001:003	(5) 6	@	-	sanansa␣
+ti001:003	7	%pers	3	
+ti001:003	9a	@	-	saarnassa
+ti001:003	8	%case	LOC	
+ti001:003	9b	,	-	,␣
+ti001:003	10	@	-	joka␣
+ti001:003	11	(@)	-	on␣
+ti001:003	11	@	-	uskottu␣
+ti001:003	12	@	-	minulle␣
+ti001:003	18a	@	-	Jumalan
+ti001:003	-	(,)	-	,␣
+ti001:003	17	@	-	meidän␣
+ti001:003	(15) 16	@	-	vapahtajamme
+ti001:003	-	(,)	-	,␣
+ti001:003	14	@	-	käskyn␣
+ti001:003	13	@	-	mukaan
+ti001:003	18b	:	-	:␣
+ti001:004	ti001:004	ti001:004	VERSE	Tiit␣1:4␣
+ti001:004	1	@	-	Tiitukselle
+ti001:004	-	(,)	-	,␣
+ti001:004	2	@	-	oikealle␣
+ti001:004	3	@	-	pojalleni␣
+ti001:004	5	@	-	yhteisen␣
+ti001:004	6a	@	-	uskomme␣
+ti001:004	4	@	-	perusteella
+ti001:004	6b	.	-	.␣
+ti001:004	7	@	-	Armo␣
+ti001:004	8	@	-	ja␣
+ti001:004	9	@	-	rauha␣
+ti001:004	12	@	-	Isältä␣
+ti001:004	11	@	-	Jumalalta␣
+ti001:004	10	%case	LOC	
+ti001:004	13	@	-	ja␣
+ti001:004	18a	@	-	meidän␣
+ti001:004	(16) 17	@	-	Vapahtajaltamme␣
+ti001:004	14	@	-	Kristukselta␣
+ti001:004	15	@	-	Jeesukselta
+ti001:004	-	(!)	-	!␣
+ti001:005	ti001:005	ti001:005	VERSE	Tiit␣1:5␣
+ti001:005	3	(@)	-	Minä␣
+ti001:005	3	@	-	jätin␣
+ti001:005	4	@	-	sinut␣
+ti001:005	6a	@	-	Kreettaan␣
+ti001:005	5	%case	LOC	
+ti001:005	1	@	-	sitä␣
+ti001:005	2	@	-	varten
+ti001:005	6b	,	-	,␣
+ti001:005	7	@	-	että␣
+ti001:005	10	@	-	järjestäisit
+ti001:005	-	(,)	-	,␣
+ti001:005	8	@	-	mitä␣
+ti001:005	-	(@)	-	vielä␣
+ti001:005	9	@	-	jäi␣
+ti001:005	9	(@)	-	järjestämättä
+ti001:005	-	(,)	-	,␣
+ti001:005	11	@	-	ja␣
+ti001:005	-	(@)	-	että␣
+ti001:005	12	@	-	asettaisit
+ti001:005	-	(,)	-	,␣
+ti001:005	16	@	-	niinkuin␣
+ti001:005	17	@	-	minä␣
+ti001:005	18	@	-	sinulle␣
+ti001:005	19a	@	-	määräsin
+ti001:005	-	(,)	-	,␣
+ti001:005	13	@	-	joka␣
+ti001:005	14	@	-	kaupunkiin␣
+ti001:005	15a	@	-	vanhimmat
+ti001:005	19b	,	-	,␣
+ti001:006	ti001:006	ti001:006	VERSE	Tiit␣1:6␣
+ti001:006	1	@	-	jos␣
+ti001:006	-	(@)	-	missä␣
+ti001:006	3	@	-	olisi␣
+ti001:006	2	@	-	joku␣
+ti001:006	4a	@	-	nuhteeton
+ti001:006	4b	,	-	,␣
+ti001:006	5	@	-	yhden␣
+ti001:006	6	@	-	vaimon␣
+ti001:006	7a	@	-	mies
+ti001:006	7b	,	-	,␣
+ti001:006	9	(@)	-	jonka␣
+ti001:006	8	@	-	lapset␣
+ti001:006	9	@	-	ovat␣
+ti001:006	10a	@	-	uskovia
+ti001:006	10b	,	-	,␣
+ti001:006	11	@	-	eivät␣
+ti001:006	14	@	-	irstaudesta␣
+ti001:006	13	@	-	syytettyjä␣
+ti001:006	12	%case	PTV	
+ti001:006	15	@	-	eivätkä␣
+ti001:006	16a	@	-	niskoittelevia
+ti001:006	16b	.	-	.␣
+ti001:007	ti001:007	ti001:007	VERSE	Tiit␣1:7␣
+ti001:007	2	@	-	Sillä␣
+ti001:007	(3) 4	@	-	seurakunnan␣
+ti001:007	(3) 4	@	-	kaitsijan␣
+ti001:007	1	@	-	on
+ti001:007	-	(,)	-	,␣
+ti001:007	7	@	-	niinkuin␣
+ti001:007	8	@	-	Jumalan␣
+ti001:007	9a	@	-	huoneenhaltijan␣
+ti001:007	-	(@)	-	tulee
+ti001:007	-	(,)	-	,␣
+ti001:007	6	@	-	oltava␣
+ti001:007	5	@	-	nuhteeton
+ti001:007	9b	,	-	,␣
+ti001:007	10	@	-	ei␣
+ti001:007	11a	@	-	itserakas
+ti001:007	11b	,	-	,␣
+ti001:007	12	@	-	ei␣
+ti001:007	13a	@	-	pikavihainen
+ti001:007	13b	,	-	,␣
+ti001:007	14	@	-	ei␣
+ti001:007	15a	@	-	juomari
+ti001:007	15b	,	-	,␣
+ti001:007	16	@	-	ei␣
+ti001:007	17a	@	-	tappelija
+ti001:007	17b	,	-	,␣
+ti001:007	18	@	-	ei␣
+ti001:007	19a	@	-	häpeällisen␣
+ti001:007	19a	@	-	voiton␣
+ti001:007	19a	@	-	pyytäjä
+ti001:007	19b	,	-	,␣
+ti001:008	ti001:008	ti001:008	VERSE	Tiit␣1:8␣
+ti001:008	1	@	-	vaan␣
+ti001:008	2	@	-	vieraanvarainen
+ti001:008	-	(,)	-	,␣
+ti001:008	3	@	-	hyvää␣
+ti001:008	3	@	-	rakastava
+ti001:008	-	(,)	-	,␣
+ti001:008	4	@	-	maltillinen
+ti001:008	-	(,)	-	,␣
+ti001:008	5	@	-	oikeamielinen
+ti001:008	-	(,)	-	,␣
+ti001:008	6	@	-	pyhä
+ti001:008	-	(,)	-	,␣
+ti001:008	7a	@	-	itsensähillitseväinen
+ti001:008	7b	;	-	;␣
+ti001:009	ti001:009	ti001:009	VERSE	Tiit␣1:9␣
+ti001:009	-	(@)	-	hänen␣
+ti001:009	tasp%1	@	-	tulee␣
+ti001:009	1	@	-	pysyä␣
+ti001:009	1	@	-	kiinni␣
+ti001:009	(4) 5	@	-	opinmukaisessa
+ti001:009	3	%case	LOC	
+ti001:009	-	(,)	-	,␣
+ti001:009	6	@	-	luotettavassa␣
+ti001:009	(2) 7a	@	-	sanassa
+ti001:009	7b	,	-	,␣
+ti001:009	8	@	-	että␣
+ti001:009	10	@	-	olisi␣
+ti001:009	9	@	-	kykenevä␣
+ti001:009	11	@	-	sekä␣
+ti001:009	12	@	-	neuvomaan␣
+ti001:009	(16) 17	@	-	terveellä␣
+ti001:009	(14) 15	@	-	opilla␣
+ti001:009	13	%case	LOC	
+ti001:009	18	@	-	että␣
+ti001:009	21a	@	-	kumoamaan␣
+ti001:009	(19) 20	@	-	vastaansanojain␣
+ti001:009	(19) 20	(@)	-	väitteet
+ti001:009	21b	.	-	.␣
+ti001:010	ti001:010	ti001:010	VERSE	Tiit␣1:10␣
+ti001:010	2	@	-	Sillä␣
+ti001:010	3a	@	-	paljon␣
+ti001:010	1	@	-	on␣
+ti001:010	(4a)	-	UNTRANSLATED	
+ti001:010	5a	@	-	niskoittelevia
+ti001:010	5b	,	-	,␣
+ti001:010	6	@	-	turhanpuhujia␣
+ti001:010	7	@	-	ja␣
+ti001:010	8a	@	-	eksyttäjiä
+ti001:010	8b	,	-	,␣
+ti001:010	9	@	-	varsinkin␣
+ti001:010	(10) (12) 13a	@	-	ympärileikattujen␣
+ti001:010	11	@	-	joukossa
+ti001:010	13b	;	-	;␣
+ti001:011	ti001:011	ti001:011	VERSE	Tiit␣1:11␣
+ti001:011	1	@	-	semmoisilta␣
+ti001:011	2	@	-	on␣
+ti001:011	3a	@	-	suu␣
+ti001:011	3a	@	-	tukittava
+ti001:011	-	(,)	-	,␣
+ti001:011	-	(@)	-	sillä␣
+ti001:011	4	@	-	he␣
+ti001:011	7	@	-	kääntävät␣
+ti001:011	7	@	-	ylösalaisin␣
+ti001:011	5	@	-	kokonaisia␣
+ti001:011	6	@	-	huonekuntia␣
+ti001:011	8	@	-	opettamalla␣
+ti001:011	11	@	-	sopimattomia␣
+ti001:011	10 9	%case	PTV	
+ti001:011	12	@	-	häpeällisen␣
+ti001:011	13	@	-	voiton␣
+ti001:011	14a	@	-	vuoksi
+ti001:011	14b	.	-	.␣
+ti001:012	ti001:012	ti001:012	VERSE	Tiit␣1:12␣
+ti001:012	2	@	-	Eräs␣
+ti001:012	4	@	-	heistä
+ti001:012	3	%case	LOC	
+ti001:012	-	(,)	-	,␣
+ti001:012	6	@	-	heidän␣
+ti001:012	5	@	-	oma␣
+ti001:012	7a	@	-	profeettansa
+ti001:012	-	(,)	-	,␣
+ti001:012	1	(@)	-	on␣
+ti001:012	1	@	-	sanonut
+ti001:012	7b	:	-	:␣
+ti001:012	7b	@	-	"
+ti001:012	10a	@	-	Petturi␣
+ti001:012	8	@	-	Kreetan␣
+ti001:012	8	(@)	-	mies
+ti001:012	(9)	-	UNTRANSLATED	
+ti001:012	10b	,	-	,␣
+ti001:012	12a	@	-	peto␣
+ti001:012	11	@	-	ilkeä
+ti001:012	12b	,	-	,␣
+ti001:012	13 14a	@	-	laiskurivatsa
+ti001:012	-	(@)	-	"
+ti001:012	14b	.	-	.␣
+ti001:013	ti001:013	ti001:013	VERSE	Tiit␣1:13␣
+ti001:013	3	@	-	Tämä␣
+ti001:013	(1) 2	@	-	todistus␣
+ti001:013	4	@	-	on␣
+ti001:013	5a	@	-	tosi
+ti001:013	5b	;	-	;␣
+ti001:013	6 7 8	@	-	sentähden␣
+ti001:013	9	@	-	nuhtele␣
+ti001:013	10	@	-	heitä␣
+ti001:013	11a	@	-	ankarasti
+ti001:013	11b	,	-	,␣
+ti001:013	12	@	-	että␣
+ti001:013	13	@	-	tulisivat␣
+ti001:013	(15) 16a	@	-	uskossa␣
+ti001:013	14	%case	LOC	
+ti001:013	13	@	-	terveiksi␣
+ti001:014	ti001:014	ti001:014	VERSE	Tiit␣1:14␣
+ti001:014	1	@	-	eivätkä␣
+ti001:014	2	@	-	kiinnittäisi␣
+ti001:014	2	@	-	huomiotansa␣
+ti001:014	3	@	-	juutalaisiin␣
+ti001:014	4	@	-	taruihin␣
+ti001:014	5	@	-	eikä␣
+ti001:014	10a (9)	@	-	totuudesta␣
+ti001:014	8	@	-	pois␣
+ti001:014	8	@	-	kääntyvien␣
+ti001:014	7	@	-	ihmisten␣
+ti001:014	6	@	-	käskyihin
+ti001:014	10b	.	-	.␣
+ti001:015	ti001:015	ti001:015	VERSE	Tiit␣1:15␣
+ti001:015	1	@	-	Kaikki␣
+ti001:015	-	(@)	-	on␣
+ti001:015	2	@	-	puhdasta␣
+ti001:015	(3) 4a	@	-	puhtaille
+ti001:015	-	(;)	-	;␣
+ti001:015	6	@	-	mutta␣
+ti001:015	(5) 7	@	-	saastaisille␣
+ti001:015	8	@	-	ja␣
+ti001:015	9	@	-	uskottomille␣
+ti001:015	10	@	-	ei␣
+ti001:015	10	@	-	mikään␣
+ti001:015	-	(@)	-	ole␣
+ti001:015	11a	@	-	puhdasta
+ti001:015	11b	,	-	,␣
+ti001:015	12	@	-	vaan␣
+ti001:015	14	@	-	heidän␣
+ti001:015	15	@	-	sekä␣
+ti001:015	(16) 17	@	-	mielensä␣
+ti001:015	18	@	-	että␣
+ti001:015	(19) 20a	@	-	omatuntonsa␣
+ti001:015	13	@	-	on␣
+ti001:015	13	@	-	saastainen
+ti001:015	20b	.	-	.␣
+ti001:016	ti001:016	ti001:016	VERSE	Tiit␣1:16␣
+ti001:016	2	(@)	-	He␣
+ti001:016	2	@	-	väittävät␣
+ti001:016	3a	@	-	tuntevansa␣
+ti001:016	1	@	-	Jumalan
+ti001:016	-	(,)	-	,␣
+ti001:016	5	@	-	mutta␣
+ti001:016	(4) 6	@	-	teoillaan␣
+ti001:016	7a	(@)	-	he␣
+ti001:016	-	(@)	-	hänet␣
+ti001:016	7a	@	-	kieltävät
+ti001:016	-	(,)	-	,␣
+ti001:016	9	(@)	-	sillä␣
+ti001:016	9	(@)	-	he␣
+ti001:016	9	@	-	ovat␣
+ti001:016	8	@	-	inhottavia␣
+ti001:016	10	@	-	ja␣
+ti001:016	11	@	-	tottelemattomia␣
+ti001:016	12	@	-	ja␣
+ti001:016	14	@	-	kaikkiin␣
+ti001:016	16	@	-	hyviin␣
+ti001:016	15	@	-	tekoihin␣
+ti001:016	13	%case	LOC	
+ti001:016	17a	@	-	kelvottomia
+ti001:016	17b	.	-	.␣
+ti002:001	ti002:001	ti002:001	VERSE	Tiit␣2:1␣
+ti002:001	2	@	-	Mutta␣
+ti002:001	1	@	-	sinä␣
+ti002:001	3	@	-	puhu␣
+ti002:001	4	@	-	sitä
+ti002:001	-	(,)	-	,␣
+ti002:001	4	@	-	mikä␣
+ti002:001	7	@	-	terveeseen␣
+ti002:001	(6) 8a	@	-	oppiin␣
+ti002:001	5	@	-	soveltuu
+ti002:001	8b	:	-	:␣
+ti002:002	ti002:002	ti002:002	VERSE	Tiit␣2:2␣
+ti002:002	1	@	-	vanhat␣
+ti002:002	1	@	-	miehet␣
+ti002:002	3a	@	-	olkoot␣
+ti002:002	2	@	-	raittiit
+ti002:002	3b	,	-	,␣
+ti002:002	4a	@	-	arvokkaat
+ti002:002	4b	,	-	,␣
+ti002:002	5a	@	-	siveät␣
+ti002:002	-	(@)	-	ja␣
+ti002:002	(7) 8a	@	-	uskossa
+ti002:002	-	(,)	-	,␣
+ti002:002	10a (9)	@	-	rakkaudessa␣
+ti002:002	-	(@)	-	ja␣
+ti002:002	(11) 12a	@	-	kärsivällisyydessä␣
+ti002:002	6	@	-	terveet
+ti002:002	12b	;	-	;␣
+ti002:003	ti002:003	ti002:003	VERSE	Tiit␣2:3␣
+ti002:003	2	@	-	niin␣
+ti002:003	2	@	-	myös␣
+ti002:003	1	@	-	vanhat␣
+ti002:003	1	@	-	naiset␣
+ti002:003	-	(@)	-	olkoot␣
+ti002:003	4	@	-	käytöksessään␣
+ti002:003	3	%case	LOC	
+ti002:003	5a	@	-	niinkuin␣
+ti002:003	5a	@	-	pyhien␣
+ti002:003	5a	@	-	sopii
+ti002:003	5b	,	-	,␣
+ti002:003	6	@	-	ei␣
+ti002:003	7	@	-	panettelijoita
+ti002:003	-	(,)	-	,␣
+ti002:003	8	@	-	ei␣
+ti002:003	10	@	-	paljon␣
+ti002:003	9	@	-	viinin␣
+ti002:003	11a	@	-	orjia
+ti002:003	-	(,)	-	,␣
+ti002:003	-	(@)	-	vaan␣
+ti002:003	12a	@	-	hyvään␣
+ti002:003	12a	@	-	neuvojia
+ti002:003	12b	,	-	,␣
+ti002:004	ti002:004	ti002:004	VERSE	Tiit␣2:4␣
+ti002:004	tasp%2	@	-	voidakseen␣
+ti002:004	1	%case	TRA	
+ti002:004	2	@	-	ohjata␣
+ti002:004	(3) 4	@	-	nuoria␣
+ti002:004	(3) 4	@	-	vaimoja␣
+ti002:004	5	@	-	rakastamaan␣
+ti002:004	5	@	-	miehiänsä␣
+ti002:004	(6a)	-	UNTRANSLATED	
+ti002:004	-	(@)	-	ja␣
+ti002:004	7	@	-	lapsiansa
+ti002:004	-	(,)	-	,␣
+ti002:005	ti002:005	ti002:005	VERSE	Tiit␣2:5␣
+ti002:005	-	(@)	-	olemaan␣
+ti002:005	1	@	-	siveitä
+ti002:005	-	(,)	-	,␣
+ti002:005	2	@	-	puhtaita
+ti002:005	-	(,)	-	,␣
+ti002:005	3	@	-	kotinsa␣
+ti002:005	3	@	-	hoitajia
+ti002:005	-	(,)	-	,␣
+ti002:005	4a	@	-	hyviä
+ti002:005	4b	,	-	,␣
+ti002:005	(6) 8a	@	-	miehilleen␣
+ti002:005	7	%pers	3	
+ti002:005	5	@	-	alamaisia
+ti002:005	8b	,	-	,␣
+ti002:005	10 9	@	-	ettei␣
+ti002:005	(13) 14	@	-	Jumalan␣
+ti002:005	(11) 12	@	-	sana␣
+ti002:005	15a	@	-	pilkatuksi␣
+ti002:005	15a	@	-	tulisi
+ti002:005	15b	.	-	.␣
+ti002:006	ti002:006	ti002:006	VERSE	Tiit␣2:6␣
+ti002:006	(1) 2	@	-	Nuorempia␣
+ti002:006	(1) 2	(@)	-	miehiä␣
+ti002:006	3	@	-	samoin␣
+ti002:006	4	@	-	kehoita␣
+ti002:006	5	@	-	käyttäytymään␣
+ti002:006	5	@	-	siveästi
+ti002:006	-	(.)	-	.␣
+ti002:007	ti002:007	ti002:007	VERSE	Tiit␣2:7␣
+ti002:007	4	@	-	Aseta␣
+ti002:007	3	@	-	itsesi␣
+ti002:007	2a	@	-	kaikessa␣
+ti002:007	1	%case	LOC	
+ti002:007	6	@	-	hyvien␣
+ti002:007	7a	@	-	tekojen␣
+ti002:007	5	@	-	esikuvaksi
+ti002:007	-	(,)	-	,␣
+ti002:007	-	(@)	-	olkoon␣
+ti002:007	10 (9)	@	-	opetuksesi␣
+ti002:007	8	%case	NOM.GEN	
+ti002:007	11a	@	-	puhdasta␣
+ti002:007	-	(@)	-	ja␣
+ti002:007	12a	@	-	arvokasta␣
+ti002:008	ti002:008	ti002:008	VERSE	Tiit␣2:8␣
+ti002:008	-	(@)	-	ja␣
+ti002:008	1	@	-	puheesi␣
+ti002:008	2	@	-	tervettä␣
+ti002:008	-	(@)	-	ja␣
+ti002:008	3a	@	-	moitteetonta
+ti002:008	3b	,	-	,␣
+ti002:008	4	@	-	että␣
+ti002:008	(5) 7	@	-	vastustaja␣
+ti002:008	6	%case	NOM	
+ti002:008	8	@	-	häpeäisi
+ti002:008	-	(,)	-	,␣
+ti002:008	10	(@)	-	kun␣
+ti002:008	10	(@)	-	hänellä␣
+ti002:008	9	@	-	ei␣
+ti002:008	10	@	-	ole␣
+ti002:008	13	@	-	meistä␣
+ti002:008	12	%case	LOC	
+ti002:008	9	@	-	mitään␣
+ti002:008	14a	@	-	pahaa␣
+ti002:008	11	@	-	sanottavana
+ti002:008	14b	.	-	.␣
+ti002:009	ti002:009	ti002:009	VERSE	Tiit␣2:9␣
+ti002:009	-	(@)	-	Kehoita␣
+ti002:009	1	@	-	palvelijoita␣
+ti002:009	4	@	-	olemaan␣
+ti002:009	3	@	-	isännilleen␣
+ti002:009	2	%pers	3	
+ti002:009	6a	@	-	kaikessa␣
+ti002:009	5	%case	LOC	
+ti002:009	4	@	-	alamaisia
+ti002:009	-	(,)	-	,␣
+ti002:009	-	(@)	-	heille␣
+ti002:009	7	@	-	mieliksi
+ti002:009	8a	%case	TRA	
+ti002:009	8b	,	-	,␣
+ti002:009	9	@	-	etteivät␣
+ti002:009	10a	@	-	vastustele
+ti002:009	10b	,	-	,␣
+ti002:010	ti002:010	ti002:010	VERSE	Tiit␣2:10␣
+ti002:010	1	@	-	etteivät␣
+ti002:010	2a	@	-	näpistele
+ti002:010	2b	,	-	,␣
+ti002:010	3	@	-	vaan␣
+ti002:010	4	@	-	kaikin␣
+ti002:010	4	(@)	-	tavoin␣
+ti002:010	6	@	-	osoittavat␣
+ti002:010	7a	@	-	vilpitöntä␣
+ti002:010	5	@	-	uskollisuutta
+ti002:010	7b	,	-	,␣
+ti002:010	8	@	-	että␣
+ti002:010	16	(@)	-	he␣
+ti002:010	15	@	-	Jumalan
+ti002:010	-	(,)	-	,␣
+ti002:010	(11)	-	UNTRANSLATED	
+ti002:010	14	@	-	meidän␣
+ti002:010	(12) 13	@	-	vapahtajamme
+ti002:010	-	(,)	-	,␣
+ti002:010	10 (9)	@	-	opin␣
+ti002:010	18a	@	-	kaikessa␣
+ti002:010	17	%case	LOC	
+ti002:010	16	@	-	kaunistaisivat
+ti002:010	18b	.	-	.␣
+ti002:011	ti002:011	ti002:011	VERSE	Tiit␣2:11␣
+ti002:011	2	@	-	Sillä␣
+ti002:011	(5) 6	@	-	Jumalan␣
+ti002:011	(3) 4	@	-	armo␣
+ti002:011	1	(@)	-	on␣
+ti002:011	1	@	-	ilmestynyt␣
+ti002:011	7	@	-	pelastukseksi␣
+ti002:011	8	@	-	kaikille␣
+ti002:011	9	@	-	ihmisille␣
+ti002:012	ti002:012	ti002:012	VERSE	Tiit␣2:12␣
+ti002:012	-	(@)	-	ja␣
+ti002:012	1	@	-	kasvattaa␣
+ti002:012	2a	@	-	meitä
+ti002:012	2b	,	-	,␣
+ti002:012	3	@	-	että␣
+ti002:012	16	(@)	-	me
+ti002:012	-	(,)	-	,␣
+ti002:012	4	@	-	hyljäten␣
+ti002:012	(5) 6	@	-	jumalattomuuden␣
+ti002:012	7	@	-	ja␣
+ti002:012	9	@	-	maailmalliset␣
+ti002:012	10 (8)	@	-	himot
+ti002:012	-	(,)	-	,␣
+ti002:012	16	@	-	eläisimme␣
+ti002:012	11	@	-	siveästi␣
+ti002:012	12	@	-	ja␣
+ti002:012	13	@	-	vanhurskaasti␣
+ti002:012	14	@	-	ja␣
+ti002:012	15	@	-	jumalisesti␣
+ti002:012	19	@	-	nykyisessä␣
+ti002:012	(18) 20a	@	-	maailmanajassa
+ti002:012	17	%case	LOC	
+ti002:012	20b	,	-	,␣
+ti002:013	ti002:013	ti002:013	VERSE	Tiit␣2:13␣
+ti002:013	1	@	-	odottaessamme␣
+ti002:013	3	@	-	autuaallisen␣
+ti002:013	(2) 4	@	-	toivon␣
+ti002:013	-	(@)	-	täyttymistä␣
+ti002:013	5	@	-	ja␣
+ti002:013	10	@	-	suuren␣
+ti002:013	11 (9)	@	-	Jumalan␣
+ti002:013	12	@	-	ja␣
+ti002:013	13	@	-	Vapahtajamme␣
+ti002:013	14	%pers	?	
+ti002:013	16a	@	-	Kristuksen␣
+ti002:013	15	@	-	Jeesuksen␣
+ti002:013	(7) 8	@	-	kirkkauden␣
+ti002:013	6	@	-	ilmestymistä
+ti002:013	16b	,	-	,␣
+ti002:014	ti002:014	ti002:014	VERSE	Tiit␣2:14␣
+ti002:014	1	@	-	hänen
+ti002:014	-	(,)	-	,␣
+ti002:014	1	@	-	joka␣
+ti002:014	2	@	-	antoi␣
+ti002:014	3	@	-	itsensä␣
+ti002:014	5a	@	-	meidän␣
+ti002:014	4	@	-	edestämme␣
+ti002:014	7	@	-	lunastaakseen␣
+ti002:014	6	%case	TRA	
+ti002:014	8	@	-	meidät␣
+ti002:014	10	@	-	kaikesta␣
+ti002:014	11	@	-	laittomuudesta␣
+ti002:014	9	%case	LOC	
+ti002:014	12	@	-	ja␣
+ti002:014	13	@	-	puhdistaakseen␣
+ti002:014	14	@	-	itselleen␣
+ti002:014	16a	@	-	omaisuudeksi␣
+ti002:014	15	@	-	kansan
+ti002:014	16b	,	-	,␣
+ti002:014	17	@	-	joka␣
+ti002:014	18	@	-	hyviä␣
+ti002:014	19a	@	-	tekoja␣
+ti002:014	17	@	-	ahkeroitsee
+ti002:014	19b	.	-	.␣
+ti002:015	ti002:015	ti002:015	VERSE	Tiit␣2:15␣
+ti002:015	2	@	-	Puhu␣
+ti002:015	1	@	-	tätä␣
+ti002:015	3	@	-	ja␣
+ti002:015	4	@	-	kehoita␣
+ti002:015	5	@	-	ja␣
+ti002:015	6	@	-	nuhtele␣
+ti002:015	8	@	-	kaikella␣
+ti002:015	9a	@	-	käskyvallalla
+ti002:015	7	%case	LOC	
+ti002:015	9b	.	-	.␣
+ti002:015	10	@	-	Älköön␣
+ti002:015	10	@	-	kukaan␣
+ti002:015	11	@	-	sinua␣
+ti002:015	12a	@	-	halveksiko
+ti002:015	12b	.	-	.␣
+ti003:001	ti003:001	ti003:001	VERSE	Tiit␣3:1␣
+ti003:001	1	@	-	Muistuta␣
+ti003:001	2	@	-	heitä␣
+ti003:001	5a	@	-	olemaan␣
+ti003:001	3	@	-	hallituksille␣
+ti003:001	-	(@)	-	ja␣
+ti003:001	4	@	-	esivalloille␣
+ti003:001	5a	@	-	alamaiset
+ti003:001	5b	,	-	,␣
+ti003:001	6a	@	-	kuuliaiset
+ti003:001	6b	,	-	,␣
+ti003:001	8	@	-	kaikkiin␣
+ti003:001	10	@	-	hyviin␣
+ti003:001	9	@	-	tekoihin␣
+ti003:001	7	%case	LOC	
+ti003:001	11	@	-	valmiit
+ti003:001	12a	%case	NOM	
+ti003:001	12b	,	-	,␣
+ti003:002	ti003:002	ti003:002	VERSE	Tiit␣3:2␣
+ti003:002	1	@	-	etteivät␣
+ti003:002	1	@	-	ketään␣
+ti003:002	2a	@	-	herjaa
+ti003:002	2b	,	-	,␣
+ti003:002	3	@	-	eivät␣
+ti003:002	3	@	-	riitele
+ti003:002	4a	%case	?	
+ti003:002	-	(,)	-	,␣
+ti003:002	-	(@)	-	vaan␣
+ti003:002	-	(@)	-	ovat␣
+ti003:002	5a	@	-	lempeitä␣
+ti003:002	-	(@)	-	ja␣
+ti003:002	7	@	-	osoittavat␣
+ti003:002	6	@	-	kaikkea␣
+ti003:002	8	@	-	sävyisyyttä␣
+ti003:002	10	@	-	kaikkia␣
+ti003:002	11a	@	-	ihmisiä␣
+ti003:002	9	@	-	kohtaan
+ti003:002	11b	.	-	.␣
+ti003:003	ti003:003	ti003:003	VERSE	Tiit␣3:3␣
+ti003:003	1	@	-	Olimmehan␣
+ti003:003	2	%clitic	hAn	
+ti003:003	5	@	-	mekin␣
+ti003:003	4	%clitic	kin	
+ti003:003	3	@	-	ennen␣
+ti003:003	6a	@	-	ymmärtämättömiä
+ti003:003	6b	,	-	,␣
+ti003:003	7a	@	-	tottelemattomia
+ti003:003	7b	,	-	,␣
+ti003:003	8a	@	-	eksyksissä
+ti003:003	-	(,)	-	,␣
+ti003:003	13a	@	-	moninaisten␣
+ti003:003	10	@	-	himojen␣
+ti003:003	11	@	-	ja␣
+ti003:003	12	@	-	hekumain␣
+ti003:003	9	@	-	orjia
+ti003:003	-	(,)	-	,␣
+ti003:003	18a	@	-	elimme␣
+ti003:003	15	@	-	pahuudessa␣
+ti003:003	14	%case	LOC	
+ti003:003	16	@	-	ja␣
+ti003:003	17	@	-	kateudessa
+ti003:003	18b	,	-	,␣
+ti003:003	19a	@	-	olimme␣
+ti003:003	19a	@	-	inhottavia␣
+ti003:003	-	(@)	-	ja␣
+ti003:003	20	@	-	vihasimme␣
+ti003:003	21a	@	-	toisiamme
+ti003:003	21b	.	-	.␣
+ti003:004	ti003:004	ti003:004	VERSE	Tiit␣3:4␣
+ti003:004	2	@	-	Mutta␣
+ti003:004	1	@	-	kun␣
+ti003:004	12a	@	-	Jumalan
+ti003:004	-	(,)	-	,␣
+ti003:004	11	@	-	meidän␣
+ti003:004	10 (9)	@	-	vapahtajamme
+ti003:004	-	(,)	-	,␣
+ti003:004	(3) 4	@	-	hyvyys␣
+ti003:004	5	@	-	ja␣
+ti003:004	(6) 7	@	-	ihmisrakkaus␣
+ti003:004	8	@	-	ilmestyi
+ti003:004	12b	,	-	,␣
+ti003:005	ti003:005	ti003:005	VERSE	Tiit␣3:5␣
+ti003:005	15	@	-	pelasti␣
+ti003:005	15	(@)	-	hän␣
+ti003:005	16	@	-	meidät
+ti003:005	-	(,)	-	,␣
+ti003:005	1	@	-	ei␣
+ti003:005	6	@	-	vanhurskaudessa␣
+ti003:005	5	%case	LOC	
+ti003:005	(4)	-	UNTRANSLATED	
+ti003:005	8	@	-	tekemiemme␣
+ti003:005	7 9	%pers	?	
+ti003:005	3	@	-	tekojen␣
+ti003:005	2	@	-	ansiosta
+ti003:005	-	(,)	-	,␣
+ti003:005	10	@	-	vaan␣
+ti003:005	(12) 14	@	-	laupeutensa␣
+ti003:005	13	%pers	3	
+ti003:005	11	@	-	mukaan␣
+ti003:005	19	@	-	uudestisyntymisen␣
+ti003:005	18	@	-	peson␣
+ti003:005	20	@	-	ja␣
+ti003:005	23a	@	-	Pyhän␣
+ti003:005	22	@	-	Hengen␣
+ti003:005	21	@	-	uudistuksen␣
+ti003:005	17	@	-	kautta
+ti003:005	23b	,	-	,␣
+ti003:006	ti003:006	ti003:006	VERSE	Tiit␣3:6␣
+ti003:006	1	@	-	jonka␣
+ti003:006	-	(@)	-	Hengen␣
+ti003:006	2	(@)	-	hän␣
+ti003:006	5	@	-	runsaasti␣
+ti003:006	2	@	-	vuodatti␣
+ti003:006	4	@	-	meihin␣
+ti003:006	3	%case	LOC	
+ti003:006	11a	@	-	meidän␣
+ti003:006	10 (9)	@	-	Vapahtajamme␣
+ti003:006	7	@	-	Jeesuksen␣
+ti003:006	8	@	-	Kristuksen␣
+ti003:006	6	@	-	kautta
+ti003:006	11b	,	-	,␣
+ti003:007	ti003:007	ti003:007	VERSE	Tiit␣3:7␣
+ti003:007	1	@	-	että␣
+ti003:007	7	(@)	-	me␣
+ti003:007	2	@	-	vanhurskautettuina␣
+ti003:007	4	@	-	hänen␣
+ti003:007	(3) 5	@	-	armonsa␣
+ti003:007	case%5	@	-	kautta␣
+ti003:007	7	@	-	tulisimme␣
+ti003:007	11a	@	-	iankaikkisen␣
+ti003:007	10	@	-	elämän␣
+ti003:007	6	@	-	perillisiksi␣
+ti003:007	9	@	-	toivon␣
+ti003:007	8	@	-	mukaan
+ti003:007	11b	.	-	.␣
+ti003:008	ti003:008	ti003:008	VERSE	Tiit␣3:8␣
+ti003:008	2	@	-	Tämä␣
+ti003:008	3a	@	-	sana␣
+ti003:008	-	(@)	-	on␣
+ti003:008	1	@	-	varma
+ti003:008	3b	,	-	,␣
+ti003:008	4	@	-	ja␣
+ti003:008	7	(@)	-	minä␣
+ti003:008	7	@	-	tahdon
+ti003:008	-	(,)	-	,␣
+ti003:008	9a	(@)	-	että␣
+ti003:008	8	@	-	sinä␣
+ti003:008	6	@	-	näitä␣
+ti003:008	5	%case	PTV	
+ti003:008	9a	@	-	teroitat
+ti003:008	9b	,	-	,␣
+ti003:008	10	@	-	niin␣
+ti003:008	10	@	-	että␣
+ti003:008	15	@	-	ne
+ti003:008	-	(,)	-	,␣
+ti003:008	15	@	-	jotka␣
+ti003:008	17a	@	-	Jumalaan␣
+ti003:008	16	@	-	uskovat
+ti003:008	-	(,)	-	,␣
+ti003:008	11	@	-	ahkeroisivat␣
+ti003:008	12	@	-	hyvien␣
+ti003:008	13	@	-	tekojen␣
+ti003:008	14	@	-	harjoittamista
+ti003:008	17b	.	-	.␣
+ti003:008	18	@	-	Nämä␣
+ti003:008	19	@	-	ovat␣
+ti003:008	20	@	-	hyviä␣
+ti003:008	21	@	-	ja␣
+ti003:008	22	@	-	hyödyllisiä␣
+ti003:008	(23) 24a	@	-	ihmisille
+ti003:008	24b	.	-	.␣
+ti003:009	ti003:009	ti003:009	VERSE	Tiit␣3:9␣
+ti003:009	2	@	-	Mutta␣
+ti003:009	11a	@	-	vältä␣
+ti003:009	1	@	-	mielettömiä␣
+ti003:009	3	@	-	riitakysymyksiä␣
+ti003:009	4	@	-	ja␣
+ti003:009	5	@	-	sukuluetteloita␣
+ti003:009	6	@	-	ja␣
+ti003:009	7	@	-	kinastelua␣
+ti003:009	8	@	-	ja␣
+ti003:009	9	@	-	kiistoja␣
+ti003:009	10	@	-	laista
+ti003:009	11b	,	-	,␣
+ti003:009	13	@	-	sillä␣
+ti003:009	12	(@)	-	ne␣
+ti003:009	12	@	-	ovat␣
+ti003:009	14	@	-	hyödyttömiä␣
+ti003:009	15	@	-	ja␣
+ti003:009	16a	@	-	turhia
+ti003:009	16b	.	-	.␣
+ti003:010	ti003:010	ti003:010	VERSE	Tiit␣3:10␣
+ti003:010	1	@	-	Harhaoppista␣
+ti003:010	2	@	-	ihmistä␣
+ti003:010	8a	@	-	karta
+ti003:010	-	(,)	-	,␣
+ti003:010	7	@	-	varoitettuasi␣
+ti003:010	3	%case	PTV	
+ti003:010	-	(@)	-	häntä␣
+ti003:010	4	@	-	kerran␣
+ti003:010	5	@	-	tai␣
+ti003:010	6	@	-	kahdesti
+ti003:010	8b	,	-	,␣
+ti003:011	ti003:011	ti003:011	VERSE	Tiit␣3:11␣
+ti003:011	1	(@)	-	sillä␣
+ti003:011	1	(@)	-	sinä␣
+ti003:011	1	@	-	tiedät
+ti003:011	-	(,)	-	,␣
+ti003:011	2	@	-	että␣
+ti003:011	(4) 5	@	-	semmoinen␣
+ti003:011	(4) 5	(@)	-	ihminen␣
+ti003:011	3	(@)	-	on␣
+ti003:011	3	@	-	joutunut␣
+ti003:011	3	@	-	harhaan␣
+ti003:011	6	@	-	ja␣
+ti003:011	7	@	-	tekee␣
+ti003:011	7	@	-	syntiä
+ti003:011	-	(,)	-	,␣
+ti003:011	-	(@)	-	ja␣
+ti003:011	8	(@)	-	hän␣
+ti003:011	8	@	-	on␣
+ti003:011	9a	@	-	itse␣
+ti003:011	9a	@	-	itsensä␣
+ti003:011	9a	@	-	tuominnut
+ti003:011	9b	.	-	.␣
+ti003:012	ti003:012	ti003:012	VERSE	Tiit␣3:12␣
+ti003:012	1	@	-	Kun␣
+ti003:012	2	@	-	lähetän␣
+ti003:012	5	@	-	luoksesi␣
+ti003:012	4	%case	?	
+ti003:012	3	@	-	Artemaan␣
+ti003:012	6	@	-	tai␣
+ti003:012	7a	@	-	Tykikuksen
+ti003:012	-	(,)	-	,␣
+ti003:012	-	(@)	-	niin␣
+ti003:012	9	@	-	tule␣
+ti003:012	8	@	-	viipymättä␣
+ti003:012	11	@	-	minun␣
+ti003:012	10	@	-	tyköni␣
+ti003:012	13a	@	-	Nikopoliin
+ti003:012	12	%case	LOC	
+ti003:012	13b	,	-	,␣
+ti003:012	15	@	-	sillä␣
+ti003:012	14	@	-	siellä␣
+ti003:012	16	(@)	-	olen␣
+ti003:012	16	@	-	päättänyt␣
+ti003:012	17a	@	-	viettää␣
+ti003:012	17a	@	-	talven
+ti003:012	17b	.	-	.␣
+ti003:013	ti003:013	ti003:013	VERSE	Tiit␣3:13␣
+ti003:013	7a	@	-	Varusta␣
+ti003:013	6	@	-	huolellisesti␣
+ti003:013	7a	@	-	matkalle␣
+ti003:013	1	@	-	Zeenas
+ti003:013	-	(,)	-	,␣
+ti003:013	(2) 3	@	-	lainoppinut
+ti003:013	-	(,)	-	,␣
+ti003:013	4	@	-	ja␣
+ti003:013	5	@	-	Apollos
+ti003:013	7b	,	-	,␣
+ti003:013	8	@	-	ettei␣
+ti003:013	10	@	-	heiltä␣
+ti003:013	9	@	-	mitään␣
+ti003:013	11a	@	-	puuttuisi
+ti003:013	11b	.	-	.␣
+ti003:014	ti003:014	ti003:014	VERSE	Tiit␣3:14␣
+ti003:014	1	@	-	Oppikoot␣
+ti003:014	(4) 5	@	-	meikäläisetkin
+ti003:014	2 3	%clitic	kin	
+ti003:014	-	(,)	-	,␣
+ti003:014	(10) 12a	@	-	tarpeen␣
+ti003:014	11	@	-	vaatiessa
+ti003:014	9	%case	LOC	
+ti003:014	-	(,)	-	,␣
+ti003:014	8	@	-	harjoittamaan␣
+ti003:014	6	@	-	hyviä␣
+ti003:014	7	@	-	tekoja
+ti003:014	12b	,	-	,␣
+ti003:014	13 14	@	-	etteivät␣
+ti003:014	15	@	-	jäisi␣
+ti003:014	16a	@	-	hedelmättömiksi
+ti003:014	16b	.	-	.␣
+ti003:015	ti003:015	ti003:015	VERSE	Tiit␣3:15␣
+ti003:015	1	@	-	Tervehdyksen␣
+ti003:015	1	@	-	lähettävät␣
+ti003:015	2	@	-	sinulle␣
+ti003:015	6a	@	-	kaikki
+ti003:015	-	(,)	-	,␣
+ti003:015	3	@	-	jotka␣
+ti003:015	-	(@)	-	ovat␣
+ti003:015	5	@	-	minun␣
+ti003:015	4	@	-	kanssani
+ti003:015	6b	.	-	.␣
+ti003:015	7	@	-	Sano␣
+ti003:015	7	@	-	tervehdys␣
+ti003:015	8	@	-	niille
+ti003:015	-	(,)	-	,␣
+ti003:015	8	@	-	jotka␣
+ti003:015	9	@	-	pitävät␣
+ti003:015	10	@	-	meitä␣
+ti003:015	9	@	-	rakkaina␣
+ti003:015	12a	@	-	uskossa
+ti003:015	11	%case	LOC	
+ti003:015	-	(.)	-	.␣
+ti003:015	(13) 14	@	-	Armo␣
+ti003:015	-	(@)	-	olkoon␣
+ti003:015	16	@	-	kaikkien␣
+ti003:015	17a	@	-	teidän␣
+ti003:015	15	@	-	kanssanne
+ti003:015	17b	.	-	.␣

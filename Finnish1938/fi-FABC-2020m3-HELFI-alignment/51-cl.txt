@@ -1,0 +1,2088 @@
+cl001:001	cl001:001	cl001:001	VERSE	Kol␣1:1␣
+cl001:001	1	@	-	Paavali
+cl001:001	-	(,)	-	,␣
+cl001:001	7	@	-	Jumalan␣
+cl001:001	6	@	-	tahdosta␣
+cl001:001	5	%case	LOC	
+cl001:001	3	@	-	Kristuksen␣
+cl001:001	4	@	-	Jeesuksen␣
+cl001:001	2	@	-	apostoli
+cl001:001	-	(,)	-	,␣
+cl001:001	8	@	-	ja␣
+cl001:001	(10) 11	@	-	veli␣
+cl001:001	9	@	-	Timoteus␣
+cl001:002	cl001:002	cl001:002	VERSE	Kol␣1:2␣
+cl001:002	3	@	-	Kolossassa␣
+cl001:002	2	%case	LOC	
+cl001:002	-	(@)	-	asuville␣
+cl001:002	(1) 4	@	-	pyhille␣
+cl001:002	5	@	-	ja␣
+cl001:002	6	@	-	uskoville␣
+cl001:002	7	@	-	veljille␣
+cl001:002	9a	@	-	Kristuksessa
+cl001:002	8	%case	LOC	
+cl001:002	9b	.	-	.␣
+cl001:002	10	@	-	Armo␣
+cl001:002	11	@	-	teille␣
+cl001:002	12	@	-	ja␣
+cl001:002	13	@	-	rauha␣
+cl001:002	15	@	-	Jumalalta
+cl001:002	14	%case	LOC	
+cl001:002	-	(,)	-	,␣
+cl001:002	17a	@	-	meidän␣
+cl001:002	16	@	-	Isältämme
+cl001:002	14	%case	LOC	
+cl001:002	-	(!)	-	!␣
+cl001:003	cl001:003	cl001:003	VERSE	Kol␣1:3␣
+cl001:003	1	(@)	-	Me␣
+cl001:003	1	@	-	kiitämme␣
+cl001:003	(2) 3	@	-	Jumalaa
+cl001:003	-	(,)	-	,␣
+cl001:003	(5) 6	@	-	Herramme␣
+cl001:003	7	%pers	?	
+cl001:003	8	@	-	Jeesuksen␣
+cl001:003	9	@	-	Kristuksen␣
+cl001:003	4	@	-	Isää
+cl001:003	-	(,)	-	,␣
+cl001:003	10	@	-	aina␣
+cl001:003	13a	(@)	-	kun␣
+cl001:003	13a	@	-	rukoilemme␣
+cl001:003	12	@	-	teidän␣
+cl001:003	11	@	-	edestänne
+cl001:003	13b	,	-	,␣
+cl001:004	cl001:004	cl001:004	VERSE	Kol␣1:4␣
+cl001:004	-	(@)	-	sillä␣
+cl001:004	1	(@)	-	me␣
+cl001:004	1	(@)	-	olemme␣
+cl001:004	tasp%1	@	-	saaneet␣
+cl001:004	1	@	-	kuulla␣
+cl001:004	4	@	-	teidän␣
+cl001:004	(2) 3	@	-	uskostanne␣
+cl001:004	6	@	-	Kristuksessa␣
+cl001:004	7	@	-	Jeesuksessa␣
+cl001:004	5	%case	LOC	
+cl001:004	8	@	-	ja␣
+cl001:004	10 (9)	@	-	rakkaudesta
+cl001:004	-	(,)	-	,␣
+cl001:004	11	@	-	mikä␣
+cl001:004	12	(@)	-	teillä␣
+cl001:004	12	@	-	on␣
+cl001:004	14	@	-	kaikkia␣
+cl001:004	(15) 16	@	-	pyhiä␣
+cl001:004	13	@	-	kohtaan
+cl001:004	-	(;)	-	;␣
+cl001:005	cl001:005	cl001:005	VERSE	Kol␣1:5␣
+cl001:005	-	(@)	-	me␣
+cl001:005	-	(@)	-	kiitämme␣
+cl001:005	-	(@)	-	häntä␣
+cl001:005	-	(@)	-	sen␣
+cl001:005	(2) 3	@	-	toivon␣
+cl001:005	1	@	-	tähden
+cl001:005	-	(,)	-	,␣
+cl001:005	4	@	-	joka␣
+cl001:005	6	@	-	teille␣
+cl001:005	5	(@)	-	on␣
+cl001:005	5	@	-	talletettuna␣
+cl001:005	(8) 9a	@	-	taivaissa␣
+cl001:005	7	%case	LOC	
+cl001:005	-	(@)	-	ja␣
+cl001:005	10	@	-	josta␣
+cl001:005	11	@	-	jo␣
+cl001:005	11	@	-	ennen␣
+cl001:005	11	(@)	-	olette␣
+cl001:005	11	@	-	kuulleet␣
+cl001:005	17	@	-	sen␣
+cl001:005	18	@	-	evankeliumin␣
+cl001:005	(15) 16	@	-	totuuden␣
+cl001:005	(13) 14	@	-	sanassa
+cl001:005	12	%case	LOC	
+cl001:005	-	(,)	-	,␣
+cl001:006	cl001:006	cl001:006	VERSE	Kol␣1:6␣
+cl001:006	1	@	-	joka␣
+cl001:006	2	(@)	-	on␣
+cl001:006	2	@	-	tullut␣
+cl001:006	4a	@	-	teidän␣
+cl001:006	3	@	-	tykönne
+cl001:006	4b	,	-	,␣
+cl001:006	5	@	-	niinkuin␣
+cl001:006	11	(@)	-	se␣
+cl001:006	11	@	-	on␣
+cl001:006	6	@	-	myös␣
+cl001:006	8	@	-	kaikessa␣
+cl001:006	10 (9)	@	-	maailmassa
+cl001:006	7	%case	LOC	
+cl001:006	-	(,)	-	,␣
+cl001:006	-	(@)	-	missä␣
+cl001:006	-	(@)	-	se␣
+cl001:006	12	@	-	kantaa␣
+cl001:006	12	@	-	hedelmää␣
+cl001:006	13	@	-	ja␣
+cl001:006	14	@	-	kasvaa
+cl001:006	-	(,)	-	,␣
+cl001:006	15	@	-	samoin~kuin␣
+cl001:006	18a	@	-	teidänkin␣
+cl001:006	16	%clitic	kin	
+cl001:006	17	@	-	keskuudessanne␣
+cl001:006	20	@	-	siitä␣
+cl001:006	21	@	-	päivästä␣
+cl001:006	19	@	-	alkaen
+cl001:006	-	(,)	-	,␣
+cl001:006	20	@	-	jona␣
+cl001:006	22	(@)	-	te␣
+cl001:006	22	@	-	kuulitte␣
+cl001:006	23	@	-	ja␣
+cl001:006	24	@	-	opitte␣
+cl001:006	24	@	-	tuntemaan␣
+cl001:006	(27) 28	@	-	Jumalan␣
+cl001:006	(25) 26	@	-	armon␣
+cl001:006	30a	@	-	totuudessa
+cl001:006	29	%case	LOC	
+cl001:006	30b	,	-	,␣
+cl001:007	cl001:007	cl001:007	VERSE	Kol␣1:7␣
+cl001:007	1	@	-	niinkuin␣
+cl001:007	2	(@)	-	te␣
+cl001:007	-	(@)	-	sen␣
+cl001:007	2	@	-	opitte␣
+cl001:007	4	@	-	Epafraalta
+cl001:007	3	%case	LOC	
+cl001:007	-	(,)	-	,␣
+cl001:007	8a	@	-	meidän␣
+cl001:007	6	@	-	rakkaalta␣
+cl001:007	(5) 7	@	-	kanssapalvelijaltamme
+cl001:007	8b	,	-	,␣
+cl001:007	9	@	-	joka␣
+cl001:007	10	@	-	on␣
+cl001:007	11	@	-	uskollinen␣
+cl001:007	(15) 16a	@	-	Kristuksen␣
+cl001:007	14	@	-	palvelija␣
+cl001:007	13	@	-	teidän␣
+cl001:007	12	@	-	hyväksenne␣
+cl001:008	cl001:008	cl001:008	VERSE	Kol␣1:8␣
+cl001:008	2	@	-	ja␣
+cl001:008	1	@	-	joka␣
+cl001:008	2	@	-	myös␣
+cl001:008	3	(@)	-	on␣
+cl001:008	3	@	-	kertonut␣
+cl001:008	4	@	-	meille␣
+cl001:008	6	@	-	teidän␣
+cl001:008	(5) 7	@	-	rakkaudestanne␣
+cl001:008	9a	@	-	Hengessä
+cl001:008	8	%case	LOC	
+cl001:008	9b	.	-	.␣
+cl001:009	cl001:009	cl001:009	VERSE	Kol␣1:9␣
+cl001:009	1 2	@	-	Sentähden␣
+cl001:009	9	@	-	emme␣
+cl001:009	4a	@	-	mekään
+cl001:009	3	%clitic	kAAn	
+cl001:009	-	(,)	-	,␣
+cl001:009	6	@	-	siitä␣
+cl001:009	7	@	-	päivästä␣
+cl001:009	5	@	-	alkaen
+cl001:009	-	(,)	-	,␣
+cl001:009	6	@	-	jona␣
+cl001:009	-	(@)	-	sen␣
+cl001:009	8a	@	-	kuulimme
+cl001:009	-	(,)	-	,␣
+cl001:009	10	(@)	-	ole␣
+cl001:009	10	@	-	lakanneet␣
+cl001:009	12	@	-	teidän␣
+cl001:009	11	@	-	edestänne␣
+cl001:009	13	@	-	rukoilemasta␣
+cl001:009	14	@	-	ja␣
+cl001:009	15a	@	-	anomasta
+cl001:009	15b	,	-	,␣
+cl001:009	16	@	-	että␣
+cl001:009	17	@	-	tulisitte␣
+cl001:009	17	@	-	täyteen␣
+cl001:009	22	@	-	hänen␣
+cl001:009	(20) 21	@	-	tahtonsa␣
+cl001:009	(18) 19	@	-	tuntemista␣
+cl001:009	24	@	-	kaikessa␣
+cl001:009	28a	@	-	hengellisessä␣
+cl001:009	25	@	-	viisaudessa␣
+cl001:009	26	@	-	ja␣
+cl001:009	27	@	-	ymmärtämisessä
+cl001:009	23	%case	LOC	
+cl001:009	28b	,	-	,␣
+cl001:010	cl001:010	cl001:010	VERSE	Kol␣1:10␣
+cl001:010	1	@	-	vaeltaaksenne␣
+cl001:010	(3) 4	@	-	Herran␣
+cl001:010	case%4	@	-	edessä␣
+cl001:010	2	@	-	arvollisesti
+cl001:010	-	(,)	-	,␣
+cl001:010	-	(@)	-	hänelle␣
+cl001:010	6	@	-	kaikessa␣
+cl001:010	7a	@	-	otollisesti
+cl001:010	5	%case	MAN	
+cl001:010	7b	,	-	,␣
+cl001:010	9	@	-	kaikessa␣
+cl001:010	11	@	-	hyvässä␣
+cl001:010	10	@	-	työssä␣
+cl001:010	8	%case	LOC	
+cl001:010	12	@	-	hedelmää␣
+cl001:010	12	@	-	kantaen␣
+cl001:010	13	@	-	ja␣
+cl001:010	14	@	-	kasvaen␣
+cl001:010	(17) 18a	@	-	Jumalan␣
+cl001:010	(15) 16	@	-	tuntemisen␣
+cl001:010	case%16	@	-	kautta
+cl001:010	18b	,	-	,␣
+cl001:011	cl001:011	cl001:011	VERSE	Kol␣1:11␣
+cl001:011	-	(@)	-	ja␣
+cl001:011	10	@	-	hänen␣
+cl001:011	(8) 9	@	-	kirkkautensa␣
+cl001:011	(6) 7	@	-	väkevyyden␣
+cl001:011	5	@	-	mukaan␣
+cl001:011	2	@	-	kaikella␣
+cl001:011	3	@	-	voimalla␣
+cl001:011	1	%case	LOC	
+cl001:011	4	@	-	vahvistettuina␣
+cl001:011	-	(@)	-	olemaan␣
+cl001:011	12	@	-	kaikessa␣
+cl001:011	13	@	-	kestäviä␣
+cl001:011	11	%case	PTV	
+cl001:011	14	@	-	ja␣
+cl001:011	15a	@	-	pitkämielisiä
+cl001:011	15b	,	-	,␣
+cl001:011	17	@	-	ilolla␣
+cl001:011	16	%case	LOC	
+cl001:012	cl001:012	cl001:012	VERSE	Kol␣1:12␣
+cl001:012	1	@	-	kiittäen␣
+cl001:012	(2) 3	@	-	Isää
+cl001:012	-	(,)	-	,␣
+cl001:012	4	@	-	joka␣
+cl001:012	5	(@)	-	on␣
+cl001:012	5	@	-	tehnyt␣
+cl001:012	6	@	-	teidät␣
+cl001:012	5	@	-	soveliaiksi␣
+cl001:012	-	(@)	-	olemaan␣
+cl001:012	(8) 9	@	-	osalliset␣
+cl001:012	7	%case	NOM	
+cl001:012	-	(@)	-	siitä␣
+cl001:012	(10) 11	@	-	perinnöstä
+cl001:012	-	(,)	-	,␣
+cl001:012	-	(@)	-	mikä␣
+cl001:012	(12) 13	@	-	pyhillä␣
+cl001:012	-	(@)	-	on␣
+cl001:012	(15) 16a	@	-	valkeudessa
+cl001:012	14	%case	LOC	
+cl001:012	16b	,	-	,␣
+cl001:013	cl001:013	cl001:013	VERSE	Kol␣1:13␣
+cl001:013	1	@	-	häntä
+cl001:013	-	(,)	-	,␣
+cl001:013	1	@	-	joka␣
+cl001:013	2	(@)	-	on␣
+cl001:013	2	@	-	pelastanut␣
+cl001:013	3	@	-	meidät␣
+cl001:013	(7) 8	@	-	pimeyden␣
+cl001:013	(5) 6	@	-	vallasta␣
+cl001:013	4	%case	LOC	
+cl001:013	9	@	-	ja␣
+cl001:013	10	@	-	siirtänyt␣
+cl001:013	-	(@)	-	meidät␣
+cl001:013	(16) 17	@	-	rakkaan␣
+cl001:013	(14) 15	@	-	Poikansa␣
+cl001:013	18a	%pers	3	
+cl001:013	(12) 13	@	-	valtakuntaan
+cl001:013	11	%case	LOC	
+cl001:013	18b	.	-	.␣
+cl001:014	cl001:014	cl001:014	VERSE	Kol␣1:14␣
+cl001:014	2	@	-	Hänessä␣
+cl001:014	1	%case	LOC	
+cl001:014	3	(@)	-	meillä␣
+cl001:014	3	@	-	on␣
+cl001:014	(4) 5a	@	-	lunastus
+cl001:014	-	(,)	-	,␣
+cl001:014	(8) 9a	@	-	syntien␣
+cl001:014	(6) 7	@	-	anteeksisaaminen
+cl001:014	9b	,	-	,␣
+cl001:015	cl001:015	cl001:015	VERSE	Kol␣1:15␣
+cl001:015	-	(@)	-	ja␣
+cl001:015	pro%1	@	-	hän␣
+cl001:015	2	@	-	on␣
+cl001:015	(6) 7a	@	-	näkymättömän␣
+cl001:015	(4) 5	@	-	Jumalan␣
+cl001:015	3	@	-	kuva
+cl001:015	7b	,	-	,␣
+cl001:015	8	@	-	esikoinen␣
+cl001:015	-	(@)	-	ennen␣
+cl001:015	9	@	-	kaikkea␣
+cl001:015	10a	@	-	luomakuntaa
+cl001:015	10b	.	-	.␣
+cl001:016	cl001:016	cl001:016	VERSE	Kol␣1:16␣
+cl001:016	1	@	-	Sillä␣
+cl001:016	3	@	-	hänessä␣
+cl001:016	2	%case	LOC	
+cl001:016	4	@	-	luotiin␣
+cl001:016	(5) 6	@	-	kaikki
+cl001:016	-	(,)	-	,␣
+cl001:016	-	(@)	-	mikä␣
+cl001:016	(8) 9	@	-	taivaissa␣
+cl001:016	7	%case	LOC	
+cl001:016	10	@	-	ja␣
+cl001:016	-	(@)	-	mikä␣
+cl001:016	(12) 13a	@	-	maan␣
+cl001:016	11	@	-	päällä␣
+cl001:016	-	(@)	-	on
+cl001:016	-	(,)	-	,␣
+cl001:016	(14) 15	@	-	näkyväiset␣
+cl001:016	16	@	-	ja␣
+cl001:016	(17) 18a	@	-	näkymättömät
+cl001:016	18b	,	-	,␣
+cl001:016	19	@	-	olkoot␣
+cl001:016	-	(@)	-	ne␣
+cl001:016	20	@	-	valtaistuimia␣
+cl001:016	21	@	-	tai␣
+cl001:016	22	@	-	herrauksia
+cl001:016	(23)	-	UNTRANSLATED	
+cl001:016	-	(,)	-	,␣
+cl001:016	24	@	-	hallituksia␣
+cl001:016	25	@	-	tai␣
+cl001:016	26a	@	-	valtoja
+cl001:016	-	(,)	-	,␣
+cl001:016	(27) 28	@	-	kaikki␣
+cl001:016	34a	(@)	-	on␣
+cl001:016	34a	@	-	luotu␣
+cl001:016	30	@	-	hänen␣
+cl001:016	29	@	-	kauttansa␣
+cl001:016	31	@	-	ja␣
+cl001:016	33	@	-	häneen
+cl001:016	32	%case	LOC	
+cl001:016	34b	,	-	,␣
+cl001:017	cl001:017	cl001:017	VERSE	Kol␣1:17␣
+cl001:017	1	@	-	ja␣
+cl001:017	2	@	-	hän␣
+cl001:017	3	@	-	on␣
+cl001:017	4	@	-	ennen␣
+cl001:017	5	@	-	kaikkia
+cl001:017	-	(,)	-	,␣
+cl001:017	6	@	-	ja␣
+cl001:017	10	@	-	hänessä␣
+cl001:017	9	%case	LOC	
+cl001:017	11a	@	-	pysyy␣
+cl001:017	(7) 8	@	-	kaikki␣
+cl001:017	11a	@	-	voimassa
+cl001:017	11b	.	-	.␣
+cl001:018	cl001:018	cl001:018	VERSE	Kol␣1:18␣
+cl001:018	1	@	-	Ja␣
+cl001:018	2	@	-	hän␣
+cl001:018	3	@	-	on␣
+cl001:018	(6) 7	@	-	ruumiin
+cl001:018	-	(,)	-	,␣
+cl001:018	-	(@)	-	se␣
+cl001:018	-	(@)	-	on
+cl001:018	-	(:)	-	:␣
+cl001:018	(8) 9a	@	-	seurakunnan
+cl001:018	-	(,)	-	,␣
+cl001:018	(4) 5	@	-	pää
+cl001:018	9b	;	-	;␣
+cl001:018	10	@	-	hän
+cl001:018	-	(,)	-	,␣
+cl001:018	10	@	-	joka␣
+cl001:018	11	@	-	on␣
+cl001:018	12a	@	-	alku
+cl001:018	12b	,	-	,␣
+cl001:018	13	@	-	esikoinen␣
+cl001:018	(15) 16a	@	-	kuolleista␣
+cl001:018	(15) 16a	(@)	-	nousseitten␣
+cl001:018	14	@	-	joukossa
+cl001:018	16b	,	-	,␣
+cl001:018	17	@	-	että␣
+cl001:018	21	@	-	hän␣
+cl001:018	18	@	-	olisi␣
+cl001:018	20	@	-	kaikessa␣
+cl001:018	19	%case	LOC	
+cl001:018	22a	@	-	ensimmäinen
+cl001:018	22b	.	-	.␣
+cl001:019	cl001:019	cl001:019	VERSE	Kol␣1:19␣
+cl001:019	1	@	-	Sillä␣
+cl001:019	-	(@)	-	Jumala␣
+cl001:019	4	@	-	näki␣
+cl001:019	4	@	-	hyväksi
+cl001:019	-	(,)	-	,␣
+cl001:019	8	(@)	-	että␣
+cl001:019	5	@	-	kaikki␣
+cl001:019	(6) 7	@	-	täyteys␣
+cl001:019	3	@	-	hänessä␣
+cl001:019	2	%case	LOC	
+cl001:019	8	@	-	asuisi␣
+cl001:020	cl001:020	cl001:020	VERSE	Kol␣1:20␣
+cl001:020	1	@	-	ja␣
+cl001:020	-	(@)	-	että␣
+cl001:020	-	(@)	-	hän
+cl001:020	-	(,)	-	,␣
+cl001:020	10	@	-	tehden␣
+cl001:020	10	@	-	rauhan␣
+cl001:020	16a	@	-	hänen␣
+cl001:020	(14) 15	@	-	ristinsä␣
+cl001:020	(12) 13	@	-	veren␣
+cl001:020	11	@	-	kautta
+cl001:020	-	(,)	-	,␣
+cl001:020	3	@	-	hänen␣
+cl001:020	2	@	-	kauttaan␣
+cl001:020	4	@	-	sovittaisi␣
+cl001:020	8	@	-	itsensä␣
+cl001:020	7	@	-	kanssa␣
+cl001:020	(5) 6	@	-	kaikki
+cl001:020	16b 16c	,	-	,␣
+cl001:020	18a	@	-	hänen␣
+cl001:020	17	@	-	kauttaan␣
+cl001:020	pro%20	@	-	kaikki␣
+cl001:020	19	@	-	sekä␣
+cl001:020	(22) 23	@	-	maan␣
+cl001:020	21	@	-	päällä␣
+cl001:020	24	@	-	että␣
+cl001:020	(25)	-	UNTRANSLATED	
+cl001:020	(27) 28a	@	-	taivaissa
+cl001:020	26	%case	LOC	
+cl001:020	28b	.	-	.␣
+cl001:021	cl001:021	cl001:021	VERSE	Kol␣1:21␣
+cl001:021	2	@	-	Teidätkin
+cl001:021	1	%clitic	kin	
+cl001:021	-	(,)	-	,␣
+cl001:021	4	(@)	-	jotka␣
+cl001:021	3	@	-	ennen␣
+cl001:021	4	@	-	olitte␣
+cl001:021	5	@	-	vieraantuneet␣
+cl001:021	6	@	-	ja␣
+cl001:021	(8) 9	@	-	mieleltänne␣
+cl001:021	-	(@)	-	hänen␣
+cl001:021	7	@	-	vihamiehiänsä␣
+cl001:021	(13) 14a	@	-	pahoissa␣
+cl001:021	(11) 12	@	-	teoissanne
+cl001:021	10	%case	LOC	
+cl001:021	-	(,)	-	,␣
+cl001:021	3/22	(@)	-	hän␣
+cl001:021	1/22	@	-	nyt␣
+cl001:021	(2/22)	-	UNTRANSLATED	
+cl001:021	3/22	(@)	-	on␣
+cl001:021	3/22	@	-	sovittanut␣
+cl001:022	cl001:022	cl001:022	VERSE	Kol␣1:22␣
+cl001:022	pro%9	@	-	Poikansa␣
+cl001:022	(7) 8	@	-	lihan␣
+cl001:022	(5) 6	@	-	ruumiissa␣
+cl001:022	4	%case	LOC	
+cl001:022	(11) 12	@	-	kuoleman␣
+cl001:022	10	@	-	kautta
+cl001:022	-	(,)	-	,␣
+cl001:022	13	@	-	asettaakseen␣
+cl001:022	14	@	-	teidät␣
+cl001:022	15	@	-	pyhinä␣
+cl001:022	16	@	-	ja␣
+cl001:022	17	@	-	nuhteettomina␣
+cl001:022	18	@	-	ja␣
+cl001:022	19	@	-	moitteettomina␣
+cl001:022	21a	@	-	eteensä
+cl001:022	20	%case	LOC	
+cl001:022	21b	,	-	,␣
+cl001:023	cl001:023	cl001:023	VERSE	Kol␣1:23␣
+cl001:023	1	@	-	jos␣
+cl001:023	3	(@)	-	te␣
+cl001:023	2	@	-	vain␣
+cl001:023	3	@	-	pysytte␣
+cl001:023	(4) 5	@	-	uskossa
+cl001:023	-	(,)	-	,␣
+cl001:023	-	(@)	-	siihen␣
+cl001:023	6	@	-	perustuneina␣
+cl001:023	7	@	-	ja␣
+cl001:023	-	(@)	-	siinä␣
+cl001:023	8	@	-	lujina
+cl001:023	-	(,)	-	,␣
+cl001:023	(9)	-	UNTRANSLATED	
+cl001:023	11	@	-	horjahtamatta␣
+cl001:023	10	%inflection	INF3.ABE	
+cl001:023	12	@	-	pois␣
+cl001:023	-	(@)	-	sen␣
+cl001:023	(15) 16	@	-	evankeliumin␣
+cl001:023	(13) 14	@	-	toivosta
+cl001:023	-	(,)	-	,␣
+cl001:023	17	@	-	jonka␣
+cl001:023	18a	(@)	-	olette␣
+cl001:023	18a	@	-	kuulleet
+cl001:023	18b	,	-	,␣
+cl001:023	19	@	-	jota␣
+cl001:023	20	(@)	-	on␣
+cl001:023	20	@	-	julistettu␣
+cl001:023	22	@	-	kaikessa␣
+cl001:023	23	@	-	luomakunnassa␣
+cl001:023	21	%case	LOC	
+cl001:023	(24)	-	UNTRANSLATED	
+cl001:023	(26) 27a	@	-	taivaan␣
+cl001:023	25	@	-	alla␣
+cl001:023	-	(@)	-	ja␣
+cl001:023	28	@	-	jonka␣
+cl001:023	32a	@	-	palvelijaksi␣
+cl001:023	30	@	-	minä
+cl001:023	-	(,)	-	,␣
+cl001:023	31	@	-	Paavali
+cl001:023	-	(,)	-	,␣
+cl001:023	29	(@)	-	olen␣
+cl001:023	29	@	-	tullut
+cl001:023	32b	.	-	.␣
+cl001:024	cl001:024	cl001:024	VERSE	Kol␣1:24␣
+cl001:024	1	@	-	Nyt␣
+cl001:024	2	(@)	-	minä␣
+cl001:024	2	@	-	iloitsen␣
+cl001:024	(4) 5	@	-	kärsiessäni␣
+cl001:024	3	%case	LOC	
+cl001:024	7	@	-	teidän␣
+cl001:024	6	@	-	tähtenne
+cl001:024	-	(,)	-	,␣
+cl001:024	8	@	-	ja␣
+cl001:024	-	(@)	-	mikä␣
+cl001:024	-	(@)	-	vielä␣
+cl001:024	(10) 11	@	-	puuttuu␣
+cl001:024	(14) 15	@	-	Kristuksen␣
+cl001:024	(12) 13	@	-	ahdistuksista
+cl001:024	-	(,)	-	,␣
+cl001:024	-	(@)	-	sen␣
+cl001:024	9	(@)	-	minä␣
+cl001:024	9	@	-	täytän␣
+cl001:024	(17) 18	@	-	lihassani␣
+cl001:024	19	%pers	?	
+cl001:024	16	%case	LOC	
+cl001:024	23a	@	-	hänen␣
+cl001:024	(21) 22	@	-	ruumiinsa␣
+cl001:024	20	@	-	hyväksi
+cl001:024	23b	,	-	,␣
+cl001:024	24	@	-	joka␣
+cl001:024	25	@	-	on␣
+cl001:024	(26) 27a	@	-	seurakunta
+cl001:024	27b	,	-	,␣
+cl001:025	cl001:025	cl001:025	VERSE	Kol␣1:25␣
+cl001:025	1	@	-	jonka␣
+cl001:025	4	@	-	palvelijaksi␣
+cl001:025	3	@	-	minä␣
+cl001:025	2	(@)	-	olen␣
+cl001:025	2	@	-	tullut␣
+cl001:025	(8) 9	@	-	Jumalan␣
+cl001:025	(6) 7	@	-	armotalouden␣
+cl001:025	5	@	-	mukaan
+cl001:025	-	(,)	-	,␣
+cl001:025	10	@	-	joka␣
+cl001:025	12	@	-	minulle␣
+cl001:025	11	(@)	-	on␣
+cl001:025	11	@	-	annettu␣
+cl001:025	14	@	-	teitä␣
+cl001:025	13	@	-	varten
+cl001:025	-	(,)	-	,␣
+cl001:025	15	@	-	täydellisesti␣
+cl001:025	15	@	-	julistaakseni␣
+cl001:025	(18) 19a	@	-	Jumalan␣
+cl001:025	(16) 17	@	-	sanan
+cl001:025	19b	,	-	,␣
+cl001:026	cl001:026	cl001:026	VERSE	Kol␣1:26␣
+cl001:026	1	@	-	sen␣
+cl001:026	2	@	-	salaisuuden
+cl001:026	-	(,)	-	,␣
+cl001:026	3	@	-	joka␣
+cl001:026	4	(@)	-	on␣
+cl001:026	4	(@)	-	ollut␣
+cl001:026	4	@	-	kätkettynä␣
+cl001:026	(6) 7	@	-	ikuisista␣
+cl001:026	(6) 7	@	-	ajoista␣
+cl001:026	5	%case	LOC	
+cl001:026	8	@	-	ja␣
+cl001:026	(10) 11a	@	-	polvesta␣
+cl001:026	(10) 11a	@	-	polveen
+cl001:026	9	%case	LOC	
+cl001:026	11b	,	-	,␣
+cl001:026	13	@	-	mutta␣
+cl001:026	-	(@)	-	joka␣
+cl001:026	12	@	-	nyt␣
+cl001:026	14	(@)	-	on␣
+cl001:026	14	@	-	ilmoitettu␣
+cl001:026	17a	@	-	hänen␣
+cl001:026	(15) 16	@	-	pyhillensä
+cl001:026	17b	,	-	,␣
+cl001:027	cl001:027	cl001:027	VERSE	Kol␣1:27␣
+cl001:027	1	@	-	joille␣
+cl001:027	(3) 4	@	-	Jumala␣
+cl001:027	2	@	-	tahtoi␣
+cl001:027	5	@	-	tehdä␣
+cl001:027	5	@	-	tiettäväksi
+cl001:027	-	(,)	-	,␣
+cl001:027	6	@	-	kuinka␣
+cl001:027	(7) 8	@	-	suuri␣
+cl001:027	(15) 16a	@	-	pakanain␣
+cl001:027	14	@	-	keskuudessa␣
+cl001:027	-	(@)	-	on␣
+cl001:027	13	@	-	tämän␣
+cl001:027	(11) 12	@	-	salaisuuden␣
+cl001:027	10 (9)	@	-	kirkkaus
+cl001:027	-	(:)	-	:␣
+cl001:027	19	@	-	Kristus␣
+cl001:027	(17) (18)	-	UNTRANSLATED	
+cl001:027	21a	@	-	teissä
+cl001:027	20	%case	LOC	
+cl001:027	-	(,)	-	,␣
+cl001:027	(24) 25a	@	-	kirkkauden␣
+cl001:027	(22) 23	@	-	toivo
+cl001:027	25b	.	-	.␣
+cl001:028	cl001:028	cl001:028	VERSE	Kol␣1:28␣
+cl001:028	-	(@)	-	Ja␣
+cl001:028	1	@	-	häntä␣
+cl001:028	2	@	-	me␣
+cl001:028	3	@	-	julistamme
+cl001:028	-	(,)	-	,␣
+cl001:028	4	@	-	neuvoen␣
+cl001:028	5	@	-	jokaista␣
+cl001:028	6	@	-	ihmistä␣
+cl001:028	7	@	-	ja␣
+cl001:028	8	@	-	opettaen␣
+cl001:028	9	@	-	jokaista␣
+cl001:028	10	@	-	ihmistä␣
+cl001:028	12	@	-	kaikella␣
+cl001:028	13a	@	-	viisaudella
+cl001:028	11	%case	LOC	
+cl001:028	13b	,	-	,␣
+cl001:028	15	@	-	asettaaksemme␣
+cl001:028	14	%case	TRA	
+cl001:028	15	@	-	esiin␣
+cl001:028	16	@	-	jokaisen␣
+cl001:028	17	@	-	ihmisen␣
+cl001:028	18	@	-	täydellisenä␣
+cl001:028	20a	@	-	Kristuksessa
+cl001:028	19	%case	LOC	
+cl001:028	20b	.	-	.␣
+cl001:029	cl001:029	cl001:029	VERSE	Kol␣1:29␣
+cl001:029	2	@	-	Sitä␣
+cl001:029	1	@	-	varten␣
+cl001:029	4	(@)	-	minä␣
+cl001:029	4	@	-	vaivaa␣
+cl001:029	4	@	-	näenkin
+cl001:029	3	%clitic	kin	
+cl001:029	-	(,)	-	,␣
+cl001:029	5	@	-	taistellen␣
+cl001:029	9	@	-	hänen␣
+cl001:029	(7) 8	@	-	vaikutuksensa␣
+cl001:029	6	@	-	mukaan
+cl001:029	-	(,)	-	,␣
+cl001:029	10	@	-	joka␣
+cl001:029	13	@	-	minussa␣
+cl001:029	12	%case	LOC	
+cl001:029	15a	@	-	voimallisesti␣
+cl001:029	14	%case	MAN	
+cl001:029	11	@	-	vaikuttaa
+cl001:029	15b	.	-	.␣
+cl002:001	cl002:001	cl002:001	VERSE	Kol␣2:1␣
+cl002:001	2	@	-	Sillä␣
+cl002:001	1	(@)	-	minä␣
+cl002:001	1	@	-	tahdon
+cl002:001	-	(,)	-	,␣
+cl002:001	-	(@)	-	että␣
+cl002:001	3	@	-	te␣
+cl002:001	4	@	-	tiedätte
+cl002:001	-	(,)	-	,␣
+cl002:001	5	@	-	kuinka␣
+cl002:001	5	@	-	suuri␣
+cl002:001	6	@	-	kilvoittelu␣
+cl002:001	7	(@)	-	minulla␣
+cl002:001	7	@	-	on␣
+cl002:001	9	@	-	teidän␣
+cl002:001	8	@	-	tähtenne␣
+cl002:001	10	@	-	ja␣
+cl002:001	(11) 13	@	-	laodikealaisten␣
+cl002:001	12	%case	GEN	
+cl002:001	14	@	-	ja␣
+cl002:001	15	@	-	kaikkien␣
+cl002:001	-	(@)	-	tähden
+cl002:001	-	(;)	-	;␣
+cl002:001	15	@	-	jotka␣
+cl002:001	16	@	-	eivät␣
+cl002:001	17	(@)	-	ole␣
+cl002:001	20	@	-	minun␣
+cl002:001	22a	@	-	ruumiillisia␣
+cl002:001	21	%case	PTV	
+cl002:001	(18) 19	@	-	kasvojani␣
+cl002:001	17	@	-	nähneet
+cl002:001	22b	,	-	,␣
+cl002:002	cl002:002	cl002:002	VERSE	Kol␣2:2␣
+cl002:002	1	@	-	että␣
+cl002:002	5	@	-	heidän␣
+cl002:002	(3) 4	@	-	sydämensä
+cl002:002	-	(,)	-	,␣
+cl002:002	6	@	-	yhteenliittyneinä␣
+cl002:002	8	@	-	rakkaudessa
+cl002:002	7	%case	LOC	
+cl002:002	-	(,)	-	,␣
+cl002:002	2	@	-	saisivat␣
+cl002:002	2	@	-	kehoitusta␣
+cl002:002	(9)	-	UNTRANSLATED	
+cl002:002	-	(@)	-	omistamaan␣
+cl002:002	(13) 14	@	-	täyden␣
+cl002:002	(15) 16a	@	-	ymmärtämyksen␣
+cl002:002	11	@	-	koko␣
+cl002:002	12	@	-	rikkauden␣
+cl002:002	10	%case	GEN	
+cl002:002	-	(@)	-	ja␣
+cl002:002	18	@	-	pääsisivät␣
+cl002:002	18	@	-	tuntemaan␣
+cl002:002	17	%case	LOC	
+cl002:002	(21) 22a	@	-	Jumalan␣
+cl002:002	(19) 20	@	-	salaisuuden
+cl002:002	22b	,	-	,␣
+cl002:002	23a	@	-	Kristuksen
+cl002:002	23b	,	-	,␣
+cl002:003	cl002:003	cl002:003	VERSE	Kol␣2:3␣
+cl002:003	2	@	-	jossa␣
+cl002:003	1	%case	LOC	
+cl002:003	(3)	-	UNTRANSLATED	
+cl002:003	4	@	-	kaikki␣
+cl002:003	(7) 8	@	-	viisauden␣
+cl002:003	9	@	-	ja␣
+cl002:003	10	@	-	tiedon␣
+cl002:003	(5) 6	@	-	aarteet␣
+cl002:003	11a	(@)	-	ovat␣
+cl002:003	11a	@	-	kätkettyinä
+cl002:003	11b	.	-	.␣
+cl002:004	cl002:004	cl002:004	VERSE	Kol␣2:4␣
+cl002:004	1	@	-	Tämän␣
+cl002:004	2a	(@)	-	minä␣
+cl002:004	2a	@	-	sanon
+cl002:004	2b	,	-	,␣
+cl002:004	4	@	-	ettei␣
+cl002:004	3	%case	?	
+cl002:004	4	@	-	kukaan␣
+cl002:004	5	@	-	teitä␣
+cl002:004	6	@	-	pettäisi␣
+cl002:004	8a	@	-	suostuttelevilla␣
+cl002:004	8a	@	-	puheilla
+cl002:004	7	%case	LOC	
+cl002:004	8b	.	-	.␣
+cl002:005	cl002:005	cl002:005	VERSE	Kol␣2:5␣
+cl002:005	2	@	-	Sillä␣
+cl002:005	1	@	-	jos␣
+cl002:005	(4) 5	@	-	ruumiillisesti␣
+cl002:005	6a	@	-	olenkin␣
+cl002:005	3	%clitic	kin	
+cl002:005	6a	@	-	poissa
+cl002:005	6b	,	-	,␣
+cl002:005	12a	@	-	olen␣
+cl002:005	7	@	-	kuitenkin␣
+cl002:005	11	@	-	teidän␣
+cl002:005	10	@	-	kanssanne␣
+cl002:005	(8) 9	@	-	hengessä␣
+cl002:005	-	(@)	-	ja␣
+cl002:005	13	@	-	iloitsen␣
+cl002:005	(14)	-	UNTRANSLATED	
+cl002:005	15	@	-	nähdessäni␣
+cl002:005	(17) 18	@	-	järjestyksen
+cl002:005	-	(,)	-	,␣
+cl002:005	-	(@)	-	joka␣
+cl002:005	16	@	-	teidän␣
+cl002:005	-	(@)	-	keskuudessanne␣
+cl002:005	-	(@)	-	vallitsee
+cl002:005	-	(,)	-	,␣
+cl002:005	19	@	-	ja␣
+cl002:005	26a	@	-	teidän␣
+cl002:005	(20) 21	@	-	lujan␣
+cl002:005	(22) 25	@	-	uskonne␣
+cl002:005	24	@	-	Kristukseen
+cl002:005	23	%case	LOC	
+cl002:005	26b	.	-	.␣
+cl002:006	cl002:006	cl002:006	VERSE	Kol␣2:6␣
+cl002:006	1	@	-	Niinkuin␣
+cl002:006	3	(@)	-	te␣
+cl002:006	2	@	-	siis␣
+cl002:006	3	(@)	-	olette␣
+cl002:006	3	@	-	omaksenne␣
+cl002:006	3	@	-	ottaneet␣
+cl002:006	(4) 5	@	-	Kristuksen␣
+cl002:006	6	@	-	Jeesuksen
+cl002:006	-	(,)	-	,␣
+cl002:006	(7) 8a	@	-	Herran
+cl002:006	-	(,)	-	,␣
+cl002:006	-	(@)	-	niin␣
+cl002:006	11a	@	-	vaeltakaa␣
+cl002:006	10	@	-	hänessä
+cl002:006	9	%case	LOC	
+cl002:006	11b	,	-	,␣
+cl002:007	cl002:007	cl002:007	VERSE	Kol␣2:7␣
+cl002:007	1	@	-	juurtuneina␣
+cl002:007	-	(@)	-	häneen␣
+cl002:007	2	@	-	ja␣
+cl002:007	5	@	-	hänessä␣
+cl002:007	4	%case	LOC	
+cl002:007	3	@	-	rakentuen␣
+cl002:007	6	@	-	ja␣
+cl002:007	(8) 9	@	-	uskossa␣
+cl002:007	7	@	-	vahvistuen
+cl002:007	-	(,)	-	,␣
+cl002:007	10	@	-	niinkuin␣
+cl002:007	11a	(@)	-	teille␣
+cl002:007	11a	(@)	-	on␣
+cl002:007	11a	@	-	opetettu
+cl002:007	-	(;)	-	;␣
+cl002:007	-	(@)	-	ja␣
+cl002:007	12	@	-	olkoon␣
+cl002:007	-	(@)	-	teidän␣
+cl002:007	14a	@	-	kiitoksenne␣
+cl002:007	13	%case	NOM.GEN	
+cl002:007	12	@	-	ylitsevuotavainen
+cl002:007	14b	.	-	.␣
+cl002:008	cl002:008	cl002:008	VERSE	Kol␣2:8␣
+cl002:008	1	@	-	Katsokaa
+cl002:008	-	(,)	-	,␣
+cl002:008	2	@	-	ettei␣
+cl002:008	3	@	-	kukaan␣
+cl002:008	(6) 7	@	-	saa␣
+cl002:008	5	%tasp	PRES	
+cl002:008	4	@	-	teitä␣
+cl002:008	(6) 7	@	-	saaliikseen␣
+cl002:008	10 (9)	@	-	järkeisopilla␣
+cl002:008	8	%case	LOC	
+cl002:008	11	@	-	ja␣
+cl002:008	12	@	-	tyhjällä␣
+cl002:008	13	@	-	petoksella
+cl002:008	-	(,)	-	,␣
+cl002:008	14	@	-	pitäytyen␣
+cl002:008	(17) 18a	@	-	ihmisten␣
+cl002:008	(15) 16	@	-	perinnäissääntöihin␣
+cl002:008	-	(@)	-	ja␣
+cl002:008	(22) 23	@	-	maailman␣
+cl002:008	(20) 21	@	-	alkeisvoimiin␣
+cl002:008	19	%case	LOC	
+cl002:008	25	@	-	eikä␣
+cl002:008	24	%clitic	kA	
+cl002:008	27a	@	-	Kristukseen
+cl002:008	26	%case	LOC	
+cl002:008	27b	.	-	.␣
+cl002:009	cl002:009	cl002:009	VERSE	Kol␣2:9␣
+cl002:009	1	@	-	Sillä␣
+cl002:009	3	@	-	hänessä␣
+cl002:009	2	%case	LOC	
+cl002:009	4	@	-	asuu␣
+cl002:009	(8) 9	@	-	jumaluuden␣
+cl002:009	5	@	-	koko␣
+cl002:009	(6) 7	@	-	täyteys␣
+cl002:009	10a	@	-	ruumiillisesti
+cl002:009	10b	,	-	,␣
+cl002:010	cl002:010	cl002:010	VERSE	Kol␣2:10␣
+cl002:010	1	@	-	ja␣
+cl002:010	2	(@)	-	te␣
+cl002:010	2	@	-	olette␣
+cl002:010	5a	@	-	täytetyt␣
+cl002:010	4	@	-	hänessä
+cl002:010	3	%case	LOC	
+cl002:010	5b	,	-	,␣
+cl002:010	6	@	-	joka␣
+cl002:010	7	@	-	on␣
+cl002:010	10	@	-	kaiken␣
+cl002:010	11	@	-	hallituksen␣
+cl002:010	12	@	-	ja␣
+cl002:010	13a	@	-	vallan␣
+cl002:010	(8) 9	@	-	pää
+cl002:010	13b	,	-	,␣
+cl002:011	cl002:011	cl002:011	VERSE	Kol␣2:11␣
+cl002:011	3	@	-	ja␣
+cl002:011	2	@	-	hänessä␣
+cl002:011	1	%case	LOC	
+cl002:011	-	(@)	-	te␣
+cl002:011	3	@	-	myös␣
+cl002:011	4	(@)	-	olette␣
+cl002:011	4	@	-	ympärileikatut
+cl002:011	-	(,)	-	,␣
+cl002:011	6	@	-	ette␣
+cl002:011	6	@	-	käsintehdyllä␣
+cl002:011	5	@	-	ympärileikkauksella
+cl002:011	-	(,)	-	,␣
+cl002:011	-	(@)	-	vaan␣
+cl002:011	(12) 13a	@	-	lihan␣
+cl002:011	(10) 11	@	-	ruumiin␣
+cl002:011	(8) 9	@	-	poisriisumisella
+cl002:011	7	%case	LOC	
+cl002:011	13b	,	-	,␣
+cl002:011	(17) 18a	@	-	Kristuksen␣
+cl002:011	(15) 16	@	-	ympärileikkauksella
+cl002:011	14	%case	LOC	
+cl002:011	18b	:	-	:␣
+cl002:012	cl002:012	cl002:012	VERSE	Kol␣2:12␣
+cl002:012	1	(@)	-	ollen␣
+cl002:012	1	@	-	haudattuina␣
+cl002:012	2	@	-	hänen␣
+cl002:012	case%2	@	-	kanssaan␣
+cl002:012	(4) 5a	@	-	kasteessa
+cl002:012	3	%case	LOC	
+cl002:012	5b	,	-	,␣
+cl002:012	7	@	-	jossa␣
+cl002:012	6	%case	LOC	
+cl002:012	9	(@)	-	te␣
+cl002:012	8	@	-	myös␣
+cl002:012	-	(@)	-	hänen␣
+cl002:012	-	(@)	-	kanssaan␣
+cl002:012	9	(@)	-	olette␣
+cl002:012	9	@	-	herätetyt␣
+cl002:012	(11) 12	@	-	uskon␣
+cl002:012	10	@	-	kautta
+cl002:012	-	(,)	-	,␣
+cl002:012	13	@	-	jonka␣
+cl002:012	14	@	-	vaikuttaa␣
+cl002:012	(15) 16	@	-	Jumala
+cl002:012	-	(,)	-	,␣
+cl002:012	17	@	-	joka␣
+cl002:012	18	@	-	herätti␣
+cl002:012	19	@	-	hänet␣
+cl002:012	21a	@	-	kuolleista
+cl002:012	20	%case	LOC	
+cl002:012	21b	.	-	.␣
+cl002:013	cl002:013	cl002:013	VERSE	Kol␣2:13␣
+cl002:013	1	@	-	Ja␣
+cl002:013	2	@	-	teidät
+cl002:013	-	(,)	-	,␣
+cl002:013	4a	(@)	-	jotka␣
+cl002:013	4a	@	-	olitte␣
+cl002:013	3	@	-	kuolleet␣
+cl002:013	(6) 7	@	-	rikoksiinne␣
+cl002:013	5a	%case	LOC	
+cl002:013	8	@	-	ja␣
+cl002:013	(11) 12	@	-	lihanne␣
+cl002:013	13a	%pers	?	
+cl002:013	10 (9)	@	-	ympärileikkaamattomuuteen
+cl002:013	13b	,	-	,␣
+cl002:013	15	@	-	teidät␣
+cl002:013	14	(@)	-	hän␣
+cl002:013	14	@	-	teki␣
+cl002:013	14	@	-	eläviksi␣
+cl002:013	14	@	-	yhdessä␣
+cl002:013	17a	@	-	hänen␣
+cl002:013	16	@	-	kanssaan
+cl002:013	17b	,	-	,␣
+cl002:013	18	@	-	antaen␣
+cl002:013	19	@	-	meille␣
+cl002:013	18	@	-	anteeksi␣
+cl002:013	20	@	-	kaikki␣
+cl002:013	(21) 22a	@	-	rikokset
+cl002:013	22b	,	-	,␣
+cl002:014	cl002:014	cl002:014	VERSE	Kol␣2:14␣
+cl002:014	-	(@)	-	ja␣
+cl002:014	1	@	-	pyyhki␣
+cl002:014	1	@	-	pois␣
+cl002:014	-	(@)	-	sen␣
+cl002:014	(2) 5	@	-	kirjoituksen␣
+cl002:014	(6) 7	@	-	säädöksineen
+cl002:014	-	(,)	-	,␣
+cl002:014	8	@	-	joka␣
+cl002:014	9	@	-	oli␣
+cl002:014	4	@	-	meitä␣
+cl002:014	3	@	-	vastaan␣
+cl002:014	-	(@)	-	ja␣
+cl002:014	-	(@)	-	oli␣
+cl002:014	11a	@	-	meidän␣
+cl002:014	10	@	-	vastustajamme
+cl002:014	-	(;)	-	;␣
+cl002:014	(12)	-	UNTRANSLATED	
+cl002:014	13	@	-	sen␣
+cl002:014	14	(@)	-	hän␣
+cl002:014	14	@	-	otti␣
+cl002:014	-	(@)	-	meidän␣
+cl002:014	(16) 17	@	-	tieltämme␣
+cl002:014	15	%case	LOC	
+cl002:014	14	@	-	pois␣
+cl002:014	-	(@)	-	ja␣
+cl002:014	18	@	-	naulitsi␣
+cl002:014	(19)	-	UNTRANSLATED	
+cl002:014	(20) 21a	@	-	ristiin
+cl002:014	21b	.	-	.␣
+cl002:015	cl002:015	cl002:015	VERSE	Kol␣2:15␣
+cl002:015	1	(@)	-	Hän␣
+cl002:015	1	@	-	riisui␣
+cl002:015	1	(@)	-	aseet␣
+cl002:015	(2) 3	@	-	hallituksilta␣
+cl002:015	4	@	-	ja␣
+cl002:015	(5) 6	@	-	valloilta␣
+cl002:015	-	(@)	-	ja␣
+cl002:015	7	@	-	asetti␣
+cl002:015	-	(@)	-	heidät␣
+cl002:015	9a	@	-	julkisen␣
+cl002:015	8	%case	GEN	
+cl002:015	7	@	-	häpeän␣
+cl002:015	7	@	-	alaisiksi
+cl002:015	-	(;)	-	;␣
+cl002:015	10	(@)	-	hän␣
+cl002:015	10	@	-	sai␣
+cl002:015	11	@	-	heistä␣
+cl002:015	13a	@	-	hänen␣
+cl002:015	12	@	-	kauttaan␣
+cl002:015	10	@	-	voiton␣
+cl002:015	10	@	-	riemun
+cl002:015	13b	.	-	.␣
+cl002:016	cl002:016	cl002:016	VERSE	Kol␣2:16␣
+cl002:016	1	@	-	Älköön␣
+cl002:016	2	@	-	siis␣
+cl002:016	3	@	-	kukaan␣
+cl002:016	4	@	-	teitä␣
+cl002:016	5	@	-	tuomitko␣
+cl002:016	7	@	-	syömisestä␣
+cl002:016	6	%case	LOC	
+cl002:016	8	@	-	tai␣
+cl002:016	10	@	-	juomisesta
+cl002:016	9	%case	LOC	
+cl002:016	-	(,)	-	,␣
+cl002:016	11	@	-	älköön␣
+cl002:016	11	@	-	myös␣
+cl002:016	11	@	-	minkään␣
+cl002:016	14	@	-	juhlan␣
+cl002:016	15	@	-	tai␣
+cl002:016	16	@	-	uudenkuun␣
+cl002:016	17	@	-	tai␣
+cl002:016	18a	@	-	sapatin␣
+cl002:016	13	@	-	johdosta
+cl002:016	12	%case	?	
+cl002:016	18b	,	-	,␣
+cl002:017	cl002:017	cl002:017	VERSE	Kol␣2:17␣
+cl002:017	1	@	-	jotka␣
+cl002:017	-	(@)	-	vain␣
+cl002:017	2	@	-	ovat␣
+cl002:017	(4) 5a	@	-	tulevaisten␣
+cl002:017	3	@	-	varjo
+cl002:017	-	(,)	-	,␣
+cl002:017	7	@	-	mutta␣
+cl002:017	(6) 8	@	-	ruumis␣
+cl002:017	-	(@)	-	on␣
+cl002:017	10a (9)	@	-	Kristuksen
+cl002:017	10b	.	-	.␣
+cl002:018	cl002:018	cl002:018	VERSE	Kol␣2:18␣
+cl002:018	1	@	-	Älköön␣
+cl002:018	2	@	-	teiltä␣
+cl002:018	3	@	-	riistäkö␣
+cl002:018	3	@	-	voittopalkintoanne␣
+cl002:018	1	@	-	kukaan
+cl002:018	-	(,)	-	,␣
+cl002:018	4	(@)	-	joka␣
+cl002:018	4	(@)	-	on␣
+cl002:018	4	@	-	mieltynyt␣
+cl002:018	6	@	-	nöyryyteen␣
+cl002:018	5	%case	LOC	
+cl002:018	7	@	-	ja␣
+cl002:018	10a (9)	@	-	enkelien␣
+cl002:018	8	@	-	palvelemiseen␣
+cl002:018	-	(@)	-	ja␣
+cl002:018	13a	@	-	pöyhkeilee␣
+cl002:018	12	@	-	näyistään␣
+cl002:018	11	%case	LOC	
+cl002:018	-	(@)	-	ja␣
+cl002:018	15	@	-	on␣
+cl002:018	(19) 20	@	-	lihallisen␣
+cl002:018	(17) 18	@	-	mielensä␣
+cl002:018	21a	%pers	3	
+cl002:018	16	%case	NOM.GEN	
+cl002:018	14	@	-	turhaan␣
+cl002:018	15	@	-	paisuttama␣
+cl002:019	cl002:019	cl002:019	VERSE	Kol␣2:19␣
+cl002:019	2	@	-	eikä␣
+cl002:019	1	%clitic	kA	
+cl002:019	3	@	-	pitäydy␣
+cl002:019	4	@	-	häneen
+cl002:019	-	(,)	-	,␣
+cl002:019	4	@	-	joka␣
+cl002:019	-	(@)	-	on␣
+cl002:019	5a	@	-	pää␣
+cl002:019	-	(@)	-	ja␣
+cl002:019	7	@	-	josta␣
+cl002:019	6	%case	LOC	
+cl002:019	8	@	-	koko␣
+cl002:019	10 (9)	@	-	ruumis
+cl002:019	-	(,)	-	,␣
+cl002:019	(12) 13	@	-	nivelten␣
+cl002:019	11	%case	GEN	
+cl002:019	14	@	-	ja␣
+cl002:019	15	@	-	jänteiden␣
+cl002:019	16	@	-	avulla␣
+cl002:019	(17)	-	UNTRANSLATED	
+cl002:019	18	@	-	koossa␣
+cl002:019	18	@	-	pysyen
+cl002:019	-	(,)	-	,␣
+cl002:019	19	@	-	kasvaa␣
+cl002:019	(22) 23a	@	-	Jumalan␣
+cl002:019	case%23a	@	-	antamaa␣
+cl002:019	(20) 21	@	-	kasvua
+cl002:019	23b	.	-	.␣
+cl002:020	cl002:020	cl002:020	VERSE	Kol␣2:20␣
+cl002:020	1	@	-	Jos␣
+cl002:020	2	(@)	-	te␣
+cl002:020	2	(@)	-	olette␣
+cl002:020	4	@	-	Kristuksen␣
+cl002:020	3	@	-	kanssa␣
+cl002:020	2	@	-	kuolleet␣
+cl002:020	5	@	-	pois␣
+cl002:020	(8) 9a	@	-	maailman␣
+cl002:020	(6) 7	@	-	alkeisvoimista
+cl002:020	9b	,	-	,␣
+cl002:020	10	@	-	miksi␣
+cl002:020	15a	(@)	-	te
+cl002:020	-	(,)	-	,␣
+cl002:020	11	@	-	ikäänkuin␣
+cl002:020	12	@	-	eläisitte␣
+cl002:020	14	@	-	maailmassa
+cl002:020	13	%case	LOC	
+cl002:020	-	(,)	-	,␣
+cl002:020	tasp%15a	@	-	sallitte␣
+cl002:020	15a	@	-	määrätä␣
+cl002:020	15a	@	-	itsellenne␣
+cl002:020	15a	@	-	säädöksiä
+cl002:020	15b	:	-	:␣
+cl002:021	cl002:021	cl002:021	VERSE	Kol␣2:21␣
+cl002:021	-	(@)	-	"
+cl002:021	1	@	-	Älä␣
+cl002:021	2	@	-	tartu
+cl002:021	-	(,)	-	,␣
+cl002:021	3	@	-	älä␣
+cl002:021	4	@	-	maista
+cl002:021	-	(,)	-	,␣
+cl002:021	5	@	-	älä␣
+cl002:021	6a	@	-	koske
+cl002:021	-	(!)	-	!
+cl002:021	6b	@	-	"␣
+cl002:022	cl002:022	cl002:022	VERSE	Kol␣2:22␣
+cl002:022	-	(-)	-	-␣
+cl002:022	1	@	-	sehän␣
+cl002:022	2	@	-	on␣
+cl002:022	3	@	-	kaikki␣
+cl002:022	pro%4	@	-	tarkoitettu␣
+cl002:022	5	@	-	katoamaan␣
+cl002:022	(6) 7a	@	-	käyttämisen␣
+cl002:022	case%7a	@	-	kautta␣
+cl002:022	7b	-	-	-␣
+cl002:022	(13) 14a	@	-	ihmisten␣
+cl002:022	10 (9)	@	-	käskyjen␣
+cl002:022	11	@	-	ja␣
+cl002:022	12	@	-	oppien␣
+cl002:022	8	@	-	mukaan
+cl002:022	-	(?)	-	?␣
+cl002:023	cl002:023	cl002:023	VERSE	Kol␣2:23␣
+cl002:023	1	@	-	Tällä␣
+cl002:023	-	(@)	-	kaikella␣
+cl002:023	4	@	-	tosin␣
+cl002:023	2	@	-	on␣
+cl002:023	6	@	-	viisauden␣
+cl002:023	(5)	-	UNTRANSLATED	
+cl002:023	3	@	-	maine␣
+cl002:023	8	@	-	itsevalitun␣
+cl002:023	8	@	-	jumalanpalveluksen␣
+cl002:023	9	@	-	ja␣
+cl002:023	10a	@	-	nöyryyden␣
+cl002:023	7	@	-	vuoksi␣
+cl002:023	11a	@	-	ja␣
+cl002:023	-	(@)	-	sentähden
+cl002:023	11b	,	-	,␣
+cl002:023	12	@	-	ettei␣
+cl002:023	-	(@)	-	se␣
+cl002:023	13a	@	-	ruumista␣
+cl002:023	12	@	-	säästä
+cl002:023	-	(;)	-	;␣
+cl002:023	-	(@)	-	mutta␣
+cl002:023	-	(@)	-	se␣
+cl002:023	-	(@)	-	on␣
+cl002:023	14	@	-	ilman␣
+cl002:023	17	@	-	mitään␣
+cl002:023	16	@	-	arvoa
+cl002:023	15	%case	PTV	
+cl002:023	-	(,)	-	,␣
+cl002:023	-	(@)	-	ja␣
+cl002:023	-	(@)	-	se␣
+cl002:023	-	(@)	-	tapahtuu␣
+cl002:023	(20) 21a	@	-	lihan␣
+cl002:023	19	@	-	tyydyttämiseksi
+cl002:023	18	%case	TRA	
+cl002:023	21b	.	-	.␣
+cl003:001	cl003:001	cl003:001	VERSE	Kol␣3:1␣
+cl003:001	1	@	-	Jos␣
+cl003:001	3	(@)	-	te␣
+cl003:001	2	@	-	siis␣
+cl003:001	3	(@)	-	olette␣
+cl003:001	3	@	-	herätetyt␣
+cl003:001	(4) 5a	@	-	Kristuksen␣
+cl003:001	case%5a	@	-	kanssa
+cl003:001	-	(,)	-	,␣
+cl003:001	-	(@)	-	niin␣
+cl003:001	8a	@	-	etsikää␣
+cl003:001	6	@	-	sitä
+cl003:001	-	(,)	-	,␣
+cl003:001	6	@	-	mikä␣
+cl003:001	-	(@)	-	on␣
+cl003:001	7	@	-	ylhäällä
+cl003:001	8b	,	-	,␣
+cl003:001	9	@	-	jossa␣
+cl003:001	(10) 11	@	-	Kristus␣
+cl003:001	12	@	-	on
+cl003:001	-	(,)	-	,␣
+cl003:001	17a	@	-	istuen␣
+cl003:001	(15) 16	@	-	Jumalan␣
+cl003:001	14	@	-	oikealla␣
+cl003:001	14	@	-	puolella
+cl003:001	13	%case	LOC	
+cl003:001	17b	.	-	.␣
+cl003:002	cl003:002	cl003:002	VERSE	Kol␣3:2␣
+cl003:002	3a	@	-	Olkoon␣
+cl003:002	3a	@	-	mielenne␣
+cl003:002	1	@	-	siihen
+cl003:002	-	(,)	-	,␣
+cl003:002	1	@	-	mikä␣
+cl003:002	2	@	-	ylhäällä␣
+cl003:002	-	(@)	-	on
+cl003:002	3b	,	-	,␣
+cl003:002	4	@	-	älköön␣
+cl003:002	5	@	-	siihen
+cl003:002	-	(,)	-	,␣
+cl003:002	5	@	-	mikä␣
+cl003:002	-	(@)	-	on␣
+cl003:002	(7) 8a	@	-	maan␣
+cl003:002	6	@	-	päällä
+cl003:002	8b	.	-	.␣
+cl003:003	cl003:003	cl003:003	VERSE	Kol␣3:3␣
+cl003:003	2	@	-	Sillä␣
+cl003:003	1	(@)	-	te␣
+cl003:003	1	(@)	-	olette␣
+cl003:003	1	@	-	kuolleet
+cl003:003	-	(,)	-	,␣
+cl003:003	3	@	-	ja␣
+cl003:003	6	@	-	teidän␣
+cl003:003	(4) 5	@	-	elämänne␣
+cl003:003	7	(@)	-	on␣
+cl003:003	7	@	-	kätkettynä␣
+cl003:003	10 (9)	@	-	Kristuksen␣
+cl003:003	8	@	-	kanssa␣
+cl003:003	(12) 13a	@	-	Jumalassa
+cl003:003	11	%case	LOC	
+cl003:003	13b	;	-	;␣
+cl003:004	cl003:004	cl003:004	VERSE	Kol␣3:4␣
+cl003:004	1	@	-	kun␣
+cl003:004	(2) 3	@	-	Kristus
+cl003:004	-	(,)	-	,␣
+cl003:004	7b	@	-	meidän␣
+cl003:004	(5) 6	@	-	elämämme
+cl003:004	-	(,)	-	,␣
+cl003:004	4a	@	-	ilmestyy
+cl003:004	7c	,	-	,␣
+cl003:004	8	@	-	silloin␣
+cl003:004	10	@	-	tekin␣
+cl003:004	9	%clitic	kin	
+cl003:004	12	@	-	hänen␣
+cl003:004	11	@	-	kanssaan␣
+cl003:004	13	@	-	ilmestytte␣
+cl003:004	15a	@	-	kirkkaudessa
+cl003:004	14	%case	LOC	
+cl003:004	15b	.	-	.␣
+cl003:005	cl003:005	cl003:005	VERSE	Kol␣3:5␣
+cl003:005	1	@	-	Kuolettakaa␣
+cl003:005	2	@	-	siis␣
+cl003:005	(7) 8a	@	-	maalliset␣
+cl003:005	(5)	-	UNTRANSLATED	
+cl003:005	6	%case	NOM	
+cl003:005	(3) 4	@	-	jäsenenne
+cl003:005	8b	:	-	:␣
+cl003:005	9	@	-	haureus
+cl003:005	-	(,)	-	,␣
+cl003:005	10	@	-	saastaisuus
+cl003:005	-	(,)	-	,␣
+cl003:005	11	@	-	kiihko
+cl003:005	-	(,)	-	,␣
+cl003:005	13a	@	-	paha␣
+cl003:005	12	@	-	himo␣
+cl003:005	14	@	-	ja␣
+cl003:005	(15) 16a	@	-	ahneus
+cl003:005	16b	,	-	,␣
+cl003:005	17	@	-	joka␣
+cl003:005	18	@	-	on␣
+cl003:005	19a	@	-	epäjumalanpalvelusta
+cl003:005	19b	,	-	,␣
+cl003:006	cl003:006	cl003:006	VERSE	Kol␣3:6␣
+cl003:006	-	(@)	-	sillä␣
+cl003:006	2	@	-	niiden␣
+cl003:006	1	@	-	tähden␣
+cl003:006	3	@	-	tulee␣
+cl003:006	(6) 7a	@	-	Jumalan␣
+cl003:006	(4) 5	@	-	viha
+cl003:006	-	(,)	-	,␣
+cl003:006	(10) (11) (12a) (8) (9)	-	UNTRANSLATED	
+cl003:007	cl003:007	cl003:007	VERSE	Kol␣3:7␣
+cl003:007	-	(@)	-	ja␣
+cl003:007	2	@	-	niissä␣
+cl003:007	1	%case	LOC	
+cl003:007	4	@	-	tekin␣
+cl003:007	3	%clitic	kin	
+cl003:007	6a	@	-	ennen␣
+cl003:007	5	@	-	vaelsitte
+cl003:007	6b	,	-	,␣
+cl003:007	7	@	-	kun␣
+cl003:007	10a	@	-	niissä␣
+cl003:007	9	%case	LOC	
+cl003:007	8	@	-	elitte
+cl003:007	10b	.	-	.␣
+cl003:008	cl003:008	cl003:008	VERSE	Kol␣3:8␣
+cl003:008	2	@	-	Mutta␣
+cl003:008	1	@	-	nyt␣
+cl003:008	3	@	-	pankaa␣
+cl003:008	5	@	-	tekin␣
+cl003:008	4	%clitic	kin	
+cl003:008	3	@	-	pois␣
+cl003:008	6	@	-	ne␣
+cl003:008	7a	@	-	kaikki
+cl003:008	7b	:	-	:␣
+cl003:008	8a	@	-	viha
+cl003:008	8b	,	-	,␣
+cl003:008	9a	@	-	kiivastus
+cl003:008	9b	,	-	,␣
+cl003:008	10a	@	-	pahuus
+cl003:008	10b	,	-	,␣
+cl003:008	11a	@	-	herjaus␣
+cl003:008	-	(@)	-	ja␣
+cl003:008	12	@	-	häpeällinen␣
+cl003:008	12	@	-	puhe␣
+cl003:008	(14) 15	@	-	suustanne
+cl003:008	16a	%pers	?	
+cl003:008	13	%case	LOC	
+cl003:008	16b	.	-	.␣
+cl003:009	cl003:009	cl003:009	VERSE	Kol␣3:9␣
+cl003:009	1	@	-	Älkää␣
+cl003:009	2	@	-	puhuko␣
+cl003:009	2	@	-	valhetta␣
+cl003:009	4a	@	-	toisistanne
+cl003:009	3	%case	LOC	
+cl003:009	4b	,	-	,␣
+cl003:009	5	(@)	-	te
+cl003:009	-	(,)	-	,␣
+cl003:009	5	(@)	-	jotka␣
+cl003:009	5	(@)	-	olette␣
+cl003:009	5	@	-	riisuneet␣
+cl003:009	5	@	-	pois␣
+cl003:009	7	@	-	vanhan␣
+cl003:009	(6) 8	@	-	ihmisen␣
+cl003:009	(10) 11	@	-	tekoinensa␣
+cl003:009	12	%pers	3	
+cl003:009	9	%case	CMT	
+cl003:010	cl003:010	cl003:010	VERSE	Kol␣3:10␣
+cl003:010	1	@	-	ja␣
+cl003:010	2	@	-	pukeutuneet␣
+cl003:010	(3) 4	@	-	uuteen
+cl003:010	-	(,)	-	,␣
+cl003:010	5	@	-	joka␣
+cl003:010	6	@	-	uudistuu␣
+cl003:010	8	@	-	tietoon
+cl003:010	7	%case	LOC	
+cl003:010	-	(,)	-	,␣
+cl003:010	(11) 12	@	-	Luojansa␣
+cl003:010	13a	%pers	3	
+cl003:010	10	@	-	kuvan␣
+cl003:010	9	@	-	mukaan
+cl003:010	13b	.	-	.␣
+cl003:011	cl003:011	cl003:011	VERSE	Kol␣3:11␣
+cl003:011	-	(@)	-	Ja␣
+cl003:011	1	@	-	tässä␣
+cl003:011	2	@	-	ei␣
+cl003:011	3	@	-	ole␣
+cl003:011	4	@	-	kreikkalaista␣
+cl003:011	5	@	-	eikä␣
+cl003:011	6a	@	-	juutalaista
+cl003:011	-	(,)	-	,␣
+cl003:011	-	(@)	-	ei␣
+cl003:011	7	@	-	ympärileikkausta␣
+cl003:011	8	@	-	eikä␣
+cl003:011	9a	@	-	ympärileikkaamattomuutta
+cl003:011	-	(,)	-	,␣
+cl003:011	-	(@)	-	ei␣
+cl003:011	10a	@	-	barbaaria
+cl003:011	-	(,)	-	,␣
+cl003:011	-	(@)	-	ei␣
+cl003:011	11a	@	-	skyyttalaista
+cl003:011	-	(,)	-	,␣
+cl003:011	-	(@)	-	ei␣
+cl003:011	12a	@	-	orjaa
+cl003:011	-	(,)	-	,␣
+cl003:011	-	(@)	-	ei␣
+cl003:011	13a	@	-	vapaata
+cl003:011	13b	,	-	,␣
+cl003:011	14a	@	-	vaan␣
+cl003:011	(15a) 16	@	-	kaikki␣
+cl003:011	17	@	-	ja␣
+cl003:011	19	@	-	kaikissa␣
+cl003:011	18	%case	LOC	
+cl003:011	-	(@)	-	on␣
+cl003:011	20a	@	-	Kristus
+cl003:011	20b	.	-	.␣
+cl003:012	cl003:012	cl003:012	VERSE	Kol␣3:12␣
+cl003:012	1	@	-	Pukeutukaa␣
+cl003:012	2a	@	-	siis
+cl003:012	-	(,)	-	,␣
+cl003:012	-	(@)	-	te
+cl003:012	-	(,)	-	,␣
+cl003:012	-	(@)	-	jotka␣
+cl003:012	-	(@)	-	olette␣
+cl003:012	(5) 6	@	-	Jumalan␣
+cl003:012	4	@	-	valituita
+cl003:012	3	%inflection	PSS.PCP2.PL.PTV	
+cl003:012	-	(,)	-	,␣
+cl003:012	7	@	-	pyhiä␣
+cl003:012	8	@	-	ja␣
+cl003:012	9a	@	-	rakkaita
+cl003:012	9b	,	-	,␣
+cl003:012	10	@	-	sydämelliseen␣
+cl003:012	11	@	-	armahtavaisuuteen
+cl003:012	-	(,)	-	,␣
+cl003:012	12	@	-	ystävällisyyteen
+cl003:012	-	(,)	-	,␣
+cl003:012	13	@	-	nöyryyteen
+cl003:012	-	(,)	-	,␣
+cl003:012	14	@	-	sävyisyyteen
+cl003:012	-	(,)	-	,␣
+cl003:012	15a	@	-	pitkämielisyyteen
+cl003:012	15b	,	-	,␣
+cl003:013	cl003:013	cl003:013	VERSE	Kol␣3:13␣
+cl003:013	1	@	-	kärsikää␣
+cl003:013	2	@	-	toinen␣
+cl003:013	2	@	-	toistanne␣
+cl003:013	3	@	-	ja␣
+cl003:013	4	@	-	antakaa␣
+cl003:013	5	@	-	toisillenne␣
+cl003:013	4	@	-	anteeksi
+cl003:013	-	(,)	-	,␣
+cl003:013	6	@	-	jos␣
+cl003:013	7	@	-	kenellä␣
+cl003:013	10	@	-	on␣
+cl003:013	11a	@	-	moitetta␣
+cl003:013	9	@	-	toista␣
+cl003:013	8	@	-	vastaan
+cl003:013	11b	.	-	.␣
+cl003:013	12	@	-	Niinkuin␣
+cl003:013	(14) 15	@	-	Herrakin␣
+cl003:013	13	%clitic	kin	
+cl003:013	16	(@)	-	on␣
+cl003:013	16	@	-	antanut␣
+cl003:013	17a	@	-	teille␣
+cl003:013	16	@	-	anteeksi
+cl003:013	17b	,	-	,␣
+cl003:013	18	@	-	niin␣
+cl003:013	19	@	-	myös␣
+cl003:013	20a	@	-	te␣
+cl003:013	-	(@)	-	antakaa
+cl003:013	20b	.	-	.␣
+cl003:014	cl003:014	cl003:014	VERSE	Kol␣3:14␣
+cl003:014	3	@	-	Mutta␣
+cl003:014	2	@	-	kaiken␣
+cl003:014	4	@	-	tämän␣
+cl003:014	1	@	-	lisäksi␣
+cl003:014	-	(@)	-	pukeutukaa␣
+cl003:014	(5) 6a	@	-	rakkauteen
+cl003:014	6b	,	-	,␣
+cl003:014	7	@	-	mikä␣
+cl003:014	8	@	-	on␣
+cl003:014	(10) 11a	@	-	täydellisyyden␣
+cl003:014	9	@	-	side
+cl003:014	11b	.	-	.␣
+cl003:015	cl003:015	cl003:015	VERSE	Kol␣3:15␣
+cl003:015	1	@	-	Ja␣
+cl003:015	6	@	-	vallitkoon␣
+cl003:015	10a	@	-	teidän␣
+cl003:015	(8) 9	@	-	sydämissänne␣
+cl003:015	7	%case	LOC	
+cl003:015	(4) 5	@	-	Kristuksen␣
+cl003:015	(2) 3	@	-	rauha
+cl003:015	10b	,	-	,␣
+cl003:015	12	@	-	johon␣
+cl003:015	11	%case	LOC	
+cl003:015	14	(@)	-	te␣
+cl003:015	14	(@)	-	olette␣
+cl003:015	14	@	-	kutsututkin␣
+cl003:015	13	%clitic	kin	
+cl003:015	16	@	-	yhdessä␣
+cl003:015	17a	@	-	ruumiissa
+cl003:015	15	%case	LOC	
+cl003:015	17b	,	-	,␣
+cl003:015	18	@	-	ja␣
+cl003:015	20a	@	-	olkaa␣
+cl003:015	19	@	-	kiitolliset
+cl003:015	20b	.	-	.␣
+cl003:016	cl003:016	cl003:016	VERSE	Kol␣3:16␣
+cl003:016	8a	@	-	Runsaasti␣
+cl003:016	5	@	-	asukoon␣
+cl003:016	7	@	-	teissä␣
+cl003:016	6	%case	LOC	
+cl003:016	(3) 4	@	-	Kristuksen␣
+cl003:016	(1) 2	@	-	sana
+cl003:016	8b	;	-	;␣
+cl003:016	12	@	-	opettakaa␣
+cl003:016	13	@	-	ja␣
+cl003:016	14	@	-	neuvokaa␣
+cl003:016	15a	@	-	toinen␣
+cl003:016	15a	@	-	toistanne␣
+cl003:016	10	@	-	kaikessa␣
+cl003:016	11	@	-	viisaudessa
+cl003:016	9	%case	LOC	
+cl003:016	15b	,	-	,␣
+cl003:016	16	@	-	psalmeilla
+cl003:016	-	(,)	-	,␣
+cl003:016	17	@	-	kiitosvirsillä␣
+cl003:016	-	(@)	-	ja␣
+cl003:016	19	@	-	hengellisillä␣
+cl003:016	18	@	-	lauluilla
+cl003:016	-	(,)	-	,␣
+cl003:016	23	@	-	veisaten␣
+cl003:016	(21a) 22	@	-	kiitollisesti␣
+cl003:016	20a	%case	MAN	
+cl003:016	(28) 29a	@	-	Jumalalle␣
+cl003:016	(25) 26	@	-	sydämissänne
+cl003:016	27	%pers	?	
+cl003:016	24	%case	LOC	
+cl003:016	29b	.	-	.␣
+cl003:017	cl003:017	cl003:017	VERSE	Kol␣3:17␣
+cl003:017	1	@	-	Ja␣
+cl003:017	2	@	-	kaikki
+cl003:017	-	(,)	-	,␣
+cl003:017	3 4	@	-	minkä␣
+cl003:017	6	@	-	teette␣
+cl003:017	8	@	-	sanalla␣
+cl003:017	7	%case	LOC	
+cl003:017	9	@	-	tai␣
+cl003:017	11a	@	-	työllä
+cl003:017	10	%case	LOC	
+cl003:017	11b	,	-	,␣
+cl003:017	12	@	-	kaikki␣
+cl003:017	-	(@)	-	tehkää␣
+cl003:017	15	@	-	Herran␣
+cl003:017	16a	@	-	Jeesuksen␣
+cl003:017	14	@	-	nimessä
+cl003:017	13	%case	LOC	
+cl003:017	16b	,	-	,␣
+cl003:017	17	@	-	kiittäen␣
+cl003:017	20	@	-	Isää␣
+cl003:017	(18) 19	@	-	Jumalaa␣
+cl003:017	22a	@	-	hänen␣
+cl003:017	21	@	-	kauttansa
+cl003:017	22b	.	-	.␣
+cl003:018	cl003:018	cl003:018	VERSE	Kol␣3:18␣
+cl003:018	(1) 2a	@	-	Vaimot
+cl003:018	2b	,	-	,␣
+cl003:018	3	@	-	olkaa␣
+cl003:018	(4) 5	@	-	miehillenne␣
+cl003:018	3	@	-	alamaiset
+cl003:018	-	(,)	-	,␣
+cl003:018	6	@	-	niinkuin␣
+cl003:018	7	@	-	sopii␣
+cl003:018	9a	@	-	Herrassa
+cl003:018	8	%case	LOC	
+cl003:018	9b	.	-	.␣
+cl003:019	cl003:019	cl003:019	VERSE	Kol␣3:19␣
+cl003:019	(1) 2a	@	-	Miehet
+cl003:019	2b	,	-	,␣
+cl003:019	3	@	-	rakastakaa␣
+cl003:019	(4) 5	@	-	vaimojanne
+cl003:019	-	(,)	-	,␣
+cl003:019	7	@	-	älkääkä␣
+cl003:019	6	%clitic	kA	
+cl003:019	8	@	-	olko␣
+cl003:019	10a	@	-	heitä␣
+cl003:019	9	@	-	kohtaan␣
+cl003:019	8	@	-	katkerat
+cl003:019	10b	.	-	.␣
+cl003:020	cl003:020	cl003:020	VERSE	Kol␣3:20␣
+cl003:020	(1) 2a	@	-	Lapset
+cl003:020	2b	,	-	,␣
+cl003:020	3	@	-	olkaa␣
+cl003:020	(4) 5	@	-	vanhemmillenne␣
+cl003:020	3	@	-	kuuliaiset␣
+cl003:020	7a	@	-	kaikessa
+cl003:020	6	%case	LOC	
+cl003:020	7b	,	-	,␣
+cl003:020	9	@	-	sillä␣
+cl003:020	8	@	-	se␣
+cl003:020	11	@	-	on␣
+cl003:020	10	@	-	otollista␣
+cl003:020	13a	@	-	Herrassa
+cl003:020	12	%case	LOC	
+cl003:020	13b	.	-	.␣
+cl003:021	cl003:021	cl003:021	VERSE	Kol␣3:21␣
+cl003:021	(1) 2a	@	-	Isät
+cl003:021	2b	,	-	,␣
+cl003:021	3	@	-	älkää␣
+cl003:021	4	@	-	kiihoittako␣
+cl003:021	(5) 6	@	-	lapsianne
+cl003:021	7a	%pers	?	
+cl003:021	7b	,	-	,␣
+cl003:021	9	@	-	etteivät␣
+cl003:021	8	%case	?	
+cl003:021	10a	(@)	-	he␣
+cl003:021	10a	@	-	kävisi␣
+cl003:021	10a	@	-	aroiksi
+cl003:021	10b	.	-	.␣
+cl003:022	cl003:022	cl003:022	VERSE	Kol␣3:22␣
+cl003:022	(1) 2a	@	-	Palvelijat
+cl003:022	2b	,	-	,␣
+cl003:022	3	@	-	olkaa␣
+cl003:022	8	@	-	maallisille␣
+cl003:022	7	%case	LOC	
+cl003:022	(6) 9a	@	-	isännillenne␣
+cl003:022	5	@	-	kaikessa␣
+cl003:022	4	%case	LOC	
+cl003:022	3	@	-	kuuliaiset
+cl003:022	9b	,	-	,␣
+cl003:022	10	@	-	ei␣
+cl003:022	12	@	-	silmänpalvelijoina
+cl003:022	11	%case	ESS	
+cl003:022	-	(,)	-	,␣
+cl003:022	14a	@	-	ihmisille␣
+cl003:022	14a	@	-	mieliksi
+cl003:022	13	%inflection	DER.ADV	
+cl003:022	14b	,	-	,␣
+cl003:022	15	@	-	vaan␣
+cl003:022	18	@	-	sydämen␣
+cl003:022	17	@	-	yksinkertaisuudessa␣
+cl003:022	16	%case	LOC	
+cl003:022	19	@	-	peljäten␣
+cl003:022	(20) 21a	@	-	Herraa
+cl003:022	21b	.	-	.␣
+cl003:023	cl003:023	cl003:023	VERSE	Kol␣3:23␣
+cl003:023	1	@	-	Kaikki
+cl003:023	-	(,)	-	,␣
+cl003:023	1	@	-	mitä␣
+cl003:023	3a	@	-	teette
+cl003:023	-	(,)	-	,␣
+cl003:023	-	(@)	-	se␣
+cl003:023	6	@	-	tehkää␣
+cl003:023	5	@	-	sydämestänne
+cl003:023	4	%case	LOC	
+cl003:023	-	(,)	-	,␣
+cl003:023	7	@	-	niinkuin␣
+cl003:023	(8) 9	@	-	Herralle␣
+cl003:023	11	@	-	eikä␣
+cl003:023	10	%clitic	kA	
+cl003:023	12a	@	-	ihmisille
+cl003:023	12b	,	-	,␣
+cl003:024	cl003:024	cl003:024	VERSE	Kol␣3:24␣
+cl003:024	1	@	-	tietäen
+cl003:024	-	(,)	-	,␣
+cl003:024	2	@	-	että␣
+cl003:024	5	(@)	-	te␣
+cl003:024	5	@	-	saatte␣
+cl003:024	4	@	-	Herralta␣
+cl003:024	3	%case	LOC	
+cl003:024	(6) 7	@	-	palkaksi␣
+cl003:024	(8) 9a	@	-	perinnön
+cl003:024	-	(;)	-	;␣
+cl003:024	13	(@)	-	te␣
+cl003:024	13	@	-	palvelette␣
+cl003:024	(10) 11	@	-	Herraa␣
+cl003:024	12	@	-	Kristusta
+cl003:024	-	(.)	-	.␣
+cl003:025	cl003:025	cl003:025	VERSE	Kol␣3:25␣
+cl003:025	2	@	-	Sillä␣
+cl003:025	1	@	-	se
+cl003:025	-	(,)	-	,␣
+cl003:025	1	@	-	joka␣
+cl003:025	3	@	-	tekee␣
+cl003:025	3	@	-	väärin
+cl003:025	-	(,)	-	,␣
+cl003:025	4	(@)	-	on␣
+cl003:025	4	@	-	saava␣
+cl003:025	4	@	-	takaisin
+cl003:025	-	(,)	-	,␣
+cl003:025	5	@	-	mitä␣
+cl003:025	6a	(@)	-	on␣
+cl003:025	6a	@	-	väärin␣
+cl003:025	6a	@	-	tehnyt
+cl003:025	6b	;	-	;␣
+cl003:025	7	@	-	ja␣
+cl003:025	10a	@	-	henkilöön␣
+cl003:025	8	@	-	ei␣
+cl003:025	10a	@	-	katsota
+cl003:025	9	%tasp	PRES	
+cl003:025	10b	.	-	.␣
+cl004:001	cl004:001	cl004:001	VERSE	Kol␣4:1␣
+cl004:001	(1) 2a	@	-	Isännät
+cl004:001	2b	,	-	,␣
+cl004:001	10a	@	-	tehkää␣
+cl004:001	(8) 9	@	-	palvelijoillenne
+cl004:001	-	(,)	-	,␣
+cl004:001	3	@	-	mitä␣
+cl004:001	4	@	-	oikeus␣
+cl004:001	5	@	-	ja␣
+cl004:001	(6) 7	@	-	kohtuus␣
+cl004:001	-	(@)	-	vaatii
+cl004:001	10b	,	-	,␣
+cl004:001	11	(@)	-	sillä␣
+cl004:001	11	(@)	-	te␣
+cl004:001	11	@	-	tiedätte
+cl004:001	-	(,)	-	,␣
+cl004:001	12	@	-	että␣
+cl004:001	14	@	-	teilläkin␣
+cl004:001	13	%clitic	kin	
+cl004:001	15	@	-	on␣
+cl004:001	16	@	-	Herra␣
+cl004:001	18a	@	-	taivaassa
+cl004:001	17	%case	LOC	
+cl004:001	18b	.	-	.␣
+cl004:002	cl004:002	cl004:002	VERSE	Kol␣4:2␣
+cl004:002	3a	@	-	Olkaa␣
+cl004:002	3a	@	-	kestäväiset␣
+cl004:002	(1) 2	@	-	rukouksessa␣
+cl004:002	-	(@)	-	ja␣
+cl004:002	6	@	-	siinä␣
+cl004:002	5	%case	LOC	
+cl004:002	8a	@	-	kiittäen␣
+cl004:002	7	%case	MAN	
+cl004:002	4	@	-	valvokaa
+cl004:002	8b	,	-	,␣
+cl004:003	cl004:003	cl004:003	VERSE	Kol␣4:3␣
+cl004:003	1	@	-	rukoillen␣
+cl004:003	2	@	-	samalla␣
+cl004:003	5a	@	-	meidänkin␣
+cl004:003	3	%clitic	kin	
+cl004:003	4	@	-	edestämme
+cl004:003	5b	,	-	,␣
+cl004:003	6	@	-	että␣
+cl004:003	(7) 8	@	-	Jumala␣
+cl004:003	9	@	-	avaisi␣
+cl004:003	10	@	-	meille␣
+cl004:003	(12) 13	@	-	sanan␣
+cl004:003	11	@	-	oven␣
+cl004:003	14	@	-	puhuaksemme␣
+cl004:003	(17) 18a	@	-	Kristuksen␣
+cl004:003	(15) 16	@	-	salaisuutta
+cl004:003	18b	,	-	,␣
+cl004:003	20	@	-	jonka␣
+cl004:003	19	@	-	tähden␣
+cl004:003	22a	(@)	-	minä␣
+cl004:003	21	@	-	myös␣
+cl004:003	22a	(@)	-	olen␣
+cl004:003	22a	@	-	sidottuna
+cl004:003	22b	,	-	,␣
+cl004:004	cl004:004	cl004:004	VERSE	Kol␣4:4␣
+cl004:004	1	@	-	että␣
+cl004:004	2	(@)	-	minä␣
+cl004:004	3	@	-	sen␣
+cl004:004	2	@	-	ilmoittaisin
+cl004:004	-	(,)	-	,␣
+cl004:004	4	@	-	niinkuin␣
+cl004:004	6	@	-	minun␣
+cl004:004	5	@	-	tulee␣
+cl004:004	7a	@	-	puhua
+cl004:004	7b	.	-	.␣
+cl004:005	cl004:005	cl004:005	VERSE	Kol␣4:5␣
+cl004:005	3	@	-	Vaelluksessanne␣
+cl004:005	-	(@)	-	olkaa␣
+cl004:005	2	@	-	viisaat␣
+cl004:005	1	%case	NOM	
+cl004:005	6	@	-	ulkopuolella␣
+cl004:005	pro%5	@	-	olevia␣
+cl004:005	4	@	-	kohtaan
+cl004:005	-	(,)	-	,␣
+cl004:005	-	(@)	-	ja␣
+cl004:005	9a	@	-	ottakaa␣
+cl004:005	9a	@	-	vaari␣
+cl004:005	(7) 8	@	-	oikeasta␣
+cl004:005	(7) 8	@	-	hetkestä
+cl004:005	9b	.	-	.␣
+cl004:006	cl004:006	cl004:006	VERSE	Kol␣4:6␣
+cl004:006	-	(@)	-	Olkoon␣
+cl004:006	(1) 2	@	-	puheenne␣
+cl004:006	3	%pers	?	
+cl004:006	4	@	-	aina␣
+cl004:006	6a	@	-	suloista
+cl004:006	5	%case	PTV	
+cl004:006	6b	,	-	,␣
+cl004:006	7	@	-	suolalla␣
+cl004:006	8a	@	-	höystettyä
+cl004:006	-	(,)	-	,␣
+cl004:006	-	(@)	-	ja␣
+cl004:006	9	@	-	tietäkää
+cl004:006	-	(,)	-	,␣
+cl004:006	10	@	-	kuinka␣
+cl004:006	12	@	-	teidän␣
+cl004:006	11	@	-	tulee␣
+cl004:006	13 14	@	-	itsekullekin␣
+cl004:006	15a	@	-	vastata
+cl004:006	15b	.	-	.␣
+cl004:007	cl004:007	cl004:007	VERSE	Kol␣4:7␣
+cl004:007	(1) 4	@	-	Kaikista␣
+cl004:007	3	@	-	minun␣
+cl004:007	pro%2	@	-	oloistani␣
+cl004:007	5	@	-	antaa␣
+cl004:007	6	@	-	teille␣
+cl004:007	5	@	-	tiedon␣
+cl004:007	7	@	-	Tykikus
+cl004:007	-	(,)	-	,␣
+cl004:007	9	@	-	rakas␣
+cl004:007	10 (8)	@	-	veli␣
+cl004:007	11	@	-	ja␣
+cl004:007	12	@	-	uskollinen␣
+cl004:007	13	@	-	palvelija
+cl004:007	(14)	-	UNTRANSLATED	
+cl004:007	-	(,)	-	,␣
+cl004:007	-	(@)	-	minun␣
+cl004:007	15	@	-	kanssapalvelijani␣
+cl004:007	17a	@	-	Herrassa
+cl004:007	16	%case	LOC	
+cl004:007	17b	.	-	.␣
+cl004:008	cl004:008	cl004:008	VERSE	Kol␣4:8␣
+cl004:008	1	@	-	Hänet␣
+cl004:008	2	(@)	-	minä␣
+cl004:008	2	@	-	lähetän␣
+cl004:008	4	@	-	teidän␣
+cl004:008	3	@	-	tykönne␣
+cl004:008	6	@	-	juuri␣
+cl004:008	7a	@	-	sitä␣
+cl004:008	5	@	-	varten
+cl004:008	7b	,	-	,␣
+cl004:008	8	@	-	että␣
+cl004:008	tasp%9	@	-	saisitte␣
+cl004:008	9	@	-	tietää␣
+cl004:008	10 11	@	-	tilamme␣
+cl004:008	12	%case	NOM.GEN	
+cl004:008	13	@	-	ja␣
+cl004:008	-	(@)	-	että␣
+cl004:008	14	(@)	-	hän␣
+cl004:008	14	@	-	lohduttaisi␣
+cl004:008	17a	@	-	teidän␣
+cl004:008	(15) 16	@	-	sydämiänne
+cl004:008	17b	;	-	;␣
+cl004:009	cl004:009	cl004:009	VERSE	Kol␣4:9␣
+cl004:009	-	(@)	-	ja␣
+cl004:009	1	@	-	myös␣
+cl004:009	2	@	-	Onesimuksen
+cl004:009	-	(,)	-	,␣
+cl004:009	(3) 4	@	-	uskollisen␣
+cl004:009	5	@	-	ja␣
+cl004:009	6	@	-	rakkaan␣
+cl004:009	7a	@	-	veljen
+cl004:009	7b	,	-	,␣
+cl004:009	8	@	-	joka␣
+cl004:009	9	@	-	on␣
+cl004:009	11a	@	-	teikäläisiä
+cl004:009	10	%case	PTV	
+cl004:009	-	(;)	-	;␣
+cl004:009	14	(@)	-	he␣
+cl004:009	14	@	-	ilmoittavat␣
+cl004:009	13	@	-	teille
+cl004:009	-	(,)	-	,␣
+cl004:009	pro%15	@	-	kuinka␣
+cl004:009	16a	@	-	täällä␣
+cl004:009	12	@	-	kaikki␣
+cl004:009	pro%15	@	-	on
+cl004:009	16b	.	-	.␣
+cl004:010	cl004:010	cl004:010	VERSE	Kol␣4:10␣
+cl004:010	2	@	-	Teille␣
+cl004:010	1	@	-	lähettää␣
+cl004:010	1	@	-	tervehdyksen␣
+cl004:010	3	@	-	Aristarkus
+cl004:010	-	(,)	-	,␣
+cl004:010	6	@	-	minun␣
+cl004:010	(4) 5	@	-	vankitoverini
+cl004:010	-	(,)	-	,␣
+cl004:010	7	@	-	ja␣
+cl004:010	8	@	-	Markus
+cl004:010	-	(,)	-	,␣
+cl004:010	11a	@	-	Barnabaan␣
+cl004:010	10 (9)	@	-	serkku
+cl004:010	11b	,	-	,␣
+cl004:010	13	@	-	josta␣
+cl004:010	12	%case	LOC	
+cl004:010	14	(@)	-	olette␣
+cl004:010	14	@	-	saaneet␣
+cl004:010	15a	@	-	ohjeita␣
+cl004:010	15b	-	-	-␣
+cl004:010	16	@	-	jos␣
+cl004:010	17	(@)	-	hän␣
+cl004:010	17	@	-	tulee␣
+cl004:010	19a	@	-	teidän␣
+cl004:010	18	@	-	tykönne
+cl004:010	-	(,)	-	,␣
+cl004:010	-	(@)	-	niin␣
+cl004:010	20	@	-	ottakaa␣
+cl004:010	21a	@	-	hänet␣
+cl004:010	20	@	-	vastaan␣
+cl004:010	21b	-	-	-␣
+cl004:011	cl004:011	cl004:011	VERSE	Kol␣4:11␣
+cl004:011	1	@	-	ja␣
+cl004:011	2	@	-	Jeesus
+cl004:011	-	(,)	-	,␣
+cl004:011	3	@	-	jota␣
+cl004:011	4	@	-	sanotaan␣
+cl004:011	5a	@	-	Justukseksi
+cl004:011	5b	;	-	;␣
+cl004:011	6	@	-	nämä␣
+cl004:011	7	@	-	ovat␣
+cl004:011	9a	@	-	ympärileikatuista␣
+cl004:011	8	%case	LOC	
+cl004:011	11	@	-	ainoat
+cl004:011	-	(,)	-	,␣
+cl004:011	10	@	-	jotka␣
+cl004:011	-	(@)	-	ovat␣
+cl004:011	-	(@)	-	olleet␣
+cl004:011	-	(@)	-	minun␣
+cl004:011	12	@	-	auttajani␣
+cl004:011	12	@	-	työssä␣
+cl004:011	(16) 17a	@	-	Jumalan␣
+cl004:011	(14) 15	@	-	valtakunnan␣
+cl004:011	13	@	-	hyväksi
+cl004:011	-	(,)	-	,␣
+cl004:011	-	(@)	-	ja␣
+cl004:011	18	@	-	he␣
+cl004:011	19	(@)	-	ovat␣
+cl004:011	19	@	-	olleet␣
+cl004:011	20	@	-	minulle␣
+cl004:011	21a	@	-	lohdutukseksi
+cl004:011	21b	.	-	.␣
+cl004:012	cl004:012	cl004:012	VERSE	Kol␣4:12␣
+cl004:012	1	@	-	Tervehdyksen␣
+cl004:012	1	@	-	lähettää␣
+cl004:012	2	@	-	teille␣
+cl004:012	(4) 6a	@	-	teikäläinen␣
+cl004:012	5	%case	NOM	
+cl004:012	3	@	-	Epafras
+cl004:012	6b	,	-	,␣
+cl004:012	8a	@	-	Kristuksen␣
+cl004:012	9a	@	-	Jeesuksen␣
+cl004:012	7	@	-	palvelija
+cl004:012	-	(,)	-	,␣
+cl004:012	11	(@)	-	joka␣
+cl004:012	(15) 16a	@	-	rukouksissaan␣
+cl004:012	14	%case	LOC	
+cl004:012	10	@	-	aina␣
+cl004:012	11	@	-	taistelee␣
+cl004:012	13	@	-	teidän␣
+cl004:012	12	@	-	puolestanne
+cl004:012	16b	,	-	,␣
+cl004:012	17	@	-	että␣
+cl004:012	18	(@)	-	te␣
+cl004:012	18	@	-	pysyisitte␣
+cl004:012	19	@	-	täydellisinä␣
+cl004:012	20	@	-	ja␣
+cl004:012	21	@	-	täysin␣
+cl004:012	21	@	-	vahvoina␣
+cl004:012	23	@	-	kaikessa
+cl004:012	22	%case	LOC	
+cl004:012	-	(,)	-	,␣
+cl004:012	-	(@)	-	mikä␣
+cl004:012	-	(@)	-	on␣
+cl004:012	(25) 26a	@	-	Jumalan␣
+cl004:012	24	@	-	tahto
+cl004:012	26b	.	-	.␣
+cl004:013	cl004:013	cl004:013	VERSE	Kol␣4:13␣
+cl004:013	2	@	-	Sillä␣
+cl004:013	1	(@)	-	minä␣
+cl004:013	1	@	-	annan␣
+cl004:013	3	@	-	hänestä␣
+cl004:013	-	(@)	-	sen␣
+cl004:013	1	@	-	todistuksen
+cl004:013	-	(,)	-	,␣
+cl004:013	4	@	-	että␣
+cl004:013	5	(@)	-	hän␣
+cl004:013	5	@	-	näkee␣
+cl004:013	6	@	-	paljon␣
+cl004:013	7	@	-	vaivaa␣
+cl004:013	9	@	-	teidän␣
+cl004:013	8	@	-	hyväksenne␣
+cl004:013	10	@	-	ja␣
+cl004:013	11	@	-	niiden␣
+cl004:013	-	(@)	-	hyväksi
+cl004:013	-	(,)	-	,␣
+cl004:013	11	@	-	jotka␣
+cl004:013	-	(@)	-	ovat␣
+cl004:013	13	@	-	Laodikeassa
+cl004:013	12	%case	LOC	
+cl004:013	-	(,)	-	,␣
+cl004:013	14	@	-	sekä␣
+cl004:013	15	@	-	niiden
+cl004:013	-	(,)	-	,␣
+cl004:013	15	@	-	jotka␣
+cl004:013	-	(@)	-	ovat␣
+cl004:013	17a	@	-	Hierapolissa
+cl004:013	16	%case	LOC	
+cl004:013	17b	.	-	.␣
+cl004:014	cl004:014	cl004:014	VERSE	Kol␣4:14␣
+cl004:014	3	@	-	Luukas
+cl004:014	-	(,)	-	,␣
+cl004:014	(6) 7	@	-	rakas␣
+cl004:014	(4) 5	@	-	lääkäri
+cl004:014	-	(,)	-	,␣
+cl004:014	1	@	-	lähettää␣
+cl004:014	2	@	-	teille␣
+cl004:014	1	@	-	tervehdyksen
+cl004:014	-	(,)	-	,␣
+cl004:014	-	(@)	-	niin␣
+cl004:014	8	@	-	myös␣
+cl004:014	9a	@	-	Deemas
+cl004:014	9b	.	-	.␣
+cl004:015	cl004:015	cl004:015	VERSE	Kol␣4:15␣
+cl004:015	1	@	-	Tervehdys␣
+cl004:015	4	@	-	Laodikeassa␣
+cl004:015	3	%case	LOC	
+cl004:015	pro%2	@	-	oleville␣
+cl004:015	5	@	-	veljille␣
+cl004:015	6	@	-	ja␣
+cl004:015	7	@	-	Nymfalle␣
+cl004:015	8	@	-	sekä␣
+cl004:015	12	@	-	hänen␣
+cl004:015	11	@	-	kodissaan␣
+cl004:015	pro%10	@	-	kokoontuvalle␣
+cl004:015	13a (9)	@	-	seurakunnalle
+cl004:015	13b	.	-	.␣
+cl004:016	cl004:016	cl004:016	VERSE	Kol␣4:16␣
+cl004:016	1	@	-	Ja␣
+cl004:016	2	@	-	kun␣
+cl004:016	6	@	-	tämä␣
+cl004:016	7a	@	-	kirje␣
+cl004:016	3	(@)	-	on␣
+cl004:016	3	@	-	luettu␣
+cl004:016	5	@	-	teille
+cl004:016	4	%case	LOC	
+cl004:016	-	(,)	-	,␣
+cl004:016	-	(@)	-	niin␣
+cl004:016	8	@	-	toimittakaa
+cl004:016	-	(,)	-	,␣
+cl004:016	9	@	-	että␣
+cl004:016	15a	(@)	-	se␣
+cl004:016	15a	@	-	luetaan␣
+cl004:016	13	@	-	Laodikeankin␣
+cl004:016	10	%clitic	kin	
+cl004:016	(12) 14	@	-	seurakunnassa␣
+cl004:016	11	%case	LOC	
+cl004:016	16	@	-	ja␣
+cl004:016	20	@	-	että␣
+cl004:016	21	@	-	myös␣
+cl004:016	22	@	-	te␣
+cl004:016	23a	@	-	luette␣
+cl004:016	19	@	-	Laodikeasta␣
+cl004:016	18	%case	LOC	
+cl004:016	pro%17	@	-	tulevan␣
+cl004:016	pro%17	@	-	kirjeen
+cl004:016	23b	.	-	.␣
+cl004:017	cl004:017	cl004:017	VERSE	Kol␣4:17␣
+cl004:017	1	@	-	Ja␣
+cl004:017	2	@	-	sanokaa␣
+cl004:017	3a	@	-	Arkippukselle
+cl004:017	3b	:	-	:␣
+cl004:017	3b	@	-	"
+cl004:017	4	@	-	Ota␣
+cl004:017	4	@	-	vaari␣
+cl004:017	(5) 6	@	-	virasta
+cl004:017	-	(,)	-	,␣
+cl004:017	7	@	-	jonka␣
+cl004:017	8	(@)	-	olet␣
+cl004:017	8	@	-	saanut␣
+cl004:017	10a	@	-	Herrassa
+cl004:017	9	%case	LOC	
+cl004:017	10b	,	-	,␣
+cl004:017	11	@	-	että␣
+cl004:017	12	@	-	sen␣
+cl004:017	13a	@	-	täysin␣
+cl004:017	13a	@	-	toimitat
+cl004:017	13b	@	-	"
+cl004:017	13b	.	-	.␣
+cl004:018	cl004:018	cl004:018	VERSE	Kol␣4:18␣
+cl004:018	(1) 2	@	-	Tervehdys␣
+cl004:018	-	(@)	-	minulta
+cl004:018	-	(,)	-	,␣
+cl004:018	6a	@	-	Paavalilta
+cl004:018	-	(,)	-	,␣
+cl004:018	(3) 4 5	@	-	omakätisesti
+cl004:018	6b	.	-	.␣
+cl004:018	7	@	-	Muistakaa␣
+cl004:018	8	@	-	minun␣
+cl004:018	10a (9)	@	-	kahleitani
+cl004:018	-	(.)	-	.␣
+cl004:018	(11) 12	@	-	Armo␣
+cl004:018	-	(@)	-	olkoon␣
+cl004:018	14a	@	-	teidän␣
+cl004:018	13	@	-	kanssanne
+cl004:018	14b	.	-	.␣

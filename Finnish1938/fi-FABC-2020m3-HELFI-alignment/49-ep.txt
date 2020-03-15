@@ -1,0 +1,3018 @@
+ep001:001	ep001:001	ep001:001	VERSE	Ef␣1:1␣
+ep001:001	1	@	-	Paavali
+ep001:001	-	(,)	-	,␣
+ep001:001	7	@	-	Jumalan␣
+ep001:001	6	@	-	tahdosta␣
+ep001:001	5	%case	LOC	
+ep001:001	3	@	-	Kristuksen␣
+ep001:001	4	@	-	Jeesuksen␣
+ep001:001	2	@	-	apostoli
+ep001:001	-	(,)	-	,␣
+ep001:001	13a	@	-	Efesossa␣
+ep001:001	12	%case	LOC	
+ep001:001	(10) 11a	@	-	oleville␣
+ep001:001	(8) 9	@	-	pyhille␣
+ep001:001	14	@	-	ja␣
+ep001:001	15	@	-	uskoville␣
+ep001:001	17	@	-	Kristuksessa␣
+ep001:001	18a	@	-	Jeesuksessa
+ep001:001	16	%case	LOC	
+ep001:001	18b	.	-	.␣
+ep001:002	ep001:002	ep001:002	VERSE	Ef␣1:2␣
+ep001:002	1	@	-	Armo␣
+ep001:002	2	@	-	teille␣
+ep001:002	3	@	-	ja␣
+ep001:002	4	@	-	rauha␣
+ep001:002	6	@	-	Jumalalta
+ep001:002	5	%case	LOC	
+ep001:002	-	(,)	-	,␣
+ep001:002	8	@	-	meidän␣
+ep001:002	7	@	-	Isältämme
+ep001:002	-	(,)	-	,␣
+ep001:002	9	@	-	ja␣
+ep001:002	10	@	-	Herralta␣
+ep001:002	11	@	-	Jeesukselta␣
+ep001:002	12a	@	-	Kristukselta
+ep001:002	12b	!	-	!␣
+ep001:003	ep001:003	ep001:003	VERSE	Ef␣1:3␣
+ep001:003	1	@	-	Ylistetty␣
+ep001:003	-	(@)	-	olkoon␣
+ep001:003	8	@	-	meidän␣
+ep001:003	(6) 7	@	-	Herramme␣
+ep001:003	9	@	-	Jeesuksen␣
+ep001:003	10a	@	-	Kristuksen␣
+ep001:003	(2) 3	@	-	Jumala␣
+ep001:003	4	@	-	ja␣
+ep001:003	5	@	-	Isä
+ep001:003	10b	,	-	,␣
+ep001:003	11	@	-	joka␣
+ep001:003	12	(@)	-	on␣
+ep001:003	12	@	-	siunannut␣
+ep001:003	13	@	-	meitä␣
+ep001:003	(19) 20	@	-	taivaallisissa␣
+ep001:003	18	%case	LOC	
+ep001:003	15	@	-	kaikella␣
+ep001:003	17	@	-	hengellisellä␣
+ep001:003	16	@	-	siunauksella␣
+ep001:003	14	%case	LOC	
+ep001:003	22a	@	-	Kristuksessa
+ep001:003	21	%case	LOC	
+ep001:003	22b	,	-	,␣
+ep001:004	ep001:004	ep001:004	VERSE	Ef␣1:4␣
+ep001:004	1	@	-	niinkuin␣
+ep001:004	2	(@)	-	hän␣
+ep001:004	6	@	-	ennen␣
+ep001:004	(3)	-	UNTRANSLATED	
+ep001:004	8	@	-	maailman␣
+ep001:004	7	@	-	perustamista␣
+ep001:004	2	(@)	-	oli␣
+ep001:004	5	@	-	hänessä␣
+ep001:004	4	%case	LOC	
+ep001:004	2	@	-	valinnut␣
+ep001:004	10	@	-	meidät␣
+ep001:004	9	@	-	olemaan␣
+ep001:004	11	@	-	pyhät␣
+ep001:004	12	@	-	ja␣
+ep001:004	13	@	-	nuhteettomat␣
+ep001:004	15	@	-	hänen␣
+ep001:004	14	@	-	edessään
+ep001:004	-	(,)	-	,␣
+ep001:004	17a	@	-	rakkaudessa
+ep001:004	16	%case	LOC	
+ep001:004	17b	,	-	,␣
+ep001:005	ep001:005	ep001:005	VERSE	Ef␣1:5␣
+ep001:005	1	@	-	edeltäpäin␣
+ep001:005	1	@	-	määräten␣
+ep001:005	2	@	-	meidät␣
+ep001:005	4	@	-	lapseuteen
+ep001:005	3	%case	LOC	
+ep001:005	-	(,)	-	,␣
+ep001:005	9a	@	-	hänen␣
+ep001:005	pro%8	@	-	yhteyteensä␣
+ep001:005	6	@	-	Jeesuksen␣
+ep001:005	7	@	-	Kristuksen␣
+ep001:005	5	@	-	kautta
+ep001:005	9b	,	-	,␣
+ep001:005	15a	@	-	hänen␣
+ep001:005	15a	(@)	-	oman␣
+ep001:005	(13) 14	@	-	tahtonsa␣
+ep001:005	(11) 12	@	-	mielisuosion␣
+ep001:005	10	@	-	mukaan
+ep001:005	15b	,	-	,␣
+ep001:006	ep001:006	ep001:006	VERSE	Ef␣1:6␣
+ep001:006	-	(@)	-	sen␣
+ep001:006	(4) 5	@	-	armonsa␣
+ep001:006	6	%pers	3	
+ep001:006	3	@	-	kirkkauden␣
+ep001:006	2	@	-	kiitokseksi
+ep001:006	1	%case	TRA	
+ep001:006	-	(,)	-	,␣
+ep001:006	7	@	-	minkä␣
+ep001:006	8	(@)	-	hän␣
+ep001:006	8	(@)	-	on␣
+ep001:006	8	@	-	lahjoittanut␣
+ep001:006	9	@	-	meille␣
+ep001:006	11	@	-	siinä␣
+ep001:006	12a	@	-	rakastetussa
+ep001:006	10	%case	LOC	
+ep001:006	12b	,	-	,␣
+ep001:007	ep001:007	ep001:007	VERSE	Ef␣1:7␣
+ep001:007	2	@	-	jossa␣
+ep001:007	1	%case	LOC	
+ep001:007	3	(@)	-	meillä␣
+ep001:007	3	@	-	on␣
+ep001:007	(4) 5	@	-	lunastus␣
+ep001:007	9a	@	-	hänen␣
+ep001:007	(7) 8	@	-	verensä␣
+ep001:007	6	@	-	kautta
+ep001:007	9b	,	-	,␣
+ep001:007	(12) 13a	@	-	rikkomusten␣
+ep001:007	(10) 11	@	-	anteeksisaaminen
+ep001:007	13b	,	-	,␣
+ep001:007	19	@	-	hänen␣
+ep001:007	(17) 18	@	-	armonsa␣
+ep001:007	(15) 16	@	-	rikkauden␣
+ep001:007	14	@	-	mukaan
+ep001:007	-	(.)	-	.␣
+ep001:008	ep001:008	ep001:008	VERSE	Ef␣1:8␣
+ep001:008	1	@	-	Tätä␣
+ep001:008	-	(@)	-	armoa␣
+ep001:008	2	(@)	-	hän␣
+ep001:008	2	(@)	-	on␣
+ep001:008	2	@	-	ylenpalttisesti␣
+ep001:008	2	@	-	antanut␣
+ep001:008	4a	@	-	meille␣
+ep001:008	3	%case	LOC	
+ep001:008	6	@	-	kaikkinaiseksi␣
+ep001:008	7	@	-	viisaudeksi␣
+ep001:008	5	%case	TRA	
+ep001:008	8	@	-	ja␣
+ep001:008	9a	@	-	ymmärrykseksi
+ep001:008	9b	,	-	,␣
+ep001:009	ep001:009	ep001:009	VERSE	Ef␣1:9␣
+ep001:009	1	@	-	tehden␣
+ep001:009	2	@	-	meille␣
+ep001:009	1	@	-	tiettäväksi␣
+ep001:009	-	(@)	-	sen␣
+ep001:009	(5) 6	@	-	tahtonsa␣
+ep001:009	7a	%pers	3	
+ep001:009	(3) 4	@	-	salaisuuden
+ep001:009	-	(,)	-	,␣
+ep001:009	-	(@)	-	että␣
+ep001:009	-	(@)	-	hän
+ep001:009	7b	,	-	,␣
+ep001:009	10 (9)	@	-	päätöksensä␣
+ep001:009	11	%pers	3	
+ep001:009	8	@	-	mukaan
+ep001:009	-	(,)	-	,␣
+ep001:009	12	@	-	jonka␣
+ep001:009	13	(@)	-	hän␣
+ep001:009	13	(@)	-	oli␣
+ep001:009	13	@	-	nähnyt␣
+ep001:009	13	@	-	hyväksi␣
+ep001:009	15	@	-	itsessään␣
+ep001:009	14	%case	LOC	
+ep001:009	13	@	-	tehdä␣
+ep001:009	-	(-)	-	-␣
+ep001:010	ep001:010	ep001:010	VERSE	Ef␣1:10␣
+ep001:010	-	(@)	-	siitä␣
+ep001:010	2	@	-	armotaloudesta
+ep001:010	1	%case	LOC	
+ep001:010	-	(,)	-	,␣
+ep001:010	-	(@)	-	minkä␣
+ep001:010	-	(@)	-	hän␣
+ep001:010	(5) 6a	@	-	aikojen␣
+ep001:010	(3) 4	@	-	täyttyessä␣
+ep001:010	-	(@)	-	aikoi␣
+ep001:010	-	(@)	-	toteuttaa
+ep001:010	6b	,	-	,␣
+ep001:010	-	(-)	-	-␣
+ep001:010	7	(@)	-	oli␣
+ep001:010	7	@	-	yhdistävä␣
+ep001:010	(11) 12a	@	-	Kristuksessa␣
+ep001:010	10	%case	LOC	
+ep001:010	7	@	-	yhdeksi␣
+ep001:010	(8) 9	@	-	kaikki
+ep001:010	12b	,	-	,␣
+ep001:010	13	@	-	mitä␣
+ep001:010	-	(@)	-	on␣
+ep001:010	(15) 16	@	-	taivaissa␣
+ep001:010	14	%case	LOC	
+ep001:010	17	@	-	ja␣
+ep001:010	18	@	-	mitä␣
+ep001:010	-	(@)	-	on␣
+ep001:010	(20) 21	@	-	maan␣
+ep001:010	19	@	-	päällä
+ep001:010	(22) (23a)	-	UNTRANSLATED	
+ep001:010	23b	.	-	.␣
+ep001:011	ep001:011	ep001:011	VERSE	Ef␣1:11␣
+ep001:011	2	@	-	Hänessä␣
+ep001:011	1	%case	LOC	
+ep001:011	4	(@)	-	me␣
+ep001:011	3	@	-	myös␣
+ep001:011	4	(@)	-	olemme␣
+ep001:011	4	@	-	saaneet␣
+ep001:011	4	@	-	perintöosan
+ep001:011	-	(,)	-	,␣
+ep001:011	5	(@)	-	ollen␣
+ep001:011	-	(@)	-	siihen␣
+ep001:011	5	@	-	edeltämäärätyt␣
+ep001:011	-	(@)	-	hänen␣
+ep001:011	7	@	-	aivoituksensa␣
+ep001:011	6	@	-	mukaan
+ep001:011	-	(,)	-	,␣
+ep001:011	pro%8	@	-	hänen
+ep001:011	-	(,)	-	,␣
+ep001:011	9	@	-	joka␣
+ep001:011	11	@	-	vaikuttaa␣
+ep001:011	10	@	-	kaikki␣
+ep001:011	17	@	-	oman␣
+ep001:011	(15) 16	@	-	tahtonsa␣
+ep001:011	(13) 14	@	-	päättämän␣
+ep001:011	12	@	-	mukaan
+ep001:011	-	(,)	-	,␣
+ep001:012	ep001:012	ep001:012	VERSE	Ef␣1:12␣
+ep001:012	1	@	-	että␣
+ep001:012	4	@	-	me␣
+ep001:012	3	@	-	olisimme␣
+ep001:012	2	%case	?	
+ep001:012	8	@	-	hänen␣
+ep001:012	7	@	-	kirkkautensa␣
+ep001:012	6	@	-	kiitokseksi
+ep001:012	5	%case	TRA	
+ep001:012	-	(,)	-	,␣
+ep001:012	9	@	-	me
+ep001:012	-	(,)	-	,␣
+ep001:012	9	@	-	jotka␣
+ep001:012	-	(@)	-	jo␣
+ep001:012	10	@	-	edeltä␣
+ep001:012	10	(@)	-	olimme␣
+ep001:012	10	@	-	panneet␣
+ep001:012	10	@	-	toivomme␣
+ep001:012	(12) 13a	@	-	Kristukseen
+ep001:012	11	%case	LOC	
+ep001:012	13b	.	-	.␣
+ep001:013	ep001:013	ep001:013	VERSE	Ef␣1:13␣
+ep001:013	2	@	-	Hänessä␣
+ep001:013	1	%case	LOC	
+ep001:013	-	(@)	-	on␣
+ep001:013	4	@	-	teihinkin
+ep001:013	3	%clitic	kin	
+ep001:013	-	(,)	-	,␣
+ep001:013	5	(@)	-	sittenkuin␣
+ep001:013	5	(@)	-	olitte␣
+ep001:013	5	@	-	kuulleet␣
+ep001:013	(8) 9a	@	-	totuuden␣
+ep001:013	(6) 7	@	-	sanan
+ep001:013	9b	,	-	,␣
+ep001:013	(12) 13	@	-	pelastuksenne␣
+ep001:013	14a	%pers	?	
+ep001:013	(10) 11	@	-	evankeliumin
+ep001:013	14b	,	-	,␣
+ep001:013	(15) (16) (17)	-	UNTRANSLATED	
+ep001:013	18	@	-	uskoviksi␣
+ep001:013	18	@	-	tultuanne␣
+ep001:013	19	@	-	pantu␣
+ep001:013	(22) 23	@	-	luvatun␣
+ep001:013	(24) 25a	@	-	Pyhän␣
+ep001:013	(20) 21	@	-	Hengen␣
+ep001:013	19	@	-	sinetti
+ep001:013	25b	,	-	,␣
+ep001:014	ep001:014	ep001:014	VERSE	Ef␣1:14␣
+ep001:014	-	(@)	-	sen
+ep001:014	-	(,)	-	,␣
+ep001:014	1	@	-	joka␣
+ep001:014	2	@	-	on␣
+ep001:014	6a	@	-	meidän␣
+ep001:014	(4) 5	@	-	perintömme␣
+ep001:014	3	@	-	vakuutena
+ep001:014	6b	,	-	,␣
+ep001:014	-	(@)	-	hänen␣
+ep001:014	10a (9)	@	-	omaisuutensa␣
+ep001:014	8	@	-	lunastamiseksi␣
+ep001:014	7	%case	TRA	
+ep001:014	10b	-	-	-␣
+ep001:014	15a	@	-	hänen␣
+ep001:014	(13) 14	@	-	kirkkautensa␣
+ep001:014	12	@	-	kiitokseksi
+ep001:014	11	%case	TRA	
+ep001:014	15b	.	-	.␣
+ep001:015	ep001:015	ep001:015	VERSE	Ef␣1:15␣
+ep001:015	1 2	@	-	Sentähden
+ep001:015	-	(,)	-	,␣
+ep001:015	(4=omit)	-	UNTRANSLATED	
+ep001:015	5	(@)	-	kun␣
+ep001:015	5	@	-	kuulin␣
+ep001:015	6	@	-	siitä␣
+ep001:015	9	@	-	uskosta
+ep001:015	-	(,)	-	,␣
+ep001:015	6	@	-	joka␣
+ep001:015	8	@	-	teillä␣
+ep001:015	7	%case	LOC	
+ep001:015	-	(@)	-	on␣
+ep001:015	(11) 12	@	-	Herrassa␣
+ep001:015	13	@	-	Jeesuksessa
+ep001:015	10	%case	LOC	
+ep001:015	-	(,)	-	,␣
+ep001:015	14	@	-	ja␣
+ep001:015	-	(@)	-	teidän␣
+ep001:015	(15) 16	@	-	rakkaudestanne␣
+ep001:015	(17)	-	UNTRANSLATED	
+ep001:015	19	@	-	kaikkia␣
+ep001:015	(20) 21	@	-	pyhiä␣
+ep001:015	18	@	-	kohtaan
+ep001:015	-	(,)	-	,␣
+ep001:016	ep001:016	ep001:016	VERSE	Ef␣1:16␣
+ep001:016	1	@	-	en␣
+ep001:016	2	(@)	-	minäkään␣
+ep001:016	2	@	-	lakkaa␣
+ep001:016	3	@	-	kiittämästä␣
+ep001:016	5	@	-	teidän␣
+ep001:016	4	@	-	tähtenne
+ep001:016	-	(,)	-	,␣
+ep001:016	6 7	(@)	-	kun␣
+ep001:016	6 7	@	-	muistelen␣
+ep001:016	-	(@)	-	teitä␣
+ep001:016	10 (9)	@	-	rukouksissani
+ep001:016	11a	%pers	?	
+ep001:016	8	%case	LOC	
+ep001:016	11b	,	-	,␣
+ep001:017	ep001:017	ep001:017	VERSE	Ef␣1:17␣
+ep001:017	-	(@)	-	anoen
+ep001:017	-	(,)	-	,␣
+ep001:017	1	@	-	että␣
+ep001:017	6	@	-	meidän␣
+ep001:017	(4) 5	@	-	Herramme␣
+ep001:017	7	@	-	Jeesuksen␣
+ep001:017	8a	@	-	Kristuksen␣
+ep001:017	(2) 3	@	-	Jumala
+ep001:017	8b	,	-	,␣
+ep001:017	(11) 12a	@	-	kirkkauden␣
+ep001:017	10 (9)	@	-	Isä
+ep001:017	12b	,	-	,␣
+ep001:017	13	@	-	antaisi␣
+ep001:017	14	@	-	teille␣
+ep001:017	16	@	-	viisauden␣
+ep001:017	17	@	-	ja␣
+ep001:017	18	@	-	ilmestyksen␣
+ep001:017	15	@	-	Hengen␣
+ep001:017	21a	@	-	hänen␣
+ep001:017	20	@	-	tuntemisessaan␣
+ep001:017	19	%case	LOC	
+ep001:018	ep001:018	ep001:018	VERSE	Ef␣1:18␣
+ep001:018	-	(@)	-	ja␣
+ep001:018	1	@	-	valaisisi␣
+ep001:018	6a	@	-	teidän␣
+ep001:018	(4) 5a	@	-	sydämenne␣
+ep001:018	(2) 3	@	-	silmät
+ep001:018	-	(,)	-	,␣
+ep001:018	7	@	-	että␣
+ep001:018	(8) 9	@	-	tietäisitte
+ep001:018	10	%pers	2P	
+ep001:018	-	(,)	-	,␣
+ep001:018	11	@	-	mikä␣
+ep001:018	12	@	-	on␣
+ep001:018	13	@	-	se␣
+ep001:018	14	@	-	toivo
+ep001:018	-	(,)	-	,␣
+ep001:018	15	@	-	johon␣
+ep001:018	17a	@	-	hän␣
+ep001:018	16	(@)	-	on␣
+ep001:018	-	(@)	-	teidät␣
+ep001:018	16	@	-	kutsunut
+ep001:018	17b	,	-	,␣
+ep001:018	18	@	-	kuinka␣
+ep001:018	(19) 20	@	-	suuri␣
+ep001:018	25	@	-	hänen␣
+ep001:018	(23) 24	@	-	perintönsä␣
+ep001:018	(21) 22	@	-	kirkkaus␣
+ep001:018	-	(@)	-	hänen␣
+ep001:018	(27) 28a	@	-	pyhissään␣
+ep001:018	26	%case	LOC	
+ep001:019	ep001:019	ep001:019	VERSE	Ef␣1:19␣
+ep001:019	1	@	-	ja␣
+ep001:019	2	@	-	mikä␣
+ep001:019	8	@	-	hänen␣
+ep001:019	(6) 7	@	-	voimansa␣
+ep001:019	4	@	-	ylenpalttinen␣
+ep001:019	(3) 5	@	-	suuruus␣
+ep001:019	10	@	-	meitä␣
+ep001:019	9	@	-	kohtaan
+ep001:019	-	(,)	-	,␣
+ep001:019	11	@	-	jotka␣
+ep001:019	12	@	-	uskomme␣
+ep001:019	-	(-)	-	-␣
+ep001:019	14	@	-	sen␣
+ep001:019	20a	@	-	hänen␣
+ep001:019	(18) 19	@	-	väkevyytensä␣
+ep001:019	(16) 17	@	-	voiman␣
+ep001:019	15	@	-	vaikutuksen␣
+ep001:019	13	@	-	mukaan
+ep001:019	20b	,	-	,␣
+ep001:020	ep001:020	ep001:020	VERSE	Ef␣1:20␣
+ep001:020	1	@	-	jonka␣
+ep001:020	2	(@)	-	hän␣
+ep001:020	2	@	-	vaikutti␣
+ep001:020	(4) 5	@	-	Kristuksessa
+ep001:020	3	%case	LOC	
+ep001:020	-	(,)	-	,␣
+ep001:020	6	(@)	-	kun␣
+ep001:020	6	(@)	-	hän␣
+ep001:020	6	@	-	herätti␣
+ep001:020	7	@	-	hänet␣
+ep001:020	9	@	-	kuolleista␣
+ep001:020	8	%case	LOC	
+ep001:020	10	@	-	ja␣
+ep001:020	11	@	-	asetti␣
+ep001:020	-	(@)	-	hänet␣
+ep001:020	13	@	-	oikealle␣
+ep001:020	13	@	-	puolellensa␣
+ep001:020	14	%pers	3	
+ep001:020	12	%case	LOC	
+ep001:020	(16) 17	@	-	taivaissa
+ep001:020	15	%case	LOC	
+ep001:020	-	(,)	-	,␣
+ep001:021	ep001:021	ep001:021	VERSE	Ef␣1:21␣
+ep001:021	1	@	-	korkeammalle␣
+ep001:021	2	@	-	kaikkea␣
+ep001:021	3	@	-	hallitusta␣
+ep001:021	4	@	-	ja␣
+ep001:021	5	@	-	valtaa␣
+ep001:021	6	@	-	ja␣
+ep001:021	7	@	-	voimaa␣
+ep001:021	8	@	-	ja␣
+ep001:021	9	@	-	herrautta␣
+ep001:021	10	@	-	ja␣
+ep001:021	11	@	-	jokaista␣
+ep001:021	12	@	-	nimeä
+ep001:021	-	(,)	-	,␣
+ep001:021	13a	(@)	-	mikä␣
+ep001:021	13a	@	-	mainitaan
+ep001:021	13b	,	-	,␣
+ep001:021	14	@	-	ei␣
+ep001:021	15	@	-	ainoastaan␣
+ep001:021	19	@	-	tässä␣
+ep001:021	(17) 18	@	-	maailmanajassa
+ep001:021	16	%case	LOC	
+ep001:021	-	(,)	-	,␣
+ep001:021	20	@	-	vaan␣
+ep001:021	21	@	-	myös␣
+ep001:021	(23) 24a	@	-	tulevassa
+ep001:021	22	%case	LOC	
+ep001:021	24b	.	-	.␣
+ep001:022	ep001:022	ep001:022	VERSE	Ef␣1:22␣
+ep001:022	1	@	-	Ja␣
+ep001:022	2	@	-	kaikki␣
+ep001:022	3	(@)	-	hän␣
+ep001:022	3	(@)	-	on␣
+ep001:022	3	@	-	asettanut␣
+ep001:022	7	@	-	hänen␣
+ep001:022	(5) 6	@	-	jalkainsa␣
+ep001:022	4	@	-	alle␣
+ep001:022	8	@	-	ja␣
+ep001:022	10	@	-	antanut␣
+ep001:022	9	@	-	hänet␣
+ep001:022	13	@	-	kaiken␣
+ep001:022	12	%case	GEN	
+ep001:022	11	@	-	pääksi␣
+ep001:022	(14) 15a	@	-	seurakunnalle
+ep001:022	15b	,	-	,␣
+ep001:023	ep001:023	ep001:023	VERSE	Ef␣1:23␣
+ep001:023	1	@	-	joka␣
+ep001:023	2	@	-	on␣
+ep001:023	5a	@	-	hänen␣
+ep001:023	(3) 4	@	-	ruumiinsa
+ep001:023	5b	,	-	,␣
+ep001:023	-	(@)	-	hänen␣
+ep001:023	(6) 7	@	-	täyteytensä
+ep001:023	-	(,)	-	,␣
+ep001:023	8	@	-	joka␣
+ep001:023	10 (9)	@	-	kaikki␣
+ep001:023	12	@	-	kaikissa␣
+ep001:023	11	%case	LOC	
+ep001:023	13a	@	-	täyttää
+ep001:023	13b	.	-	.␣
+ep002:001	ep002:001	ep002:001	VERSE	Ef␣2:1␣
+ep002:001	1	@	-	Ja␣
+ep002:001	-	(@)	-	Jumala␣
+ep002:001	-	(@)	-	on␣
+ep002:001	-	(@)	-	eläviksi␣
+ep002:001	-	(@)	-	tehnyt␣
+ep002:001	2	@	-	teidät
+ep002:001	-	(,)	-	,␣
+ep002:001	3	(@)	-	jotka␣
+ep002:001	3	@	-	olitte␣
+ep002:001	4	@	-	kuolleet␣
+ep002:001	(5) 6	@	-	rikoksiinne␣
+ep002:001	7	@	-	ja␣
+ep002:001	(8) 9	@	-	synteihinne
+ep002:001	10a	%pers	?	
+ep002:001	10b	,	-	,␣
+ep002:002	ep002:002	ep002:002	VERSE	Ef␣2:2␣
+ep002:002	2	@	-	joissa␣
+ep002:002	1	%case	LOC	
+ep002:002	4	(@)	-	te␣
+ep002:002	3	@	-	ennen␣
+ep002:002	4	@	-	vaelsitte␣
+ep002:002	10a	@	-	tämän␣
+ep002:002	(8) 9	@	-	maailman␣
+ep002:002	(6) 7	@	-	menon␣
+ep002:002	5	@	-	mukaan
+ep002:002	10b	,	-	,␣
+ep002:002	(14) 15 (16) 17a	@	-	ilmavallan␣
+ep002:002	(12) 13	@	-	hallitsijan
+ep002:002	-	(,)	-	,␣
+ep002:002	18	@	-	sen␣
+ep002:002	19	@	-	hengen␣
+ep002:002	-	(@)	-	hallitsijan
+ep002:002	-	(,)	-	,␣
+ep002:002	11	@	-	mukaan
+ep002:002	-	(,)	-	,␣
+ep002:002	20	@	-	joka␣
+ep002:002	21	@	-	nyt␣
+ep002:002	22	@	-	tekee␣
+ep002:002	22	@	-	työtään␣
+ep002:002	(26) 27a	@	-	tottelemattomuuden␣
+ep002:002	(24) 25	@	-	lapsissa
+ep002:002	23	%case	LOC	
+ep002:002	27b	,	-	,␣
+ep002:003	ep002:003	ep002:003	VERSE	Ef␣2:3␣
+ep002:003	2	@	-	joiden␣
+ep002:003	1	@	-	joukossa␣
+ep002:003	4	@	-	mekin␣
+ep002:003	3	%clitic	kin	
+ep002:003	5	@	-	kaikki␣
+ep002:003	7	@	-	ennen␣
+ep002:003	6	@	-	vaelsimme␣
+ep002:003	(11) 12	@	-	lihamme␣
+ep002:003	13	%pers	?	
+ep002:003	10 (9)	@	-	himoissa
+ep002:003	8	%case	LOC	
+ep002:003	-	(,)	-	,␣
+ep002:003	14	@	-	noudattaen␣
+ep002:003	(17) 18	@	-	lihan␣
+ep002:003	19	@	-	ja␣
+ep002:003	(20) 21a	@	-	ajatusten␣
+ep002:003	(15) 16	@	-	mielitekoja
+ep002:003	21b	,	-	,␣
+ep002:003	22	@	-	ja␣
+ep002:003	23	@	-	olimme␣
+ep002:003	25	@	-	luonnostamme␣
+ep002:003	26	@	-	vihan␣
+ep002:003	24	@	-	lapsia␣
+ep002:003	27	@	-	niinkuin␣
+ep002:003	(29) 30a	@	-	muutkin
+ep002:003	28	%clitic	kin	
+ep002:003	30b	;	-	;␣
+ep002:004	ep002:004	ep002:004	VERSE	Ef␣2:4␣
+ep002:004	2	@	-	mutta␣
+ep002:004	(1) 3	@	-	Jumala
+ep002:004	-	(,)	-	,␣
+ep002:004	5	(@)	-	joka␣
+ep002:004	5	@	-	on␣
+ep002:004	7a	@	-	laupeudesta␣
+ep002:004	6	%case	LOC	
+ep002:004	4	@	-	rikas
+ep002:004	7b	,	-	,␣
+ep002:004	10	@	-	suuren␣
+ep002:004	11 (9)	@	-	rakkautensa␣
+ep002:004	12	%pers	3	
+ep002:004	8	@	-	tähden
+ep002:004	-	(,)	-	,␣
+ep002:004	13	@	-	jolla␣
+ep002:004	14	(@)	-	hän␣
+ep002:004	14	(@)	-	on␣
+ep002:004	15a	@	-	meitä␣
+ep002:004	14	@	-	rakastanut
+ep002:004	15b	,	-	,␣
+ep002:005	ep002:005	ep002:005	VERSE	Ef␣2:5␣
+ep002:005	7	(@)	-	on␣
+ep002:005	(1)	-	UNTRANSLATED	
+ep002:005	7	@	-	tehnyt␣
+ep002:005	3	@	-	meidät
+ep002:005	-	(,)	-	,␣
+ep002:005	2	(@)	-	jotka␣
+ep002:005	2	@	-	olimme␣
+ep002:005	4	@	-	kuolleet␣
+ep002:005	(5) 6	@	-	rikoksiimme
+ep002:005	-	(,)	-	,␣
+ep002:005	7	@	-	eläviksi␣
+ep002:005	(8) 9a	@	-	Kristuksen␣
+ep002:005	case%9a	@	-	kanssa␣
+ep002:005	9b 9c	-	-	-␣
+ep002:005	10	@	-	armosta␣
+ep002:005	11	(@)	-	te␣
+ep002:005	11	@	-	olette␣
+ep002:005	12a	@	-	pelastetut␣
+ep002:005	12b	-	-	-␣
+ep002:006	ep002:006	ep002:006	VERSE	Ef␣2:6␣
+ep002:006	1	@	-	ja␣
+ep002:006	2	@	-	yhdessä␣
+ep002:006	-	(@)	-	hänen␣
+ep002:006	2	@	-	kanssaan␣
+ep002:006	2	@	-	herättänyt␣
+ep002:006	3	@	-	ja␣
+ep002:006	4	@	-	yhdessä␣
+ep002:006	-	(@)	-	hänen␣
+ep002:006	4	@	-	kanssaan␣
+ep002:006	4	@	-	asettanut␣
+ep002:006	-	(@)	-	meidät␣
+ep002:006	(6) 7	@	-	taivaallisiin␣
+ep002:006	5	%case	LOC	
+ep002:006	9	@	-	Kristuksessa␣
+ep002:006	10a	@	-	Jeesuksessa
+ep002:006	8	%case	LOC	
+ep002:006	10b	,	-	,␣
+ep002:007	ep002:007	ep002:007	VERSE	Ef␣2:7␣
+ep002:007	2	@	-	osoittaakseen␣
+ep002:007	1	%case	TRA	
+ep002:007	(6) 7	@	-	tulevina␣
+ep002:007	(4) 5	@	-	maailmanaikoina␣
+ep002:007	3	%case	ESS	
+ep002:007	(11) 12	@	-	armonsa␣
+ep002:007	13	%pers	3	
+ep002:007	9	@	-	ylenpalttista␣
+ep002:007	10 (8)	@	-	runsautta
+ep002:007	-	(,)	-	,␣
+ep002:007	15	@	-	hyvyydessään␣
+ep002:007	14	%case	LOC	
+ep002:007	17	@	-	meitä␣
+ep002:007	16	@	-	kohtaan␣
+ep002:007	19	@	-	Kristuksessa␣
+ep002:007	20a	@	-	Jeesuksessa
+ep002:007	18	%case	LOC	
+ep002:007	20b	.	-	.␣
+ep002:008	ep002:008	ep002:008	VERSE	Ef␣2:8␣
+ep002:008	2	@	-	Sillä␣
+ep002:008	(1) 3	@	-	armosta␣
+ep002:008	4	(@)	-	te␣
+ep002:008	4	@	-	olette␣
+ep002:008	5	@	-	pelastetut␣
+ep002:008	7a	@	-	uskon␣
+ep002:008	6	@	-	kautta
+ep002:008	-	(,)	-	,␣
+ep002:008	(8) (9)	-	UNTRANSLATED	
+ep002:008	10	@	-	ette␣
+ep002:008	12a	@	-	itsenne␣
+ep002:008	11	@	-	kautta␣
+ep002:008	12b	-	-	-␣
+ep002:008	-	(@)	-	se␣
+ep002:008	-	(@)	-	on␣
+ep002:008	13	@	-	Jumalan␣
+ep002:008	(14) 15a	@	-	lahja␣
+ep002:008	15b	-	-	-␣
+ep002:009	ep002:009	ep002:009	VERSE	Ef␣2:9␣
+ep002:009	1	@	-	ette␣
+ep002:009	3a	@	-	tekojen␣
+ep002:009	2	@	-	kautta
+ep002:009	3b	,	-	,␣
+ep002:009	4 5	@	-	ettei␣
+ep002:009	6	@	-	kukaan␣
+ep002:009	7a	@	-	kerskaisi
+ep002:009	7b	.	-	.␣
+ep002:010	ep002:010	ep002:010	VERSE	Ef␣2:10␣
+ep002:010	2	@	-	Sillä␣
+ep002:010	3	(@)	-	me␣
+ep002:010	3	@	-	olemme␣
+ep002:010	1	@	-	hänen␣
+ep002:010	4a	@	-	tekonsa
+ep002:010	4b	,	-	,␣
+ep002:010	5	@	-	luodut␣
+ep002:010	7	@	-	Kristuksessa␣
+ep002:010	8	@	-	Jeesuksessa␣
+ep002:010	6	%case	LOC	
+ep002:010	11	@	-	hyviä␣
+ep002:010	10	@	-	töitä␣
+ep002:010	9	@	-	varten
+ep002:010	-	(,)	-	,␣
+ep002:010	12	@	-	jotka␣
+ep002:010	(14) 15a	@	-	Jumala␣
+ep002:010	13	(@)	-	on␣
+ep002:010	13	@	-	edeltäpäin␣
+ep002:010	13	@	-	valmistanut
+ep002:010	15b	,	-	,␣
+ep002:010	16	@	-	että␣
+ep002:010	19a	(@)	-	me␣
+ep002:010	18	@	-	niissä␣
+ep002:010	17	%case	LOC	
+ep002:010	19a	@	-	vaeltaisimme
+ep002:010	19b	.	-	.␣
+ep002:011	ep002:011	ep002:011	VERSE	Ef␣2:11␣
+ep002:011	2	@	-	Muistakaa␣
+ep002:011	1	@	-	sentähden
+ep002:011	-	(,)	-	,␣
+ep002:011	3	@	-	että␣
+ep002:011	5	@	-	te␣
+ep002:011	4	@	-	ennen
+ep002:011	-	(,)	-	,␣
+ep002:011	-	(@)	-	te␣
+ep002:011	9a	@	-	lihanne␣
+ep002:011	8	@	-	puolesta␣
+ep002:011	(6) 7	@	-	pakanat
+ep002:011	9b	,	-	,␣
+ep002:011	10	@	-	jotka␣
+ep002:011	11	(@)	-	olette␣
+ep002:011	11	@	-	saaneet␣
+ep002:011	12	@	-	ympärileikkaamattomien␣
+ep002:011	11	@	-	nimen␣
+ep002:011	14	@	-	niiltä
+ep002:011	13	%case	LOC	
+ep002:011	-	(,)	-	,␣
+ep002:011	14	@	-	joita
+ep002:011	-	(,)	-	,␣
+ep002:011	18	@	-	lihaan␣
+ep002:011	17	%case	LOC	
+ep002:011	19a	@	-	käsillä␣
+ep002:011	19a	@	-	tehdyn␣
+ep002:011	-	(@)	-	ympärileikkauksen␣
+ep002:011	-	(@)	-	mukaisesti
+ep002:011	-	(,)	-	,␣
+ep002:011	15	@	-	sanotaan␣
+ep002:011	16	@	-	ympärileikatuiksi␣
+ep002:011	19b	-	-	-␣
+ep002:012	ep002:012	ep002:012	VERSE	Ef␣2:12␣
+ep002:012	1	@	-	että␣
+ep002:012	2	(@)	-	te␣
+ep002:012	5	@	-	siihen␣
+ep002:012	(3) 4	@	-	aikaan␣
+ep002:012	2	@	-	olitte␣
+ep002:012	6	@	-	ilman␣
+ep002:012	7a	@	-	Kristusta
+ep002:012	7b	,	-	,␣
+ep002:012	8	@	-	olitte␣
+ep002:012	8	@	-	vailla␣
+ep002:012	(11) 12	@	-	Israelin␣
+ep002:012	10 (9)	@	-	kansalaisoikeutta␣
+ep002:012	13	@	-	ja␣
+ep002:012	14	@	-	vieraat␣
+ep002:012	(17) 18a	@	-	lupauksen␣
+ep002:012	(15) 16	@	-	liitoille
+ep002:012	18b	,	-	,␣
+ep002:012	20 21	@	-	ilman␣
+ep002:012	19	@	-	toivoa␣
+ep002:012	22	@	-	ja␣
+ep002:012	23	@	-	ilman␣
+ep002:012	23	@	-	Jumalaa␣
+ep002:012	(25) 26a	@	-	maailmassa
+ep002:012	24	%case	LOC	
+ep002:012	26b	;	-	;␣
+ep002:013	ep002:013	ep002:013	VERSE	Ef␣2:13␣
+ep002:013	2	@	-	mutta␣
+ep002:013	1	@	-	nyt
+ep002:013	-	(,)	-	,␣
+ep002:013	-	(@)	-	kun␣
+ep002:013	-	(@)	-	olette␣
+ep002:013	4	@	-	Kristuksessa␣
+ep002:013	5	@	-	Jeesuksessa
+ep002:013	3	%case	LOC	
+ep002:013	-	(,)	-	,␣
+ep002:013	11	(@)	-	olette␣
+ep002:013	6	@	-	te
+ep002:013	-	(,)	-	,␣
+ep002:013	7	@	-	jotka␣
+ep002:013	8	@	-	ennen␣
+ep002:013	9	@	-	olitte␣
+ep002:013	10	@	-	kaukana
+ep002:013	-	(,)	-	,␣
+ep002:013	11	@	-	päässeet␣
+ep002:013	12	@	-	lähelle␣
+ep002:013	(16) 17a	@	-	Kristuksen␣
+ep002:013	(14) 15	@	-	veressä
+ep002:013	13	%case	LOC	
+ep002:013	17b	.	-	.␣
+ep002:014	ep002:014	ep002:014	VERSE	Ef␣2:14␣
+ep002:014	2	@	-	Sillä␣
+ep002:014	1	@	-	hän␣
+ep002:014	3	@	-	on␣
+ep002:014	6a	@	-	meidän␣
+ep002:014	(4) 5	@	-	rauhamme
+ep002:014	6b	,	-	,␣
+ep002:014	7	@	-	hän
+ep002:014	-	(,)	-	,␣
+ep002:014	7	@	-	joka␣
+ep002:014	8	@	-	teki␣
+ep002:014	10 (9)	@	-	molemmat␣
+ep002:014	11	@	-	yhdeksi␣
+ep002:014	12	@	-	ja␣
+ep002:014	17a	@	-	purki␣
+ep002:014	(15) 16	@	-	erottavan␣
+ep002:014	(13) 14	@	-	väliseinän
+ep002:014	17b	,	-	,␣
+ep002:014	-	(@)	-	nimittäin␣
+ep002:014	(18) 19	@	-	vihollisuuden
+ep002:014	-	(,)	-	,␣
+ep002:015	ep002:015	ep002:015	VERSE	Ef␣2:15␣
+ep002:015	7a	(@)	-	kun␣
+ep002:015	7a	(@)	-	hän␣
+ep002:015	23a/14	@	-	omassa␣
+ep002:015	(21/14) 22/14	@	-	lihassaan␣
+ep002:015	20/14	%case	LOC	
+ep002:015	7a	@	-	teki␣
+ep002:015	7a	@	-	tehottomaksi␣
+ep002:015	(3) 4	@	-	käskyjen␣
+ep002:015	(1) 2	@	-	lain␣
+ep002:015	6	@	-	säädöksinensä
+ep002:015	5	%case	CMT	
+ep002:015	7b	,	-	,␣
+ep002:015	11	@	-	luodakseen␣
+ep002:015	8	%case	TRA	
+ep002:015	13	@	-	itsessänsä␣
+ep002:015	12	%case	LOC	
+ep002:015	9	@	-	nuo␣
+ep002:015	10	@	-	kaksi␣
+ep002:015	16	@	-	yhdeksi␣
+ep002:015	17	@	-	uudeksi␣
+ep002:015	18	@	-	ihmiseksi
+ep002:015	15	%case	TRA	
+ep002:015	-	(,)	-	,␣
+ep002:015	19	@	-	tehden␣
+ep002:015	20	@	-	rauhan
+ep002:015	-	(,)	-	,␣
+ep002:016	ep002:016	ep002:016	VERSE	Ef␣2:16␣
+ep002:016	1	@	-	ja␣
+ep002:016	6	@	-	yhdessä␣
+ep002:016	7	@	-	ruumiissa␣
+ep002:016	5	%case	LOC	
+ep002:016	2	@	-	sovittaakseen␣
+ep002:016	(3) 4	@	-	molemmat␣
+ep002:016	(8) 9	@	-	Jumalan␣
+ep002:016	case%9	@	-	kanssa␣
+ep002:016	(11) 12a	@	-	ristin␣
+ep002:016	10	@	-	kautta
+ep002:016	12b	,	-	,␣
+ep002:016	13	@	-	kuolettaen␣
+ep002:016	17a	@	-	itsensä␣
+ep002:016	16	@	-	kautta␣
+ep002:016	(14) 15	@	-	vihollisuuden
+ep002:016	17b	.	-	.␣
+ep002:017	ep002:017	ep002:017	VERSE	Ef␣2:17␣
+ep002:017	1	@	-	Ja␣
+ep002:017	2	(@)	-	hän␣
+ep002:017	2	@	-	tuli␣
+ep002:017	-	(@)	-	ja␣
+ep002:017	3	@	-	julisti␣
+ep002:017	4	@	-	rauhaa␣
+ep002:017	5	@	-	teille
+ep002:017	-	(,)	-	,␣
+ep002:017	6	@	-	jotka␣
+ep002:017	7	@	-	kaukana␣
+ep002:017	-	(@)	-	olitte
+ep002:017	-	(,)	-	,␣
+ep002:017	8	@	-	ja␣
+ep002:017	9	@	-	rauhaa␣
+ep002:017	10	@	-	niille
+ep002:017	-	(,)	-	,␣
+ep002:017	10	@	-	jotka␣
+ep002:017	11a	@	-	lähellä␣
+ep002:017	-	(@)	-	olivat
+ep002:017	11b	;	-	;␣
+ep002:018	ep002:018	ep002:018	VERSE	Ef␣2:18␣
+ep002:018	1	@	-	sillä␣
+ep002:018	3	@	-	hänen␣
+ep002:018	2	@	-	kauttansa␣
+ep002:018	4	@	-	on␣
+ep002:018	4	(@)	-	meillä␣
+ep002:018	(7) 8	@	-	molemmilla␣
+ep002:018	(5) 6	@	-	pääsy␣
+ep002:018	10	@	-	yhdessä␣
+ep002:018	11	@	-	Hengessä␣
+ep002:018	9	%case	LOC	
+ep002:018	(13) 14a	@	-	Isän␣
+ep002:018	12	@	-	tykö
+ep002:018	14b	.	-	.␣
+ep002:019	ep002:019	ep002:019	VERSE	Ef␣2:19␣
+ep002:019	1	@	-	Niin␣
+ep002:019	3	@	-	ette␣
+ep002:019	2	@	-	siis␣
+ep002:019	3	@	-	enää␣
+ep002:019	4	@	-	ole␣
+ep002:019	5	@	-	vieraita␣
+ep002:019	6	@	-	ettekä␣
+ep002:019	7	@	-	muukalaisia
+ep002:019	-	(,)	-	,␣
+ep002:019	8	@	-	vaan␣
+ep002:019	9	(@)	-	te␣
+ep002:019	9	@	-	olette␣
+ep002:019	(11) 12	@	-	pyhien␣
+ep002:019	10	@	-	kansalaisia␣
+ep002:019	13	@	-	ja␣
+ep002:019	(15) 16a	@	-	Jumalan␣
+ep002:019	14	@	-	perhettä
+ep002:019	16b	,	-	,␣
+ep002:020	ep002:020	ep002:020	VERSE	Ef␣2:20␣
+ep002:020	(5) 6	@	-	apostolien␣
+ep002:020	7	@	-	ja␣
+ep002:020	8a	@	-	profeettain␣
+ep002:020	(3) 4	@	-	perustukselle␣
+ep002:020	2	%case	LOC	
+ep002:020	1	@	-	rakennettuja
+ep002:020	8b	,	-	,␣
+ep002:020	(9)	-	UNTRANSLATED	
+ep002:020	10	@	-	kulmakivenä␣
+ep002:020	11	@	-	itse␣
+ep002:020	12	@	-	Kristus␣
+ep002:020	13a	@	-	Jeesus
+ep002:020	13b	,	-	,␣
+ep002:021	ep002:021	ep002:021	VERSE	Ef␣2:21␣
+ep002:021	2	@	-	jossa␣
+ep002:021	1	%case	LOC	
+ep002:021	3	@	-	koko␣
+ep002:021	4	@	-	rakennus␣
+ep002:021	5	@	-	liittyy␣
+ep002:021	5	@	-	yhteen␣
+ep002:021	-	(@)	-	ja␣
+ep002:021	6	@	-	kasvaa␣
+ep002:021	9	@	-	pyhäksi␣
+ep002:021	8	@	-	temppeliksi␣
+ep002:021	7	%case	TRA	
+ep002:021	11a	@	-	Herrassa
+ep002:021	10	%case	LOC	
+ep002:021	11b	;	-	;␣
+ep002:022	ep002:022	ep002:022	VERSE	Ef␣2:22␣
+ep002:022	-	(@)	-	ja␣
+ep002:022	pro%2	@	-	hänessä␣
+ep002:022	1	%case	LOC	
+ep002:022	4	@	-	tekin␣
+ep002:022	3	%clitic	kin	
+ep002:022	5	@	-	yhdessä␣
+ep002:022	-	(@)	-	muitten␣
+ep002:022	-	(@)	-	kanssa␣
+ep002:022	5	@	-	rakennutte␣
+ep002:022	(8) 9	@	-	Jumalan␣
+ep002:022	7	@	-	asumukseksi␣
+ep002:022	6	%case	TRA	
+ep002:022	11a	@	-	Hengessä
+ep002:022	10	%case	LOC	
+ep002:022	11b	.	-	.␣
+ep003:001	ep003:001	ep003:001	VERSE	Ef␣3:1␣
+ep003:001	1	@	-	Sen␣
+ep003:001	2	@	-	takia␣
+ep003:001	3	@	-	minä
+ep003:001	-	(,)	-	,␣
+ep003:001	4	@	-	Paavali
+ep003:001	-	(,)	-	,␣
+ep003:001	11	@	-	teidän
+ep003:001	-	(,)	-	,␣
+ep003:001	(12) 13a	@	-	pakanain
+ep003:001	-	(,)	-	,␣
+ep003:001	10	@	-	tähden␣
+ep003:001	(7) 8a	@	-	Kristuksen␣
+ep003:001	9a	@	-	Jeesuksen␣
+ep003:001	(5) 6	@	-	vanki
+ep003:001	-	(,)	-	,␣
+ep003:001	-	(@)	-	notkistan␣
+ep003:001	-	(@)	-	polveni␣
+ep003:001	-	(-)	-	-␣
+ep003:002	ep003:002	ep003:002	VERSE	Ef␣3:2␣
+ep003:002	3	(@)	-	olette␣
+ep003:002	1 2	@	-	kaiketi␣
+ep003:002	3	@	-	kuulleet␣
+ep003:002	4	@	-	siitä␣
+ep003:002	(8) 9	@	-	Jumalan␣
+ep003:002	(6) 7	@	-	armon␣
+ep003:002	5	@	-	taloudenhoidosta
+ep003:002	-	(,)	-	,␣
+ep003:002	10	@	-	mikä␣
+ep003:002	11	(@)	-	on␣
+ep003:002	12	@	-	minulle␣
+ep003:002	14a	@	-	teitä␣
+ep003:002	13	@	-	varten␣
+ep003:002	11	@	-	annettu
+ep003:002	14b	,	-	,␣
+ep003:003	ep003:003	ep003:003	VERSE	Ef␣3:3␣
+ep003:003	1a	@	-	että␣
+ep003:003	-	(@)	-	näet␣
+ep003:003	-	(@)	-	tämä␣
+ep003:003	(6) 7a	@	-	salaisuus␣
+ep003:003	4	(@)	-	on␣
+ep003:003	3	@	-	ilmestyksen␣
+ep003:003	2	@	-	kautta␣
+ep003:003	4	@	-	tehty␣
+ep003:003	5	@	-	minulle␣
+ep003:003	4	@	-	tiettäväksi
+ep003:003	7b	,	-	,␣
+ep003:003	8	@	-	niinkuin␣
+ep003:003	9	(@)	-	olen␣
+ep003:003	-	(@)	-	siitä␣
+ep003:003	9	@	-	edellä␣
+ep003:003	11a	@	-	lyhyesti␣
+ep003:003	10	%case	MAN	
+ep003:003	9	@	-	kirjoittanut
+ep003:003	11b	;	-	;␣
+ep003:004	ep003:004	ep003:004	VERSE	Ef␣3:4␣
+ep003:004	2	@	-	josta␣
+ep003:004	1	%case	LOC	
+ep003:004	3	(@)	-	te␣
+ep003:004	-	(@)	-	sitä␣
+ep003:004	4	@	-	lukiessanne␣
+ep003:004	3	@	-	voitte␣
+ep003:004	5	@	-	huomata
+ep003:004	-	(,)	-	,␣
+ep003:004	-	(@)	-	kuinka␣
+ep003:004	(6) 7	@	-	perehtynyt␣
+ep003:004	8	@	-	minä␣
+ep003:004	-	(@)	-	olen␣
+ep003:004	(12) 13a	@	-	Kristuksen␣
+ep003:004	(10) 11	@	-	salaisuuteen
+ep003:004	9	%case	LOC	
+ep003:004	13b	,	-	,␣
+ep003:005	ep003:005	ep003:005	VERSE	Ef␣3:5␣
+ep003:005	1	@	-	jota␣
+ep003:005	2	@	-	menneiden␣
+ep003:005	3	@	-	sukupolvien␣
+ep003:005	case%3	@	-	aikana␣
+ep003:005	4	@	-	ei␣
+ep003:005	5	(@)	-	ole␣
+ep003:005	(8) 9	@	-	ihmisten␣
+ep003:005	(6) 7	@	-	lapsille␣
+ep003:005	5	@	-	tiettäväksi␣
+ep003:005	5	@	-	tehty
+ep003:005	-	(,)	-	,␣
+ep003:005	10	@	-	niinkuin␣
+ep003:005	12	(@)	-	se␣
+ep003:005	11	@	-	nyt␣
+ep003:005	20a	@	-	Hengessä␣
+ep003:005	19	%case	LOC	
+ep003:005	12	(@)	-	on␣
+ep003:005	12	@	-	ilmoitettu␣
+ep003:005	16	@	-	hänen␣
+ep003:005	14	@	-	pyhille␣
+ep003:005	(13) 15	@	-	apostoleilleen␣
+ep003:005	17	@	-	ja␣
+ep003:005	18	@	-	profeetoille
+ep003:005	20b	:	-	:␣
+ep003:006	ep003:006	ep003:006	VERSE	Ef␣3:6␣
+ep003:006	1	(@)	-	että␣
+ep003:006	-	(@)	-	näet␣
+ep003:006	(2) 3	@	-	pakanatkin␣
+ep003:006	1	@	-	ovat␣
+ep003:006	4	@	-	kanssaperillisiä␣
+ep003:006	5	@	-	ja␣
+ep003:006	6	@	-	yhtä␣
+ep003:006	6	@	-	ruumista␣
+ep003:006	7	@	-	ja␣
+ep003:006	8	@	-	osallisia␣
+ep003:006	10 (9)	@	-	lupaukseen␣
+ep003:006	12	@	-	Kristuksessa␣
+ep003:006	13	@	-	Jeesuksessa␣
+ep003:006	11	%case	LOC	
+ep003:006	(15) 16a	@	-	evankeliumin␣
+ep003:006	14	@	-	kautta
+ep003:006	16b	,	-	,␣
+ep003:007	ep003:007	ep003:007	VERSE	Ef␣3:7␣
+ep003:007	1	@	-	jonka␣
+ep003:007	3	@	-	palvelijaksi␣
+ep003:007	2	(@)	-	minä␣
+ep003:007	2	(@)	-	olen␣
+ep003:007	2	@	-	tullut␣
+ep003:007	10 (9)	@	-	Jumalan␣
+ep003:007	(7) 8	@	-	armon␣
+ep003:007	(5) 6	@	-	lahjan␣
+ep003:007	4	@	-	kautta
+ep003:007	-	(,)	-	,␣
+ep003:007	11	@	-	joka␣
+ep003:007	13	@	-	minulle␣
+ep003:007	12	(@)	-	on␣
+ep003:007	12	@	-	annettu␣
+ep003:007	19a	@	-	hänen␣
+ep003:007	(17) 18	@	-	voimansa␣
+ep003:007	(15) 16	@	-	vaikutuksesta
+ep003:007	14	%case	LOC	
+ep003:007	19b	.	-	.␣
+ep003:008	ep003:008	ep003:008	VERSE	Ef␣3:8␣
+ep003:008	1	@	-	Minulle
+ep003:008	-	(,)	-	,␣
+ep003:008	4	@	-	kaikista␣
+ep003:008	5	@	-	pyhistä␣
+ep003:008	(2) 3	@	-	halvimmalle
+ep003:008	-	(,)	-	,␣
+ep003:008	6	(@)	-	on␣
+ep003:008	6	@	-	annettu␣
+ep003:008	9a	@	-	tämä␣
+ep003:008	(7) 8	@	-	armo
+ep003:008	9b	:	-	:␣
+ep003:008	12	@	-	julistaa␣
+ep003:008	(10) 11	@	-	pakanoille␣
+ep003:008	12	@	-	evankeliumia␣
+ep003:008	(16) 17	@	-	Kristuksen␣
+ep003:008	14	@	-	tutkimattomasta␣
+ep003:008	(13) 15	@	-	rikkaudesta␣
+ep003:009	ep003:009	ep003:009	VERSE	Ef␣3:9␣
+ep003:009	1	@	-	ja␣
+ep003:009	2a	@	-	saattaa␣
+ep003:009	3a	@	-	kaikille␣
+ep003:009	2a	@	-	ilmeiseksi
+ep003:009	3b	,	-	,␣
+ep003:009	4	@	-	mitä␣
+ep003:009	-	(@)	-	on␣
+ep003:009	7	@	-	sen␣
+ep003:009	8	@	-	salaisuuden␣
+ep003:009	(5) 6	@	-	taloudenhoito
+ep003:009	-	(,)	-	,␣
+ep003:009	9	@	-	joka␣
+ep003:009	(12) 13	@	-	ikuisista␣
+ep003:009	(12) 13	@	-	ajoista␣
+ep003:009	11	@	-	asti␣
+ep003:009	10	(@)	-	on␣
+ep003:009	10	(@)	-	ollut␣
+ep003:009	10	@	-	kätkettynä␣
+ep003:009	(15) 16	@	-	Jumalassa
+ep003:009	14	%case	LOC	
+ep003:009	-	(,)	-	,␣
+ep003:009	(18) 19	@	-	kaiken␣
+ep003:009	(17) 20a	@	-	Luojassa
+ep003:009	20b	,	-	,␣
+ep003:010	ep003:010	ep003:010	VERSE	Ef␣3:10␣
+ep003:010	1	@	-	että␣
+ep003:010	(18) 19a	@	-	Jumalan␣
+ep003:010	16	@	-	moninainen␣
+ep003:010	(15) 17	@	-	viisaus␣
+ep003:010	(13) 14	@	-	seurakunnan␣
+ep003:010	12	@	-	kautta␣
+ep003:010	3	@	-	nyt␣
+ep003:010	2	@	-	tulisi␣
+ep003:010	(10) 11	@	-	taivaallisten␣
+ep003:010	9	%case	GEN	
+ep003:010	(4) 5	@	-	hallitusten␣
+ep003:010	6	@	-	ja␣
+ep003:010	(7) 8	@	-	valtojen␣
+ep003:010	2	@	-	tietoon␣
+ep003:011	ep003:011	ep003:011	VERSE	Ef␣3:11␣
+ep003:011	-	(@)	-	sen␣
+ep003:011	(3) 4	@	-	iankaikkisen␣
+ep003:011	2	@	-	aivoituksen␣
+ep003:011	1	@	-	mukaisesti
+ep003:011	-	(,)	-	,␣
+ep003:011	5	@	-	jonka␣
+ep003:011	6	(@)	-	hän␣
+ep003:011	6	(@)	-	oli␣
+ep003:011	6	@	-	säätänyt␣
+ep003:011	(8) 9	@	-	Kristuksessa␣
+ep003:011	10	@	-	Jeesuksessa
+ep003:011	7	%case	LOC	
+ep003:011	-	(,)	-	,␣
+ep003:011	13a	@	-	meidän␣
+ep003:011	(11) 12	@	-	Herrassamme
+ep003:011	13b	,	-	,␣
+ep003:012	ep003:012	ep003:012	VERSE	Ef␣3:12␣
+ep003:012	2	@	-	jossa␣
+ep003:012	1	%case	LOC	
+ep003:012	3	(@)	-	meillä
+ep003:012	-	(,)	-	,␣
+ep003:012	(11) 12	@	-	uskon␣
+ep003:012	10	@	-	kautta␣
+ep003:012	13a	@	-	häneen
+ep003:012	-	(,)	-	,␣
+ep003:012	3	@	-	on␣
+ep003:012	(4) 5	@	-	uskallus␣
+ep003:012	6	@	-	ja␣
+ep003:012	9	@	-	luottavainen␣
+ep003:012	8	%case	NOM	
+ep003:012	7	@	-	pääsy␣
+ep003:012	-	(@)	-	Jumalan␣
+ep003:012	-	(@)	-	tykö
+ep003:012	13b	.	-	.␣
+ep003:013	ep003:013	ep003:013	VERSE	Ef␣3:13␣
+ep003:013	1	@	-	Siksi␣
+ep003:013	2	(@)	-	minä␣
+ep003:013	2	@	-	pyydän
+ep003:013	-	(,)	-	,␣
+ep003:013	3	@	-	ettette␣
+ep003:013	4	@	-	lannistuisi␣
+ep003:013	6	@	-	niiden␣
+ep003:013	7	@	-	ahdistusten␣
+ep003:013	5	@	-	vuoksi
+ep003:013	-	(,)	-	,␣
+ep003:013	-	(@)	-	joita␣
+ep003:013	8	@	-	minä␣
+ep003:013	10a	@	-	teidän␣
+ep003:013	9	@	-	tähtenne␣
+ep003:013	-	(@)	-	kärsin
+ep003:013	10b	,	-	,␣
+ep003:013	-	(@)	-	sillä␣
+ep003:013	11	@	-	ne␣
+ep003:013	12	@	-	ovat␣
+ep003:013	14a	@	-	teidän␣
+ep003:013	13	@	-	kunnianne
+ep003:013	14b	.	-	.␣
+ep003:014	ep003:014	ep003:014	VERSE	Ef␣3:14␣
+ep003:014	1 2	@	-	Sentähden␣
+ep003:014	3	(@)	-	minä␣
+ep003:014	3	@	-	notkistan␣
+ep003:014	(4) 5	@	-	polveni␣
+ep003:014	6	%pers	?	
+ep003:014	(8) 9a	@	-	Isän␣
+ep003:014	7	@	-	edessä
+ep003:014	9b	,	-	,␣
+ep003:015	ep003:015	ep003:015	VERSE	Ef␣3:15␣
+ep003:015	2	@	-	josta␣
+ep003:015	1	%case	LOC	
+ep003:015	3	@	-	kaikki
+ep003:015	-	(,)	-	,␣
+ep003:015	4	(@)	-	millä␣
+ep003:015	4	@	-	isä␣
+ep003:015	4	(@)	-	on
+ep003:015	-	(,)	-	,␣
+ep003:015	6	@	-	taivaissa␣
+ep003:015	5	%case	LOC	
+ep003:015	7	@	-	ja␣
+ep003:015	9	@	-	maan␣
+ep003:015	8	@	-	päällä
+ep003:015	-	(,)	-	,␣
+ep003:015	10a	@	-	saa␣
+ep003:015	10a	@	-	nimensä
+ep003:015	10b	,	-	,␣
+ep003:016	ep003:016	ep003:016	VERSE	Ef␣3:16␣
+ep003:016	1	@	-	että␣
+ep003:016	2	(@)	-	hän␣
+ep003:016	(7) 8	@	-	kirkkautensa␣
+ep003:016	9	%pers	3	
+ep003:016	(5) 6	@	-	runsauden␣
+ep003:016	4	@	-	mukaisesti␣
+ep003:016	2	@	-	antaisi␣
+ep003:016	3	@	-	teidän
+ep003:016	-	(,)	-	,␣
+ep003:016	18	@	-	sisällisen␣
+ep003:016	(17) 19a	@	-	ihmisenne␣
+ep003:016	16	@	-	puolesta
+ep003:016	-	(,)	-	,␣
+ep003:016	10	@	-	voimassa␣
+ep003:016	11	@	-	vahvistua␣
+ep003:016	15	@	-	hänen␣
+ep003:016	(13) 14	@	-	Henkensä␣
+ep003:016	12	@	-	kautta␣
+ep003:017	ep003:017	ep003:017	VERSE	Ef␣3:17␣
+ep003:017	-	(@)	-	ja␣
+ep003:017	(2) 3	@	-	Kristuksen␣
+ep003:017	1	@	-	asua␣
+ep003:017	(5) 6	@	-	uskon␣
+ep003:017	4	@	-	kautta␣
+ep003:017	10a	@	-	teidän␣
+ep003:017	(8) 9	@	-	sydämissänne
+ep003:017	7	%case	LOC	
+ep003:017	10b	,	-	,␣
+ep003:018	ep003:018	ep003:018	VERSE	Ef␣3:18␣
+ep003:018	1	@	-	niin␣
+ep003:018	1	@	-	että␣
+ep003:018	2	(@)	-	te
+ep003:018	-	(,)	-	,␣
+ep003:018	12/17	@	-	rakkauteen␣
+ep003:018	11/17	%case	LOC	
+ep003:018	13/17	@	-	juurtuneina␣
+ep003:018	14/17	@	-	ja␣
+ep003:018	15a/17	@	-	perustuneina
+ep003:018	-	(,)	-	,␣
+ep003:018	2	@	-	voisitte␣
+ep003:018	5	@	-	kaikkien␣
+ep003:018	(6) 7	@	-	pyhien␣
+ep003:018	4	@	-	kanssa␣
+ep003:018	3	@	-	käsittää
+ep003:018	-	(,)	-	,␣
+ep003:018	8	@	-	mikä␣
+ep003:018	10 (9)	@	-	leveys␣
+ep003:018	11	@	-	ja␣
+ep003:018	12	@	-	pituus␣
+ep003:018	13	@	-	ja␣
+ep003:018	14	@	-	korkeus␣
+ep003:018	15	@	-	ja␣
+ep003:018	16a	@	-	syvyys␣
+ep003:018	-	(@)	-	on
+ep003:018	16b	,	-	,␣
+ep003:019	ep003:019	ep003:019	VERSE	Ef␣3:19␣
+ep003:019	2	@	-	ja␣
+ep003:019	1	@	-	oppia␣
+ep003:019	1	@	-	tuntemaan␣
+ep003:019	(8) 9a	@	-	Kristuksen␣
+ep003:019	(3) 7	@	-	rakkauden
+ep003:019	-	(,)	-	,␣
+ep003:019	4	(@)	-	joka␣
+ep003:019	4	@	-	on␣
+ep003:019	-	(@)	-	kaikkea␣
+ep003:019	(5) 6	@	-	tietoa␣
+ep003:019	4	@	-	ylempänä
+ep003:019	9b	;	-	;␣
+ep003:019	10	@	-	että␣
+ep003:019	11	@	-	tulisitte␣
+ep003:019	11	@	-	täyteen␣
+ep003:019	(16) 17a	@	-	Jumalan␣
+ep003:019	13	@	-	kaikkea␣
+ep003:019	(14) 15	@	-	täyteyttä
+ep003:019	12	%case	PTV	
+ep003:019	17b	.	-	.␣
+ep003:020	ep003:020	ep003:020	VERSE	Ef␣3:20␣
+ep003:020	2	@	-	Mutta␣
+ep003:020	1	@	-	hänelle
+ep003:020	-	(,)	-	,␣
+ep003:020	1	@	-	joka␣
+ep003:020	3	@	-	voi␣
+ep003:020	6	@	-	tehdä␣
+ep003:020	5	@	-	enemmän
+ep003:020	4	%case	?	
+ep003:020	-	(,)	-	,␣
+ep003:020	7	@	-	monin␣
+ep003:020	7	@	-	verroin␣
+ep003:020	7	@	-	enemmän␣
+ep003:020	8	@	-	kuin␣
+ep003:020	-	(@)	-	kaikki
+ep003:020	-	(,)	-	,␣
+ep003:020	8	@	-	mitä␣
+ep003:020	9	(@)	-	me␣
+ep003:020	9	@	-	anomme␣
+ep003:020	10	@	-	tai␣
+ep003:020	11	@	-	ymmärrämme
+ep003:020	-	(,)	-	,␣
+ep003:020	13	@	-	sen␣
+ep003:020	14	@	-	voiman␣
+ep003:020	12	@	-	mukaan
+ep003:020	-	(,)	-	,␣
+ep003:020	15	@	-	joka␣
+ep003:020	18a	@	-	meissä␣
+ep003:020	17	%case	LOC	
+ep003:020	16	@	-	vaikuttaa
+ep003:020	18b	,	-	,␣
+ep003:021	ep003:021	ep003:021	VERSE	Ef␣3:21␣
+ep003:021	1	@	-	hänelle␣
+ep003:021	(2) 3	@	-	kunnia␣
+ep003:021	(5) 6	@	-	seurakunnassa␣
+ep003:021	4	%case	LOC	
+ep003:021	7	@	-	ja␣
+ep003:021	9	@	-	Kristuksessa␣
+ep003:021	10	@	-	Jeesuksessa␣
+ep003:021	8	%case	LOC	
+ep003:021	11	@	-	kautta␣
+ep003:021	12	@	-	kaikkien␣
+ep003:021	(13) 14	@	-	sukupolvien
+ep003:021	-	(,)	-	,␣
+ep003:021	(15) 16	@	-	aina␣
+ep003:021	-	(@)	-	ja␣
+ep003:021	(17) 18a	@	-	iankaikkisesti
+ep003:021	18b	!	-	!␣
+ep003:021	19a	@	-	Amen
+ep003:021	19b	.	-	.␣
+ep004:001	ep004:001	ep004:001	VERSE	Ef␣4:1␣
+ep004:001	2	@	-	Niin␣
+ep004:001	1	@	-	kehoitan␣
+ep004:001	2	@	-	siis␣
+ep004:001	4	@	-	minä
+ep004:001	-	(,)	-	,␣
+ep004:001	-	(@)	-	joka␣
+ep004:001	-	(@)	-	olen␣
+ep004:001	(5) 6	@	-	vankina␣
+ep004:001	8	@	-	Herrassa
+ep004:001	7	%case	LOC	
+ep004:001	-	(,)	-	,␣
+ep004:001	3	@	-	teitä␣
+ep004:001	10	@	-	vaeltamaan
+ep004:001	-	(,)	-	,␣
+ep004:001	-	(@)	-	niinkuin␣
+ep004:001	14a	@	-	saamanne␣
+ep004:001	13	%inflection	PCPA.NOM&SGGEN.-2	
+ep004:001	(11) 12	@	-	kutsumuksen␣
+ep004:001	9	@	-	arvo␣
+ep004:001	9	@	-	vaatii
+ep004:001	14b	,	-	,␣
+ep004:002	ep004:002	ep004:002	VERSE	Ef␣4:2␣
+ep004:002	2	@	-	kaikessa␣
+ep004:002	3	@	-	nöyryydessä␣
+ep004:002	1	%case	LOC	
+ep004:002	4	@	-	ja␣
+ep004:002	5a	@	-	hiljaisuudessa␣
+ep004:002	-	(@)	-	ja␣
+ep004:002	7a	@	-	pitkämielisyydessä␣
+ep004:002	6	%case	LOC	
+ep004:002	8	@	-	kärsien␣
+ep004:002	9	@	-	toinen␣
+ep004:002	9	@	-	toistanne␣
+ep004:002	11a	@	-	rakkaudessa␣
+ep004:002	10	%case	LOC	
+ep004:003	ep004:003	ep004:003	VERSE	Ef␣4:3␣
+ep004:003	-	(@)	-	ja␣
+ep004:003	1	@	-	pyrkien␣
+ep004:003	2	@	-	säilyttämään␣
+ep004:003	(5) 6	@	-	hengen␣
+ep004:003	(3) 4	@	-	yhteyden␣
+ep004:003	(10) 11a	@	-	rauhan␣
+ep004:003	(8) 9	@	-	yhdyssiteellä
+ep004:003	7	%case	LOC	
+ep004:003	11b	:	-	:␣
+ep004:004	ep004:004	ep004:004	VERSE	Ef␣4:4␣
+ep004:004	1	@	-	yksi␣
+ep004:004	2	@	-	ruumis␣
+ep004:004	3	@	-	ja␣
+ep004:004	4	@	-	yksi␣
+ep004:004	5a	@	-	henki
+ep004:004	5b	,	-	,␣
+ep004:004	6	@	-	niinkuin␣
+ep004:004	8	(@)	-	te␣
+ep004:004	8	(@)	-	olette␣
+ep004:004	8	@	-	kutsututkin␣
+ep004:004	7	%clitic	kin	
+ep004:004	10	@	-	yhteen␣
+ep004:004	-	(@)	-	ja␣
+ep004:004	-	(@)	-	samaan␣
+ep004:004	11	@	-	toivoon
+ep004:004	9	%case	LOC	
+ep004:004	-	(,)	-	,␣
+ep004:004	-	(@)	-	jonka␣
+ep004:004	14a	@	-	te␣
+ep004:004	(12) 13	@	-	kutsumuksessanne␣
+ep004:004	-	(@)	-	saitte
+ep004:004	14b	;	-	;␣
+ep004:005	ep004:005	ep004:005	VERSE	Ef␣4:5␣
+ep004:005	1	@	-	yksi␣
+ep004:005	2a	@	-	Herra
+ep004:005	2b	,	-	,␣
+ep004:005	3	@	-	yksi␣
+ep004:005	4a	@	-	usko
+ep004:005	4b	,	-	,␣
+ep004:005	5	@	-	yksi␣
+ep004:005	6a	@	-	kaste
+ep004:005	6b	;	-	;␣
+ep004:006	ep004:006	ep004:006	VERSE	Ef␣4:6␣
+ep004:006	1	@	-	yksi␣
+ep004:006	2	@	-	Jumala␣
+ep004:006	3	@	-	ja␣
+ep004:006	5a	@	-	kaikkien␣
+ep004:006	4	@	-	Isä
+ep004:006	5b	,	-	,␣
+ep004:006	6	@	-	joka␣
+ep004:006	-	(@)	-	on␣
+ep004:006	7	@	-	yli␣
+ep004:006	8	@	-	kaikkien␣
+ep004:006	9	@	-	ja␣
+ep004:006	11	@	-	kaikkien␣
+ep004:006	10	@	-	kautta␣
+ep004:006	12	@	-	ja␣
+ep004:006	14a	@	-	kaikissa
+ep004:006	13	%case	LOC	
+ep004:006	14b	.	-	.␣
+ep004:007	ep004:007	ep004:007	VERSE	Ef␣4:7␣
+ep004:007	2	@	-	Mutta␣
+ep004:007	1 3	@	-	itsekullekin␣
+ep004:007	4	@	-	meistä␣
+ep004:007	5	(@)	-	on␣
+ep004:007	(6) 7	@	-	armo␣
+ep004:007	5	@	-	annettu␣
+ep004:007	(13) 14a	@	-	Kristuksen␣
+ep004:007	(11) 12	@	-	lahjan␣
+ep004:007	10 (9)	@	-	mitan␣
+ep004:007	8	@	-	mukaan
+ep004:007	14b	.	-	.␣
+ep004:008	ep004:008	ep004:008	VERSE	Ef␣4:8␣
+ep004:008	1	@	-	Sentähden␣
+ep004:008	2a	(@)	-	on␣
+ep004:008	2a	@	-	sanottu
+ep004:008	-	(:)	-	:␣
+ep004:008	-	(@)	-	"
+ep004:008	3	(@)	-	Hän␣
+ep004:008	3	@	-	astui␣
+ep004:008	3	@	-	ylös␣
+ep004:008	5	@	-	korkeuteen
+ep004:008	4	%case	LOC	
+ep004:008	-	(,)	-	,␣
+ep004:008	6	(@)	-	hän␣
+ep004:008	6	@	-	otti␣
+ep004:008	6	@	-	vankeja␣
+ep004:008	7a	@	-	saaliikseen
+ep004:008	7b	,	-	,␣
+ep004:008	8	(@)	-	hän␣
+ep004:008	8	@	-	antoi␣
+ep004:008	9	@	-	lahjoja␣
+ep004:008	(10) 11a	@	-	ihmisille
+ep004:008	-	(@)	-	"
+ep004:008	11b	.	-	.␣
+ep004:009	ep004:009	ep004:009	VERSE	Ef␣4:9␣
+ep004:009	2	@	-	Mutta␣
+ep004:009	pro%1	@	-	että␣
+ep004:009	3	(@)	-	hän␣
+ep004:009	3	@	-	astui␣
+ep004:009	3	@	-	ylös
+ep004:009	-	(,)	-	,␣
+ep004:009	4	@	-	mitä␣
+ep004:009	5a	(@)	-	se␣
+ep004:009	5a	@	-	on␣
+ep004:009	6 7	@	-	muuta
+ep004:009	-	(,)	-	,␣
+ep004:009	6 7	@	-	kuin␣
+ep004:009	8	@	-	että␣
+ep004:009	10	(@)	-	hän␣
+ep004:009	10	(@)	-	oli␣
+ep004:009	10	@	-	astunut␣
+ep004:009	10	@	-	alaskin
+ep004:009	9	%clitic	kin	
+ep004:009	-	(,)	-	,␣
+ep004:009	(15) 16a	@	-	maan␣
+ep004:009	13a	@	-	alimpiin␣
+ep004:009	(12) 14a	@	-	paikkoihin
+ep004:009	11	%case	LOC	
+ep004:009	-	(?)	-	?␣
+ep004:010	ep004:010	ep004:010	VERSE	Ef␣4:10␣
+ep004:010	1	@	-	Hän
+ep004:010	-	(,)	-	,␣
+ep004:010	1	@	-	joka␣
+ep004:010	2	(@)	-	on␣
+ep004:010	2	@	-	astunut␣
+ep004:010	2	@	-	alas
+ep004:010	-	(,)	-	,␣
+ep004:010	4	@	-	on␣
+ep004:010	3	@	-	se
+ep004:010	-	(,)	-	,␣
+ep004:010	6	@	-	joka␣
+ep004:010	5	@	-	myös␣
+ep004:010	7	@	-	astui␣
+ep004:010	7	@	-	ylös
+ep004:010	-	(,)	-	,␣
+ep004:010	9	@	-	kaikkia␣
+ep004:010	(10) 11a	@	-	taivaita␣
+ep004:010	8	@	-	ylemmäksi
+ep004:010	11b	,	-	,␣
+ep004:010	13	@	-	täyttääkseen␣
+ep004:010	12	%case	TRA	
+ep004:010	(14) 15a	@	-	kaikki
+ep004:010	15b	.	-	.␣
+ep004:011	ep004:011	ep004:011	VERSE	Ef␣4:11␣
+ep004:011	1	@	-	Ja␣
+ep004:011	2	@	-	hän␣
+ep004:011	3	@	-	antoi␣
+ep004:011	4	@	-	muutamat␣
+ep004:011	5	%case	NOM	
+ep004:011	6a	@	-	apostoleiksi
+ep004:011	6b	,	-	,␣
+ep004:011	7	@	-	toiset␣
+ep004:011	8	%case	NOM	
+ep004:011	9a	@	-	profeetoiksi
+ep004:011	9b	,	-	,␣
+ep004:011	10	@	-	toiset␣
+ep004:011	11	%case	NOM	
+ep004:011	12a	@	-	evankelistoiksi
+ep004:011	12b	,	-	,␣
+ep004:011	13	@	-	toiset␣
+ep004:011	14	%case	NOM	
+ep004:011	15	@	-	paimeniksi␣
+ep004:011	16	@	-	ja␣
+ep004:011	17a	@	-	opettajiksi
+ep004:011	17b	,	-	,␣
+ep004:012	ep004:012	ep004:012	VERSE	Ef␣4:12␣
+ep004:012	(2) 3	@	-	tehdäkseen␣
+ep004:012	1	%case	TRA	
+ep004:012	(4) 5	@	-	pyhät␣
+ep004:012	(2) 3	@	-	täysin␣
+ep004:012	(2) 3	@	-	valmiiksi␣
+ep004:012	8a	@	-	palveluksen␣
+ep004:012	7	@	-	työhön
+ep004:012	6	%case	LOC	
+ep004:012	8b	,	-	,␣
+ep004:012	(13) 14a	@	-	Kristuksen␣
+ep004:012	(11) 12	@	-	ruumiin␣
+ep004:012	10	@	-	rakentamiseen
+ep004:012	9	%case	LOC	
+ep004:012	14b	,	-	,␣
+ep004:013	ep004:013	ep004:013	VERSE	Ef␣4:13␣
+ep004:013	1	@	-	kunnes␣
+ep004:013	3	@	-	me␣
+ep004:013	4	@	-	kaikki␣
+ep004:013	2	@	-	pääsemme␣
+ep004:013	(6) 7	@	-	yhteyteen␣
+ep004:013	5	%case	LOC	
+ep004:013	(8) 9	@	-	uskossa␣
+ep004:013	10	@	-	ja␣
+ep004:013	(15) 16a	@	-	Jumalan␣
+ep004:013	(13) 14	@	-	Pojan␣
+ep004:013	(11) 12	@	-	tuntemisessa
+ep004:013	16b	,	-	,␣
+ep004:013	19a	@	-	täyteen␣
+ep004:013	18	@	-	miehuuteen
+ep004:013	17	%case	LOC	
+ep004:013	19b	,	-	,␣
+ep004:013	(25) 26a	@	-	Kristuksen␣
+ep004:013	(23) 24	@	-	täyteyden␣
+ep004:013	22	@	-	täyden␣
+ep004:013	22	@	-	iän␣
+ep004:013	21	@	-	määrään
+ep004:013	20	%case	LOC	
+ep004:013	26b	,	-	,␣
+ep004:014	ep004:014	ep004:014	VERSE	Ef␣4:14␣
+ep004:014	2	@	-	ettemme␣
+ep004:014	1	%case	?	
+ep004:014	2	@	-	enää␣
+ep004:014	3	@	-	olisi␣
+ep004:014	4a	@	-	alaikäisiä
+ep004:014	4b	,	-	,␣
+ep004:014	5	(@)	-	jotka␣
+ep004:014	5	@	-	ajelehtivat␣
+ep004:014	6	@	-	ja␣
+ep004:014	7	(@)	-	joita␣
+ep004:014	7	@	-	viskellään␣
+ep004:014	8	@	-	kaikissa␣
+ep004:014	(10) 11 9	@	-	opintuulissa␣
+ep004:014	-	(@)	-	ja␣
+ep004:014	(15) 16a	@	-	ihmisten␣
+ep004:014	(13) 14	@	-	arpapelissä␣
+ep004:014	12	%case	LOC	
+ep004:014	-	(@)	-	ja␣
+ep004:014	(22) 23a	@	-	eksytyksen␣
+ep004:014	18	@	-	kavalissa␣
+ep004:014	17	%case	LOC	
+ep004:014	(20) 21	@	-	juonissa
+ep004:014	19	%case	LOC	
+ep004:014	23b	;	-	;␣
+ep004:015	ep004:015	ep004:015	VERSE	Ef␣4:15␣
+ep004:015	2	@	-	vaan␣
+ep004:015	2	@	-	että␣
+ep004:015	5	(@)	-	me
+ep004:015	-	(,)	-	,␣
+ep004:015	1	@	-	totuutta␣
+ep004:015	1	@	-	noudattaen␣
+ep004:015	4	@	-	rakkaudessa
+ep004:015	3	%case	LOC	
+ep004:015	-	(,)	-	,␣
+ep004:015	(8) 9a	@	-	kaikin␣
+ep004:015	(8) 9a	@	-	tavoin␣
+ep004:015	5	@	-	kasvaisimme␣
+ep004:015	7	@	-	häneen
+ep004:015	6	%case	LOC	
+ep004:015	9b	,	-	,␣
+ep004:015	10	@	-	joka␣
+ep004:015	11	@	-	on␣
+ep004:015	(12) 13a	@	-	pää
+ep004:015	13b	,	-	,␣
+ep004:015	14a	@	-	Kristus
+ep004:015	14b	,	-	,␣
+ep004:016	ep004:016	ep004:016	VERSE	Ef␣4:16␣
+ep004:016	2	@	-	josta␣
+ep004:016	1	%case	LOC	
+ep004:016	3	@	-	koko␣
+ep004:016	(4) 5	@	-	ruumis
+ep004:016	-	(,)	-	,␣
+ep004:016	6	@	-	yhteen␣
+ep004:016	6	@	-	liitettynä␣
+ep004:016	7	@	-	ja␣
+ep004:016	8	@	-	koossa␣
+ep004:016	8	@	-	pysyen␣
+ep004:016	10	@	-	jokaisen␣
+ep004:016	11	@	-	jänteensä␣
+ep004:016	9	%case	NOM.GEN	
+ep004:016	(12) 13	@	-	avulla
+ep004:016	-	(,)	-	,␣
+ep004:016	(21) 22 (23) 24 25	@	-	kasvaa␣
+ep004:016	27	@	-	rakentuakseen␣
+ep004:016	28	%pers	3	
+ep004:016	26	%case	TRA	
+ep004:016	30a	@	-	rakkaudessa␣
+ep004:016	29	%case	LOC	
+ep004:016	-	(@)	-	sen␣
+ep004:016	15	@	-	voiman␣
+ep004:016	17	@	-	määrän␣
+ep004:016	16	%case	GEN	
+ep004:016	14	@	-	mukaan
+ep004:016	-	(,)	-	,␣
+ep004:016	-	(@)	-	mikä␣
+ep004:016	18 19	@	-	kullakin␣
+ep004:016	20	@	-	osalla␣
+ep004:016	-	(@)	-	on
+ep004:016	30b	.	-	.␣
+ep004:017	ep004:017	ep004:017	VERSE	Ef␣4:17␣
+ep004:017	1	@	-	Sen␣
+ep004:017	3	(@)	-	minä␣
+ep004:017	2	@	-	siis␣
+ep004:017	3	@	-	sanon␣
+ep004:017	4	@	-	ja␣
+ep004:017	5	@	-	varoitan␣
+ep004:017	7a	@	-	Herrassa
+ep004:017	6	%case	LOC	
+ep004:017	7b	:	-	:␣
+ep004:017	8	@	-	älkää␣
+ep004:017	9	%pers	2P	
+ep004:017	8	@	-	enää␣
+ep004:017	10a	@	-	vaeltako
+ep004:017	10b	,	-	,␣
+ep004:017	11	@	-	niinkuin␣
+ep004:017	(12)	-	UNTRANSLATED	
+ep004:017	(13) 14	@	-	pakanat␣
+ep004:017	15	@	-	vaeltavat␣
+ep004:017	(18) 19	@	-	mielensä␣
+ep004:017	20a	%pers	3	
+ep004:017	17	@	-	turhuudessa
+ep004:017	16	%case	LOC	
+ep004:017	20b	,	-	,␣
+ep004:018	ep004:018	ep004:018	VERSE	Ef␣4:18␣
+ep004:018	1	(@)	-	nuo
+ep004:018	-	(,)	-	,␣
+ep004:018	1	(@)	-	jotka
+ep004:018	-	(,)	-	,␣
+ep004:018	1	@	-	pimentyneinä␣
+ep004:018	4a	%inflection	ACT.PCP2.PL.ESS	
+ep004:018	(2) 3	@	-	ymmärrykseltään␣
+ep004:018	-	(@)	-	ja␣
+ep004:018	5	@	-	vieraantuneina␣
+ep004:018	(8) 9	@	-	Jumalan␣
+ep004:018	(6) 7	@	-	elämästä␣
+ep004:018	16a	@	-	heissä␣
+ep004:018	15	%case	LOC	
+ep004:018	(13) 14	@	-	olevan␣
+ep004:018	(11) 12	@	-	tietämättömyyden␣
+ep004:018	10	@	-	tähden␣
+ep004:018	-	(@)	-	ja␣
+ep004:018	(20) 21	@	-	sydämensä␣
+ep004:018	22a	%pers	3	
+ep004:018	(18) 19	@	-	paatumuksen␣
+ep004:018	17	@	-	tähden
+ep004:018	22b	,	-	,␣
+ep004:019	ep004:019	ep004:019	VERSE	Ef␣4:19␣
+ep004:019	2	(@)	-	ovat␣
+ep004:019	(1)	-	UNTRANSLATED	
+ep004:019	2	(@)	-	päästäneet␣
+ep004:019	2	@	-	tuntonsa␣
+ep004:019	2	@	-	turtumaan␣
+ep004:019	-	(@)	-	ja␣
+ep004:019	4	@	-	heittäytyneet␣
+ep004:019	3	%case	NOM	
+ep004:019	(5) 6	@	-	irstauden␣
+ep004:019	case%6	@	-	valtaan
+ep004:019	-	(,)	-	,␣
+ep004:019	8	@	-	harjoittamaan␣
+ep004:019	7	%case	LOC	
+ep004:019	10	@	-	kaikkinaista␣
+ep004:019	9	@	-	saastaisuutta
+ep004:019	-	(,)	-	,␣
+ep004:019	12a	@	-	ahneudessa
+ep004:019	11	%case	LOC	
+ep004:019	12b	.	-	.␣
+ep004:020	ep004:020	ep004:020	VERSE	Ef␣4:20␣
+ep004:020	2	@	-	Mutta␣
+ep004:020	4	@	-	näin␣
+ep004:020	1	@	-	te␣
+ep004:020	3	@	-	ette␣
+ep004:020	5	(@)	-	ole␣
+ep004:020	5	@	-	oppineet␣
+ep004:020	(6) 7a	@	-	Kristusta␣
+ep004:020	5	(@)	-	tuntemaan
+ep004:020	7b	,	-	,␣
+ep004:021	ep004:021	ep004:021	VERSE	Ef␣4:21␣
+ep004:021	1	@	-	jos␣
+ep004:021	2	@	-	muutoin␣
+ep004:021	4	(@)	-	olette␣
+ep004:021	3	@	-	hänestä␣
+ep004:021	4	@	-	kuulleet␣
+ep004:021	5	@	-	ja␣
+ep004:021	7	@	-	hänessä␣
+ep004:021	6	%case	LOC	
+ep004:021	8a	@	-	opetusta␣
+ep004:021	8a	@	-	saaneet
+ep004:021	8b	,	-	,␣
+ep004:021	9	@	-	niinkuin␣
+ep004:021	11	@	-	totuus␣
+ep004:021	10	@	-	on␣
+ep004:021	(13) 14a	@	-	Jeesuksessa
+ep004:021	12	%case	LOC	
+ep004:021	14b	:	-	:␣
+ep004:022	ep004:022	ep004:022	VERSE	Ef␣4:22␣
+ep004:022	-	(@)	-	että␣
+ep004:022	2	@	-	teidän␣
+ep004:022	tasp%1	@	-	tulee␣
+ep004:022	1	@	-	panna␣
+ep004:022	1	@	-	pois␣
+ep004:022	8	@	-	vanha␣
+ep004:022	(7) 9	@	-	ihmisenne
+ep004:022	-	(,)	-	,␣
+ep004:022	-	(@)	-	jonka␣
+ep004:022	3	@	-	mukaan␣
+ep004:022	-	(@)	-	te␣
+ep004:022	5	@	-	ennen␣
+ep004:022	(4) 6	@	-	vaelsitte␣
+ep004:022	-	(@)	-	ja␣
+ep004:022	10	@	-	joka␣
+ep004:022	11	@	-	turmelee␣
+ep004:022	11	@	-	itsensä␣
+ep004:022	(15) 16a	@	-	petollisia␣
+ep004:022	(13) 14	@	-	himoja␣
+ep004:022	12	@	-	seuraten
+ep004:022	16b	,	-	,␣
+ep004:023	ep004:023	ep004:023	VERSE	Ef␣4:23␣
+ep004:023	2	@	-	ja␣
+ep004:023	1	@	-	uudistua␣
+ep004:023	(5) 6	@	-	mielenne␣
+ep004:023	7	%pers	?	
+ep004:023	(3) 4	@	-	hengeltä␣
+ep004:024	ep004:024	ep004:024	VERSE	Ef␣4:24␣
+ep004:024	1	@	-	ja␣
+ep004:024	2	@	-	pukea␣
+ep004:024	2	@	-	päällenne␣
+ep004:024	4	@	-	uusi␣
+ep004:024	(3) 5	@	-	ihminen
+ep004:024	-	(,)	-	,␣
+ep004:024	6	@	-	joka␣
+ep004:024	8	@	-	Jumalan␣
+ep004:024	7	@	-	mukaan␣
+ep004:024	9	(@)	-	on␣
+ep004:024	9	@	-	luotu␣
+ep004:024	(14) 15a	@	-	totuuden␣
+ep004:024	11	@	-	vanhurskauteen␣
+ep004:024	10	%case	LOC	
+ep004:024	12	@	-	ja␣
+ep004:024	13	@	-	pyhyyteen
+ep004:024	15b	.	-	.␣
+ep004:025	ep004:025	ep004:025	VERSE	Ef␣4:25␣
+ep004:025	2	@	-	Pankaa␣
+ep004:025	1	@	-	sentähden␣
+ep004:025	2	@	-	pois␣
+ep004:025	(3) 4	@	-	valhe␣
+ep004:025	-	(@)	-	ja␣
+ep004:025	5	@	-	puhukaa␣
+ep004:025	6	@	-	totta
+ep004:025	-	(,)	-	,␣
+ep004:025	7	@	-	kukin␣
+ep004:025	10 (9)	@	-	lähimmäisensä␣
+ep004:025	11a	%pers	3	
+ep004:025	8	@	-	kanssa
+ep004:025	11b	,	-	,␣
+ep004:025	12	@	-	sillä␣
+ep004:025	13	(@)	-	me␣
+ep004:025	13	@	-	olemme␣
+ep004:025	14	@	-	toinen␣
+ep004:025	14	@	-	toisemme␣
+ep004:025	15a	@	-	jäseniä
+ep004:025	15b	.	-	.␣
+ep004:026	ep004:026	ep004:026	VERSE	Ef␣4:26␣
+ep004:026	-	(@)	-	"
+ep004:026	1	@	-	Vihastukaa
+ep004:026	-	(,)	-	,␣
+ep004:026	2	@	-	mutta␣
+ep004:026	3	@	-	älkää␣
+ep004:026	4a	@	-	syntiä␣
+ep004:026	4a	@	-	tehkö
+ep004:026	4b	.	-	.
+ep004:026	-	(@)	-	"␣
+ep004:026	7	@	-	Älkää␣
+ep004:026	tasp%8	@	-	antako␣
+ep004:026	(5) 6	@	-	auringon␣
+ep004:026	8	@	-	laskea␣
+ep004:026	(10a) 11	@	-	vihanne␣
+ep004:026	12a	%pers	?	
+ep004:026	9a	@	-	yli
+ep004:026	12b	,	-	,␣
+ep004:027	ep004:027	ep004:027	VERSE	Ef␣4:27␣
+ep004:027	1	@	-	älkääkä␣
+ep004:027	2	@	-	antako␣
+ep004:027	(4) 5a	@	-	perkeleelle␣
+ep004:027	3	@	-	sijaa
+ep004:027	5b	.	-	.␣
+ep004:028	ep004:028	ep004:028	VERSE	Ef␣4:28␣
+ep004:028	1	@	-	Joka␣
+ep004:028	2	(@)	-	on␣
+ep004:028	2	@	-	varastanut
+ep004:028	-	(,)	-	,␣
+ep004:028	3	@	-	älköön␣
+ep004:028	3	@	-	enää␣
+ep004:028	4a	@	-	varastako
+ep004:028	4b	,	-	,␣
+ep004:028	6	@	-	vaan␣
+ep004:028	7	@	-	tehköön␣
+ep004:028	5	@	-	ennemmin␣
+ep004:028	7	@	-	työtä␣
+ep004:028	-	(@)	-	ja␣
+ep004:028	8	@	-	toimittakoon␣
+ep004:028	11 (9a)	@	-	käsillään␣
+ep004:028	10a	%pers	3	
+ep004:028	-	(@)	-	sitä
+ep004:028	-	(,)	-	,␣
+ep004:028	-	(@)	-	mikä␣
+ep004:028	(12) 13a	@	-	hyvää␣
+ep004:028	-	(@)	-	on
+ep004:028	13b	,	-	,␣
+ep004:028	14	@	-	että␣
+ep004:028	15	(@)	-	hänellä␣
+ep004:028	15	@	-	olisi
+ep004:028	-	(,)	-	,␣
+ep004:028	16	(@)	-	mitä␣
+ep004:028	16	@	-	antaa␣
+ep004:028	(17) 18 19a	@	-	tarvitsevalle
+ep004:028	19b	.	-	.␣
+ep004:029	ep004:029	ep004:029	VERSE	Ef␣4:29␣
+ep004:029	1	@	-	Mikään␣
+ep004:029	3	@	-	rietas␣
+ep004:029	2	@	-	puhe␣
+ep004:029	8	@	-	älköön␣
+ep004:029	(5) 6	@	-	suustanne␣
+ep004:029	7	%pers	?	
+ep004:029	4	%case	LOC	
+ep004:029	9a	@	-	lähtekö
+ep004:029	9b	,	-	,␣
+ep004:029	10	@	-	vaan␣
+ep004:029	11	@	-	ainoastaan␣
+ep004:029	11	@	-	sellainen
+ep004:029	-	(,)	-	,␣
+ep004:029	12	@	-	mikä␣
+ep004:029	(13)	-	UNTRANSLATED	
+ep004:029	-	(@)	-	on␣
+ep004:029	15	@	-	rakentavaista␣
+ep004:029	14	%case	PTV	
+ep004:029	-	(@)	-	ja␣
+ep004:029	(16) 17a	@	-	tarpeellista␣
+ep004:029	-	(@)	-	ja␣
+ep004:029	19	@	-	on␣
+ep004:029	18	%case	?	
+ep004:029	20	@	-	mieluista␣
+ep004:029	21	@	-	niille
+ep004:029	-	(,)	-	,␣
+ep004:029	21	@	-	jotka␣
+ep004:029	22a	@	-	kuulevat
+ep004:029	22b	.	-	.␣
+ep004:030	ep004:030	ep004:030	VERSE	Ef␣4:30␣
+ep004:030	2	@	-	Älkääkä␣
+ep004:030	1	%clitic	kA	
+ep004:030	3	@	-	saattako␣
+ep004:030	3	@	-	murheelliseksi␣
+ep004:030	(8) 9a	@	-	Jumalan␣
+ep004:030	(6) 7	@	-	Pyhää␣
+ep004:030	(4) 5	@	-	Henkeä
+ep004:030	9b	,	-	,␣
+ep004:030	11	@	-	joka␣
+ep004:030	10	%case	NOM	
+ep004:030	12	(@)	-	on␣
+ep004:030	12	(@)	-	teille␣
+ep004:030	12	@	-	annettu␣
+ep004:030	12	@	-	sinetiksi␣
+ep004:030	15a	@	-	lunastuksen␣
+ep004:030	14	@	-	päivään␣
+ep004:030	13	@	-	saakka
+ep004:030	15b	.	-	.␣
+ep004:031	ep004:031	ep004:031	VERSE	Ef␣4:31␣
+ep004:031	1	@	-	Kaikki␣
+ep004:031	2	@	-	katkeruus␣
+ep004:031	3	@	-	ja␣
+ep004:031	4	@	-	kiivastus␣
+ep004:031	5	@	-	ja␣
+ep004:031	6	@	-	viha␣
+ep004:031	7	@	-	ja␣
+ep004:031	8	@	-	huuto␣
+ep004:031	9	@	-	ja␣
+ep004:031	10	@	-	herjaus
+ep004:031	-	(,)	-	,␣
+ep004:031	15	@	-	kaikki␣
+ep004:031	16a	@	-	pahuus␣
+ep004:031	14	%case	NOM	
+ep004:031	11	@	-	olkoon␣
+ep004:031	11	@	-	kaukana␣
+ep004:031	13	@	-	teistä
+ep004:031	12	%case	LOC	
+ep004:031	16b	.	-	.␣
+ep004:032	ep004:032	ep004:032	VERSE	Ef␣4:32␣
+ep004:032	1a	@	-	Olkaa␣
+ep004:032	2a	@	-	sen␣
+ep004:032	2a	@	-	sijaan␣
+ep004:032	4	@	-	toisianne␣
+ep004:032	3	@	-	kohtaan␣
+ep004:032	5a	@	-	ystävällisiä
+ep004:032	5b	,	-	,␣
+ep004:032	6a	@	-	hyväsydämisiä
+ep004:032	6b	,	-	,␣
+ep004:032	7	@	-	anteeksiantavaisia␣
+ep004:032	8a	@	-	toinen␣
+ep004:032	8a	@	-	toisellenne
+ep004:032	8b	,	-	,␣
+ep004:032	9	@	-	niinkuin␣
+ep004:032	(11) 12	@	-	Jumalakin␣
+ep004:032	10	%clitic	kin	
+ep004:032	15	(@)	-	on␣
+ep004:032	14	@	-	Kristuksessa␣
+ep004:032	13	%case	LOC	
+ep004:032	16a	@	-	teille␣
+ep004:032	15	@	-	anteeksi␣
+ep004:032	15	@	-	antanut
+ep004:032	16b	.	-	.␣
+ep005:001	ep005:001	ep005:001	VERSE	Ef␣5:1␣
+ep005:001	1	@	-	Olkaa␣
+ep005:001	2	@	-	siis␣
+ep005:001	(4) 5	@	-	Jumalan␣
+ep005:001	3	@	-	seuraajia
+ep005:001	-	(,)	-	,␣
+ep005:001	6	@	-	niinkuin␣
+ep005:001	8	@	-	rakkaat␣
+ep005:001	7	@	-	lapset
+ep005:001	-	(,)	-	,␣
+ep005:002	ep005:002	ep005:002	VERSE	Ef␣5:2␣
+ep005:002	1	@	-	ja␣
+ep005:002	2	@	-	vaeltakaa␣
+ep005:002	4a	@	-	rakkaudessa
+ep005:002	3	%case	LOC	
+ep005:002	4b	,	-	,␣
+ep005:002	5	@	-	niinkuin␣
+ep005:002	(7) 8	@	-	Kristuskin␣
+ep005:002	6	%clitic	kin	
+ep005:002	9	@	-	rakasti␣
+ep005:002	10b	@	-	teitä␣
+ep005:002	11	@	-	ja␣
+ep005:002	12	@	-	antoi␣
+ep005:002	13	@	-	itsensä␣
+ep005:002	15	@	-	meidän␣
+ep005:002	14	@	-	edestämme␣
+ep005:002	16	@	-	lahjaksi␣
+ep005:002	17	@	-	ja␣
+ep005:002	18	@	-	uhriksi
+ep005:002	-	(,)	-	,␣
+ep005:002	(19) 20	@	-	Jumalalle␣
+ep005:002	-	(@)	-	"
+ep005:002	23a	@	-	suloiseksi␣
+ep005:002	22	@	-	tuoksuksi
+ep005:002	21	%case	TRA	
+ep005:002	-	(@)	-	"
+ep005:002	23b	.	-	.␣
+ep005:003	ep005:003	ep005:003	VERSE	Ef␣5:3␣
+ep005:003	2	@	-	Mutta␣
+ep005:003	1	@	-	haureutta␣
+ep005:003	3	@	-	ja␣
+ep005:003	5	@	-	minkäänlaista␣
+ep005:003	4	@	-	saastaisuutta␣
+ep005:003	6	@	-	tai␣
+ep005:003	7	@	-	ahneutta␣
+ep005:003	8	@	-	älköön␣
+ep005:003	8	@	-	edes␣
+ep005:003	9	@	-	mainittako␣
+ep005:003	11a	@	-	teidän␣
+ep005:003	10	@	-	keskuudessanne␣
+ep005:003	11b	-	-	-␣
+ep005:003	12	@	-	niinkuin␣
+ep005:003	14a	@	-	pyhien␣
+ep005:003	13	@	-	sopii␣
+ep005:003	14b	-	-	-␣
+ep005:004	ep005:004	ep005:004	VERSE	Ef␣5:4␣
+ep005:004	1	@	-	älköön␣
+ep005:004	-	(@)	-	myös␣
+ep005:004	2	@	-	rivoutta␣
+ep005:004	3	@	-	tai␣
+ep005:004	4	@	-	tyhmää␣
+ep005:004	4	@	-	lorua␣
+ep005:004	5	@	-	tai␣
+ep005:004	6a	@	-	ilvehtimistä
+ep005:004	6b	,	-	,␣
+ep005:004	7	@	-	jotka␣
+ep005:004	9a	@	-	ovat␣
+ep005:004	9a	@	-	sopimattomia
+ep005:004	8	%case	PTV	
+ep005:004	9b	,	-	,␣
+ep005:004	10	@	-	vaan␣
+ep005:004	11	@	-	paremmin␣
+ep005:004	12a	@	-	kiitosta
+ep005:004	12b	.	-	.␣
+ep005:005	ep005:005	ep005:005	VERSE	Ef␣5:5␣
+ep005:005	2	@	-	Sillä␣
+ep005:005	1	@	-	sen␣
+ep005:005	3	(@)	-	te␣
+ep005:005	3	@	-	tiedätte␣
+ep005:005	-	(@)	-	ja␣
+ep005:005	4a	@	-	tunnette
+ep005:005	4b	,	-	,␣
+ep005:005	15 5	@	-	ettei␣
+ep005:005	6	@	-	yhdelläkään␣
+ep005:005	7	@	-	haureellisella␣
+ep005:005	8	@	-	eikä␣
+ep005:005	9	@	-	saastaisella␣
+ep005:005	10	@	-	eikä␣
+ep005:005	11a	@	-	ahneella␣
+ep005:005	-	(-)	-	-␣
+ep005:005	-	(@)	-	sillä␣
+ep005:005	12	@	-	hän␣
+ep005:005	13	@	-	on␣
+ep005:005	14a	@	-	epäjumalanpalvelija␣
+ep005:005	-	(-)	-	-␣
+ep005:005	16	@	-	ole␣
+ep005:005	17	@	-	perintöosaa␣
+ep005:005	(21) 22	@	-	Kristuksen␣
+ep005:005	23	@	-	ja␣
+ep005:005	24a	@	-	Jumalan␣
+ep005:005	(19) 20	@	-	valtakunnassa
+ep005:005	18	%case	LOC	
+ep005:005	24b	.	-	.␣
+ep005:006	ep005:006	ep005:006	VERSE	Ef␣5:6␣
+ep005:006	1	@	-	Älköön␣
+ep005:006	1	@	-	kukaan␣
+ep005:006	3	@	-	pettäkö␣
+ep005:006	2	@	-	teitä␣
+ep005:006	4	@	-	tyhjillä␣
+ep005:006	5a	@	-	puheilla
+ep005:006	5b	,	-	,␣
+ep005:006	8	@	-	sillä␣
+ep005:006	7	@	-	semmoisten␣
+ep005:006	6	@	-	tähden␣
+ep005:006	9	@	-	kohtaa␣
+ep005:006	(12) 13	@	-	Jumalan␣
+ep005:006	(10) 11	@	-	viha␣
+ep005:006	(17) 18a	@	-	tottelemattomuuden␣
+ep005:006	(15) 16	@	-	lapsia
+ep005:006	14	%case	PTV	
+ep005:006	18b	;	-	;␣
+ep005:007	ep005:007	ep005:007	VERSE	Ef␣5:7␣
+ep005:007	1	@	-	älkää␣
+ep005:007	2	@	-	siis␣
+ep005:007	3	@	-	olko␣
+ep005:007	-	(@)	-	niihin␣
+ep005:007	4	@	-	osallisia␣
+ep005:007	5a	@	-	heidän␣
+ep005:007	case%5a	@	-	kanssaan
+ep005:007	5b	.	-	.␣
+ep005:008	ep005:008	ep005:008	VERSE	Ef␣5:8␣
+ep005:008	3	@	-	Ennen␣
+ep005:008	(2)	-	UNTRANSLATED	
+ep005:008	1	(@)	-	te␣
+ep005:008	1	@	-	olitte␣
+ep005:008	4a	@	-	pimeys
+ep005:008	4b	,	-	,␣
+ep005:008	6	@	-	mutta␣
+ep005:008	5	@	-	nyt␣
+ep005:008	-	(@)	-	te␣
+ep005:008	-	(@)	-	olette␣
+ep005:008	7	@	-	valkeus␣
+ep005:008	9a	@	-	Herrassa
+ep005:008	8	%case	LOC	
+ep005:008	9b	.	-	.␣
+ep005:008	13a	@	-	Vaeltakaa␣
+ep005:008	12	@	-	valkeuden␣
+ep005:008	11	@	-	lapsina␣
+ep005:008	10	%inflection	PL.ESS	
+ep005:009	ep005:009	ep005:009	VERSE	Ef␣5:9␣
+ep005:009	-	(-)	-	-␣
+ep005:009	2	@	-	sillä␣
+ep005:009	7	@	-	kaikkinainen␣
+ep005:009	8	@	-	hyvyys␣
+ep005:009	6	%case	NOM	
+ep005:009	9	@	-	ja␣
+ep005:009	10	@	-	vanhurskaus␣
+ep005:009	11	@	-	ja␣
+ep005:009	12a	@	-	totuus␣
+ep005:009	-	(@)	-	on␣
+ep005:009	(4) 5	@	-	valkeuden␣
+ep005:009	(1) 3	@	-	hedelmä␣
+ep005:009	12b	-	-	-␣
+ep005:010	ep005:010	ep005:010	VERSE	Ef␣5:10␣
+ep005:010	-	(@)	-	ja␣
+ep005:010	1	@	-	tutkikaa
+ep005:010	-	(,)	-	,␣
+ep005:010	2	@	-	mikä␣
+ep005:010	3	@	-	on␣
+ep005:010	4	@	-	otollista␣
+ep005:010	(5) 6a	@	-	Herralle
+ep005:010	6b	;	-	;␣
+ep005:011	ep005:011	ep005:011	VERSE	Ef␣5:11␣
+ep005:011	2	@	-	älköönkä␣
+ep005:011	1	%clitic	kA	
+ep005:011	3	(@)	-	teillä␣
+ep005:011	3	@	-	olko␣
+ep005:011	-	(@)	-	mitään␣
+ep005:011	3	@	-	osallisuutta␣
+ep005:011	(8) 9a	@	-	pimeyden␣
+ep005:011	(6) 7	@	-	hedelmättömiin␣
+ep005:011	(4) 5	@	-	tekoihin
+ep005:011	9b	,	-	,␣
+ep005:011	11	@	-	vaan␣
+ep005:011	10	@	-	päinvastoin␣
+ep005:011	13a	@	-	nuhdelkaakin␣
+ep005:011	12	%clitic	kin	
+ep005:011	-	(@)	-	niistä
+ep005:011	13b	.	-	.␣
+ep005:012	ep005:012	ep005:012	VERSE	Ef␣5:12␣
+ep005:012	2	@	-	Sillä␣
+ep005:012	7	@	-	häpeällistä␣
+ep005:012	8	@	-	on␣
+ep005:012	9	@	-	jo␣
+ep005:012	10a	@	-	sanoakin
+ep005:012	-	(,)	-	,␣
+ep005:012	1	@	-	mitä␣
+ep005:012	6	@	-	he␣
+ep005:012	5	%case	NOM	
+ep005:012	3	@	-	salassa␣
+ep005:012	4	@	-	tekevät
+ep005:012	10b	;	-	;␣
+ep005:013	ep005:013	ep005:013	VERSE	Ef␣5:13␣
+ep005:013	2	@	-	mutta␣
+ep005:013	1	@	-	tämä␣
+ep005:013	3	@	-	kaikki␣
+ep005:013	8a	@	-	tulee␣
+ep005:013	8a	@	-	ilmi
+ep005:013	-	(,)	-	,␣
+ep005:013	4	(@)	-	kun␣
+ep005:013	(6) 7	@	-	valkeus␣
+ep005:013	5	%case	NOM	
+ep005:013	-	(@)	-	sen␣
+ep005:013	4	@	-	paljastaa
+ep005:013	8b	,	-	,␣
+ep005:013	2/14	@	-	sillä␣
+ep005:013	1/14	@	-	kaikki
+ep005:013	-	(,)	-	,␣
+ep005:013	3/14	@	-	mikä␣
+ep005:013	4/14	@	-	tulee␣
+ep005:013	4/14	@	-	ilmi
+ep005:013	-	(,)	-	,␣
+ep005:013	6a/14	@	-	on␣
+ep005:013	5/14	@	-	valkeutta
+ep005:013	6b/14	.	-	.␣
+ep005:014	ep005:014	ep005:014	VERSE	Ef␣5:14␣
+ep005:014	7	@	-	Sentähden␣
+ep005:014	8a	@	-	sanotaan
+ep005:014	8b	:	-	:␣
+ep005:014	-	(@)	-	"
+ep005:014	9a	@	-	Heräjä␣
+ep005:014	9a	(@)	-	sinä
+ep005:014	9b	,	-	,␣
+ep005:014	10	@	-	joka␣
+ep005:014	11a	@	-	nukut
+ep005:014	11b	,	-	,␣
+ep005:014	12	@	-	ja␣
+ep005:014	13	@	-	nouse␣
+ep005:014	(15) 16a	@	-	kuolleista
+ep005:014	14	%case	LOC	
+ep005:014	16b	,	-	,␣
+ep005:014	17	@	-	niin␣
+ep005:014	(20) 21a	@	-	Kristus␣
+ep005:014	19	@	-	sinua␣
+ep005:014	18	@	-	valaisee
+ep005:014	-	(!)	-	!
+ep005:014	21b	@	-	"␣
+ep005:015	ep005:015	ep005:015	VERSE	Ef␣5:15␣
+ep005:015	1	@	-	Katsokaa␣
+ep005:015	2	@	-	siis␣
+ep005:015	3	@	-	tarkoin
+ep005:015	-	(,)	-	,␣
+ep005:015	4	@	-	kuinka␣
+ep005:015	5a	@	-	vaellatte
+ep005:015	5b	:	-	:␣
+ep005:015	6	@	-	ei␣
+ep005:015	7	@	-	niinkuin␣
+ep005:015	8	@	-	tyhmät
+ep005:015	-	(,)	-	,␣
+ep005:015	9	@	-	vaan␣
+ep005:015	10	@	-	niinkuin␣
+ep005:015	11a	@	-	viisaat
+ep005:015	11b	,	-	,␣
+ep005:016	ep005:016	ep005:016	VERSE	Ef␣5:16␣
+ep005:016	-	(@)	-	ja␣
+ep005:016	1	@	-	ottakaa␣
+ep005:016	1	@	-	vaari␣
+ep005:016	(2) 3a	@	-	oikeasta␣
+ep005:016	(2) 3a	@	-	hetkestä
+ep005:016	3b	,	-	,␣
+ep005:016	4	@	-	sillä␣
+ep005:016	(5) 6	@	-	aika␣
+ep005:016	8a	@	-	on␣
+ep005:016	7	@	-	paha
+ep005:016	8b	.	-	.␣
+ep005:017	ep005:017	ep005:017	VERSE	Ef␣5:17␣
+ep005:017	3	@	-	Älkää␣
+ep005:017	1 2	@	-	sentähden␣
+ep005:017	4	@	-	olko␣
+ep005:017	5a	@	-	mielettömät
+ep005:017	5b	,	-	,␣
+ep005:017	6	@	-	vaan␣
+ep005:017	7	@	-	ymmärtäkää
+ep005:017	-	(,)	-	,␣
+ep005:017	8	@	-	mikä␣
+ep005:017	(11) 12a	@	-	Herran␣
+ep005:017	10 (9)	@	-	tahto␣
+ep005:017	-	(@)	-	on
+ep005:017	12b	.	-	.␣
+ep005:018	ep005:018	ep005:018	VERSE	Ef␣5:18␣
+ep005:018	2	@	-	Älkääkä␣
+ep005:018	1	%clitic	kA	
+ep005:018	3	@	-	juopuko␣
+ep005:018	4a	@	-	viinistä
+ep005:018	4b	,	-	,␣
+ep005:018	-	(@)	-	sillä␣
+ep005:018	6	@	-	siitä␣
+ep005:018	5	%case	LOC	
+ep005:018	7	@	-	tulee␣
+ep005:018	8a	@	-	irstas␣
+ep005:018	8a	@	-	meno
+ep005:018	8b	,	-	,␣
+ep005:018	9	@	-	vaan␣
+ep005:018	10	@	-	täyttykää␣
+ep005:018	(11) 12a	@	-	Hengellä
+ep005:018	12b	,	-	,␣
+ep005:019	ep005:019	ep005:019	VERSE	Ef␣5:19␣
+ep005:019	1	@	-	puhuen␣
+ep005:019	2a	@	-	keskenänne␣
+ep005:019	4	@	-	psalmeilla␣
+ep005:019	3a	%case	LOC	
+ep005:019	5	@	-	ja␣
+ep005:019	6	@	-	kiitosvirsillä␣
+ep005:019	7	@	-	ja␣
+ep005:019	9a	@	-	hengellisillä␣
+ep005:019	8	@	-	lauluilla
+ep005:019	9b	,	-	,␣
+ep005:019	10	@	-	veisaten␣
+ep005:019	11	@	-	ja␣
+ep005:019	12	@	-	laulaen␣
+ep005:019	(13) 14	@	-	sydämessänne␣
+ep005:019	15	%pers	?	
+ep005:019	(16) 17a	@	-	Herralle
+ep005:019	17b	,	-	,␣
+ep005:020	ep005:020	ep005:020	VERSE	Ef␣5:20␣
+ep005:020	1	@	-	kiittäen␣
+ep005:020	2	@	-	aina␣
+ep005:020	(12) 13	@	-	Jumalaa␣
+ep005:020	14	@	-	ja␣
+ep005:020	15a	@	-	Isää␣
+ep005:020	4	@	-	kaikesta␣
+ep005:020	3	%case	LOC	
+ep005:020	9	@	-	meidän␣
+ep005:020	(7) 8	@	-	Herramme␣
+ep005:020	10	@	-	Jeesuksen␣
+ep005:020	11	@	-	Kristuksen␣
+ep005:020	6	@	-	nimessä
+ep005:020	5	%case	LOC	
+ep005:020	15b	.	-	.␣
+ep005:021	ep005:021	ep005:021	VERSE	Ef␣5:21␣
+ep005:021	-	(@)	-	Ja␣
+ep005:021	1	@	-	olkaa␣
+ep005:021	2	@	-	toinen␣
+ep005:021	2	@	-	toisellenne␣
+ep005:021	1	@	-	alamaiset␣
+ep005:021	5a	@	-	Kristuksen␣
+ep005:021	4	@	-	pelossa
+ep005:021	3	%case	LOC	
+ep005:021	5b	.	-	.␣
+ep005:022	ep005:022	ep005:022	VERSE	Ef␣5:22␣
+ep005:022	(1) 2	@	-	Vaimot
+ep005:022	-	(,)	-	,␣
+ep005:022	-	(@)	-	olkaa␣
+ep005:022	4	@	-	omille␣
+ep005:022	(3) 5	@	-	miehillenne␣
+ep005:022	-	(@)	-	alamaiset␣
+ep005:022	6	@	-	niinkuin␣
+ep005:022	(7) 8a	@	-	Herralle
+ep005:022	8b	;	-	;␣
+ep005:023	ep005:023	ep005:023	VERSE	Ef␣5:23␣
+ep005:023	1	@	-	sillä␣
+ep005:023	2	@	-	mies␣
+ep005:023	3	@	-	on␣
+ep005:023	(5) 6	@	-	vaimon␣
+ep005:023	4	@	-	pää
+ep005:023	-	(,)	-	,␣
+ep005:023	7	@	-	niinkuin␣
+ep005:023	8	@	-	myös␣
+ep005:023	10 (9)	@	-	Kristus␣
+ep005:023	-	(@)	-	on␣
+ep005:023	(12) 13a	@	-	seurakunnan␣
+ep005:023	11	@	-	pää
+ep005:023	13b	,	-	,␣
+ep005:023	14	@	-	hän
+ep005:023	-	(,)	-	,␣
+ep005:023	(16) 17a	@	-	ruumiin␣
+ep005:023	15	@	-	vapahtaja
+ep005:023	17b	.	-	.␣
+ep005:024	ep005:024	ep005:024	VERSE	Ef␣5:24␣
+ep005:024	1	@	-	Mutta␣
+ep005:024	2	@	-	niinkuin␣
+ep005:024	(3) 4	@	-	seurakunta␣
+ep005:024	5	@	-	on␣
+ep005:024	(6) 7a	@	-	Kristukselle␣
+ep005:024	5	@	-	alamainen
+ep005:024	7b	,	-	,␣
+ep005:024	8	@	-	niin␣
+ep005:024	-	(@)	-	olkoot␣
+ep005:024	(10) 11	@	-	vaimotkin␣
+ep005:024	9	%clitic	kin	
+ep005:024	(12) 13	@	-	miehillensä␣
+ep005:024	15a	@	-	kaikessa␣
+ep005:024	14	%case	LOC	
+ep005:024	-	(@)	-	alamaiset
+ep005:024	15b	.	-	.␣
+ep005:025	ep005:025	ep005:025	VERSE	Ef␣5:25␣
+ep005:025	(1) 2a	@	-	Miehet
+ep005:025	2b	,	-	,␣
+ep005:025	3	@	-	rakastakaa␣
+ep005:025	(4) 5a	@	-	vaimojanne
+ep005:025	5b	,	-	,␣
+ep005:025	6	@	-	niinkuin␣
+ep005:025	(8) 9	@	-	Kristuskin␣
+ep005:025	7	%clitic	kin	
+ep005:025	10	@	-	rakasti␣
+ep005:025	(11) 12	@	-	seurakuntaa␣
+ep005:025	13	@	-	ja␣
+ep005:025	15	@	-	antoi␣
+ep005:025	14	@	-	itsensä␣
+ep005:025	15	@	-	alttiiksi␣
+ep005:025	17a	@	-	sen␣
+ep005:025	16	@	-	edestä
+ep005:025	17b	,	-	,␣
+ep005:026	ep005:026	ep005:026	VERSE	Ef␣5:26␣
+ep005:026	1	@	-	että␣
+ep005:026	3	(@)	-	hän␣
+ep005:026	2	@	-	sen␣
+ep005:026	3	@	-	pyhittäisi
+ep005:026	-	(,)	-	,␣
+ep005:026	4	@	-	puhdistaen␣
+ep005:026	-	(@)	-	sen
+ep005:026	-	(,)	-	,␣
+ep005:026	(7) 8	@	-	vedellä␣
+ep005:026	(5) 6	@	-	pesten
+ep005:026	-	(,)	-	,␣
+ep005:026	10a	@	-	sanan␣
+ep005:026	9	@	-	kautta
+ep005:026	10b	,	-	,␣
+ep005:027	ep005:027	ep005:027	VERSE	Ef␣5:27␣
+ep005:027	2	@	-	saadakseen␣
+ep005:027	1	%case	TRA	
+ep005:027	2	@	-	asetetuksi␣
+ep005:027	(3)	-	UNTRANSLATED	
+ep005:027	4	@	-	eteensä␣
+ep005:027	5	@	-	kirkastettuna␣
+ep005:027	(6) 7a	@	-	seurakunnan
+ep005:027	7b	,	-	,␣
+ep005:027	9	(@)	-	jossa␣
+ep005:027	8	@	-	ei␣
+ep005:027	9	@	-	olisi␣
+ep005:027	10	@	-	tahraa␣
+ep005:027	11	@	-	eikä␣
+ep005:027	12	@	-	ryppyä␣
+ep005:027	13	@	-	eikä␣
+ep005:027	14	@	-	mitään␣
+ep005:027	15	@	-	muuta␣
+ep005:027	16a	@	-	sellaista
+ep005:027	16b	,	-	,␣
+ep005:027	17	@	-	vaan␣
+ep005:027	-	(@)	-	joka␣
+ep005:027	19	@	-	olisi␣
+ep005:027	18	%case	?	
+ep005:027	20	@	-	pyhä␣
+ep005:027	21	@	-	ja␣
+ep005:027	22a	@	-	nuhteeton
+ep005:027	22b	.	-	.␣
+ep005:028	ep005:028	ep005:028	VERSE	Ef␣5:28␣
+ep005:028	1	@	-	Samalla␣
+ep005:028	1	@	-	tavoin␣
+ep005:028	2a	@	-	tulee␣
+ep005:028	3a	@	-	myös␣
+ep005:028	(4) 5	@	-	miesten␣
+ep005:028	6	@	-	rakastaa␣
+ep005:028	(7) 9	@	-	vaimojansa␣
+ep005:028	8	%pers	3	
+ep005:028	10	@	-	niinkuin␣
+ep005:028	12	@	-	omia␣
+ep005:028	(11) 13a	@	-	ruumiitaan
+ep005:028	13b	;	-	;␣
+ep005:028	14	@	-	joka␣
+ep005:028	15	@	-	rakastaa␣
+ep005:028	(16) 18	@	-	vaimoansa
+ep005:028	17	%pers	3	
+ep005:028	-	(,)	-	,␣
+ep005:028	20a	(@)	-	hän␣
+ep005:028	20a	@	-	rakastaa␣
+ep005:028	19	@	-	itseänsä
+ep005:028	20b	.	-	.␣
+ep005:029	ep005:029	ep005:029	VERSE	Ef␣5:29␣
+ep005:029	2	@	-	Sillä␣
+ep005:029	1	@	-	eihän␣
+ep005:029	1	@	-	kukaan␣
+ep005:029	3	@	-	koskaan␣
+ep005:029	7	(@)	-	ole␣
+ep005:029	7	@	-	vihannut␣
+ep005:029	5	@	-	omaa␣
+ep005:029	(4) 6	@	-	lihaansa
+ep005:029	-	(,)	-	,␣
+ep005:029	8	@	-	vaan␣
+ep005:029	9	(@)	-	hän␣
+ep005:029	9	@	-	ravitsee␣
+ep005:029	10	@	-	ja␣
+ep005:029	11	@	-	vaalii␣
+ep005:029	12a	@	-	sitä
+ep005:029	12b	,	-	,␣
+ep005:029	13	@	-	niinkuin␣
+ep005:029	(15) 16	@	-	Kristuskin␣
+ep005:029	14	%clitic	kin	
+ep005:029	(17) 18a	@	-	seurakuntaa
+ep005:029	18b	,	-	,␣
+ep005:030	ep005:030	ep005:030	VERSE	Ef␣5:30␣
+ep005:030	1	@	-	sillä␣
+ep005:030	3	(@)	-	me␣
+ep005:030	3	@	-	olemme␣
+ep005:030	6a	@	-	hänen␣
+ep005:030	(4) 5	@	-	ruumiinsa␣
+ep005:030	2	@	-	jäseniä
+ep005:030	6b	.	-	.␣
+ep005:031	ep005:031	ep005:031	VERSE	Ef␣5:31␣
+ep005:031	-	(@)	-	"
+ep005:031	1 2	@	-	Sentähden␣
+ep005:031	4a	@	-	mies␣
+ep005:031	3	@	-	luopukoon␣
+ep005:031	(5a) 6	@	-	isästänsä␣
+ep005:031	7a	@	-	ja␣
+ep005:031	(8a) 9	@	-	äidistänsä␣
+ep005:031	10	@	-	ja␣
+ep005:031	11	@	-	liittyköön␣
+ep005:031	(13) 14	@	-	vaimoonsa
+ep005:031	15a	%pers	3	
+ep005:031	12	%case	LOC	
+ep005:031	15b	,	-	,␣
+ep005:031	16	@	-	ja␣
+ep005:031	18	@	-	ne␣
+ep005:031	19	@	-	kaksi␣
+ep005:031	17	@	-	tulevat␣
+ep005:031	22a	@	-	yhdeksi␣
+ep005:031	21	@	-	lihaksi
+ep005:031	20	%case	TRA	
+ep005:031	22b	.	-	.
+ep005:031	-	(@)	-	"␣
+ep005:032	ep005:032	ep005:032	VERSE	Ef␣5:32␣
+ep005:032	3	@	-	Tämä␣
+ep005:032	(1) 2	@	-	salaisuus␣
+ep005:032	5a	@	-	on␣
+ep005:032	4	@	-	suuri
+ep005:032	5b	;	-	;␣
+ep005:032	6	@	-	minä␣
+ep005:032	(7)	-	UNTRANSLATED	
+ep005:032	8	@	-	tarkoitan␣
+ep005:032	10	@	-	Kristusta␣
+ep005:032	9	%case	PTV	
+ep005:032	11	@	-	ja␣
+ep005:032	(13) 14a	@	-	seurakuntaa
+ep005:032	12	%case	PTV	
+ep005:032	14b	.	-	.␣
+ep005:033	ep005:033	ep005:033	VERSE	Ef␣5:33␣
+ep005:033	1	@	-	Mutta␣
+ep005:033	2	@	-	myös␣
+ep005:033	3	@	-	teistä␣
+ep005:033	7	@	-	kukin␣
+ep005:033	(4) 6a	@	-	kohdaltaan␣
+ep005:033	5	%case	LOC	
+ep005:033	12	@	-	rakastakoon␣
+ep005:033	10 (8)	@	-	vaimoaan␣
+ep005:033	9	%pers	3	
+ep005:033	11 13	@	-	niinkuin␣
+ep005:033	14a	@	-	itseänsä
+ep005:033	14b	;	-	;␣
+ep005:033	16	@	-	mutta␣
+ep005:033	(15) 17	@	-	vaimo␣
+ep005:033	19	@	-	kunnioittakoon␣
+ep005:033	18	%case	?	
+ep005:033	(20) 21a	@	-	miestänsä
+ep005:033	21b	.	-	.␣
+ep006:001	ep006:001	ep006:001	VERSE	Ef␣6:1␣
+ep006:001	(1) 2a	@	-	Lapset
+ep006:001	2b	,	-	,␣
+ep006:001	3	@	-	olkaa␣
+ep006:001	(4) 5	@	-	vanhemmillenne␣
+ep006:001	6a	%pers	?	
+ep006:001	3	@	-	kuuliaiset␣
+ep006:001	8a	@	-	Herrassa
+ep006:001	7	%case	LOC	
+ep006:001	8b 8c	,	-	,␣
+ep006:001	10	@	-	sillä␣
+ep006:001	9	@	-	se␣
+ep006:001	11	@	-	on␣
+ep006:001	12a	@	-	oikein
+ep006:001	12b	.	-	.␣
+ep006:002	ep006:002	ep006:002	VERSE	Ef␣6:2␣
+ep006:002	-	(@)	-	"
+ep006:002	1	@	-	Kunnioita␣
+ep006:002	(2) 3	@	-	isääsi␣
+ep006:002	4	%pers	?	
+ep006:002	5	@	-	ja␣
+ep006:002	(6) 7a	@	-	äitiäsi
+ep006:002	-	(@)	-	"␣
+ep006:002	7b	-	-	-␣
+ep006:002	8	@	-	tämä␣
+ep006:002	9	@	-	on␣
+ep006:002	11	@	-	ensimmäinen␣
+ep006:002	10	@	-	käsky
+ep006:002	-	(,)	-	,␣
+ep006:002	12	@	-	jota␣
+ep006:002	12	@	-	seuraa␣
+ep006:002	13a	@	-	lupaus␣
+ep006:002	13b	-	-	-␣
+ep006:003	ep006:003	ep006:003	VERSE	Ef␣6:3␣
+ep006:003	-	(@)	-	"
+ep006:003	1	@	-	että␣
+ep006:003	2 4	@	-	menestyisit␣
+ep006:003	3	%pers	2S	
+ep006:003	5	@	-	ja␣
+ep006:003	7	@	-	kauan␣
+ep006:003	6	@	-	eläisit␣
+ep006:003	10a (9)	@	-	maan␣
+ep006:003	8	@	-	päällä
+ep006:003	-	(@)	-	"
+ep006:003	10b	.	-	.␣
+ep006:004	ep006:004	ep006:004	VERSE	Ef␣6:4␣
+ep006:004	1	@	-	Ja␣
+ep006:004	2	@	-	te␣
+ep006:004	3a	@	-	isät
+ep006:004	3b	,	-	,␣
+ep006:004	4	@	-	älkää␣
+ep006:004	5	@	-	kiihoittako␣
+ep006:004	(6) 7	@	-	lapsianne␣
+ep006:004	8	%pers	?	
+ep006:004	5	@	-	vihaan
+ep006:004	-	(,)	-	,␣
+ep006:004	9	@	-	vaan␣
+ep006:004	10	@	-	kasvattakaa␣
+ep006:004	11	@	-	heitä␣
+ep006:004	16a	@	-	Herran␣
+ep006:004	13	@	-	kurissa␣
+ep006:004	12	%case	LOC	
+ep006:004	14	@	-	ja␣
+ep006:004	15	@	-	nuhteessa
+ep006:004	16b	.	-	.␣
+ep006:005	ep006:005	ep006:005	VERSE	Ef␣6:5␣
+ep006:005	(1) 2a	@	-	Palvelijat
+ep006:005	2b	,	-	,␣
+ep006:005	3	@	-	olkaa␣
+ep006:005	3	@	-	kuuliaiset␣
+ep006:005	6	@	-	maallisille␣
+ep006:005	5	%case	LOC	
+ep006:005	(4) 7	@	-	isännillenne
+ep006:005	-	(,)	-	,␣
+ep006:005	9	@	-	pelossa␣
+ep006:005	8	%case	LOC	
+ep006:005	10	@	-	ja␣
+ep006:005	11	@	-	vavistuksessa
+ep006:005	-	(,)	-	,␣
+ep006:005	(14) 15	@	-	sydämenne␣
+ep006:005	16	%pers	?	
+ep006:005	13	@	-	yksinkertaisuudessa
+ep006:005	12	%case	LOC	
+ep006:005	-	(,)	-	,␣
+ep006:005	17	@	-	niinkuin␣
+ep006:005	(18) 19a	@	-	Kristukselle
+ep006:005	19b	,	-	,␣
+ep006:006	ep006:006	ep006:006	VERSE	Ef␣6:6␣
+ep006:006	1	@	-	ei␣
+ep006:006	3	@	-	silmänpalvelijoina
+ep006:006	2	%case	ESS	
+ep006:006	-	(,)	-	,␣
+ep006:006	5	@	-	ihmisille␣
+ep006:006	5	@	-	mieliksi
+ep006:006	4	%inflection	DER.ADV	
+ep006:006	-	(,)	-	,␣
+ep006:006	6	@	-	vaan␣
+ep006:006	9	@	-	Kristuksen␣
+ep006:006	8	@	-	palvelijoina
+ep006:006	7	%inflection	DER.PL.ESS	
+ep006:006	-	(,)	-	,␣
+ep006:006	16a	@	-	sydämestänne␣
+ep006:006	15	%case	LOC	
+ep006:006	10	@	-	tehden
+ep006:006	-	(,)	-	,␣
+ep006:006	11	@	-	mitä␣
+ep006:006	(13) 14	@	-	Jumala␣
+ep006:006	12	@	-	tahtoo
+ep006:006	16b	,	-	,␣
+ep006:007	ep006:007	ep006:007	VERSE	Ef␣6:7␣
+ep006:007	2	@	-	hyvällä␣
+ep006:007	2	@	-	mielellä␣
+ep006:007	1	%case	LOC	
+ep006:007	3	@	-	palvellen
+ep006:007	-	(,)	-	,␣
+ep006:007	4	@	-	niinkuin␣
+ep006:007	-	(@)	-	palvelisitte␣
+ep006:007	(5) 6	@	-	Herraa␣
+ep006:007	8	@	-	ettekä␣
+ep006:007	7	%clitic	kA	
+ep006:007	9a	@	-	ihmisiä
+ep006:007	9b	,	-	,␣
+ep006:008	ep006:008	ep006:008	VERSE	Ef␣6:8␣
+ep006:008	1	@	-	tietäen
+ep006:008	-	(,)	-	,␣
+ep006:008	2	@	-	että␣
+ep006:008	5	@	-	mitä␣
+ep006:008	7a	@	-	hyvää␣
+ep006:008	3	@	-	kukin␣
+ep006:008	6	@	-	tekee
+ep006:008	7b	,	-	,␣
+ep006:008	8	@	-	sen␣
+ep006:008	9	(@)	-	hän␣
+ep006:008	9	@	-	saa␣
+ep006:008	9	@	-	takaisin␣
+ep006:008	11	@	-	Herralta
+ep006:008	10	%case	LOC	
+ep006:008	-	(,)	-	,␣
+ep006:008	12	@	-	olkoonpa␣
+ep006:008	13	@	-	orja␣
+ep006:008	14	@	-	tai␣
+ep006:008	15a	@	-	vapaa
+ep006:008	15b	.	-	.␣
+ep006:009	ep006:009	ep006:009	VERSE	Ef␣6:9␣
+ep006:009	1	@	-	Ja␣
+ep006:009	pro%2	@	-	te␣
+ep006:009	3a	@	-	isännät
+ep006:009	-	(,)	-	,␣
+ep006:009	6	@	-	tehkää␣
+ep006:009	(4) 5	@	-	samoin␣
+ep006:009	8a	@	-	heille
+ep006:009	7	%case	LOC	
+ep006:009	8b	,	-	,␣
+ep006:009	9	@	-	jättäkää␣
+ep006:009	9	@	-	pois␣
+ep006:009	(10) 11a	@	-	uhkaileminen
+ep006:009	11b	,	-	,␣
+ep006:009	-	(@)	-	sillä␣
+ep006:009	12	@	-	tiedättehän
+ep006:009	-	(,)	-	,␣
+ep006:009	13	@	-	että␣
+ep006:009	14	@	-	sekä␣
+ep006:009	15	@	-	heidän␣
+ep006:009	16	@	-	että␣
+ep006:009	17	@	-	teidän␣
+ep006:009	(18) 19	@	-	Herranne␣
+ep006:009	20	@	-	on␣
+ep006:009	22	@	-	taivaissa␣
+ep006:009	21	%case	LOC	
+ep006:009	23	@	-	ja␣
+ep006:009	25	@	-	ettei␣
+ep006:009	28a	@	-	hän␣
+ep006:009	27	%case	NOM	
+ep006:009	24	@	-	katso␣
+ep006:009	24	@	-	henkilöön
+ep006:009	26	%case	LOC	
+ep006:009	28b	.	-	.␣
+ep006:010	ep006:010	ep006:010	VERSE	Ef␣6:10␣
+ep006:010	(1) 2a	@	-	Lopuksi
+ep006:010	2b	,	-	,␣
+ep006:010	3	@	-	vahvistukaa␣
+ep006:010	5	@	-	Herrassa␣
+ep006:010	4	%case	LOC	
+ep006:010	6	@	-	ja␣
+ep006:010	12a	@	-	hänen␣
+ep006:010	(10) 11	@	-	väkevyytensä␣
+ep006:010	(8) 9	@	-	voimassa
+ep006:010	7	%case	LOC	
+ep006:010	12b	.	-	.␣
+ep006:011	ep006:011	ep006:011	VERSE	Ef␣6:11␣
+ep006:011	1	@	-	Pukekaa␣
+ep006:011	1	@	-	yllenne␣
+ep006:011	(4) 5	@	-	Jumalan␣
+ep006:011	(2) 3	@	-	koko␣
+ep006:011	(2) 3	@	-	sota-asu
+ep006:011	-	(,)	-	,␣
+ep006:011	(7) 8	@	-	voidaksenne␣
+ep006:011	9	%pers	?	
+ep006:011	6	%case	TRA	
+ep006:011	10	@	-	kestää␣
+ep006:011	(14) 15a	@	-	perkeleen␣
+ep006:011	(12) 13	@	-	kavalat␣
+ep006:011	(12) 13	@	-	juonet
+ep006:011	11	%case	NOM	
+ep006:011	15b	.	-	.␣
+ep006:012	ep006:012	ep006:012	VERSE	Ef␣6:12␣
+ep006:012	1	@	-	Sillä␣
+ep006:012	4	@	-	meillä␣
+ep006:012	2	@	-	ei␣
+ep006:012	3	@	-	ole␣
+ep006:012	(5) 6	@	-	taistelu␣
+ep006:012	8	@	-	verta␣
+ep006:012	9	@	-	ja␣
+ep006:012	10	@	-	lihaa␣
+ep006:012	7	@	-	vastaan
+ep006:012	-	(,)	-	,␣
+ep006:012	11	@	-	vaan␣
+ep006:012	(13) 14a	@	-	hallituksia␣
+ep006:012	12	@	-	vastaan
+ep006:012	14b	,	-	,␣
+ep006:012	(16) 17a	@	-	valtoja␣
+ep006:012	15	@	-	vastaan
+ep006:012	17b	,	-	,␣
+ep006:012	23a	@	-	tässä␣
+ep006:012	(21) 22	@	-	pimeydessä␣
+ep006:012	(19) 20	@	-	hallitsevia␣
+ep006:012	(19) 20	@	-	maailmanvaltiaita␣
+ep006:012	18	@	-	vastaan
+ep006:012	23b	,	-	,␣
+ep006:012	(27) 28	@	-	pahuuden␣
+ep006:012	(25) 26	@	-	henkiolentoja␣
+ep006:012	24	@	-	vastaan␣
+ep006:012	(30) 31a	@	-	taivaan␣
+ep006:012	(30) 31a	@	-	avaruuksissa
+ep006:012	29	%case	LOC	
+ep006:012	31b	.	-	.␣
+ep006:013	ep006:013	ep006:013	VERSE	Ef␣6:13␣
+ep006:013	1 2	@	-	Sentähden␣
+ep006:013	3	@	-	ottakaa␣
+ep006:013	3	@	-	päällenne␣
+ep006:013	(6) 7a	@	-	Jumalan␣
+ep006:013	(4) 5	@	-	koko␣
+ep006:013	(4) 5	@	-	sota-asu
+ep006:013	7b	,	-	,␣
+ep006:013	9	@	-	voidaksenne␣
+ep006:013	8	%case	TRA	
+ep006:013	(14) 15	@	-	pahana␣
+ep006:013	(12) 13	@	-	päivänä␣
+ep006:013	11	%case	ESS	
+ep006:013	10	@	-	tehdä␣
+ep006:013	10	@	-	vastarintaa␣
+ep006:013	16	@	-	ja␣
+ep006:013	17	@	-	kaikki␣
+ep006:013	18	@	-	suoritettuanne␣
+ep006:013	19a	@	-	pysyä␣
+ep006:013	19a	@	-	pystyssä
+ep006:013	19b	.	-	.␣
+ep006:014	ep006:014	ep006:014	VERSE	Ef␣6:14␣
+ep006:014	1	@	-	Seisokaa␣
+ep006:014	2	@	-	siis␣
+ep006:014	(4) 5	@	-	kupeet␣
+ep006:014	(6)	-	UNTRANSLATED	
+ep006:014	8	@	-	totuuteen␣
+ep006:014	7	%case	LOC	
+ep006:014	3	@	-	vyötettyinä
+ep006:014	-	(,)	-	,␣
+ep006:014	9	@	-	ja␣
+ep006:014	10	@	-	olkoon␣
+ep006:014	10	@	-	pukunanne␣
+ep006:014	(13) 14	@	-	vanhurskauden␣
+ep006:014	(11) 12	@	-	haarniska
+ep006:014	-	(,)	-	,␣
+ep006:015	ep006:015	ep006:015	VERSE	Ef␣6:15␣
+ep006:015	1	@	-	ja␣
+ep006:015	2	@	-	kenkinä␣
+ep006:015	(3) 4	@	-	jaloissanne␣
+ep006:015	6	@	-	alttius␣
+ep006:015	5	%case	NOM	
+ep006:015	10a (9)	@	-	rauhan␣
+ep006:015	(7) 8	@	-	evankeliumille
+ep006:015	10b	.	-	.␣
+ep006:016	ep006:016	ep006:016	VERSE	Ef␣6:16␣
+ep006:016	2	@	-	Kaikessa␣
+ep006:016	1	%case	LOC	
+ep006:016	3	@	-	ottakaa␣
+ep006:016	(6) 7a	@	-	uskon␣
+ep006:016	(4) 5	@	-	kilpi
+ep006:016	7b	,	-	,␣
+ep006:016	9	@	-	jolla␣
+ep006:016	8	%case	LOC	
+ep006:016	10	@	-	voitte␣
+ep006:016	18a	@	-	sammuttaa␣
+ep006:016	11	@	-	kaikki␣
+ep006:016	(14) 15a	@	-	pahan␣
+ep006:016	(16a) 17	@	-	palavat␣
+ep006:016	(12) 13	@	-	nuolet
+ep006:016	18b	,	-	,␣
+ep006:017	ep006:017	ep006:017	VERSE	Ef␣6:17␣
+ep006:017	1	@	-	ja␣
+ep006:017	6	@	-	ottakaa␣
+ep006:017	6	@	-	vastaan␣
+ep006:017	(4) 5	@	-	pelastuksen␣
+ep006:017	(2) 3	@	-	kypäri␣
+ep006:017	7	@	-	ja␣
+ep006:017	(10) 11a	@	-	Hengen␣
+ep006:017	(8) 9	@	-	miekka
+ep006:017	11b	,	-	,␣
+ep006:017	12	@	-	joka␣
+ep006:017	13	@	-	on␣
+ep006:017	15a	@	-	Jumalan␣
+ep006:017	14	@	-	sana
+ep006:017	15b	.	-	.␣
+ep006:018	ep006:018	ep006:018	VERSE	Ef␣6:18␣
+ep006:018	-	(@)	-	Ja␣
+ep006:018	-	(@)	-	tehkää␣
+ep006:018	-	(@)	-	tämä␣
+ep006:018	2	@	-	kaikella␣
+ep006:018	3	@	-	rukouksella␣
+ep006:018	1	%case	LOC	
+ep006:018	4	@	-	ja␣
+ep006:018	5	@	-	anomisella
+ep006:018	-	(,)	-	,␣
+ep006:018	6	@	-	rukoillen␣
+ep006:018	8	@	-	joka␣
+ep006:018	9	@	-	aika␣
+ep006:018	7	%case	NOM	
+ep006:018	11a	@	-	Hengessä␣
+ep006:018	10	%case	LOC	
+ep006:018	12	@	-	ja␣
+ep006:018	14	@	-	sitä␣
+ep006:018	13	@	-	varten␣
+ep006:018	15	@	-	valvoen␣
+ep006:018	17	@	-	kaikessa␣
+ep006:018	18	@	-	kestäväisyydessä␣
+ep006:018	16	%case	LOC	
+ep006:018	19	@	-	ja␣
+ep006:018	20	@	-	anomisessa␣
+ep006:018	22	@	-	kaikkien␣
+ep006:018	(23) 24	@	-	pyhien␣
+ep006:018	21	@	-	puolesta
+ep006:018	-	(;)	-	;␣
+ep006:019	ep006:019	ep006:019	VERSE	Ef␣6:19␣
+ep006:019	1	@	-	ja␣
+ep006:019	3a	@	-	minunkin␣
+ep006:019	2	@	-	puolestani
+ep006:019	3b	,	-	,␣
+ep006:019	4	@	-	että␣
+ep006:019	5	@	-	minulle
+ep006:019	-	(,)	-	,␣
+ep006:019	8	@	-	kun␣
+ep006:019	(10) 11	@	-	suuni␣
+ep006:019	12a	%pers	?	
+ep006:019	9	@	-	avaan
+ep006:019	-	(,)	-	,␣
+ep006:019	6	@	-	annettaisiin␣
+ep006:019	-	(@)	-	oikeat␣
+ep006:019	7	@	-	sanat␣
+ep006:019	14	@	-	rohkeasti␣
+ep006:019	13	%case	MAN	
+ep006:019	15	@	-	julistaakseni␣
+ep006:019	(18) 19a	@	-	evankeliumin␣
+ep006:019	(16) 17	@	-	salaisuutta
+ep006:019	19b	,	-	,␣
+ep006:020	ep006:020	ep006:020	VERSE	Ef␣6:20␣
+ep006:020	2	@	-	jonka␣
+ep006:020	1	@	-	tähden␣
+ep006:020	3	(@)	-	minä␣
+ep006:020	3	@	-	olen␣
+ep006:020	3	@	-	lähettiläänä␣
+ep006:020	5a	@	-	kahleissa
+ep006:020	4	%case	LOC	
+ep006:020	5b	,	-	,␣
+ep006:020	6	@	-	että␣
+ep006:020	9	(@)	-	minä␣
+ep006:020	8	@	-	siitä␣
+ep006:020	7	%case	LOC	
+ep006:020	9	@	-	rohkeasti␣
+ep006:020	9	@	-	puhuisin
+ep006:020	-	(,)	-	,␣
+ep006:020	10	@	-	niinkuin␣
+ep006:020	12	@	-	minun␣
+ep006:020	13a	@	-	puhua␣
+ep006:020	11	@	-	tulee
+ep006:020	13b	.	-	.␣
+ep006:021	ep006:021	ep006:021	VERSE	Ef␣6:21␣
+ep006:021	2	@	-	Mutta␣
+ep006:021	1	@	-	että␣
+ep006:021	5	@	-	tekin␣
+ep006:021	4	%clitic	kin	
+ep006:021	3	@	-	tietäisitte␣
+ep006:021	(6) 7	@	-	tilani
+ep006:021	8a	%case	NOM.GEN	
+ep006:021	8b	,	-	,␣
+ep006:021	9	@	-	kuinka␣
+ep006:021	10a	(@)	-	minun␣
+ep006:021	10a	@	-	on
+ep006:021	10b	,	-	,␣
+ep006:021	-	(@)	-	niin␣
+ep006:021	12	(@)	-	on␣
+ep006:021	14	@	-	Tykikus
+ep006:021	-	(,)	-	,␣
+ep006:021	16	@	-	rakas␣
+ep006:021	(15) 17	@	-	veljeni␣
+ep006:021	18	@	-	ja␣
+ep006:021	19	@	-	uskollinen␣
+ep006:021	20	@	-	palvelija␣
+ep006:021	22a	@	-	Herrassa
+ep006:021	21	%case	LOC	
+ep006:021	-	(,)	-	,␣
+ep006:021	12	@	-	antava␣
+ep006:021	13	@	-	teille␣
+ep006:021	-	(@)	-	siitä␣
+ep006:021	11	@	-	kaikesta␣
+ep006:021	12	@	-	tiedon
+ep006:021	22b	.	-	.␣
+ep006:022	ep006:022	ep006:022	VERSE	Ef␣6:22␣
+ep006:022	2	(@)	-	Minä␣
+ep006:022	2	@	-	lähetän␣
+ep006:022	1	@	-	hänet␣
+ep006:022	4	@	-	teidän␣
+ep006:022	3	@	-	tykönne␣
+ep006:022	6	@	-	juuri␣
+ep006:022	7a	@	-	sitä␣
+ep006:022	5	@	-	varten
+ep006:022	7b	,	-	,␣
+ep006:022	8	@	-	että␣
+ep006:022	9	(@)	-	saisitte␣
+ep006:022	9	@	-	tietää␣
+ep006:022	12	@	-	meidän␣
+ep006:022	(10) 11	@	-	tilamme␣
+ep006:022	13	@	-	ja␣
+ep006:022	-	(@)	-	että␣
+ep006:022	14	(@)	-	hän␣
+ep006:022	14	@	-	lohduttaisi␣
+ep006:022	17a	@	-	teidän␣
+ep006:022	(15) 16	@	-	sydämiänne
+ep006:022	17b	.	-	.␣
+ep006:023	ep006:023	ep006:023	VERSE	Ef␣6:23␣
+ep006:023	1	@	-	Rauha␣
+ep006:023	(2) 3	@	-	veljille␣
+ep006:023	4	@	-	ja␣
+ep006:023	5	@	-	rakkaus
+ep006:023	-	(,)	-	,␣
+ep006:023	7	@	-	uskon␣
+ep006:023	6	@	-	kanssa
+ep006:023	-	(,)	-	,␣
+ep006:023	10	@	-	Isältä␣
+ep006:023	9	@	-	Jumalalta␣
+ep006:023	8	%case	LOC	
+ep006:023	11	@	-	ja␣
+ep006:023	12	@	-	Herralta␣
+ep006:023	13	@	-	Jeesukselta␣
+ep006:023	14a	@	-	Kristukselta
+ep006:023	-	(!)	-	!␣
+ep006:024	ep006:024	ep006:024	VERSE	Ef␣6:24␣
+ep006:024	(1) 2	@	-	Armo␣
+ep006:024	-	(@)	-	olkoon␣
+ep006:024	4	@	-	kaikkien␣
+ep006:024	3	@	-	kanssa
+ep006:024	-	(,)	-	,␣
+ep006:024	5	@	-	jotka␣
+ep006:024	6	@	-	rakastavat␣
+ep006:024	9	@	-	meidän␣
+ep006:024	(7) 8	@	-	Herraamme␣
+ep006:024	10	@	-	Jeesusta␣
+ep006:024	11	@	-	Kristusta␣
+ep006:024	-	(-)	-	-␣
+ep006:024	13a	@	-	katoamattomuudessa
+ep006:024	12	%case	LOC	
+ep006:024	13b	.	-	.␣

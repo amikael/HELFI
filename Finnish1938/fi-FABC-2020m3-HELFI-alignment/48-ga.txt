@@ -1,0 +1,3193 @@
+ga001:001	ga001:001	ga001:001	VERSE	Gal␣1:1␣
+ga001:001	1	@	-	Paavali
+ga001:001	-	(,)	-	,␣
+ga001:001	2	@	-	apostoli
+ga001:001	-	(,)	-	,␣
+ga001:001	-	(@)	-	virkansa␣
+ga001:001	-	(@)	-	saanut
+ga001:001	-	(,)	-	,␣
+ga001:001	3	@	-	ei␣
+ga001:001	5	@	-	ihmisiltä␣
+ga001:001	4	%case	LOC	
+ga001:001	6	@	-	eikä␣
+ga001:001	8	@	-	ihmisen␣
+ga001:001	7	@	-	kautta
+ga001:001	-	(,)	-	,␣
+ga001:001	9	@	-	vaan␣
+ga001:001	11	@	-	Jeesuksen␣
+ga001:001	12	@	-	Kristuksen␣
+ga001:001	10	@	-	kautta␣
+ga001:001	13	@	-	ja␣
+ga001:001	15	@	-	Isän␣
+ga001:001	14	@	-	Jumalan
+ga001:001	-	(,)	-	,␣
+ga001:001	16	@	-	joka␣
+ga001:001	17	(@)	-	on␣
+ga001:001	18	@	-	hänet␣
+ga001:001	20a	@	-	kuolleista␣
+ga001:001	19	%case	LOC	
+ga001:001	17	@	-	herättänyt
+ga001:001	20b	,	-	,␣
+ga001:002	ga001:002	ga001:002	VERSE	Gal␣1:2␣
+ga001:002	1	@	-	ja␣
+ga001:002	5	@	-	kaikki␣
+ga001:002	6	@	-	veljet
+ga001:002	-	(,)	-	,␣
+ga001:002	2	@	-	jotka␣
+ga001:002	-	(@)	-	ovat␣
+ga001:002	4	@	-	minun␣
+ga001:002	3	@	-	kanssani
+ga001:002	-	(,)	-	,␣
+ga001:002	10a (9)	@	-	Galatian␣
+ga001:002	(7) 8	@	-	seurakunnille
+ga001:002	10b	.	-	.␣
+ga001:003	ga001:003	ga001:003	VERSE	Gal␣1:3␣
+ga001:003	1	@	-	Armo␣
+ga001:003	2	@	-	teille␣
+ga001:003	3	@	-	ja␣
+ga001:003	4	@	-	rauha␣
+ga001:003	6	@	-	Jumalalta
+ga001:003	5	%case	LOC	
+ga001:003	-	(,)	-	,␣
+ga001:003	8	@	-	meidän␣
+ga001:003	7	@	-	Isältämme
+ga001:003	-	(,)	-	,␣
+ga001:003	9	@	-	ja␣
+ga001:003	10	@	-	Herralta␣
+ga001:003	11	@	-	Jeesukselta␣
+ga001:003	12	@	-	Kristukselta
+ga001:003	-	(,)	-	,␣
+ga001:004	ga001:004	ga001:004	VERSE	Gal␣1:4␣
+ga001:004	1	@	-	joka␣
+ga001:004	2	@	-	antoi␣
+ga001:004	3	@	-	itsensä␣
+ga001:004	2	(@)	-	alttiiksi␣
+ga001:004	7a	@	-	meidän␣
+ga001:004	(5) 6	@	-	syntiemme␣
+ga001:004	4	@	-	tähden
+ga001:004	7b	,	-	,␣
+ga001:004	9	@	-	pelastaaksensa␣
+ga001:004	8	%case	TRA	
+ga001:004	10	@	-	meidät␣
+ga001:004	(14) 15	@	-	nykyisestä␣
+ga001:004	16	@	-	pahasta␣
+ga001:004	(12) 13	@	-	maailmanajasta␣
+ga001:004	11	%case	LOC	
+ga001:004	24a	@	-	meidän␣
+ga001:004	(20) 21	@	-	Jumalamme␣
+ga001:004	22	@	-	ja␣
+ga001:004	23	@	-	Isämme␣
+ga001:004	(18) 19	@	-	tahdon␣
+ga001:004	17	@	-	mukaan
+ga001:004	24b	!	-	!␣
+ga001:005	ga001:005	ga001:005	VERSE	Gal␣1:5␣
+ga001:005	1	@	-	Hänen␣
+ga001:005	-	(@)	-	olkoon␣
+ga001:005	(2) 3	@	-	kunnia␣
+ga001:005	(5) 6	@	-	aina␣
+ga001:005	4	%case	?	
+ga001:005	-	(@)	-	ja␣
+ga001:005	(7) 8a	@	-	iankaikkisesti
+ga001:005	8b	!	-	!␣
+ga001:005	9a	@	-	Amen
+ga001:005	9b	.	-	.␣
+ga001:006	ga001:006	ga001:006	VERSE	Gal␣1:6␣
+ga001:006	1	(@)	-	Minua␣
+ga001:006	1	@	-	kummastuttaa
+ga001:006	-	(,)	-	,␣
+ga001:006	2	@	-	että␣
+ga001:006	5	(@)	-	te␣
+ga001:006	3	@	-	niin␣
+ga001:006	4	@	-	äkkiä␣
+ga001:006	5	@	-	käännytte␣
+ga001:006	7	@	-	hänestä
+ga001:006	6	%case	LOC	
+ga001:006	-	(,)	-	,␣
+ga001:006	7	@	-	joka␣
+ga001:006	8	(@)	-	on␣
+ga001:006	8	@	-	kutsunut␣
+ga001:006	9	@	-	teidät␣
+ga001:006	12a	@	-	Kristuksen␣
+ga001:006	11a	@	-	armossa
+ga001:006	10	%case	LOC	
+ga001:006	-	(,)	-	,␣
+ga001:006	5	@	-	pois␣
+ga001:006	14	@	-	toisenlaiseen␣
+ga001:006	15a	@	-	evankeliumiin
+ga001:006	13	%case	LOC	
+ga001:006	15b	,	-	,␣
+ga001:007	ga001:007	ga001:007	VERSE	Gal␣1:7␣
+ga001:007	1	@	-	joka␣
+ga001:007	-	(@)	-	kuitenkaan␣
+ga001:007	2	@	-	ei␣
+ga001:007	3	@	-	ole␣
+ga001:007	-	(@)	-	mikään␣
+ga001:007	4a	@	-	toinen
+ga001:007	4b	;	-	;␣
+ga001:007	8	@	-	on␣
+ga001:007	5 6	@	-	vain␣
+ga001:007	7	@	-	eräitä
+ga001:007	-	(,)	-	,␣
+ga001:007	9	@	-	jotka␣
+ga001:007	10	@	-	hämmentävät␣
+ga001:007	11	@	-	teitä␣
+ga001:007	12	@	-	ja␣
+ga001:007	13	@	-	tahtovat␣
+ga001:007	14	@	-	vääristellä␣
+ga001:007	(17) 18a	@	-	Kristuksen␣
+ga001:007	(15) 16	@	-	evankeliumin
+ga001:007	18b	.	-	.␣
+ga001:008	ga001:008	ga001:008	VERSE	Gal␣1:8␣
+ga001:008	1	@	-	Mutta␣
+ga001:008	2 3	@	-	vaikka␣
+ga001:008	4	@	-	me
+ga001:008	-	(,)	-	,␣
+ga001:008	5	@	-	tai␣
+ga001:008	-	(@)	-	vaikka␣
+ga001:008	6	@	-	enkeli␣
+ga001:008	8	@	-	taivaasta␣
+ga001:008	7	%case	LOC	
+ga001:008	9a	@	-	julistaisi␣
+ga001:008	10a	@	-	teille␣
+ga001:008	9a	@	-	evankeliumia
+ga001:008	-	(,)	-	,␣
+ga001:008	-	(@)	-	joka␣
+ga001:008	-	(@)	-	on␣
+ga001:008	11	@	-	vastoin␣
+ga001:008	12	@	-	sitä
+ga001:008	-	(,)	-	,␣
+ga001:008	12	@	-	minkä␣
+ga001:008	13	(@)	-	me␣
+ga001:008	13	(@)	-	olemme␣
+ga001:008	14a	@	-	teille␣
+ga001:008	13	@	-	julistaneet
+ga001:008	-	(,)	-	,␣
+ga001:008	16a	(@)	-	hän␣
+ga001:008	16a	@	-	olkoon␣
+ga001:008	15	@	-	kirottu
+ga001:008	16b	.	-	.␣
+ga001:009	ga001:009	ga001:009	VERSE	Gal␣1:9␣
+ga001:009	1	@	-	Niinkuin␣
+ga001:009	2	@	-	ennenkin␣
+ga001:009	2	(@)	-	olemme␣
+ga001:009	2	@	-	sanoneet
+ga001:009	-	(,)	-	,␣
+ga001:009	3	@	-	niin␣
+ga001:009	6a	@	-	sanon␣
+ga001:009	4	@	-	nytkin␣
+ga001:009	5	@	-	taas
+ga001:009	6b	:	-	:␣
+ga001:009	7	@	-	jos␣
+ga001:009	8	@	-	joku␣
+ga001:009	10	@	-	julistaa␣
+ga001:009	9	@	-	teille␣
+ga001:009	10	@	-	evankeliumia
+ga001:009	-	(,)	-	,␣
+ga001:009	-	(@)	-	joka␣
+ga001:009	-	(@)	-	on␣
+ga001:009	11	@	-	vastoin␣
+ga001:009	12	@	-	sitä
+ga001:009	-	(,)	-	,␣
+ga001:009	12	(@)	-	minkä␣
+ga001:009	13a	(@)	-	te␣
+ga001:009	13a	(@)	-	olette␣
+ga001:009	13a	@	-	saaneet
+ga001:009	13b	,	-	,␣
+ga001:009	15a	(@)	-	hän␣
+ga001:009	15a	@	-	olkoon␣
+ga001:009	14	@	-	kirottu
+ga001:009	15b	.	-	.␣
+ga001:010	ga001:010	ga001:010	VERSE	Gal␣1:10␣
+ga001:010	3	@	-	Ihmistenkö␣
+ga001:010	2	%clitic	kO	
+ga001:010	4	@	-	suosiota␣
+ga001:010	4	(@)	-	minä␣
+ga001:010	1	@	-	nyt␣
+ga001:010	4	@	-	etsin␣
+ga001:010	5	@	-	vai␣
+ga001:010	(6) 7a	@	-	Jumalan
+ga001:010	7b	?	-	?␣
+ga001:010	8	@	-	Tai␣
+ga001:010	10	@	-	ihmisillekö␣
+ga001:010	9	@	-	pyydän␣
+ga001:010	11a	@	-	olla␣
+ga001:010	11a	@	-	mieliksi
+ga001:010	11b	?	-	?␣
+ga001:010	12	@	-	Jos␣
+ga001:010	-	(@)	-	minä␣
+ga001:010	13	@	-	vielä␣
+ga001:010	tasp%15a	@	-	tahtoisin␣
+ga001:010	15a	@	-	olla␣
+ga001:010	14	@	-	ihmisille␣
+ga001:010	15a	@	-	mieliksi
+ga001:010	15b	,	-	,␣
+ga001:010	18	@	-	en␣
+ga001:010	20a	@	-	olisi␣
+ga001:010	16	@	-	Kristuksen␣
+ga001:010	17	@	-	palvelija
+ga001:010	20b	.	-	.␣
+ga001:011	ga001:011	ga001:011	VERSE	Gal␣1:11␣
+ga001:011	2	@	-	Sillä␣
+ga001:011	1	(@)	-	minä␣
+ga001:011	1	@	-	teen␣
+ga001:011	3a	@	-	teille␣
+ga001:011	1	@	-	tiettäväksi
+ga001:011	3b	,	-	,␣
+ga001:011	4a	@	-	veljet
+ga001:011	4b	,	-	,␣
+ga001:011	11	@	-	että␣
+ga001:011	10	@	-	minun␣
+ga001:011	9	%case	GEN	
+ga001:011	(7) 8	@	-	julistamani␣
+ga001:011	(5) 6	@	-	evankeliumi␣
+ga001:011	12	@	-	ei␣
+ga001:011	13	@	-	ole␣
+ga001:011	15a	@	-	ihmisten␣
+ga001:011	14	@	-	mukaista
+ga001:011	15b	;	-	;␣
+ga001:012	ga001:012	ga001:012	VERSE	Gal␣1:12␣
+ga001:012	1	@	-	enkä␣
+ga001:012	3	@	-	minä␣
+ga001:012	6	(@)	-	olekaan␣
+ga001:012	2	%clitic	kAAn	
+ga001:012	7	@	-	sitä␣
+ga001:012	5	@	-	ihmisiltä␣
+ga001:012	4	%case	LOC	
+ga001:012	6	@	-	saanut
+ga001:012	-	(,)	-	,␣
+ga001:012	8	@	-	eikä␣
+ga001:012	-	(@)	-	sitä␣
+ga001:012	9	(@)	-	ole␣
+ga001:012	9	(@)	-	minulle␣
+ga001:012	9	@	-	opetettu
+ga001:012	-	(,)	-	,␣
+ga001:012	10	@	-	vaan␣
+ga001:012	13	@	-	Jeesus␣
+ga001:012	14a	@	-	Kristus␣
+ga001:012	-	(@)	-	on␣
+ga001:012	-	(@)	-	sen␣
+ga001:012	-	(@)	-	minulle␣
+ga001:012	12	@	-	ilmoittanut
+ga001:012	11	%case	NOM	
+ga001:012	14b	.	-	.␣
+ga001:013	ga001:013	ga001:013	VERSE	Gal␣1:13␣
+ga001:013	1	(@)	-	Olettehan␣
+ga001:013	2	%clitic	hAn	
+ga001:013	1	@	-	kuulleet␣
+ga001:013	4	@	-	minun␣
+ga001:013	6	@	-	entisestä␣
+ga001:013	(3) 5	@	-	vaelluksestani␣
+ga001:013	(8) 9a	@	-	juutalaisuudessa
+ga001:013	7	%case	LOC	
+ga001:013	9b	,	-	,␣
+ga001:013	10	@	-	että␣
+ga001:013	13	(@)	-	minä␣
+ga001:013	12	@	-	ylenmäärin␣
+ga001:013	11	%case	?	
+ga001:013	13	@	-	vainosin␣
+ga001:013	(16) 17	@	-	Jumalan␣
+ga001:013	(14) 15	@	-	seurakuntaa␣
+ga001:013	18	@	-	ja␣
+ga001:013	20a	@	-	sitä␣
+ga001:013	19	@	-	hävitin␣
+ga001:014	ga001:014	ga001:014	VERSE	Gal␣1:14␣
+ga001:014	1	@	-	ja␣
+ga001:014	-	(@)	-	että␣
+ga001:014	2	@	-	edistyin␣
+ga001:014	(4) 5	@	-	juutalaisuudessa␣
+ga001:014	3	%case	LOC	
+ga001:014	6	@	-	pitemmälle␣
+ga001:014	6	@	-	kuin␣
+ga001:014	7	@	-	monet␣
+ga001:014	8	@	-	samanikäiset␣
+ga001:014	(10) 11	@	-	heimossani␣
+ga001:014	12a	%pers	?	
+ga001:014	9	%case	LOC	
+ga001:014	-	(@)	-	ja␣
+ga001:014	13	@	-	ylen␣
+ga001:014	13	@	-	innokkaasti␣
+ga001:014	14	@	-	kiivailin␣
+ga001:014	15	%case	?	
+ga001:014	(16) 17	@	-	isieni␣
+ga001:014	18	%pers	?	
+ga001:014	19a	@	-	perinnäissääntöjen␣
+ga001:014	case%19a	@	-	puolesta
+ga001:014	19b	.	-	.␣
+ga001:015	ga001:015	ga001:015	VERSE	Gal␣1:15␣
+ga001:015	2	@	-	Mutta␣
+ga001:015	1	@	-	kun␣
+ga001:015	6	@	-	hän
+ga001:015	-	(,)	-	,␣
+ga001:015	6	@	-	joka␣
+ga001:015	(4) (5a)	-	UNTRANSLATED	
+ga001:015	11	@	-	äitini␣
+ga001:015	12	%pers	?	
+ga001:015	10	@	-	kohdusta␣
+ga001:015	9	@	-	saakka␣
+ga001:015	7	(@)	-	on␣
+ga001:015	8	@	-	minut␣
+ga001:015	7	@	-	erottanut␣
+ga001:015	13	@	-	ja␣
+ga001:015	14	@	-	kutsunut␣
+ga001:015	(16) 17	@	-	armonsa␣
+ga001:015	18	%pers	3	
+ga001:015	15	@	-	kautta
+ga001:015	-	(,)	-	,␣
+ga001:015	3a	@	-	näki␣
+ga001:015	3a	@	-	hyväksi␣
+ga001:016	ga001:016	ga001:016	VERSE	Gal␣1:16␣
+ga001:016	1	@	-	ilmaista␣
+ga001:016	6a	@	-	minussa␣
+ga001:016	5	%case	LOC	
+ga001:016	(2) 3	@	-	Poikansa
+ga001:016	4	%pers	3	
+ga001:016	6b	,	-	,␣
+ga001:016	7	@	-	että␣
+ga001:016	8	(@)	-	minä␣
+ga001:016	8	@	-	julistaisin␣
+ga001:016	8	@	-	evankeliumia␣
+ga001:016	9	@	-	hänestä␣
+ga001:016	(11) 12a	@	-	pakanain␣
+ga001:016	10	@	-	seassa
+ga001:016	-	(,)	-	,␣
+ga001:016	-	(@)	-	niin␣
+ga001:016	15	(@)	-	minä␣
+ga001:016	13	@	-	heti␣
+ga001:016	-	(@)	-	alunpitäenkään␣
+ga001:016	14	@	-	en␣
+ga001:016	15	@	-	kysynyt␣
+ga001:016	15	@	-	neuvoa␣
+ga001:016	16	@	-	lihalta␣
+ga001:016	17	@	-	ja␣
+ga001:016	18	@	-	vereltä
+ga001:016	-	(,)	-	,␣
+ga001:017	ga001:017	ga001:017	VERSE	Gal␣1:17␣
+ga001:017	1	@	-	enkä␣
+ga001:017	2	@	-	lähtenyt␣
+ga001:017	2	@	-	ylös␣
+ga001:017	4	@	-	Jerusalemiin␣
+ga001:017	3	%case	LOC	
+ga001:017	6	@	-	niiden␣
+ga001:017	5	@	-	luo
+ga001:017	-	(,)	-	,␣
+ga001:017	6	@	-	jotka␣
+ga001:017	7	@	-	ennen␣
+ga001:017	8	@	-	minua␣
+ga001:017	-	(@)	-	olivat␣
+ga001:017	9a	@	-	apostoleja
+ga001:017	9b	,	-	,␣
+ga001:017	10	@	-	vaan␣
+ga001:017	11	@	-	menin␣
+ga001:017	11	@	-	pois␣
+ga001:017	13	@	-	Arabiaan␣
+ga001:017	12	%case	LOC	
+ga001:017	14	@	-	ja␣
+ga001:017	16	@	-	palasin␣
+ga001:017	15	@	-	taas␣
+ga001:017	16	@	-	takaisin␣
+ga001:017	18a	@	-	Damaskoon
+ga001:017	17	%case	LOC	
+ga001:017	18b	.	-	.␣
+ga001:018	ga001:018	ga001:018	VERSE	Gal␣1:18␣
+ga001:018	1	@	-	Sitten
+ga001:018	-	(,)	-	,␣
+ga001:018	3	@	-	kolmen␣
+ga001:018	2b	@	-	vuoden␣
+ga001:018	2a	@	-	kuluttua
+ga001:018	-	(,)	-	,␣
+ga001:018	4	(@)	-	minä␣
+ga001:018	4	@	-	menin␣
+ga001:018	4	@	-	ylös␣
+ga001:018	6	@	-	Jerusalemiin␣
+ga001:018	5	%case	LOC	
+ga001:018	7	@	-	tutustuakseni␣
+ga001:018	8	@	-	Keefaaseen␣
+ga001:018	9	@	-	ja␣
+ga001:018	10	@	-	jäin␣
+ga001:018	12	@	-	hänen␣
+ga001:018	11	@	-	tykönsä␣
+ga001:018	14a	@	-	viideksitoista␣
+ga001:018	13	@	-	päiväksi
+ga001:018	14b	.	-	.␣
+ga001:019	ga001:019	ga001:019	VERSE	Gal␣1:19␣
+ga001:019	2	@	-	Mutta␣
+ga001:019	1	@	-	muita␣
+ga001:019	(3) 4	@	-	apostoleja␣
+ga001:019	6	(@)	-	minä␣
+ga001:019	5	@	-	en␣
+ga001:019	6	@	-	nähnyt
+ga001:019	-	(;)	-	;␣
+ga001:019	-	(@)	-	näin␣
+ga001:019	7 8	@	-	ainoastaan␣
+ga001:019	9	@	-	Jaakobin
+ga001:019	-	(,)	-	,␣
+ga001:019	(12) 13a	@	-	Herran␣
+ga001:019	(10) 11	@	-	veljen
+ga001:019	13b	.	-	.␣
+ga001:020	ga001:020	ga001:020	VERSE	Gal␣1:20␣
+ga001:020	2	@	-	Ja␣
+ga001:020	1	@	-	mitä␣
+ga001:020	3	@	-	kirjoitan␣
+ga001:020	4a	@	-	teille
+ga001:020	4b	,	-	,␣
+ga001:020	5	@	-	katso
+ga001:020	-	(,)	-	,␣
+ga001:020	(7) 8	@	-	Jumalan␣
+ga001:020	-	(@)	-	kasvojen␣
+ga001:020	6	@	-	edessä␣
+ga001:020	-	(@)	-	minä␣
+ga001:020	-	(@)	-	sanon
+ga001:020	-	(,)	-	,␣
+ga001:020	10 9	@	-	etten␣
+ga001:020	11a	@	-	valhettele
+ga001:020	11b	.	-	.␣
+ga001:021	ga001:021	ga001:021	VERSE	Gal␣1:21␣
+ga001:021	1	@	-	Sitten␣
+ga001:021	2	@	-	menin␣
+ga001:021	(6) 7	@	-	Syyrian␣
+ga001:021	8	@	-	ja␣
+ga001:021	10a (9)	@	-	Kilikian␣
+ga001:021	(4) 5	@	-	paikkakuntiin
+ga001:021	3	%case	LOC	
+ga001:021	10b	.	-	.␣
+ga001:022	ga001:022	ga001:022	VERSE	Gal␣1:22␣
+ga001:022	2	@	-	Mutta␣
+ga001:022	1	@	-	olin␣
+ga001:022	(4) 5	@	-	kasvoiltani␣
+ga001:022	3	@	-	tuntematon␣
+ga001:022	(8) 9	@	-	Juudean␣
+ga001:022	(6) 7	@	-	seurakunnille
+ga001:022	-	(,)	-	,␣
+ga001:022	10	@	-	jotka␣
+ga001:022	-	(@)	-	ovat␣
+ga001:022	12a	@	-	Kristuksessa
+ga001:022	11	%case	LOC	
+ga001:022	12b	.	-	.␣
+ga001:023	ga001:023	ga001:023	VERSE	Gal␣1:23␣
+ga001:023	-	(@)	-	Heidän␣
+ga001:023	3	@	-	kuuloonsa␣
+ga001:023	(2)	-	UNTRANSLATED	
+ga001:023	4	@	-	oli␣
+ga001:023	1	@	-	vain␣
+ga001:023	3	@	-	tullut
+ga001:023	5	:	-	:␣
+ga001:023	-	(@)	-	"
+ga001:023	8	@	-	Meidän␣
+ga001:023	9	@	-	entinen␣
+ga001:023	(6) 7	@	-	vainoojamme␣
+ga001:023	11	@	-	julistaa␣
+ga001:023	10	@	-	nyt␣
+ga001:023	12	@	-	sitä␣
+ga001:023	13	@	-	uskoa
+ga001:023	-	(,)	-	,␣
+ga001:023	14	@	-	jota␣
+ga001:023	16a	(@)	-	hän␣
+ga001:023	15	@	-	ennen␣
+ga001:023	16a	@	-	hävitti
+ga001:023	16b	@	-	"
+ga001:023	16b	;	-	;␣
+ga001:024	ga001:024	ga001:024	VERSE	Gal␣1:24␣
+ga001:024	1	@	-	ja␣
+ga001:024	2	(@)	-	he␣
+ga001:024	2	@	-	ylistivät␣
+ga001:024	(5) 6a	@	-	Jumalaa␣
+ga001:024	4	@	-	minun␣
+ga001:024	3	@	-	tähteni
+ga001:024	6b	.	-	.␣
+ga002:001	ga002:001	ga002:001	VERSE	Gal␣2:1␣
+ga002:001	1	@	-	Sitten
+ga002:001	-	(,)	-	,␣
+ga002:001	3	@	-	neljäntoista␣
+ga002:001	4	@	-	vuoden␣
+ga002:001	2	@	-	kuluttua
+ga002:001	-	(,)	-	,␣
+ga002:001	6	(@)	-	minä␣
+ga002:001	5	@	-	taas␣
+ga002:001	6	@	-	menin␣
+ga002:001	6	@	-	ylös␣
+ga002:001	8	@	-	Jerusalemiin␣
+ga002:001	7	%case	LOC	
+ga002:001	10	@	-	Barnabaan␣
+ga002:001	9	@	-	kanssa␣
+ga002:001	-	(@)	-	ja␣
+ga002:001	11	@	-	otin␣
+ga002:001	13a	@	-	Tiituksenkin␣
+ga002:001	12	%clitic	kin	
+ga002:001	11	@	-	mukaani
+ga002:001	13b	.	-	.␣
+ga002:002	ga002:002	ga002:002	VERSE	Gal␣2:2␣
+ga002:002	2	@	-	Mutta␣
+ga002:002	1	(@)	-	minä␣
+ga002:002	1	@	-	menin␣
+ga002:002	1	@	-	sinne␣
+ga002:002	4a	@	-	ilmestyksen␣
+ga002:002	3	@	-	johdosta␣
+ga002:002	5	@	-	ja␣
+ga002:002	6	@	-	esitin␣
+ga002:002	7	@	-	heille␣
+ga002:002	8	@	-	sen␣
+ga002:002	9	@	-	evankeliumin
+ga002:002	-	(,)	-	,␣
+ga002:002	10	@	-	jota␣
+ga002:002	11	@	-	julistan␣
+ga002:002	(13) 14a	@	-	pakanain␣
+ga002:002	12	@	-	keskuudessa
+ga002:002	-	(;)	-	;␣
+ga002:002	-	(@)	-	esitin␣
+ga002:002	-	(@)	-	sen␣
+ga002:002	16	@	-	yksityisesti␣
+ga002:002	15	%case	MAN	
+ga002:002	(17)	-	UNTRANSLATED	
+ga002:002	(18) 19a	@	-	arvokkaimmille␣
+ga002:002	-	(@)	-	heistä
+ga002:002	19b	,	-	,␣
+ga002:002	20	@	-	etten␣
+ga002:002	21	@	-	ehkä␣
+ga002:002	24	@	-	juoksisi␣
+ga002:002	25	@	-	tai␣
+ga002:002	26a	(@)	-	olisi␣
+ga002:002	26a	@	-	juossut␣
+ga002:002	23	@	-	turhaan
+ga002:002	22	%case	LOC	
+ga002:002	26b	.	-	.␣
+ga002:003	ga002:003	ga002:003	VERSE	Gal␣2:3␣
+ga002:003	1	@	-	Mutta␣
+ga002:003	2	@	-	ei␣
+ga002:003	2	@	-	edes␣
+ga002:003	5	@	-	seuralaistani␣
+ga002:003	4 6a	%case	PTV	
+ga002:003	3	@	-	Tiitusta
+ga002:003	6b	,	-	,␣
+ga002:003	8a	(@)	-	joka␣
+ga002:003	8a	@	-	oli␣
+ga002:003	7	@	-	kreikkalainen
+ga002:003	8b	,	-	,␣
+ga002:003	9	@	-	pakotettu␣
+ga002:003	10a	@	-	ympärileikkauttamaan␣
+ga002:003	10a	@	-	itseänsä
+ga002:003	10b	.	-	.␣
+ga002:004	ga002:004	ga002:004	VERSE	Gal␣2:4␣
+ga002:004	3	@	-	Noiden␣
+ga002:004	(2)	-	UNTRANSLATED	
+ga002:004	4	@	-	pariimme␣
+ga002:004	4	@	-	luikertaneiden␣
+ga002:004	5a	@	-	valheveljien␣
+ga002:004	1	@	-	tähden
+ga002:004	5b	,	-	,␣
+ga002:004	6	@	-	jotka␣
+ga002:004	19a	@	-	orjuuttaakseen␣
+ga002:004	17	%case	TRA	
+ga002:004	18	@	-	meitä␣
+ga002:004	7	(@)	-	olivat␣
+ga002:004	7	@	-	hiipineet␣
+ga002:004	8	@	-	vakoilemaan␣
+ga002:004	10 (9)	@	-	vapauttamme
+ga002:004	11	%pers	?	
+ga002:004	-	(,)	-	,␣
+ga002:004	12	@	-	mikä␣
+ga002:004	13	(@)	-	meillä␣
+ga002:004	13	@	-	on␣
+ga002:004	15	@	-	Kristuksessa␣
+ga002:004	16a	@	-	Jeesuksessa
+ga002:004	14	%case	LOC	
+ga002:004	19b	,	-	,␣
+ga002:005	ga002:005	ga002:005	VERSE	Gal␣2:5␣
+ga002:005	5	(@)	-	me␣
+ga002:005	2	@	-	emme␣
+ga002:005	4	@	-	hetkeksikään␣
+ga002:005	3	%case	TRA	
+ga002:005	5	@	-	alistuneet␣
+ga002:005	(6) 7a	@	-	antamaan␣
+ga002:005	1	@	-	heille␣
+ga002:005	(6) 7a	@	-	myöten
+ga002:005	7b	,	-	,␣
+ga002:005	8	@	-	että␣
+ga002:005	(11) 12	@	-	evankeliumin␣
+ga002:005	10 (9)	@	-	totuus␣
+ga002:005	13	@	-	säilyisi␣
+ga002:005	15a	@	-	teidän␣
+ga002:005	14	@	-	keskuudessanne
+ga002:005	15b	.	-	.␣
+ga002:006	ga002:006	ga002:006	VERSE	Gal␣2:6␣
+ga002:006	2	@	-	Ja␣
+ga002:006	3	@	-	nuo
+ga002:006	-	(,)	-	,␣
+ga002:006	3	@	-	joita␣
+ga002:006	1	%case	PTV	
+ga002:006	6a	@	-	jonakin␣
+ga002:006	5	%case	LOC	
+ga002:006	4	@	-	pidettiin␣
+ga002:006	6b 6c	-	-	-␣
+ga002:006	7	@	-	millaisia␣
+ga002:006	8	@	-	lienevät␣
+ga002:006	9	@	-	olleet
+ga002:006	-	(,)	-	,␣
+ga002:006	10	@	-	ei␣
+ga002:006	12a	@	-	kuulu␣
+ga002:006	11	@	-	minuun
+ga002:006	12b	;	-	;␣
+ga002:006	(14a) 15	@	-	Jumala␣
+ga002:006	17	@	-	ei␣
+ga002:006	18a	@	-	katso␣
+ga002:006	13a	@	-	henkilöön␣
+ga002:006	16	%case	LOC	
+ga002:006	18b	-	-	-␣
+ga002:006	21	@	-	nuo␣
+ga002:006	(20)	-	UNTRANSLATED	
+ga002:006	22	@	-	arvossapidetyt␣
+ga002:006	23	@	-	eivät␣
+ga002:006	24a	@	-	velvoittaneet␣
+ga002:006	19	@	-	minua␣
+ga002:006	24a	@	-	mihinkään␣
+ga002:006	24a	@	-	enempään
+ga002:006	24b	,	-	,␣
+ga002:007	ga002:007	ga002:007	VERSE	Gal␣2:7␣
+ga002:007	1	@	-	vaan␣
+ga002:007	3	@	-	päinvastoin
+ga002:007	-	(,)	-	,␣
+ga002:007	4	(@)	-	kun␣
+ga002:007	4	@	-	näkivät
+ga002:007	-	(,)	-	,␣
+ga002:007	5	@	-	että␣
+ga002:007	6	(@)	-	minulle␣
+ga002:007	6	(@)	-	oli␣
+ga002:007	6	@	-	uskottu␣
+ga002:007	(7) 8	@	-	evankeliumin␣
+ga002:007	(7) 8	(@)	-	julistaminen␣
+ga002:007	10 (9)	@	-	ympärileikkaamattomille
+ga002:007	-	(,)	-	,␣
+ga002:007	11	@	-	samoin~kuin␣
+ga002:007	12	@	-	Pietarille␣
+ga002:007	-	(@)	-	sen␣
+ga002:007	-	(@)	-	julistaminen␣
+ga002:007	(13) 14a	@	-	ympärileikatuille␣
+ga002:007	14b	-	-	-␣
+ga002:008	ga002:008	ga002:008	VERSE	Gal␣2:8␣
+ga002:008	2	@	-	sillä␣
+ga002:008	1	@	-	hän
+ga002:008	-	(,)	-	,␣
+ga002:008	1	@	-	joka␣
+ga002:008	3	@	-	antoi␣
+ga002:008	4	@	-	Pietarille␣
+ga002:008	3	@	-	voimaa␣
+ga002:008	-	(@)	-	hänen␣
+ga002:008	6	@	-	apostolintoimeensa␣
+ga002:008	5	%case	LOC	
+ga002:008	(7) 8	@	-	ympärileikattujen␣
+ga002:008	case%8	@	-	keskuudessa
+ga002:008	-	(,)	-	,␣
+ga002:008	9	@	-	antoi␣
+ga002:008	11	@	-	minullekin␣
+ga002:008	10	%clitic	kin	
+ga002:008	-	(@)	-	siihen␣
+ga002:008	9	@	-	voimaa␣
+ga002:008	(13) 14a	@	-	pakanain␣
+ga002:008	12	@	-	keskuudessa␣
+ga002:008	14b	-	-	-␣
+ga002:009	ga002:009	ga002:009	VERSE	Gal␣2:9␣
+ga002:009	1	@	-	ja␣
+ga002:009	2	(@)	-	kun␣
+ga002:009	2	(@)	-	olivat␣
+ga002:009	2	(@)	-	tulleet␣
+ga002:009	2	@	-	tuntemaan␣
+ga002:009	3	@	-	sen␣
+ga002:009	4	@	-	armon
+ga002:009	-	(,)	-	,␣
+ga002:009	5	@	-	mikä␣
+ga002:009	6	(@)	-	oli␣
+ga002:009	7a	@	-	minulle␣
+ga002:009	6	@	-	annettu
+ga002:009	-	(,)	-	,␣
+ga002:009	-	(@)	-	niin␣
+ga002:009	8	@	-	Jaakob␣
+ga002:009	9	@	-	ja␣
+ga002:009	10	@	-	Keefas␣
+ga002:009	11	@	-	ja␣
+ga002:009	12a	@	-	Johannes
+ga002:009	12b	,	-	,␣
+ga002:009	13	@	-	joita␣
+ga002:009	14	@	-	pidettiin␣
+ga002:009	16a	%case	?	
+ga002:009	15	@	-	pylväinä
+ga002:009	16b	,	-	,␣
+ga002:009	18	@	-	antoivat␣
+ga002:009	19	@	-	minulle␣
+ga002:009	20	@	-	ja␣
+ga002:009	21	@	-	Barnabaalle␣
+ga002:009	22a	@	-	yhteisen␣
+ga002:009	22a	(@)	-	työn␣
+ga002:009	22a	(@)	-	merkiksi␣
+ga002:009	17	@	-	kättä
+ga002:009	22b	,	-	,␣
+ga002:009	-	(@)	-	mennäksemme
+ga002:009	23	%case	TRA	
+ga002:009	-	(,)	-	,␣
+ga002:009	24	@	-	me␣
+ga002:009	(26) 27a	@	-	pakanain␣
+ga002:009	25	@	-	keskuuteen␣
+ga002:009	29	@	-	ja␣
+ga002:009	28	@	-	he␣
+ga002:009	(31) 32a	@	-	ympärileikattujen
+ga002:009	30	%case	GEN	
+ga002:009	32b	.	-	.␣
+ga002:010	ga002:010	ga002:010	VERSE	Gal␣2:10␣
+ga002:010	-	(@)	-	Meidän␣
+ga002:010	5a	(@)	-	oli␣
+ga002:010	1	@	-	vain␣
+ga002:010	5a	@	-	muistaminen␣
+ga002:010	4	%case	NOM	
+ga002:010	(2) 3	@	-	köyhiä
+ga002:010	5b	,	-	,␣
+ga002:010	7	@	-	ja␣
+ga002:010	9	@	-	juuri␣
+ga002:010	6	@	-	sitä␣
+ga002:010	10	%case	PTV	
+ga002:010	8	(@)	-	minä␣
+ga002:010	8	(@)	-	olenkin␣
+ga002:010	7	%clitic	kin	
+ga002:010	8	@	-	ahkeroinut␣
+ga002:010	11a	@	-	tehdä
+ga002:010	11b	.	-	.␣
+ga002:011	ga002:011	ga002:011	VERSE	Gal␣2:11␣
+ga002:011	2	@	-	Mutta␣
+ga002:011	1	@	-	kun␣
+ga002:011	4	@	-	Keefas␣
+ga002:011	3	@	-	tuli␣
+ga002:011	6a	@	-	Antiokiaan
+ga002:011	5	%case	LOC	
+ga002:011	6b	,	-	,␣
+ga002:011	10a	@	-	vastustin␣
+ga002:011	10a	(@)	-	minä␣
+ga002:011	9	@	-	häntä␣
+ga002:011	7	@	-	vasten␣
+ga002:011	8	@	-	kasvoja
+ga002:011	10b	,	-	,␣
+ga002:011	11	@	-	koska␣
+ga002:011	13a	(@)	-	hän␣
+ga002:011	13a	@	-	oli␣
+ga002:011	12	@	-	herättänyt␣
+ga002:011	12	(@)	-	suurta␣
+ga002:011	12	@	-	paheksumista
+ga002:011	13b	.	-	.␣
+ga002:012	ga002:012	ga002:012	VERSE	Gal␣2:12␣
+ga002:012	3	@	-	Sillä␣
+ga002:012	1	@	-	ennenkuin␣
+ga002:012	7	@	-	Jaakobin␣
+ga002:012	6	@	-	luota␣
+ga002:012	(2) 4	(@)	-	oli␣
+ga002:012	(2) 4	@	-	tullut␣
+ga002:012	5	@	-	muutamia␣
+ga002:012	5	(@)	-	miehiä
+ga002:012	-	(,)	-	,␣
+ga002:012	11a	(@)	-	oli␣
+ga002:012	11a	(@)	-	hän␣
+ga002:012	11a	@	-	syönyt␣
+ga002:012	8	@	-	yhdessä␣
+ga002:012	10	@	-	pakanain␣
+ga002:012	8	@	-	kanssa
+ga002:012	-	(;)	-	;␣
+ga002:012	13	@	-	mutta␣
+ga002:012	14a	(@)	-	heidän␣
+ga002:012	14a	@	-	tultuaan␣
+ga002:012	12	%inflection	PSS.PCP2.-3.TEMP	
+ga002:012	15	(@)	-	hän␣
+ga002:012	15	@	-	vetäytyi␣
+ga002:012	15	@	-	pois␣
+ga002:012	16	@	-	ja␣
+ga002:012	17	@	-	pysytteli␣
+ga002:012	17	@	-	erillään␣
+ga002:012	18	%case	LOC	
+ga002:012	19	@	-	peläten␣
+ga002:012	(20) 22a	@	-	ympärileikattuja
+ga002:012	21	%case	PTV	
+ga002:012	22b	,	-	,␣
+ga002:013	ga002:013	ga002:013	VERSE	Gal␣2:13␣
+ga002:013	1	@	-	ja␣
+ga002:013	3a	@	-	hänen␣
+ga002:013	case%3a	@	-	kanssaan␣
+ga002:013	2	@	-	lankesivat␣
+ga002:013	2	@	-	ulkokultaisuuteen␣
+ga002:013	(5) 6	@	-	muutkin␣
+ga002:013	4a	%clitic	kin	
+ga002:013	7a	@	-	juutalaiset
+ga002:013	7b	,	-	,␣
+ga002:013	8	@	-	niin␣
+ga002:013	8	@	-	että␣
+ga002:013	12	@	-	heidän␣
+ga002:013	(13) 14a	@	-	ulkokultaisuutensa␣
+ga002:013	11	@	-	tempasi␣
+ga002:013	11	@	-	mukaansa␣
+ga002:013	10	@	-	Barnabaankin
+ga002:013	9	%clitic	kin	
+ga002:013	14b	.	-	.␣
+ga002:014	ga002:014	ga002:014	VERSE	Gal␣2:14␣
+ga002:014	1	@	-	Mutta␣
+ga002:014	2	@	-	kun␣
+ga002:014	3	(@)	-	minä␣
+ga002:014	3	@	-	näin
+ga002:014	-	(,)	-	,␣
+ga002:014	4 5	@	-	etteivät␣
+ga002:014	6	(@)	-	he␣
+ga002:014	6	@	-	vaeltaneet␣
+ga002:014	6	@	-	suoraan␣
+ga002:014	(10) 11a	@	-	evankeliumin␣
+ga002:014	(8) 9	@	-	totuuden␣
+ga002:014	7	@	-	mukaan
+ga002:014	11b	,	-	,␣
+ga002:014	12	@	-	sanoin␣
+ga002:014	12	(@)	-	minä␣
+ga002:014	(13) 14	@	-	Keefaalle␣
+ga002:014	16a	@	-	kaikkien␣
+ga002:014	15	@	-	kuullen
+ga002:014	16b	:	-	:␣
+ga002:014	16b	@	-	"
+ga002:014	17	@	-	Jos␣
+ga002:014	18	@	-	sinä
+ga002:014	-	(,)	-	,␣
+ga002:014	20	(@)	-	joka␣
+ga002:014	20	@	-	olet␣
+ga002:014	19	@	-	juutalainen
+ga002:014	-	(,)	-	,␣
+ga002:014	25a	@	-	noudatat␣
+ga002:014	21	@	-	pakanain␣
+ga002:014	21	@	-	tapoja␣
+ga002:014	23	@	-	etkä␣
+ga002:014	22	%clitic	kA	
+ga002:014	24	@	-	juutalaisten
+ga002:014	25b	,	-	,␣
+ga002:014	26	@	-	miksi␣
+ga002:014	29	(@)	-	sinä␣
+ga002:014	29	@	-	pakotat␣
+ga002:014	(27) 28	@	-	pakanoita␣
+ga002:014	30a	@	-	noudattamaan␣
+ga002:014	30a	@	-	juutalaisten␣
+ga002:014	30a	@	-	tapoja
+ga002:014	-	(?)	-	?
+ga002:014	30b	@	-	"␣
+ga002:015	ga002:015	ga002:015	VERSE	Gal␣2:15␣
+ga002:015	1	@	-	Me␣
+ga002:015	-	(@)	-	olemme␣
+ga002:015	2	@	-	luonnostamme␣
+ga002:015	3	@	-	juutalaisia
+ga002:015	-	(,)	-	,␣
+ga002:015	5	@	-	emmekä␣
+ga002:015	4	%clitic	kA	
+ga002:015	7 8a	@	-	pakanasyntisiä
+ga002:015	6	%case	PTV	
+ga002:015	8b	;	-	;␣
+ga002:016	ga002:016	ga002:016	VERSE	Gal␣2:16␣
+ga002:016	2a	@	-	mutta␣
+ga002:016	1a	(@)	-	koska␣
+ga002:016	1a	@	-	tiedämme
+ga002:016	2b	,	-	,␣
+ga002:016	3 4	@	-	ettei␣
+ga002:016	6	@	-	ihminen␣
+ga002:016	5	@	-	tule␣
+ga002:016	5	@	-	vanhurskaaksi␣
+ga002:016	9	@	-	lain␣
+ga002:016	8	@	-	teoista
+ga002:016	7	%case	LOC	
+ga002:016	-	(,)	-	,␣
+ga002:016	10 11	@	-	vaan␣
+ga002:016	13	@	-	uskon␣
+ga002:016	12	@	-	kautta␣
+ga002:016	14	@	-	Jeesukseen␣
+ga002:016	15a	@	-	Kristukseen
+ga002:016	15b	,	-	,␣
+ga002:016	16	@	-	niin␣
+ga002:016	21a	(@)	-	olemme␣
+ga002:016	17	@	-	mekin␣
+ga002:016	16	%clitic	kin	
+ga002:016	21a	@	-	uskoneet␣
+ga002:016	19	@	-	Kristukseen␣
+ga002:016	20	@	-	Jeesukseen␣
+ga002:016	18	%case	LOC	
+ga002:016	23	@	-	tullaksemme␣
+ga002:016	22	%case	TRA	
+ga002:016	23	@	-	vanhurskaiksi␣
+ga002:016	25	@	-	uskosta␣
+ga002:016	24	%case	LOC	
+ga002:016	26	@	-	Kristukseen␣
+ga002:016	28	@	-	eikä␣
+ga002:016	27	%clitic	kA	
+ga002:016	31a	@	-	lain␣
+ga002:016	30	@	-	teoista
+ga002:016	29	%case	LOC	
+ga002:016	31b	,	-	,␣
+ga002:016	32	@	-	koska␣
+ga002:016	36	@	-	ei␣
+ga002:016	38	@	-	mikään␣
+ga002:016	39a	@	-	liha␣
+ga002:016	37	@	-	tule␣
+ga002:016	37	@	-	vanhurskaaksi␣
+ga002:016	35	@	-	lain␣
+ga002:016	34	@	-	teoista
+ga002:016	33	%case	LOC	
+ga002:016	39b	.	-	.␣
+ga002:017	ga002:017	ga002:017	VERSE	Gal␣2:17␣
+ga002:017	2	@	-	Mutta␣
+ga002:017	1	@	-	jos␣
+ga002:017	7	(@)	-	meidät␣
+ga002:017	9	@	-	itsemmekin
+ga002:017	8	%clitic	kin	
+ga002:017	-	(,)	-	,␣
+ga002:017	3	@	-	pyrkiessämme␣
+ga002:017	4	@	-	vanhurskautumaan␣
+ga002:017	6	@	-	Kristuksessa
+ga002:017	5	%case	LOC	
+ga002:017	-	(,)	-	,␣
+ga002:017	7	(@)	-	on␣
+ga002:017	7	@	-	havaittu␣
+ga002:017	10a	@	-	syntisiksi
+ga002:017	10b	,	-	,␣
+ga002:017	11	(@)	-	onko␣
+ga002:017	11	@	-	sitten␣
+ga002:017	12	@	-	Kristus␣
+ga002:017	13	@	-	synnin␣
+ga002:017	14a	@	-	palvelija
+ga002:017	-	(?)	-	?␣
+ga002:017	15 16a	@	-	Pois␣
+ga002:017	15 16a	@	-	se
+ga002:017	-	(!)	-	!␣
+ga002:018	ga002:018	ga002:018	VERSE	Gal␣2:18␣
+ga002:018	2	@	-	Sillä␣
+ga002:018	1	@	-	jos␣
+ga002:018	7a	(@)	-	minä␣
+ga002:018	6	@	-	uudestaan␣
+ga002:018	7a	@	-	rakennan␣
+ga002:018	5	@	-	sen
+ga002:018	-	(,)	-	,␣
+ga002:018	3	@	-	minkä␣
+ga002:018	4	(@)	-	olen␣
+ga002:018	4	@	-	hajottanut␣
+ga002:018	4	@	-	maahan
+ga002:018	7b	,	-	,␣
+ga002:018	10a	@	-	osoitan␣
+ga002:018	10a	(@)	-	minä␣
+ga002:018	pro%9	@	-	olevani␣
+ga002:018	8	(@)	-	lain␣
+ga002:018	8	@	-	rikkoja
+ga002:018	10b	.	-	.␣
+ga002:019	ga002:019	ga002:019	VERSE	Gal␣2:19␣
+ga002:019	2	@	-	Sillä␣
+ga002:019	1	@	-	minä␣
+ga002:019	6a	(@)	-	olen␣
+ga002:019	4	@	-	lain␣
+ga002:019	3	@	-	kautta␣
+ga002:019	6a	@	-	kuollut␣
+ga002:019	6a	@	-	pois␣
+ga002:019	5	@	-	laista
+ga002:019	6b	,	-	,␣
+ga002:019	9a	@	-	elääkseni␣
+ga002:019	7	%case	TRA	
+ga002:019	8	@	-	Jumalalle
+ga002:019	-	(.)	-	.␣
+ga002:019	11a	(@)	-	Minä␣
+ga002:019	11a	(@)	-	olen␣
+ga002:019	10	@	-	Kristuksen␣
+ga002:019	11a	@	-	kanssa␣
+ga002:019	11a	@	-	ristiinnaulittu
+ga002:019	11b	,	-	,␣
+ga002:020	ga002:020	ga002:020	VERSE	Gal␣2:20␣
+ga002:020	2	@	-	ja␣
+ga002:020	1	(@)	-	minä␣
+ga002:020	1	@	-	elän
+ga002:020	-	(,)	-	,␣
+ga002:020	3	@	-	en␣
+ga002:020	3	@	-	enää␣
+ga002:020	4a	@	-	minä
+ga002:020	4b	,	-	,␣
+ga002:020	6	@	-	vaan␣
+ga002:020	9a	@	-	Kristus␣
+ga002:020	5	@	-	elää␣
+ga002:020	8	@	-	minussa
+ga002:020	7	%case	LOC	
+ga002:020	9b	;	-	;␣
+ga002:020	11	@	-	ja␣
+ga002:020	10	@	-	minkä␣
+ga002:020	12	@	-	nyt␣
+ga002:020	13	@	-	elän␣
+ga002:020	15a	@	-	lihassa
+ga002:020	14	%case	LOC	
+ga002:020	-	(,)	-	,␣
+ga002:020	-	(@)	-	sen␣
+ga002:020	18	(@)	-	minä␣
+ga002:020	18	@	-	elän␣
+ga002:020	(22) 23	@	-	Jumalan␣
+ga002:020	(20) 21	@	-	Pojan␣
+ga002:020	17 (19)	@	-	uskossa
+ga002:020	16	%case	LOC	
+ga002:020	-	(,)	-	,␣
+ga002:020	24	@	-	hänen
+ga002:020	-	(,)	-	,␣
+ga002:020	24	@	-	joka␣
+ga002:020	25	(@)	-	on␣
+ga002:020	25	@	-	rakastanut␣
+ga002:020	26	@	-	minua␣
+ga002:020	27	@	-	ja␣
+ga002:020	28	@	-	antanut␣
+ga002:020	29	@	-	itsensä␣
+ga002:020	31a	@	-	minun␣
+ga002:020	30	@	-	edestäni
+ga002:020	31b	.	-	.␣
+ga002:021	ga002:021	ga002:021	VERSE	Gal␣2:21␣
+ga002:021	1	@	-	En␣
+ga002:021	2	(@)	-	minä␣
+ga002:021	2	@	-	tee␣
+ga002:021	2	@	-	mitättömäksi␣
+ga002:021	(5) 6a	@	-	Jumalan␣
+ga002:021	(3) 4	@	-	armoa
+ga002:021	6b	,	-	,␣
+ga002:021	8	@	-	sillä␣
+ga002:021	7	@	-	jos␣
+ga002:021	11a	@	-	vanhurskaus␣
+ga002:021	-	(@)	-	on␣
+ga002:021	-	(@)	-	saatavissa␣
+ga002:021	10	@	-	lain␣
+ga002:021	9	@	-	kautta
+ga002:021	11b	,	-	,␣
+ga002:021	12	@	-	silloinhan␣
+ga002:021	13	@	-	Kristus␣
+ga002:021	15a	(@)	-	on␣
+ga002:021	14	@	-	turhaan␣
+ga002:021	15a	@	-	kuollut
+ga002:021	15b	.	-	.␣
+ga003:001	ga003:001	ga003:001	VERSE	Gal␣3:1␣
+ga003:001	1	@	-	Oi␣
+ga003:001	case%3a	@	-	te␣
+ga003:001	2	@	-	älyttömät␣
+ga003:001	3a	@	-	galatalaiset
+ga003:001	-	(!)	-	!␣
+ga003:001	4	@	-	Kuka␣
+ga003:001	6a	(@)	-	on␣
+ga003:001	6a	@	-	lumonnut␣
+ga003:001	5	@	-	teidät
+ga003:001	6b	,	-	,␣
+ga003:001	7	@	-	joiden␣
+ga003:001	9	@	-	silmäin␣
+ga003:001	8	@	-	eteen␣
+ga003:001	10	@	-	Jeesus␣
+ga003:001	11	@	-	Kristus␣
+ga003:001	12	(@)	-	oli␣
+ga003:001	12	@	-	kuvattu␣
+ga003:001	13a	@	-	ristiinnaulittuna
+ga003:001	-	(?)	-	?␣
+ga003:002	ga003:002	ga003:002	VERSE	Gal␣3:2␣
+ga003:002	1	@	-	Tämän␣
+ga003:002	2	@	-	vain␣
+ga003:002	3	@	-	tahdon␣
+ga003:002	4	(@)	-	saada␣
+ga003:002	6a	@	-	teiltä␣
+ga003:002	5	%case	LOC	
+ga003:002	4	@	-	tietää
+ga003:002	6b	:	-	:␣
+ga003:002	9	@	-	lain␣
+ga003:002	8	@	-	teoistako␣
+ga003:002	7	%case	LOC	
+ga003:002	12	@	-	saitte␣
+ga003:002	(10) 11	@	-	Hengen␣
+ga003:002	13	@	-	vai␣
+ga003:002	16a	@	-	uskossa␣
+ga003:002	15	@	-	kuulemisesta
+ga003:002	14	%case	LOC	
+ga003:002	-	(?)	-	?␣
+ga003:003	ga003:003	ga003:003	VERSE	Gal␣3:3␣
+ga003:003	1	@	-	Niinkö␣
+ga003:003	2	@	-	älyttömiä␣
+ga003:003	3a	@	-	olette
+ga003:003	-	(?)	-	?␣
+ga003:003	4	(@)	-	Te␣
+ga003:003	4	@	-	alotitte␣
+ga003:003	5	@	-	Hengessä
+ga003:003	-	(,)	-	,␣
+ga003:003	7	@	-	lihassako␣
+ga003:003	6	@	-	nyt␣
+ga003:003	8	@	-	lopetatte
+ga003:003	9b	?	-	?␣
+ga003:004	ga003:004	ga003:004	VERSE	Gal␣3:4␣
+ga003:004	1	@	-	Niin␣
+ga003:004	1	@	-	paljonko␣
+ga003:004	2	(@)	-	olette␣
+ga003:004	3a	@	-	turhaan␣
+ga003:004	2	@	-	kärsineet
+ga003:004	-	(?)	-	?␣
+ga003:004	3b	-	-	-␣
+ga003:004	4 5 6	@	-	jos␣
+ga003:004	-	(@)	-	se␣
+ga003:004	-	(@)	-	on␣
+ga003:004	7a	@	-	turhaa␣
+ga003:004	-	(@)	-	ollut
+ga003:004	-	(.)	-	.␣
+ga003:005	ga003:005	ga003:005	VERSE	Gal␣3:5␣
+ga003:005	1	@	-	Joka␣
+ga003:005	2	@	-	siis␣
+ga003:005	3	@	-	antaa␣
+ga003:005	4	@	-	teille␣
+ga003:005	(5) 6	@	-	Hengen␣
+ga003:005	7	@	-	ja␣
+ga003:005	8	@	-	tekee␣
+ga003:005	9	@	-	voimallisia␣
+ga003:005	9	@	-	tekoja␣
+ga003:005	11a	@	-	teidän␣
+ga003:005	10	@	-	keskuudessanne
+ga003:005	-	(,)	-	,␣
+ga003:005	-	(@)	-	saako␣
+ga003:005	-	(@)	-	hän␣
+ga003:005	-	(@)	-	sen␣
+ga003:005	-	(@)	-	aikaan␣
+ga003:005	14	@	-	lain␣
+ga003:005	13	@	-	tekojen␣
+ga003:005	12	%case	GEN	
+ga003:005	15	@	-	vai␣
+ga003:005	18a	@	-	uskossa␣
+ga003:005	17	@	-	kuulemisen␣
+ga003:005	16	@	-	kautta
+ga003:005	18b	,	-	,␣
+ga003:006	ga003:006	ga003:006	VERSE	Gal␣3:6␣
+ga003:006	1	@	-	samalla␣
+ga003:006	1	@	-	tavalla␣
+ga003:006	1	@	-	kuin␣
+ga003:006	-	(@)	-	"
+ga003:006	2	@	-	Aabraham␣
+ga003:006	3	@	-	uskoi␣
+ga003:006	(4) 5a	@	-	Jumalaa
+ga003:006	5b	,	-	,␣
+ga003:006	6	@	-	ja␣
+ga003:006	7	(@)	-	se␣
+ga003:006	7	@	-	luettiin␣
+ga003:006	8	@	-	hänelle␣
+ga003:006	10a	@	-	vanhurskaudeksi
+ga003:006	9	%case	TRA	
+ga003:006	-	(@)	-	"
+ga003:006	-	(?)	-	?␣
+ga003:007	ga003:007	ga003:007	VERSE	Gal␣3:7␣
+ga003:007	1	@	-	Tietäkää␣
+ga003:007	2	@	-	siis
+ga003:007	-	(,)	-	,␣
+ga003:007	3	@	-	että␣
+ga003:007	4	@	-	ne
+ga003:007	-	(,)	-	,␣
+ga003:007	4	@	-	jotka␣
+ga003:007	6a	@	-	uskoon␣
+ga003:007	5	@	-	perustautuvat
+ga003:007	-	(,)	-	,␣
+ga003:007	(7)	-	UNTRANSLATED	
+ga003:007	9	@	-	ovat␣
+ga003:007	10a	@	-	Aabrahamin␣
+ga003:007	8	@	-	lapsia
+ga003:007	10b	.	-	.␣
+ga003:008	ga003:008	ga003:008	VERSE	Gal␣3:8␣
+ga003:008	2	@	-	Ja␣
+ga003:008	1	(@)	-	koska␣
+ga003:008	(3) 4	@	-	Raamattu␣
+ga003:008	1	@	-	edeltäpäin␣
+ga003:008	1	@	-	näki
+ga003:008	-	(,)	-	,␣
+ga003:008	5	@	-	että␣
+ga003:008	(11) 12a	@	-	Jumala␣
+ga003:008	8	@	-	vanhurskauttaa␣
+ga003:008	10 (9)	@	-	pakanat␣
+ga003:008	7	@	-	uskosta
+ga003:008	6	%case	LOC	
+ga003:008	12b	,	-	,␣
+ga003:008	13	@	-	julisti␣
+ga003:008	-	(@)	-	se␣
+ga003:008	(14) 15	@	-	Aabrahamille␣
+ga003:008	13	@	-	edeltäpäin␣
+ga003:008	-	(@)	-	tämän␣
+ga003:008	13	@	-	hyvän␣
+ga003:008	13	@	-	sanoman
+ga003:008	16	:	-	:␣
+ga003:008	-	(@)	-	"
+ga003:008	19	@	-	Sinussa␣
+ga003:008	18	%case	LOC	
+ga003:008	20	@	-	kaikki␣
+ga003:008	(21) 22a	@	-	kansat␣
+ga003:008	17	(@)	-	tulevat␣
+ga003:008	17	@	-	siunatuiksi
+ga003:008	22b	@	-	"
+ga003:008	22b	.	-	.␣
+ga003:009	ga003:009	ga003:009	VERSE	Gal␣3:9␣
+ga003:009	1	@	-	Niinmuodoin␣
+ga003:009	2	@	-	ne
+ga003:009	-	(,)	-	,␣
+ga003:009	2	@	-	jotka␣
+ga003:009	pro%3	@	-	perustautuvat␣
+ga003:009	4	@	-	uskoon
+ga003:009	-	(,)	-	,␣
+ga003:009	5	@	-	siunataan␣
+ga003:009	8	@	-	uskovan␣
+ga003:009	(7) 9a	@	-	Aabrahamin␣
+ga003:009	6	@	-	kanssa
+ga003:009	9b	.	-	.␣
+ga003:010	ga003:010	ga003:010	VERSE	Gal␣3:10␣
+ga003:010	2	@	-	Sillä␣
+ga003:010	1	@	-	kaikki
+ga003:010	-	(,)	-	,␣
+ga003:010	1	@	-	jotka␣
+ga003:010	6a	@	-	perustautuvat␣
+ga003:010	5	@	-	lain␣
+ga003:010	4	@	-	tekoihin
+ga003:010	3	%case	LOC	
+ga003:010	6b	,	-	,␣
+ga003:010	9a	@	-	ovat␣
+ga003:010	8	@	-	kirouksen␣
+ga003:010	7	@	-	alaisia
+ga003:010	9b	;	-	;␣
+ga003:010	11	@	-	sillä␣
+ga003:010	10	@	-	kirjoitettu␣
+ga003:010	10	(@)	-	on
+ga003:010	12	:	-	:␣
+ga003:010	-	(@)	-	"
+ga003:010	13	@	-	Kirottu␣
+ga003:010	13	(@)	-	olkoon␣
+ga003:010	14	@	-	jokainen
+ga003:010	-	(,)	-	,␣
+ga003:010	15	@	-	joka␣
+ga003:010	16	@	-	ei␣
+ga003:010	17	@	-	pysy␣
+ga003:010	18	@	-	kaikessa
+ga003:010	-	(,)	-	,␣
+ga003:010	19	@	-	mikä␣
+ga003:010	20	(@)	-	on␣
+ga003:010	20	@	-	kirjoitettuna␣
+ga003:010	(24) 25	@	-	lain␣
+ga003:010	(22) 23	@	-	kirjassa
+ga003:010	21	%case	LOC	
+ga003:010	-	(,)	-	,␣
+ga003:010	26	@	-	niin␣
+ga003:010	26	@	-	että␣
+ga003:010	27	(@)	-	hän␣
+ga003:010	28a	@	-	sen␣
+ga003:010	27	@	-	tekee
+ga003:010	28b	@	-	"
+ga003:010	28b	.	-	.␣
+ga003:011	ga003:011	ga003:011	VERSE	Gal␣3:11␣
+ga003:011	2	@	-	Ja␣
+ga003:011	10a	@	-	selvää␣
+ga003:011	-	(@)	-	on
+ga003:011	-	(,)	-	,␣
+ga003:011	1	@	-	ettei␣
+ga003:011	5	@	-	kukaan␣
+ga003:011	6	@	-	tule␣
+ga003:011	6	@	-	vanhurskaaksi␣
+ga003:011	(8) 9	@	-	Jumalan␣
+ga003:011	7	@	-	edessä␣
+ga003:011	4	@	-	lain␣
+ga003:011	3	@	-	kautta
+ga003:011	-	(,)	-	,␣
+ga003:011	11	@	-	koska␣
+ga003:011	-	(@)	-	"
+ga003:011	(12) 13	@	-	vanhurskas␣
+ga003:011	16a	(@)	-	on␣
+ga003:011	16a	@	-	elävä␣
+ga003:011	15	@	-	uskosta
+ga003:011	14	%case	LOC	
+ga003:011	16b	@	-	"
+ga003:011	16b	.	-	.␣
+ga003:012	ga003:012	ga003:012	VERSE	Gal␣3:12␣
+ga003:012	2	@	-	Mutta␣
+ga003:012	(1) 3	@	-	laki␣
+ga003:012	4	@	-	ei␣
+ga003:012	5	@	-	perustaudu␣
+ga003:012	7a	@	-	uskoon
+ga003:012	6	%case	LOC	
+ga003:012	7b	,	-	,␣
+ga003:012	8	@	-	vaan
+ga003:012	-	(:)	-	:␣
+ga003:012	-	(@)	-	"
+ga003:012	9	@	-	Joka␣
+ga003:012	11	@	-	ne␣
+ga003:012	10	@	-	täyttää
+ga003:012	-	(,)	-	,␣
+ga003:012	12	(@)	-	on␣
+ga003:012	14a	@	-	niistä␣
+ga003:012	13	%case	LOC	
+ga003:012	12	@	-	elävä
+ga003:012	14b	@	-	"
+ga003:012	14b	.	-	.␣
+ga003:013	ga003:013	ga003:013	VERSE	Gal␣3:13␣
+ga003:013	1	@	-	Kristus␣
+ga003:013	3	(@)	-	on␣
+ga003:013	3	@	-	lunastanut␣
+ga003:013	2	@	-	meidät␣
+ga003:013	(7) 8	@	-	lain␣
+ga003:013	(5) 6	@	-	kirouksesta
+ga003:013	4	%case	LOC	
+ga003:013	-	(,)	-	,␣
+ga003:013	9	(@)	-	kun␣
+ga003:013	9	(@)	-	hän␣
+ga003:013	9	@	-	tuli␣
+ga003:013	12a	@	-	kiroukseksi␣
+ga003:013	11	@	-	meidän␣
+ga003:013	10	@	-	edestämme␣
+ga003:013	12b	-	-	-␣
+ga003:013	13	@	-	sillä␣
+ga003:013	14a	@	-	kirjoitettu␣
+ga003:013	14a	(@)	-	on
+ga003:013	14b	:	-	:␣
+ga003:013	14b	@	-	"
+ga003:013	15	@	-	Kirottu␣
+ga003:013	-	(@)	-	on␣
+ga003:013	16	@	-	jokainen
+ga003:013	-	(,)	-	,␣
+ga003:013	17	@	-	joka␣
+ga003:013	18	(@)	-	on␣
+ga003:013	20a	@	-	puuhun␣
+ga003:013	19	%case	LOC	
+ga003:013	18	@	-	ripustettu
+ga003:013	20b	@	-	"␣
+ga003:013	20b	-	-	-␣
+ga003:014	ga003:014	ga003:014	VERSE	Gal␣3:14␣
+ga003:014	1	@	-	että␣
+ga003:014	(7) 8	@	-	Aabrahamin␣
+ga003:014	(5) 6	@	-	siunaus␣
+ga003:014	9	@	-	tulisi␣
+ga003:014	12a	@	-	Jeesuksessa␣
+ga003:014	11	@	-	Kristuksessa␣
+ga003:014	10	%case	LOC	
+ga003:014	(3) 4	@	-	pakanain␣
+ga003:014	2	@	-	osaksi␣
+ga003:014	-	(@)	-	ja␣
+ga003:014	18	(@)	-	me␣
+ga003:014	-	(@)	-	niin␣
+ga003:014	(20) 21a	@	-	uskon␣
+ga003:014	19	@	-	kautta␣
+ga003:014	18	@	-	saisimme␣
+ga003:014	13	%case	?	
+ga003:014	(14) 15	@	-	luvatun␣
+ga003:014	(16) 17	@	-	Hengen
+ga003:014	21b	.	-	.␣
+ga003:015	ga003:015	ga003:015	VERSE	Gal␣3:15␣
+ga003:015	1a	@	-	Veljet
+ga003:015	-	(,)	-	,␣
+ga003:015	4a	(@)	-	minä␣
+ga003:015	4a	@	-	puhun␣
+ga003:015	3	@	-	ihmisten␣
+ga003:015	2	@	-	tavalla
+ga003:015	4b	.	-	.␣
+ga003:015	9	@	-	Eihän␣
+ga003:015	9	@	-	kukaan␣
+ga003:015	tasp%10	@	-	voi␣
+ga003:015	10	@	-	kumota␣
+ga003:015	(5) 6	@	-	ihmisenkään␣
+ga003:015	7	@	-	vahvistettua␣
+ga003:015	8	@	-	testamenttia␣
+ga003:015	11	@	-	eikä␣
+ga003:015	-	(@)	-	siihen␣
+ga003:015	-	(@)	-	mitään␣
+ga003:015	12a	@	-	lisätä
+ga003:015	12b	.	-	.␣
+ga003:016	ga003:016	ga003:016	VERSE	Gal␣3:16␣
+ga003:016	2	@	-	Mutta␣
+ga003:016	-	(@)	-	nyt␣
+ga003:016	4	@	-	lausuttiin␣
+ga003:016	(5) 6	@	-	lupaukset␣
+ga003:016	(1) 3	@	-	Aabrahamille␣
+ga003:016	7	@	-	ja␣
+ga003:016	10a	@	-	hänen␣
+ga003:016	(8) 9	@	-	siemenelleen
+ga003:016	-	(.)	-	.␣
+ga003:016	12a	(@)	-	Hän␣
+ga003:016	11	@	-	ei␣
+ga003:016	12a	@	-	sano
+ga003:016	12b	:	-	:␣
+ga003:016	12b	@	-	"
+ga003:016	13	@	-	Ja␣
+ga003:016	(14) 15a	@	-	siemenille
+ga003:016	15b	@	-	"
+ga003:016	15b	,	-	,␣
+ga003:016	16	@	-	ikäänkuin␣
+ga003:016	18	@	-	monesta
+ga003:016	17	%case	LOC	
+ga003:016	-	(,)	-	,␣
+ga003:016	19	@	-	vaan␣
+ga003:016	20	@	-	ikäänkuin␣
+ga003:016	22a	@	-	yhdestä
+ga003:016	21	%case	LOC	
+ga003:016	22b	:	-	:␣
+ga003:016	22b	@	-	"
+ga003:016	23	@	-	Ja␣
+ga003:016	26a	@	-	sinun␣
+ga003:016	(24) 25	@	-	siemenellesi
+ga003:016	26b	@	-	"
+ga003:016	26b	,	-	,␣
+ga003:016	27	@	-	joka␣
+ga003:016	28	@	-	on␣
+ga003:016	29a	@	-	Kristus
+ga003:016	29b	.	-	.␣
+ga003:017	ga003:017	ga003:017	VERSE	Gal␣3:17␣
+ga003:017	3a	(@)	-	Minä␣
+ga003:017	3a	@	-	tarkoitan␣
+ga003:017	(2)	-	UNTRANSLATED	
+ga003:017	1	@	-	tätä
+ga003:017	3b	:	-	:␣
+ga003:017	(7) 8	@	-	Jumalan␣
+ga003:017	6	%case	GEN	
+ga003:017	5	@	-	ennen␣
+ga003:017	5	@	-	vahvistamaa␣
+ga003:017	4	@	-	testamenttia␣
+ga003:017	17	@	-	ei␣
+ga003:017	11 12 13	@	-	neljänsadan␣
+ga003:017	11 12 13	@	-	kolmenkymmenen␣
+ga003:017	14	@	-	vuoden␣
+ga003:017	10	@	-	perästä␣
+ga003:017	15	@	-	tullut␣
+ga003:017	16 (9)	@	-	laki␣
+ga003:017	tasp%18	@	-	voi␣
+ga003:017	18	@	-	kumota
+ga003:017	-	(,)	-	,␣
+ga003:017	19	@	-	niin␣
+ga003:017	19	@	-	että␣
+ga003:017	-	(@)	-	se␣
+ga003:017	(20) 21	@	-	tekisi␣
+ga003:017	(22) 23a	@	-	lupauksen␣
+ga003:017	(20) 21	@	-	mitättömäksi
+ga003:017	23b	.	-	.␣
+ga003:018	ga003:018	ga003:018	VERSE	Gal␣3:18␣
+ga003:018	2	@	-	Sillä␣
+ga003:018	1	@	-	jos␣
+ga003:018	(5) 6a	@	-	perintö␣
+ga003:018	-	(@)	-	tulisi␣
+ga003:018	4	@	-	laista
+ga003:018	3	%case	LOC	
+ga003:018	-	(,)	-	,␣
+ga003:018	-	(@)	-	niin␣
+ga003:018	-	(@)	-	se␣
+ga003:018	7	@	-	ei␣
+ga003:018	7	@	-	enää␣
+ga003:018	-	(@)	-	tulisikaan␣
+ga003:018	9a	@	-	lupauksesta
+ga003:018	8	%case	LOC	
+ga003:018	-	(.)	-	.␣
+ga003:018	11	@	-	Mutta␣
+ga003:018	(10) 12	@	-	Aabrahamille␣
+ga003:018	(16) 17a	@	-	Jumala␣
+ga003:018	15	(@)	-	on␣
+ga003:018	-	(@)	-	sen␣
+ga003:018	15	@	-	lahjoittanut␣
+ga003:018	14	@	-	lupauksen␣
+ga003:018	13	@	-	kautta
+ga003:018	17b	.	-	.␣
+ga003:019	ga003:019	ga003:019	VERSE	Gal␣3:19␣
+ga003:019	1	@	-	Mitä␣
+ga003:019	1	@	-	varten␣
+ga003:019	2	@	-	sitten␣
+ga003:019	-	(@)	-	on␣
+ga003:019	(3) 4a	@	-	laki
+ga003:019	-	(?)	-	?␣
+ga003:019	8a	(@)	-	Se␣
+ga003:019	8a	(@)	-	on␣
+ga003:019	(5) 6	@	-	rikkomusten␣
+ga003:019	7	@	-	tähden␣
+ga003:019	8a	@	-	jäljestäpäin␣
+ga003:019	8a	@	-	lisätty␣
+ga003:019	-	(@)	-	olemaan␣
+ga003:019	10 9	@	-	siihen␣
+ga003:019	10 9	@	-	asti
+ga003:019	-	(,)	-	,␣
+ga003:019	10 9	@	-	kunnes␣
+ga003:019	11	(@)	-	oli␣
+ga003:019	11	@	-	tuleva␣
+ga003:019	12	@	-	se␣
+ga003:019	13	@	-	siemen
+ga003:019	-	(,)	-	,␣
+ga003:019	14	@	-	jolle␣
+ga003:019	15a	@	-	lupaus␣
+ga003:019	15a	(@)	-	oli␣
+ga003:019	15a	@	-	annettu
+ga003:019	-	(;)	-	;␣
+ga003:019	-	(@)	-	ja␣
+ga003:019	16	(@)	-	se␣
+ga003:019	16	@	-	säädettiin␣
+ga003:019	18	@	-	enkelien␣
+ga003:019	17	@	-	kautta
+ga003:019	-	(,)	-	,␣
+ga003:019	21a	@	-	välimiehen␣
+ga003:019	20	@	-	kädellä
+ga003:019	19	%case	LOC	
+ga003:019	21b	.	-	.␣
+ga003:020	ga003:020	ga003:020	VERSE	Gal␣3:20␣
+ga003:020	(1) 3	@	-	Välimies␣
+ga003:020	2	@	-	taas␣
+ga003:020	5	@	-	ei␣
+ga003:020	6a	@	-	ole␣
+ga003:020	4	@	-	yhtä␣
+ga003:020	case%4	@	-	varten
+ga003:020	-	(;)	-	;␣
+ga003:020	8	@	-	mutta␣
+ga003:020	(7) 9	@	-	Jumala␣
+ga003:020	11a	@	-	on␣
+ga003:020	10	@	-	yksi
+ga003:020	11b	.	-	.␣
+ga003:021	ga003:021	ga003:021	VERSE	Gal␣3:21␣
+ga003:021	2	(@)	-	Onko␣
+ga003:021	2	@	-	sitten␣
+ga003:021	(1) 3	@	-	laki␣
+ga003:021	4	@	-	vastoin␣
+ga003:021	(7) 8a	@	-	Jumalan␣
+ga003:021	(5) 6a	@	-	lupauksia
+ga003:021	-	(?)	-	?␣
+ga003:021	10a 9	@	-	Pois␣
+ga003:021	10a 9	@	-	se
+ga003:021	-	(!)	-	!␣
+ga003:021	12	@	-	Sillä␣
+ga003:021	11	@	-	jos␣
+ga003:021	13	(@)	-	olisi␣
+ga003:021	13	@	-	annettu␣
+ga003:021	14	@	-	laki
+ga003:021	-	(,)	-	,␣
+ga003:021	15	@	-	joka␣
+ga003:021	16	@	-	voisi␣
+ga003:021	17a	@	-	eläväksi␣
+ga003:021	17a	@	-	tehdä
+ga003:021	17b	,	-	,␣
+ga003:021	18	(@)	-	niin␣
+ga003:021	(23) 24a	@	-	vanhurskaus␣
+ga003:021	18	@	-	todella␣
+ga003:021	22	@	-	tulisi␣
+ga003:021	20	@	-	laista
+ga003:021	19	%case	LOC	
+ga003:021	24b	.	-	.␣
+ga003:022	ga003:022	ga003:022	VERSE	Gal␣3:22␣
+ga003:022	1	@	-	Mutta␣
+ga003:022	(3) 4	@	-	Raamattu␣
+ga003:022	2	(@)	-	on␣
+ga003:022	2	@	-	sulkenut␣
+ga003:022	(5) 6	@	-	kaikki␣
+ga003:022	8a	@	-	synnin␣
+ga003:022	7	@	-	alle
+ga003:022	8b	,	-	,␣
+ga003:022	9	@	-	että␣
+ga003:022	10	@	-	se
+ga003:022	-	(,)	-	,␣
+ga003:022	10	@	-	mikä␣
+ga003:022	11	@	-	luvattu␣
+ga003:022	11	(@)	-	oli
+ga003:022	-	(,)	-	,␣
+ga003:022	16	@	-	annettaisiin␣
+ga003:022	13	@	-	uskosta␣
+ga003:022	12	%case	LOC	
+ga003:022	14	@	-	Jeesukseen␣
+ga003:022	15	@	-	Kristukseen␣
+ga003:022	17	@	-	niille
+ga003:022	-	(,)	-	,␣
+ga003:022	17	@	-	jotka␣
+ga003:022	18a	@	-	uskovat
+ga003:022	18b	.	-	.␣
+ga003:023	ga003:023	ga003:023	VERSE	Gal␣3:23␣
+ga003:023	3	@	-	Mutta␣
+ga003:023	1	@	-	ennenkuin␣
+ga003:023	(5) 6	@	-	usko␣
+ga003:023	(2) 4	@	-	tuli
+ga003:023	-	(,)	-	,␣
+ga003:023	9	@	-	vartioitiin␣
+ga003:023	9	(@)	-	meitä␣
+ga003:023	8	@	-	lain␣
+ga003:023	7	@	-	alle␣
+ga003:023	10	@	-	suljettuina␣
+ga003:023	14	@	-	uskoa␣
+ga003:023	11	@	-	varten
+ga003:023	-	(,)	-	,␣
+ga003:023	12	@	-	joka␣
+ga003:023	15a	(@)	-	oli␣
+ga003:023	13	@	-	vastedes␣
+ga003:023	15a	@	-	ilmestyvä
+ga003:023	15b	.	-	.␣
+ga003:024	ga003:024	ga003:024	VERSE	Gal␣3:24␣
+ga003:024	1	@	-	Niinmuodoin␣
+ga003:024	6	(@)	-	on␣
+ga003:024	(2) 3	@	-	laista␣
+ga003:024	6	@	-	tullut␣
+ga003:024	5	@	-	meille␣
+ga003:024	4	@	-	kasvattaja␣
+ga003:024	8a	@	-	Kristukseen
+ga003:024	7	%case	LOC	
+ga003:024	8b	,	-	,␣
+ga003:024	9	@	-	että␣
+ga003:024	12a	(@)	-	me␣
+ga003:024	11	@	-	uskosta␣
+ga003:024	10	%case	LOC	
+ga003:024	12a	@	-	vanhurskaiksi␣
+ga003:024	12a	@	-	tulisimme
+ga003:024	12b	.	-	.␣
+ga003:025	ga003:025	ga003:025	VERSE	Gal␣3:25␣
+ga003:025	2	@	-	Mutta␣
+ga003:025	(3) 4	@	-	uskon␣
+ga003:025	1	@	-	tultua␣
+ga003:025	8a	(@)	-	me␣
+ga003:025	5	@	-	emme␣
+ga003:025	5	@	-	enää␣
+ga003:025	8a	@	-	ole␣
+ga003:025	7	@	-	kasvattajan␣
+ga003:025	6	@	-	alaisia
+ga003:025	8b	.	-	.␣
+ga003:026	ga003:026	ga003:026	VERSE	Gal␣3:26␣
+ga003:026	2	@	-	Sillä␣
+ga003:026	-	(@)	-	te␣
+ga003:026	5	@	-	olette␣
+ga003:026	1	@	-	kaikki␣
+ga003:026	(7) 8	@	-	uskon␣
+ga003:026	6	@	-	kautta␣
+ga003:026	4	@	-	Jumalan␣
+ga003:026	3	@	-	lapsia␣
+ga003:026	10	@	-	Kristuksessa␣
+ga003:026	11a	@	-	Jeesuksessa
+ga003:026	9	%case	LOC	
+ga003:026	11b	.	-	.␣
+ga003:027	ga003:027	ga003:027	VERSE	Gal␣3:27␣
+ga003:027	2	@	-	Sillä␣
+ga003:027	1	@	-	kaikki␣
+ga003:027	5a	(@)	-	te
+ga003:027	-	(,)	-	,␣
+ga003:027	1	@	-	jotka␣
+ga003:027	5a	(@)	-	olette␣
+ga003:027	4	@	-	Kristukseen␣
+ga003:027	3	%case	LOC	
+ga003:027	5a	@	-	kastetut
+ga003:027	5b	,	-	,␣
+ga003:027	7a	(@)	-	olette␣
+ga003:027	6	@	-	Kristuksen␣
+ga003:027	7a	@	-	päällenne␣
+ga003:027	7a	@	-	pukeneet
+ga003:027	7b	.	-	.␣
+ga003:028	ga003:028	ga003:028	VERSE	Gal␣3:28␣
+ga003:028	1	@	-	Ei␣
+ga003:028	2	@	-	ole␣
+ga003:028	-	(@)	-	tässä␣
+ga003:028	3	@	-	juutalaista␣
+ga003:028	4	@	-	eikä␣
+ga003:028	5a	@	-	kreikkalaista
+ga003:028	5b	,	-	,␣
+ga003:028	6	@	-	ei␣
+ga003:028	7	@	-	ole␣
+ga003:028	8	@	-	orjaa␣
+ga003:028	9	@	-	eikä␣
+ga003:028	10a	@	-	vapaata
+ga003:028	10b	,	-	,␣
+ga003:028	11	@	-	ei␣
+ga003:028	12	@	-	ole␣
+ga003:028	13	@	-	miestä␣
+ga003:028	14	@	-	eikä␣
+ga003:028	15a	@	-	naista
+ga003:028	15b	;	-	;␣
+ga003:028	17	@	-	sillä␣
+ga003:028	16	@	-	kaikki␣
+ga003:028	18	@	-	te␣
+ga003:028	20	@	-	olette␣
+ga003:028	19	@	-	yhtä␣
+ga003:028	22	@	-	Kristuksessa␣
+ga003:028	23a	@	-	Jeesuksessa
+ga003:028	21	%case	LOC	
+ga003:028	23b	.	-	.␣
+ga003:029	ga003:029	ga003:029	VERSE	Gal␣3:29␣
+ga003:029	2	@	-	Mutta␣
+ga003:029	1	@	-	jos␣
+ga003:029	3	@	-	te␣
+ga003:029	-	(@)	-	olette␣
+ga003:029	4a	@	-	Kristuksen␣
+ga003:029	case%4a	@	-	omat
+ga003:029	4b	,	-	,␣
+ga003:029	5	@	-	niin␣
+ga003:029	-	(@)	-	te␣
+ga003:029	-	(@)	-	siis␣
+ga003:029	9a	@	-	olette␣
+ga003:029	(6) 7	@	-	Aabrahamin␣
+ga003:029	8	@	-	siementä
+ga003:029	9b	,	-	,␣
+ga003:029	12a	@	-	perillisiä␣
+ga003:029	11	@	-	lupauksen␣
+ga003:029	10	@	-	mukaan
+ga003:029	12b	.	-	.␣
+ga004:001	ga004:001	ga004:001	VERSE	Gal␣4:1␣
+ga004:001	2a	@	-	Mutta␣
+ga004:001	1	(@)	-	minä␣
+ga004:001	1	@	-	sanon
+ga004:001	2b	:	-	:␣
+ga004:001	4 5	@	-	niin␣
+ga004:001	4 5	@	-	kauan␣
+ga004:001	4 5	@	-	kuin␣
+ga004:001	3	%case	?	
+ga004:001	(6) 7	@	-	perillinen␣
+ga004:001	9a	@	-	on␣
+ga004:001	8	@	-	alaikäinen
+ga004:001	9b	,	-	,␣
+ga004:001	10	@	-	ei␣
+ga004:001	11	(@)	-	hän␣
+ga004:001	10	@	-	missään␣
+ga004:001	10	@	-	kohden␣
+ga004:001	11	@	-	eroa␣
+ga004:001	12	@	-	orjasta
+ga004:001	-	(,)	-	,␣
+ga004:001	15a	(@)	-	vaikka␣
+ga004:001	15a	(@)	-	hän␣
+ga004:001	15a	@	-	onkin␣
+ga004:001	14	@	-	kaiken␣
+ga004:001	13	@	-	herra
+ga004:001	15b	;	-	;␣
+ga004:002	ga004:002	ga004:002	VERSE	Gal␣4:2␣
+ga004:002	1	@	-	vaan␣
+ga004:002	4	(@)	-	hän␣
+ga004:002	4	@	-	on␣
+ga004:002	3	@	-	holhoojain␣
+ga004:002	5	@	-	ja␣
+ga004:002	6	@	-	huoneenhaltijain␣
+ga004:002	2	@	-	alainen␣
+ga004:002	(10) 11a	@	-	isän␣
+ga004:002	(8) 9	@	-	määräämään␣
+ga004:002	(8) 9	@	-	aikaan␣
+ga004:002	7	@	-	asti
+ga004:002	11b	.	-	.␣
+ga004:003	ga004:003	ga004:003	VERSE	Gal␣4:3␣
+ga004:003	1	@	-	Samoin␣
+ga004:003	3a	@	-	mekin
+ga004:003	2	%clitic	kin	
+ga004:003	3b	;	-	;␣
+ga004:003	4	@	-	kun␣
+ga004:003	5	@	-	olimme␣
+ga004:003	6a	@	-	alaikäisiä
+ga004:003	6b	,	-	,␣
+ga004:003	12	@	-	olimme␣
+ga004:003	13a	@	-	orjuutetut␣
+ga004:003	(10) 11	@	-	maailman␣
+ga004:003	(8) 9	@	-	alkeisvoimien␣
+ga004:003	7	@	-	alle
+ga004:003	13b	.	-	.␣
+ga004:004	ga004:004	ga004:004	VERSE	Gal␣4:4␣
+ga004:004	2	@	-	Mutta␣
+ga004:004	1	@	-	kun␣
+ga004:004	(6) 7a	@	-	aika␣
+ga004:004	3	@	-	oli␣
+ga004:004	(4) 5	@	-	täytetty
+ga004:004	7b	,	-	,␣
+ga004:004	8	@	-	lähetti␣
+ga004:004	10 (9)	@	-	Jumala␣
+ga004:004	(11) 12	@	-	Poikansa
+ga004:004	13a	%pers	3	
+ga004:004	13b	,	-	,␣
+ga004:004	16a	@	-	vaimosta␣
+ga004:004	15	%case	LOC	
+ga004:004	14	@	-	syntyneen
+ga004:004	16b	,	-	,␣
+ga004:004	19a	@	-	lain␣
+ga004:004	18	@	-	alaiseksi␣
+ga004:004	17	@	-	syntyneen
+ga004:004	19b	,	-	,␣
+ga004:005	ga004:005	ga004:005	VERSE	Gal␣4:5␣
+ga004:005	5a	@	-	lunastamaan␣
+ga004:005	1	%case	LOC	
+ga004:005	4	@	-	lain␣
+ga004:005	(2) 3	@	-	alaiset
+ga004:005	5b	,	-	,␣
+ga004:005	6	@	-	että␣
+ga004:005	9a	(@)	-	me␣
+ga004:005	9a	@	-	pääsisimme␣
+ga004:005	(7) 8	@	-	lapsen␣
+ga004:005	(7) 8	@	-	asemaan
+ga004:005	9b	.	-	.␣
+ga004:006	ga004:006	ga004:006	VERSE	Gal␣4:6␣
+ga004:006	2	@	-	Ja␣
+ga004:006	1	@	-	koska␣
+ga004:006	3	(@)	-	te␣
+ga004:006	3	@	-	olette␣
+ga004:006	4a	@	-	lapsia
+ga004:006	4b	,	-	,␣
+ga004:006	5	(@)	-	on␣
+ga004:006	(6) 7	@	-	Jumala␣
+ga004:006	5	@	-	lähettänyt␣
+ga004:006	16	@	-	meidän␣
+ga004:006	(14) 15	@	-	sydämeemme␣
+ga004:006	13	%case	LOC	
+ga004:006	(10) 11	@	-	Poikansa␣
+ga004:006	12	%pers	3	
+ga004:006	(8) 9	@	-	Hengen
+ga004:006	-	(,)	-	,␣
+ga004:006	17a	(@)	-	joka␣
+ga004:006	17a	@	-	huutaa
+ga004:006	17b	:	-	:␣
+ga004:006	17b	@	-	"
+ga004:006	18	@	-	Abba
+ga004:006	-	(!)	-	!␣
+ga004:006	(19) 20a	@	-	Isä
+ga004:006	-	(!)	-	!
+ga004:006	20b	@	-	"␣
+ga004:007	ga004:007	ga004:007	VERSE	Gal␣4:7␣
+ga004:007	1	@	-	Niinpä␣
+ga004:007	3	(@)	-	sinä␣
+ga004:007	2	@	-	et␣
+ga004:007	1	@	-	siis␣
+ga004:007	2	@	-	enää␣
+ga004:007	3	@	-	ole␣
+ga004:007	4	@	-	orja
+ga004:007	-	(,)	-	,␣
+ga004:007	5	@	-	vaan␣
+ga004:007	6a	@	-	lapsi
+ga004:007	6b	;	-	;␣
+ga004:007	8	@	-	mutta␣
+ga004:007	7	@	-	jos␣
+ga004:007	-	(@)	-	olet␣
+ga004:007	9a	@	-	lapsi
+ga004:007	-	(,)	-	,␣
+ga004:007	-	(@)	-	olet␣
+ga004:007	10	@	-	myös␣
+ga004:007	11	@	-	perillinen␣
+ga004:007	13a	@	-	Jumalan␣
+ga004:007	12	@	-	kautta
+ga004:007	13b	.	-	.␣
+ga004:008	ga004:008	ga004:008	VERSE	Gal␣4:8␣
+ga004:008	1	@	-	Mutta␣
+ga004:008	2	@	-	silloin
+ga004:008	-	(,)	-	,␣
+ga004:008	(3)	-	UNTRANSLATED	
+ga004:008	5	(@)	-	kun␣
+ga004:008	4	@	-	ette␣
+ga004:008	5	@	-	tunteneet␣
+ga004:008	6	@	-	Jumalaa
+ga004:008	-	(,)	-	,␣
+ga004:008	7	(@)	-	te␣
+ga004:008	7	@	-	palvelitte␣
+ga004:008	-	(@)	-	jumalia
+ga004:008	-	(,)	-	,␣
+ga004:008	11	(@)	-	jotka␣
+ga004:008	9	@	-	luonnostaan␣
+ga004:008	10	@	-	eivät␣
+ga004:008	12a (8)	@	-	jumalia␣
+ga004:008	11	@	-	ole
+ga004:008	12b	.	-	.␣
+ga004:009	ga004:009	ga004:009	VERSE	Gal␣4:9␣
+ga004:009	1	@	-	Nyt␣
+ga004:009	2	@	-	sitävastoin
+ga004:009	-	(,)	-	,␣
+ga004:009	3	(@)	-	kun␣
+ga004:009	3	(@)	-	olette␣
+ga004:009	3	(@)	-	tulleet␣
+ga004:009	3	@	-	tuntemaan␣
+ga004:009	4a	@	-	Jumalan␣
+ga004:009	6	@	-	ja
+ga004:009	-	(,)	-	,␣
+ga004:009	-	(@)	-	mikä␣
+ga004:009	5	@	-	enemmän␣
+ga004:009	-	(@)	-	on
+ga004:009	-	(,)	-	,␣
+ga004:009	7	(@)	-	kun␣
+ga004:009	9a	@	-	Jumala␣
+ga004:009	8	%case	NOM	
+ga004:009	7	@	-	tuntee␣
+ga004:009	7	(@)	-	teidät
+ga004:009	9b	,	-	,␣
+ga004:009	10	@	-	kuinka␣
+ga004:009	11	(@)	-	te␣
+ga004:009	12	@	-	jälleen␣
+ga004:009	11	@	-	käännytte␣
+ga004:009	14	@	-	noiden␣
+ga004:009	15	@	-	heikkojen␣
+ga004:009	16	@	-	ja␣
+ga004:009	17	@	-	köyhien␣
+ga004:009	18	@	-	alkeisvoimien␣
+ga004:009	13	@	-	puoleen
+ga004:009	-	(,)	-	,␣
+ga004:009	19	@	-	joiden␣
+ga004:009	22	@	-	orjiksi␣
+ga004:009	20	@	-	taas␣
+ga004:009	21	@	-	uudestaan␣
+ga004:009	23a	@	-	tahdotte␣
+ga004:009	22	@	-	tulla
+ga004:009	-	(?)	-	?␣
+ga004:010	ga004:010	ga004:010	VERSE	Gal␣4:10␣
+ga004:010	2	(@)	-	Te␣
+ga004:010	2	@	-	otatte␣
+ga004:010	2	@	-	vaarin␣
+ga004:010	1	@	-	päivistä␣
+ga004:010	3	@	-	ja␣
+ga004:010	4	@	-	kuukausista␣
+ga004:010	5	@	-	ja␣
+ga004:010	6	@	-	juhla-ajoista␣
+ga004:010	7	@	-	ja␣
+ga004:010	8a	@	-	vuosista
+ga004:010	8b	.	-	.␣
+ga004:011	ga004:011	ga004:011	VERSE	Gal␣4:11␣
+ga004:011	1	(@)	-	Minä␣
+ga004:011	1	@	-	pelkään␣
+ga004:011	2	@	-	teidän␣
+ga004:011	case%2	@	-	tähtenne
+ga004:011	-	(,)	-	,␣
+ga004:011	3 4	@	-	että␣
+ga004:011	6	(@)	-	olen␣
+ga004:011	3 4	@	-	ehkä␣
+ga004:011	5	@	-	turhaan␣
+ga004:011	8a	@	-	teistä␣
+ga004:011	7	%case	LOC	
+ga004:011	6	@	-	vaivaa␣
+ga004:011	6	@	-	nähnyt
+ga004:011	8b	.	-	.␣
+ga004:012	ga004:012	ga004:012	VERSE	Gal␣4:12␣
+ga004:012	1	@	-	Tulkaa␣
+ga004:012	3a	@	-	minun␣
+ga004:012	2	@	-	kaltaisikseni
+ga004:012	3b	,	-	,␣
+ga004:012	4	@	-	koska␣
+ga004:012	6	@	-	minäkin␣
+ga004:012	-	(@)	-	olen␣
+ga004:012	-	(@)	-	tullut␣
+ga004:012	8a	@	-	teidän␣
+ga004:012	7	@	-	kaltaiseksenne
+ga004:012	8b	,	-	,␣
+ga004:012	9a	@	-	veljet
+ga004:012	-	(,)	-	,␣
+ga004:012	10	(@)	-	minä␣
+ga004:012	10	@	-	pyydän␣
+ga004:012	-	(@)	-	sitä␣
+ga004:012	11a	@	-	teiltä
+ga004:012	11b	.	-	.␣
+ga004:012	12	@	-	Ette␣
+ga004:012	14a	(@)	-	ole␣
+ga004:012	13	@	-	minua␣
+ga004:012	12	@	-	mitenkään␣
+ga004:012	14a	@	-	loukanneet
+ga004:012	14b	.	-	.␣
+ga004:013	ga004:013	ga004:013	VERSE	Gal␣4:13␣
+ga004:013	1	@	-	Tiedättehän
+ga004:013	2	%clitic	hAn	
+ga004:013	-	(,)	-	,␣
+ga004:013	3	@	-	että␣
+ga004:013	(6) 7	@	-	ruumiillinen␣
+ga004:013	5	@	-	heikkous␣
+ga004:013	4	(@)	-	oli␣
+ga004:013	4	@	-	syynä␣
+ga004:013	4	@	-	siihen
+ga004:013	-	(,)	-	,␣
+ga004:013	4	@	-	että␣
+ga004:013	8	(@)	-	minä␣
+ga004:013	(10) 11a	@	-	ensi␣
+ga004:013	(10) 11a	@	-	kerralla␣
+ga004:013	8	@	-	julistin␣
+ga004:013	9	@	-	teille␣
+ga004:013	8	@	-	evankeliumia
+ga004:013	11b	,	-	,␣
+ga004:014	ga004:014	ga004:014	VERSE	Gal␣4:14␣
+ga004:014	1	@	-	ja␣
+ga004:014	-	(@)	-	tiedätte
+ga004:014	-	(,)	-	,␣
+ga004:014	2	@	-	mikä␣
+ga004:014	3	@	-	kiusaus␣
+ga004:014	4	@	-	teillä␣
+ga004:014	-	(@)	-	oli␣
+ga004:014	8	@	-	minun␣
+ga004:014	(6) 7	@	-	ruumiillisesta␣
+ga004:014	(6) 7	@	-	tilastani
+ga004:014	5	%case	LOC	
+ga004:014	-	(;)	-	;␣
+ga004:014	9	@	-	ette␣
+ga004:014	-	(@)	-	minua␣
+ga004:014	10	@	-	halveksineet␣
+ga004:014	11	@	-	ettekä␣
+ga004:014	12a	@	-	vieroneet
+ga004:014	12b	,	-	,␣
+ga004:014	13	@	-	vaan␣
+ga004:014	17	@	-	otitte␣
+ga004:014	18a	@	-	minut␣
+ga004:014	17	@	-	vastaan␣
+ga004:014	14	@	-	niinkuin␣
+ga004:014	16	@	-	Jumalan␣
+ga004:014	15	@	-	enkelin
+ga004:014	-	(,)	-	,␣
+ga004:014	-	(@)	-	jopa␣
+ga004:014	19	@	-	niinkuin␣
+ga004:014	20	@	-	Kristuksen␣
+ga004:014	21a	@	-	Jeesuksen
+ga004:014	21b	.	-	.␣
+ga004:015	ga004:015	ga004:015	VERSE	Gal␣4:15␣
+ga004:015	1	@	-	Missä␣
+ga004:015	-	(@)	-	on␣
+ga004:015	2	@	-	nyt␣
+ga004:015	5a	@	-	teiltä␣
+ga004:015	(3) 4	@	-	kerskaaminen␣
+ga004:015	(3) 4	@	-	onnestanne
+ga004:015	-	(?)	-	?␣
+ga004:015	7	@	-	Sillä␣
+ga004:015	6	(@)	-	minä␣
+ga004:015	6	@	-	annan␣
+ga004:015	8	@	-	teistä␣
+ga004:015	-	(@)	-	sen␣
+ga004:015	6	@	-	todistuksen
+ga004:015	-	(,)	-	,␣
+ga004:015	9	@	-	että␣
+ga004:015	15	(@)	-	te
+ga004:015	-	(,)	-	,␣
+ga004:015	10	@	-	jos␣
+ga004:015	-	(@)	-	se␣
+ga004:015	-	(@)	-	olisi␣
+ga004:015	-	(@)	-	ollut␣
+ga004:015	11	@	-	mahdollista
+ga004:015	-	(,)	-	,␣
+ga004:015	15	(@)	-	olisitte␣
+ga004:015	15	@	-	kaivaneet␣
+ga004:015	(12) 13	@	-	silmät␣
+ga004:015	pro%14	@	-	päästänne␣
+ga004:015	-	(@)	-	ja␣
+ga004:015	16	@	-	antaneet␣
+ga004:015	17a	@	-	minulle
+ga004:015	17b	.	-	.␣
+ga004:016	ga004:016	ga004:016	VERSE	Gal␣4:16␣
+ga004:016	4	(@)	-	Onko␣
+ga004:016	4	(@)	-	minusta␣
+ga004:016	1	@	-	siis␣
+ga004:016	4	@	-	tullut␣
+ga004:016	3	@	-	teidän␣
+ga004:016	2	@	-	vihamiehenne␣
+ga004:016	-	(@)	-	sentähden
+ga004:016	-	(,)	-	,␣
+ga004:016	-	(@)	-	että␣
+ga004:016	5	(@)	-	minä␣
+ga004:016	5	@	-	puhun␣
+ga004:016	6a	@	-	teille␣
+ga004:016	5	@	-	totuuden
+ga004:016	-	(?)	-	?␣
+ga004:017	ga004:017	ga004:017	VERSE	Gal␣4:17␣
+ga004:017	1	(@)	-	Heillä␣
+ga004:017	1	@	-	on␣
+ga004:017	1	@	-	intoa␣
+ga004:017	2	@	-	teidän␣
+ga004:017	case%2	@	-	hyväksenne
+ga004:017	-	(,)	-	,␣
+ga004:017	-	(@)	-	mutta␣
+ga004:017	3	@	-	ei␣
+ga004:017	4a	@	-	oikeata
+ga004:017	4b	;	-	;␣
+ga004:017	5	@	-	vaan␣
+ga004:017	8a	(@)	-	he␣
+ga004:017	8a	@	-	tahtovat␣
+ga004:017	6	@	-	eristää␣
+ga004:017	7	@	-	teidät
+ga004:017	8b	,	-	,␣
+ga004:017	9	@	-	että␣
+ga004:017	11a	(@)	-	teillä␣
+ga004:017	11a	@	-	olisi␣
+ga004:017	11a	@	-	intoa␣
+ga004:017	10	@	-	heidän␣
+ga004:017	case%10	@	-	hyväksensä
+ga004:017	11b	.	-	.␣
+ga004:018	ga004:018	ga004:018	VERSE	Gal␣4:18␣
+ga004:018	1	(@)	-	On␣
+ga004:018	1	@	-	hyvä
+ga004:018	-	(,)	-	,␣
+ga004:018	2	@	-	jos␣
+ga004:018	3	@	-	osoitetaan␣
+ga004:018	3	@	-	intoa␣
+ga004:018	5	@	-	hyvässä␣
+ga004:018	5	(@)	-	asiassa␣
+ga004:018	4	%case	LOC	
+ga004:018	6	@	-	aina
+ga004:018	-	(,)	-	,␣
+ga004:018	8	@	-	eikä␣
+ga004:018	7	%clitic	kA	
+ga004:018	9	@	-	ainoastaan␣
+ga004:018	10	@	-	silloin
+ga004:018	-	(,)	-	,␣
+ga004:018	10	@	-	kun␣
+ga004:018	13	@	-	minä␣
+ga004:018	(11) 12	@	-	olen␣
+ga004:018	15a	@	-	teidän␣
+ga004:018	14	@	-	tykönänne
+ga004:018	15b	.	-	.␣
+ga004:019	ga004:019	ga004:019	VERSE	Gal␣4:19␣
+ga004:019	1	@	-	Lapsukaiseni
+ga004:019	2a	%pers	?	
+ga004:019	2b	,	-	,␣
+ga004:019	3	@	-	jotka␣
+ga004:019	5	(@)	-	minun␣
+ga004:019	4	@	-	jälleen␣
+ga004:019	tasp%5	@	-	täytyy␣
+ga004:019	5	@	-	kivulla␣
+ga004:019	5	@	-	synnyttää
+ga004:019	-	(,)	-	,␣
+ga004:019	6 7	@	-	kunnes␣
+ga004:019	9	@	-	Kristus␣
+ga004:019	8	@	-	saa␣
+ga004:019	8	@	-	muodon␣
+ga004:019	11a	@	-	teissä
+ga004:019	10	%case	LOC	
+ga004:019	11b	,	-	,␣
+ga004:020	ga004:020	ga004:020	VERSE	Gal␣4:20␣
+ga004:020	1	@	-	tahtoisinpa␣
+ga004:020	2	%clitic	pA	
+ga004:020	6	@	-	nyt␣
+ga004:020	3	@	-	olla␣
+ga004:020	5	@	-	teidän␣
+ga004:020	4	@	-	tykönänne␣
+ga004:020	7	@	-	ja␣
+ga004:020	10 (9)	@	-	äänenikin␣
+ga004:020	11a	%pers	?	
+ga004:020	8	@	-	muuttaa
+ga004:020	-	(!)	-	!␣
+ga004:020	12	@	-	Sillä␣
+ga004:020	13	(@)	-	minä␣
+ga004:020	13	@	-	olen␣
+ga004:020	13	(@)	-	aivan␣
+ga004:020	13	@	-	ymmällä␣
+ga004:020	15a	@	-	teistä
+ga004:020	14	%case	LOC	
+ga004:020	15b	.	-	.␣
+ga004:021	ga004:021	ga004:021	VERSE	Gal␣4:21␣
+ga004:021	1	@	-	Sanokaa␣
+ga004:021	2a	@	-	minulle␣
+ga004:021	3	@	-	te
+ga004:021	-	(,)	-	,␣
+ga004:021	3	@	-	jotka␣
+ga004:021	6	@	-	tahdotte␣
+ga004:021	5	@	-	lain␣
+ga004:021	4	@	-	alaisia␣
+ga004:021	7a	@	-	olla
+ga004:021	-	(,)	-	,␣
+ga004:021	10	@	-	ettekö␣
+ga004:021	11a	@	-	kuule
+ga004:021	-	(,)	-	,␣
+ga004:021	-	(@)	-	mitä␣
+ga004:021	(8) 9	@	-	laki␣
+ga004:021	-	(@)	-	sanoo
+ga004:021	-	(?)	-	?␣
+ga004:022	ga004:022	ga004:022	VERSE	Gal␣4:22␣
+ga004:022	1	(@)	-	Onhan␣
+ga004:022	2	%clitic	hAn	
+ga004:022	1	@	-	kirjoitettu
+ga004:022	-	(,)	-	,␣
+ga004:022	3	@	-	että␣
+ga004:022	4	@	-	Aabrahamilla␣
+ga004:022	7a	@	-	oli␣
+ga004:022	5	@	-	kaksi␣
+ga004:022	6	@	-	poikaa
+ga004:022	7b	,	-	,␣
+ga004:022	8	@	-	toinen␣
+ga004:022	(10) 11	@	-	orjattaresta
+ga004:022	9	%case	LOC	
+ga004:022	-	(,)	-	,␣
+ga004:022	(12)	-	UNTRANSLATED	
+ga004:022	13	@	-	toinen␣
+ga004:022	(15) 16a	@	-	vapaasta
+ga004:022	14	%case	LOC	
+ga004:022	16b	.	-	.␣
+ga004:023	ga004:023	ga004:023	VERSE	Gal␣4:23␣
+ga004:023	1 3	@	-	Mutta␣
+ga004:023	(5) 6	@	-	orjattaren␣
+ga004:023	4	%case	GEN	
+ga004:023	pro%2	@	-	poika␣
+ga004:023	9a	(@)	-	oli␣
+ga004:023	9a	@	-	syntynyt␣
+ga004:023	8	@	-	lihan␣
+ga004:023	7	@	-	mukaan
+ga004:023	-	(,)	-	,␣
+ga004:023	(10) (11)	-	UNTRANSLATED	
+ga004:023	(13) 14	@	-	vapaan␣
+ga004:023	12	%case	GEN	
+ga004:023	-	(@)	-	taas␣
+ga004:023	16a	@	-	lupauksen␣
+ga004:023	15	@	-	voimasta
+ga004:023	16b	.	-	.␣
+ga004:024	ga004:024	ga004:024	VERSE	Gal␣4:24␣
+ga004:024	1	@	-	Tämä␣
+ga004:024	2	@	-	on␣
+ga004:024	3a	@	-	kuvannollista␣
+ga004:024	3a	@	-	puhetta
+ga004:024	3b	;	-	;␣
+ga004:024	4	@	-	nämä␣
+ga004:024	4	(@)	-	naiset␣
+ga004:024	(5)	-	UNTRANSLATED	
+ga004:024	6	@	-	ovat␣
+ga004:024	7	@	-	kaksi␣
+ga004:024	8a	@	-	liittoa
+ga004:024	8b	:	-	:␣
+ga004:024	9	@	-	toinen␣
+ga004:024	10	%case	NOM	
+ga004:024	-	(@)	-	on␣
+ga004:024	13	@	-	Siinain␣
+ga004:024	12	@	-	vuorelta
+ga004:024	11	%case	LOC	
+ga004:024	-	(,)	-	,␣
+ga004:024	16a	(@)	-	joka␣
+ga004:024	16a	@	-	synnyttää␣
+ga004:024	15	@	-	orjuuteen
+ga004:024	14	%case	LOC	
+ga004:024	-	(,)	-	,␣
+ga004:024	-	(@)	-	ja␣
+ga004:024	17	@	-	se␣
+ga004:024	18	@	-	on␣
+ga004:024	19a	@	-	Haagar
+ga004:024	19b	;	-	;␣
+ga004:025	ga004:025	ga004:025	VERSE	Gal␣4:25␣
+ga004:025	2	@	-	sillä␣
+ga004:025	(1) 3	@	-	Haagar␣
+ga004:025	6	@	-	on␣
+ga004:025	4	@	-	Siinain␣
+ga004:025	5	@	-	vuori␣
+ga004:025	(8) 9a	@	-	Arabiassa␣
+ga004:025	7	%case	LOC	
+ga004:025	11	@	-	ja␣
+ga004:025	10	@	-	vastaa␣
+ga004:025	13	@	-	nykyistä␣
+ga004:025	(12) 14a	@	-	Jerusalemia
+ga004:025	-	(,)	-	,␣
+ga004:025	15	(@)	-	joka␣
+ga004:025	15	@	-	elää␣
+ga004:025	15	@	-	orjuudessa␣
+ga004:025	(16)	-	UNTRANSLATED	
+ga004:025	(18) 19	@	-	lapsineen
+ga004:025	20a	%pers	3	
+ga004:025	17	%case	CMT	
+ga004:025	20b	.	-	.␣
+ga004:026	ga004:026	ga004:026	VERSE	Gal␣4:26␣
+ga004:026	2	@	-	Mutta␣
+ga004:026	-	(@)	-	se␣
+ga004:026	(1) 4	@	-	Jerusalem
+ga004:026	-	(,)	-	,␣
+ga004:026	-	(@)	-	joka␣
+ga004:026	3	@	-	ylhäällä␣
+ga004:026	-	(@)	-	on
+ga004:026	-	(,)	-	,␣
+ga004:026	6a	@	-	on␣
+ga004:026	5	@	-	vapaa
+ga004:026	-	(,)	-	,␣
+ga004:026	-	(@)	-	ja␣
+ga004:026	7	@	-	se␣
+ga004:026	8	@	-	on␣
+ga004:026	10a	@	-	meidän␣
+ga004:026	9	@	-	äitimme
+ga004:026	10b	.	-	.␣
+ga004:027	ga004:027	ga004:027	VERSE	Gal␣4:27␣
+ga004:027	2a	@	-	Sillä␣
+ga004:027	1	@	-	kirjoitettu␣
+ga004:027	1	(@)	-	on
+ga004:027	2b	:	-	:␣
+ga004:027	2b	@	-	"
+ga004:027	3a	@	-	Iloitse
+ga004:027	-	(,)	-	,␣
+ga004:027	case%4	@	-	sinä␣
+ga004:027	4	@	-	hedelmätön
+ga004:027	-	(,)	-	,␣
+ga004:027	5	@	-	joka␣
+ga004:027	6	@	-	et␣
+ga004:027	7a	@	-	synnytä
+ga004:027	7b	,	-	,␣
+ga004:027	8	@	-	riemahda␣
+ga004:027	9	@	-	ja␣
+ga004:027	10a	@	-	huuda␣
+ga004:027	11	@	-	sinä
+ga004:027	-	(,)	-	,␣
+ga004:027	11	@	-	jolla␣
+ga004:027	12	@	-	ei␣
+ga004:027	13a	@	-	ole␣
+ga004:027	13a	@	-	synnytyskipuja
+ga004:027	13b	.	-	.␣
+ga004:027	14	@	-	Sillä␣
+ga004:027	(18) 19	@	-	yksinäisellä␣
+ga004:027	-	(@)	-	on␣
+ga004:027	15	@	-	paljon␣
+ga004:027	(16) 17	@	-	lapsia
+ga004:027	-	(,)	-	,␣
+ga004:027	20	@	-	enemmän␣
+ga004:027	21	@	-	kuin␣
+ga004:027	22	@	-	sillä
+ga004:027	-	(,)	-	,␣
+ga004:027	22	@	-	jolla␣
+ga004:027	23	@	-	on␣
+ga004:027	(24) 25a	@	-	mies
+ga004:027	25b	.	-	.
+ga004:027	25b	@	-	"␣
+ga004:028	ga004:028	ga004:028	VERSE	Gal␣4:28␣
+ga004:028	2a	@	-	Ja␣
+ga004:028	1	@	-	te
+ga004:028	2b	,	-	,␣
+ga004:028	3a	@	-	veljet
+ga004:028	3b	,	-	,␣
+ga004:028	8a	@	-	olette␣
+ga004:028	6	@	-	lupauksen␣
+ga004:028	7	@	-	lapsia
+ga004:028	-	(,)	-	,␣
+ga004:028	4	@	-	niinkuin␣
+ga004:028	5	@	-	Iisak␣
+ga004:028	-	(@)	-	oli
+ga004:028	8b	.	-	.␣
+ga004:029	ga004:029	ga004:029	VERSE	Gal␣4:29␣
+ga004:029	1	@	-	Mutta␣
+ga004:029	2	@	-	niinkuin␣
+ga004:029	6	@	-	lihan␣
+ga004:029	5	@	-	mukaan␣
+ga004:029	(4) 7	@	-	syntynyt␣
+ga004:029	3	@	-	silloin␣
+ga004:029	8	@	-	vainosi␣
+ga004:029	11a	@	-	Hengen␣
+ga004:029	10	@	-	mukaan␣
+ga004:029	pro%9	@	-	syntynyttä
+ga004:029	11b	,	-	,␣
+ga004:029	12	@	-	niin␣
+ga004:029	14a	@	-	nytkin
+ga004:029	13	%clitic	kin	
+ga004:029	14b	.	-	.␣
+ga004:030	ga004:030	ga004:030	VERSE	Gal␣4:30␣
+ga004:030	1	@	-	Mutta␣
+ga004:030	2	@	-	mitä␣
+ga004:030	3	@	-	sanoo␣
+ga004:030	(4) 5a	@	-	Raamattu
+ga004:030	-	(?)	-	?␣
+ga004:030	5b	@	-	"
+ga004:030	6	@	-	Aja␣
+ga004:030	6	@	-	pois␣
+ga004:030	(7) 8	@	-	orjatar␣
+ga004:030	(9)	-	UNTRANSLATED	
+ga004:030	(10) 11	@	-	poikinensa
+ga004:030	12a	%pers	3	
+ga004:030	12b	;	-	;␣
+ga004:030	14	@	-	sillä␣
+ga004:030	(19) 20	@	-	orjattaren␣
+ga004:030	(17) 18	@	-	poika␣
+ga004:030	13 15	@	-	ei␣
+ga004:030	tasp%16	@	-	saa␣
+ga004:030	16	@	-	periä␣
+ga004:030	(24) 25a	@	-	vapaan␣
+ga004:030	(24) 25a	(@)	-	vaimon␣
+ga004:030	(22) 23	@	-	pojan␣
+ga004:030	21	@	-	kanssa
+ga004:030	25b	.	-	.
+ga004:030	25b	@	-	"␣
+ga004:031	ga004:031	ga004:031	VERSE	Gal␣4:31␣
+ga004:031	1a	@	-	Niin␣
+ga004:031	4	(@)	-	me␣
+ga004:031	1a	@	-	siis
+ga004:031	1b	,	-	,␣
+ga004:031	2a	@	-	veljet
+ga004:031	2b	,	-	,␣
+ga004:031	3	@	-	emme␣
+ga004:031	4	@	-	ole␣
+ga004:031	5	@	-	orjattaren␣
+ga004:031	6	@	-	lapsia
+ga004:031	-	(,)	-	,␣
+ga004:031	7	@	-	vaan␣
+ga004:031	(8) 9a	@	-	vapaan
+ga004:031	9b	.	-	.␣
+ga005:001	ga005:001	ga005:001	VERSE	Gal␣5:1␣
+ga005:001	(1) 2	@	-	Vapauteen␣
+ga005:001	4	@	-	Kristus␣
+ga005:001	5a	@	-	vapautti␣
+ga005:001	3	@	-	meidät
+ga005:001	5b	.	-	.␣
+ga005:001	6	@	-	Pysykää␣
+ga005:001	7	@	-	siis␣
+ga005:001	6	@	-	lujina
+ga005:001	-	(,)	-	,␣
+ga005:001	9	@	-	älkääkä␣
+ga005:001	8	%clitic	kA	
+ga005:001	13a	(@)	-	antako␣
+ga005:001	10	@	-	uudestaan␣
+ga005:001	13a	@	-	sitoa␣
+ga005:001	13a	(@)	-	itseänne␣
+ga005:001	12	@	-	orjuuden␣
+ga005:001	11	@	-	ikeeseen
+ga005:001	13b	.	-	.␣
+ga005:002	ga005:002	ga005:002	VERSE	Gal␣5:2␣
+ga005:002	1	@	-	Katso
+ga005:002	-	(,)	-	,␣
+ga005:002	2	@	-	minä
+ga005:002	-	(,)	-	,␣
+ga005:002	3	@	-	Paavali
+ga005:002	-	(,)	-	,␣
+ga005:002	4	@	-	sanon␣
+ga005:002	5	@	-	teille
+ga005:002	-	(,)	-	,␣
+ga005:002	6	@	-	että␣
+ga005:002	7	@	-	jos␣
+ga005:002	8a	@	-	ympärileikkautatte␣
+ga005:002	8a	@	-	itsenne
+ga005:002	-	(,)	-	,␣
+ga005:002	-	(@)	-	niin␣
+ga005:002	9	@	-	Kristus␣
+ga005:002	11	@	-	ei␣
+ga005:002	12a	(@)	-	ole␣
+ga005:002	12a	@	-	oleva␣
+ga005:002	10	@	-	teille␣
+ga005:002	11	@	-	miksikään␣
+ga005:002	12a	@	-	hyödyksi
+ga005:002	12b	.	-	.␣
+ga005:003	ga005:003	ga005:003	VERSE	Gal␣5:3␣
+ga005:003	2	@	-	Ja␣
+ga005:003	1	(@)	-	minä␣
+ga005:003	1	@	-	todistan␣
+ga005:003	3	@	-	taas␣
+ga005:003	4	@	-	jokaiselle␣
+ga005:003	5	@	-	ihmiselle
+ga005:003	-	(,)	-	,␣
+ga005:003	6	(@)	-	joka␣
+ga005:003	6	@	-	ympärileikkauttaa␣
+ga005:003	6	@	-	itsensä
+ga005:003	-	(,)	-	,␣
+ga005:003	7	@	-	että␣
+ga005:003	9	(@)	-	hän␣
+ga005:003	9	@	-	on␣
+ga005:003	8	@	-	velvollinen␣
+ga005:003	13a	@	-	täyttämään␣
+ga005:003	10	@	-	kaiken␣
+ga005:003	(11) 12	@	-	lain
+ga005:003	-	(.)	-	.␣
+ga005:004	ga005:004	ga005:004	VERSE	Gal␣5:4␣
+ga005:004	1	(@)	-	Te␣
+ga005:004	1	(@)	-	olette␣
+ga005:004	1	@	-	joutuneet␣
+ga005:004	1	@	-	pois␣
+ga005:004	3a	@	-	Kristuksesta
+ga005:004	2	%case	LOC	
+ga005:004	3b	,	-	,␣
+ga005:004	4	@	-	te
+ga005:004	-	(,)	-	,␣
+ga005:004	4	@	-	jotka␣
+ga005:004	tasp%7a	@	-	tahdotte␣
+ga005:004	6	@	-	lain␣
+ga005:004	5	@	-	kautta␣
+ga005:004	7a	@	-	tulla␣
+ga005:004	7a	@	-	vanhurskaiksi
+ga005:004	-	(;)	-	;␣
+ga005:004	-	(@)	-	te␣
+ga005:004	10a	(@)	-	olette␣
+ga005:004	10a	@	-	langenneet␣
+ga005:004	10a	@	-	pois␣
+ga005:004	(8) 9	@	-	armosta
+ga005:004	10b	.	-	.␣
+ga005:005	ga005:005	ga005:005	VERSE	Gal␣5:5␣
+ga005:005	2	@	-	Sillä␣
+ga005:005	1	@	-	me␣
+ga005:005	8a	@	-	odotamme␣
+ga005:005	5	@	-	uskosta␣
+ga005:005	4	%case	LOC	
+ga005:005	7	@	-	vanhurskauden␣
+ga005:005	6	@	-	toivoa␣
+ga005:005	3	@	-	Hengen␣
+ga005:005	case%3	@	-	kautta
+ga005:005	8b	.	-	.␣
+ga005:006	ga005:006	ga005:006	VERSE	Gal␣5:6␣
+ga005:006	2	@	-	Sillä␣
+ga005:006	3	@	-	Kristuksessa␣
+ga005:006	4	@	-	Jeesuksessa␣
+ga005:006	1	%case	LOC	
+ga005:006	5	@	-	ei␣
+ga005:006	8	@	-	auta␣
+ga005:006	7	%case	?	
+ga005:006	6	@	-	ympärileikkaus␣
+ga005:006	9	@	-	eikä␣
+ga005:006	10	@	-	ympärileikkaamattomuus
+ga005:006	-	(,)	-	,␣
+ga005:006	11	@	-	vaan␣
+ga005:006	14	@	-	rakkauden␣
+ga005:006	13	@	-	kautta␣
+ga005:006	15a	@	-	vaikuttava␣
+ga005:006	12	@	-	usko
+ga005:006	15b	.	-	.␣
+ga005:007	ga005:007	ga005:007	VERSE	Gal␣5:7␣
+ga005:007	1	(@)	-	Te␣
+ga005:007	1	@	-	juoksitte␣
+ga005:007	2a	@	-	hyvin
+ga005:007	2b	;	-	;␣
+ga005:007	3	@	-	kuka␣
+ga005:007	5a	@	-	esti␣
+ga005:007	4	@	-	teitä␣
+ga005:007	9a	@	-	olemasta␣
+ga005:007	8	%inflection	COP.INF3.ELA	
+ga005:007	(6a) 7	@	-	totuudelle␣
+ga005:007	9a	@	-	kuuliaisia
+ga005:007	-	(?)	-	?␣
+ga005:008	ga005:008	ga005:008	VERSE	Gal␣5:8␣
+ga005:008	(1) 2	@	-	Houkutus␣
+ga005:008	-	(@)	-	siihen␣
+ga005:008	3	@	-	ei␣
+ga005:008	-	(@)	-	ole␣
+ga005:008	5	@	-	hänestä
+ga005:008	4	%case	LOC	
+ga005:008	-	(,)	-	,␣
+ga005:008	5	@	-	joka␣
+ga005:008	7a	@	-	teitä␣
+ga005:008	6	@	-	kutsuu
+ga005:008	7b	.	-	.␣
+ga005:009	ga005:009	ga005:009	VERSE	Gal␣5:9␣
+ga005:009	1	@	-	Vähäinen␣
+ga005:009	2	@	-	hapatus␣
+ga005:009	6a	@	-	hapattaa␣
+ga005:009	3	@	-	koko␣
+ga005:009	(4) 5	@	-	taikinan
+ga005:009	6b	.	-	.␣
+ga005:010	ga005:010	ga005:010	VERSE	Gal␣5:10␣
+ga005:010	1	@	-	Minulla␣
+ga005:010	2	@	-	on␣
+ga005:010	4	@	-	teihin␣
+ga005:010	3	%case	LOC	
+ga005:010	-	(@)	-	se␣
+ga005:010	2	@	-	luottamus␣
+ga005:010	6	@	-	Herrassa
+ga005:010	5	%case	LOC	
+ga005:010	-	(,)	-	,␣
+ga005:010	7	@	-	että␣
+ga005:010	10a	(@)	-	te␣
+ga005:010	8	@	-	ette␣
+ga005:010	8	@	-	missään␣
+ga005:010	8	@	-	kohden␣
+ga005:010	10a	(@)	-	tule␣
+ga005:010	10a	@	-	ajattelemaan␣
+ga005:010	9	@	-	toisin
+ga005:010	-	(;)	-	;␣
+ga005:010	12	@	-	mutta␣
+ga005:010	14	@	-	teidän␣
+ga005:010	(11) 13	@	-	häiritsijänne␣
+ga005:010	tasp%15	@	-	saa␣
+ga005:010	15	@	-	kantaa␣
+ga005:010	(16) 17a	@	-	tuomionsa
+ga005:010	17b	,	-	,␣
+ga005:010	20a	@	-	olkoon␣
+ga005:010	18	@	-	kuka␣
+ga005:010	19	@	-	hyvänsä
+ga005:010	20b	.	-	.␣
+ga005:011	ga005:011	ga005:011	VERSE	Gal␣5:11␣
+ga005:011	2a	@	-	Mutta␣
+ga005:011	4	@	-	jos␣
+ga005:011	1	@	-	minä
+ga005:011	-	(,)	-	,␣
+ga005:011	3a	@	-	veljet
+ga005:011	-	(,)	-	,␣
+ga005:011	6	@	-	vielä␣
+ga005:011	7a	@	-	saarnaan␣
+ga005:011	5	@	-	ympärileikkausta
+ga005:011	7b	,	-	,␣
+ga005:011	8	@	-	miksi␣
+ga005:011	10a	(@)	-	minua␣
+ga005:011	9	@	-	vielä␣
+ga005:011	10a	@	-	vainotaan
+ga005:011	-	(?)	-	?␣
+ga005:011	11	@	-	Silloinhan␣
+ga005:011	12	(@)	-	olisi␣
+ga005:011	(15) 16a	@	-	ristin␣
+ga005:011	(13) 14	@	-	pahennus␣
+ga005:011	12	@	-	poistettu
+ga005:011	16b	.	-	.␣
+ga005:012	ga005:012	ga005:012	VERSE	Gal␣5:12␣
+ga005:012	1	@	-	Kunpa␣
+ga005:012	2	@	-	aivan␣
+ga005:012	3	@	-	silpoisivat␣
+ga005:012	3	@	-	itsensä
+ga005:012	-	(,)	-	,␣
+ga005:012	4	@	-	nuo␣
+ga005:012	6a	@	-	teidän␣
+ga005:012	5	@	-	kiihoittajanne
+ga005:012	-	(!)	-	!␣
+ga005:013	ga005:013	ga005:013	VERSE	Gal␣5:13␣
+ga005:013	1	@	-	Te␣
+ga005:013	5a	(@)	-	olette␣
+ga005:013	2	@	-	näet␣
+ga005:013	5a	@	-	kutsutut␣
+ga005:013	4	@	-	vapauteen
+ga005:013	3	%case	LOC	
+ga005:013	5b	,	-	,␣
+ga005:013	6a	@	-	veljet
+ga005:013	6b	;	-	;␣
+ga005:013	8	@	-	älkää␣
+ga005:013	7	@	-	vain␣
+ga005:013	-	(@)	-	salliko␣
+ga005:013	10 (9)	@	-	vapauden␣
+ga005:013	-	(@)	-	olla␣
+ga005:013	12	@	-	yllykkeeksi␣
+ga005:013	11	%case	TRA	
+ga005:013	(13) 14a	@	-	lihalle
+ga005:013	14b	,	-	,␣
+ga005:013	15	@	-	vaan␣
+ga005:013	19	@	-	palvelkaa␣
+ga005:013	20a	@	-	toisianne␣
+ga005:013	(17) 18	@	-	rakkaudessa
+ga005:013	16	%case	LOC	
+ga005:013	20b	.	-	.␣
+ga005:014	ga005:014	ga005:014	VERSE	Gal␣5:14␣
+ga005:014	2	@	-	Sillä␣
+ga005:014	3	@	-	kaikki␣
+ga005:014	(1) 4	@	-	laki␣
+ga005:014	8a	(@)	-	on␣
+ga005:014	8a	@	-	täytetty␣
+ga005:014	6	@	-	yhdessä␣
+ga005:014	7	@	-	käskysanassa
+ga005:014	5	%case	LOC	
+ga005:014	8b	,	-	,␣
+ga005:014	10a	@	-	tässä
+ga005:014	9	%case	LOC	
+ga005:014	10b	:	-	:␣
+ga005:014	10b	@	-	"
+ga005:014	11	@	-	Rakasta␣
+ga005:014	(12) 13	@	-	lähimmäistäsi␣
+ga005:014	14	%pers	?	
+ga005:014	15	@	-	niinkuin␣
+ga005:014	16a	@	-	itseäsi
+ga005:014	16b	@	-	"
+ga005:014	16b	.	-	.␣
+ga005:015	ga005:015	ga005:015	VERSE	Gal␣5:15␣
+ga005:015	2	@	-	Mutta␣
+ga005:015	1	@	-	jos␣
+ga005:015	4	(@)	-	te␣
+ga005:015	4	@	-	purette␣
+ga005:015	5	@	-	ja␣
+ga005:015	6a	@	-	syötte␣
+ga005:015	3	@	-	toisianne
+ga005:015	6b	,	-	,␣
+ga005:015	7	@	-	katsokaa
+ga005:015	-	(,)	-	,␣
+ga005:015	8	@	-	ettette␣
+ga005:015	10	@	-	toinen␣
+ga005:015	10	@	-	toistanne␣
+ga005:015	9	%case	PTV	
+ga005:015	11a	@	-	perin␣
+ga005:015	11a	@	-	hävitä
+ga005:015	11b	.	-	.␣
+ga005:016	ga005:016	ga005:016	VERSE	Gal␣5:16␣
+ga005:016	1	(@)	-	Minä␣
+ga005:016	1	@	-	sanon
+ga005:016	(2a)	-	UNTRANSLATED	
+ga005:016	-	(:)	-	:␣
+ga005:016	4	@	-	vaeltakaa␣
+ga005:016	3	@	-	Hengessä
+ga005:016	-	(,)	-	,␣
+ga005:016	5	@	-	niin␣
+ga005:016	8 9	@	-	ette␣
+ga005:016	7	@	-	lihan␣
+ga005:016	6	@	-	himoa␣
+ga005:016	10a	@	-	täytä
+ga005:016	10b	.	-	.␣
+ga005:017	ga005:017	ga005:017	VERSE	Gal␣5:17␣
+ga005:017	2	@	-	Sillä␣
+ga005:017	(1) 3	@	-	liha␣
+ga005:017	4	@	-	himoitsee␣
+ga005:017	(6) 7a	@	-	Henkeä␣
+ga005:017	5	@	-	vastaan
+ga005:017	-	(,)	-	,␣
+ga005:017	9	@	-	ja␣
+ga005:017	10 (8)	@	-	Henki␣
+ga005:017	(12) 13a	@	-	lihaa␣
+ga005:017	11	@	-	vastaan
+ga005:017	13b	;	-	;␣
+ga005:017	14	@	-	nämä␣
+ga005:017	17a	@	-	ovat␣
+ga005:017	15	@	-	nimittäin␣
+ga005:017	16	@	-	toisiansa␣
+ga005:017	17a	@	-	vastaan
+ga005:017	17b	,	-	,␣
+ga005:017	18	@	-	niin␣
+ga005:017	18	@	-	että␣
+ga005:017	24a	(@)	-	te␣
+ga005:017	19	@	-	ette␣
+ga005:017	24a	@	-	tee␣
+ga005:017	23	@	-	sitä
+ga005:017	-	(,)	-	,␣
+ga005:017	20	@	-	mitä␣
+ga005:017	22	@	-	tahdotte
+ga005:017	24b	.	-	.␣
+ga005:018	ga005:018	ga005:018	VERSE	Gal␣5:18␣
+ga005:018	2	@	-	Mutta␣
+ga005:018	1	@	-	jos␣
+ga005:018	4a	(@)	-	te␣
+ga005:018	4a	(@)	-	olette␣
+ga005:018	3	@	-	Hengen␣
+ga005:018	4a	@	-	kuljetettavina
+ga005:018	-	(,)	-	,␣
+ga005:018	-	(@)	-	niin␣
+ga005:018	5	@	-	ette␣
+ga005:018	6	@	-	ole␣
+ga005:018	8a	@	-	lain␣
+ga005:018	7	@	-	alla
+ga005:018	8b	.	-	.␣
+ga005:019	ga005:019	ga005:019	VERSE	Gal␣5:19␣
+ga005:019	2	@	-	Mutta␣
+ga005:019	(6) 7a	@	-	lihan␣
+ga005:019	(4) 5	@	-	teot␣
+ga005:019	3	@	-	ovat␣
+ga005:019	1	@	-	ilmeiset
+ga005:019	-	(,)	-	,␣
+ga005:019	-	(@)	-	ja␣
+ga005:019	8	@	-	ne␣
+ga005:019	9	@	-	ovat
+ga005:019	-	(:)	-	:␣
+ga005:019	10a	@	-	haureus
+ga005:019	10b	,	-	,␣
+ga005:019	11a	@	-	saastaisuus
+ga005:019	11b	,	-	,␣
+ga005:019	12a	@	-	irstaus
+ga005:019	12b	,	-	,␣
+ga005:020	ga005:020	ga005:020	VERSE	Gal␣5:20␣
+ga005:020	1a	@	-	epäjumalanpalvelus
+ga005:020	1b	,	-	,␣
+ga005:020	2a	@	-	noituus
+ga005:020	2b	,	-	,␣
+ga005:020	3a	@	-	vihamielisyys
+ga005:020	3b	,	-	,␣
+ga005:020	4a	@	-	riita
+ga005:020	4b	,	-	,␣
+ga005:020	5a	@	-	kateellisuus
+ga005:020	5b	,	-	,␣
+ga005:020	6a	@	-	vihat
+ga005:020	6b	,	-	,␣
+ga005:020	7a	@	-	juonet
+ga005:020	7b	,	-	,␣
+ga005:020	8a	@	-	eriseurat
+ga005:020	8b	,	-	,␣
+ga005:020	9a	@	-	lahkot
+ga005:020	9b	,	-	,␣
+ga005:021	ga005:021	ga005:021	VERSE	Gal␣5:21␣
+ga005:021	1a	@	-	kateus
+ga005:021	1b	,	-	,␣
+ga005:021	2a	@	-	juomingit
+ga005:021	2b	,	-	,␣
+ga005:021	3	@	-	mässäykset␣
+ga005:021	4	@	-	ja␣
+ga005:021	7a	@	-	muut␣
+ga005:021	(5) 6	@	-	senkaltaiset
+ga005:021	7b	,	-	,␣
+ga005:021	8	@	-	joista␣
+ga005:021	10a	@	-	teille␣
+ga005:021	9	@	-	edeltäpäin␣
+ga005:021	9	@	-	sanon
+ga005:021	10b	,	-	,␣
+ga005:021	11	@	-	niinkuin␣
+ga005:021	-	(@)	-	jo␣
+ga005:021	12	@	-	ennenkin␣
+ga005:021	12	(@)	-	olen␣
+ga005:021	12	@	-	sanonut
+ga005:021	-	(,)	-	,␣
+ga005:021	13	@	-	että␣
+ga005:021	14	@	-	ne
+ga005:021	-	(,)	-	,␣
+ga005:021	14	@	-	jotka␣
+ga005:021	(15) 16	@	-	semmoista␣
+ga005:021	17	@	-	harjoittavat
+ga005:021	-	(,)	-	,␣
+ga005:021	20	@	-	eivät␣
+ga005:021	21a	@	-	peri␣
+ga005:021	19	@	-	Jumalan␣
+ga005:021	18	@	-	valtakuntaa
+ga005:021	21b	.	-	.␣
+ga005:022	ga005:022	ga005:022	VERSE	Gal␣5:22␣
+ga005:022	2	@	-	Mutta␣
+ga005:022	(4) 5	@	-	Hengen␣
+ga005:022	(1) 3	@	-	hedelmä␣
+ga005:022	6	@	-	on␣
+ga005:022	7	@	-	rakkaus
+ga005:022	-	(,)	-	,␣
+ga005:022	8	@	-	ilo
+ga005:022	-	(,)	-	,␣
+ga005:022	9a	@	-	rauha
+ga005:022	-	(,)	-	,␣
+ga005:022	10	@	-	pitkämielisyys
+ga005:022	-	(,)	-	,␣
+ga005:022	11	@	-	ystävällisyys
+ga005:022	-	(,)	-	,␣
+ga005:022	12a	@	-	hyvyys
+ga005:022	-	(,)	-	,␣
+ga005:022	13	@	-	uskollisuus
+ga005:022	-	(,)	-	,␣
+ga005:022	1/23	@	-	sävyisyys
+ga005:022	-	(,)	-	,␣
+ga005:022	2a/23	@	-	itsensähillitseminen
+ga005:022	-	(.)	-	.␣
+ga005:023	ga005:023	ga005:023	VERSE	Gal␣5:23␣
+ga005:023	(4) 5	@	-	Sellaista␣
+ga005:023	3	@	-	vastaan␣
+ga005:023	6	@	-	ei␣
+ga005:023	7	@	-	ole␣
+ga005:023	8a	@	-	laki
+ga005:023	8b	.	-	.␣
+ga005:024	ga005:024	ga005:024	VERSE	Gal␣5:24␣
+ga005:024	2	@	-	Ja␣
+ga005:024	-	(@)	-	ne
+ga005:024	-	(,)	-	,␣
+ga005:024	-	(@)	-	jotka␣
+ga005:024	-	(@)	-	ovat␣
+ga005:024	(3) 4a	@	-	Kristuksen␣
+ga005:024	5a	@	-	Jeesuksen␣
+ga005:024	1	@	-	omat
+ga005:024	-	(,)	-	,␣
+ga005:024	8	(@)	-	ovat␣
+ga005:024	8	@	-	ristiinnaulinneet␣
+ga005:024	(6) 7	@	-	lihansa␣
+ga005:024	(10) 11	@	-	himoineen␣
+ga005:024	9	%case	CMT	
+ga005:024	12	@	-	ja␣
+ga005:024	(13) 14a	@	-	haluineen
+ga005:024	14b	.	-	.␣
+ga005:025	ga005:025	ga005:025	VERSE	Gal␣5:25␣
+ga005:025	1	@	-	Jos␣
+ga005:025	2	(@)	-	me␣
+ga005:025	3a	@	-	Hengessä␣
+ga005:025	2	@	-	elämme
+ga005:025	-	(,)	-	,␣
+ga005:025	-	(@)	-	niin␣
+ga005:025	5	@	-	myös␣
+ga005:025	4	@	-	Hengessä␣
+ga005:025	6a	@	-	vaeltakaamme
+ga005:025	6b	.	-	.␣
+ga005:026	ga005:026	ga005:026	VERSE	Gal␣5:26␣
+ga005:026	1	@	-	Älkäämme␣
+ga005:026	2	@	-	olko␣
+ga005:026	3a	@	-	turhan␣
+ga005:026	3a	@	-	kunnian␣
+ga005:026	3a	@	-	pyytäjiä
+ga005:026	-	(,)	-	,␣
+ga005:026	-	(@)	-	niin␣
+ga005:026	-	(@)	-	että␣
+ga005:026	4	@	-	toisiamme␣
+ga005:026	5a	@	-	ärsyttelemme
+ga005:026	5b	,	-	,␣
+ga005:026	6	@	-	toisiamme␣
+ga005:026	7a	@	-	kadehdimme
+ga005:026	7b	.	-	.␣
+ga006:001	ga006:001	ga006:001	VERSE	Gal␣6:1␣
+ga006:001	1a	@	-	Veljet
+ga006:001	1b	,	-	,␣
+ga006:001	2	@	-	jos␣
+ga006:001	(3)	-	UNTRANSLATED	
+ga006:001	5	@	-	joku␣
+ga006:001	4	@	-	tavataan␣
+ga006:001	7	@	-	jostakin␣
+ga006:001	8a	@	-	rikkomuksesta
+ga006:001	6	%case	LOC	
+ga006:001	-	(,)	-	,␣
+ga006:001	-	(@)	-	niin␣
+ga006:001	12	@	-	ojentakaa␣
+ga006:001	9	@	-	te
+ga006:001	-	(,)	-	,␣
+ga006:001	(10) 11	@	-	hengelliset
+ga006:001	-	(,)	-	,␣
+ga006:001	(13) 14	@	-	häntä␣
+ga006:001	17a	@	-	sävyisyyden␣
+ga006:001	16	@	-	hengessä
+ga006:001	15	%case	LOC	
+ga006:001	-	(;)	-	;␣
+ga006:001	-	(@)	-	ja␣
+ga006:001	18	@	-	ole␣
+ga006:001	18	@	-	varuillasi
+ga006:001	19	%case	?	
+ga006:001	-	(,)	-	,␣
+ga006:001	20	@	-	ettet␣
+ga006:001	22	@	-	sinäkin␣
+ga006:001	21	%clitic	kin	
+ga006:001	23a	@	-	joutuisi␣
+ga006:001	23a	@	-	kiusaukseen
+ga006:001	23b	.	-	.␣
+ga006:002	ga006:002	ga006:002	VERSE	Gal␣6:2␣
+ga006:002	4	@	-	Kantakaa␣
+ga006:002	1	@	-	toistenne␣
+ga006:002	(2) 3	@	-	kuormia
+ga006:002	-	(,)	-	,␣
+ga006:002	5	@	-	ja␣
+ga006:002	6	@	-	niin␣
+ga006:002	7	(@)	-	te␣
+ga006:002	7	@	-	täytätte␣
+ga006:002	(10) 11a	@	-	Kristuksen␣
+ga006:002	(8) 9	@	-	lain
+ga006:002	11b	.	-	.␣
+ga006:003	ga006:003	ga006:003	VERSE	Gal␣6:3␣
+ga006:003	2	@	-	Sillä␣
+ga006:003	1	@	-	jos␣
+ga006:003	4	@	-	joku␣
+ga006:003	3	@	-	luulee␣
+ga006:003	6	@	-	jotakin␣
+ga006:003	5	@	-	olevansa
+ga006:003	-	(,)	-	,␣
+ga006:003	8a	(@)	-	vaikka␣
+ga006:003	7	@	-	ei␣
+ga006:003	8a	@	-	ole␣
+ga006:003	7	@	-	mitään
+ga006:003	-	(,)	-	,␣
+ga006:003	-	(@)	-	niin␣
+ga006:003	9	(@)	-	hän␣
+ga006:003	9	@	-	pettää␣
+ga006:003	10a	@	-	itsensä
+ga006:003	10b	.	-	.␣
+ga006:004	ga006:004	ga006:004	VERSE	Gal␣6:4␣
+ga006:004	2	@	-	Mutta␣
+ga006:004	5	@	-	tutkikoon␣
+ga006:004	6a	@	-	kukin␣
+ga006:004	4	@	-	omat␣
+ga006:004	(1) 3	@	-	tekonsa
+ga006:004	6b	,	-	,␣
+ga006:004	7	@	-	ja␣
+ga006:004	8	@	-	silloin␣
+ga006:004	-	(@)	-	hänen␣
+ga006:004	(12) 13	@	-	kerskaamisensa␣
+ga006:004	14	@	-	on␣
+ga006:004	11	@	-	vain␣
+ga006:004	9	@	-	siinä
+ga006:004	-	(,)	-	,␣
+ga006:004	9	@	-	mitä␣
+ga006:004	-	(@)	-	hän␣
+ga006:004	10	@	-	itse␣
+ga006:004	9	@	-	on
+ga006:004	-	(,)	-	,␣
+ga006:004	(15)	-	UNTRANSLATED	
+ga006:004	16	@	-	ei␣
+ga006:004	17	@	-	siinä
+ga006:004	-	(,)	-	,␣
+ga006:004	17	@	-	mitä␣
+ga006:004	(18) 19a	@	-	toinen␣
+ga006:004	17	@	-	on
+ga006:004	19b	;	-	;␣
+ga006:005	ga006:005	ga006:005	VERSE	Gal␣6:5␣
+ga006:005	2	@	-	sillä␣
+ga006:005	1	@	-	kunkin␣
+ga006:005	6a	(@)	-	on␣
+ga006:005	6a	@	-	kannettava␣
+ga006:005	4	@	-	oma␣
+ga006:005	(3) 5	@	-	taakkansa
+ga006:005	6b	.	-	.␣
+ga006:006	ga006:006	ga006:006	VERSE	Gal␣6:6␣
+ga006:006	3	@	-	Jolle␣
+ga006:006	(2)	-	UNTRANSLATED	
+ga006:006	(5) 6	@	-	sanaa␣
+ga006:006	4	@	-	opetetaan
+ga006:006	-	(,)	-	,␣
+ga006:006	1	(@)	-	se␣
+ga006:006	1	@	-	jakakoon␣
+ga006:006	10	@	-	kaikkea␣
+ga006:006	11a	@	-	hyvää␣
+ga006:006	9	%case	PTV	
+ga006:006	(7) 8	@	-	opettajallensa
+ga006:006	11b	.	-	.␣
+ga006:007	ga006:007	ga006:007	VERSE	Gal␣6:7␣
+ga006:007	1	@	-	Älkää␣
+ga006:007	2a	@	-	eksykö
+ga006:007	2b	,	-	,␣
+ga006:007	3	@	-	Jumala␣
+ga006:007	4	@	-	ei␣
+ga006:007	5a	(@)	-	salli␣
+ga006:007	5a	(@)	-	itseänsä␣
+ga006:007	5a	@	-	pilkata
+ga006:007	5b	;	-	;␣
+ga006:007	7	@	-	sillä␣
+ga006:007	6	@	-	mitä␣
+ga006:007	10a	@	-	ihminen␣
+ga006:007	9	@	-	kylvää
+ga006:007	10b	,	-	,␣
+ga006:007	11	@	-	sitä␣
+ga006:007	13a	(@)	-	hän␣
+ga006:007	12	@	-	myös␣
+ga006:007	13a	@	-	niittää
+ga006:007	13b	.	-	.␣
+ga006:008	ga006:008	ga006:008	VERSE	Gal␣6:8␣
+ga006:008	2	@	-	Joka␣
+ga006:008	(1)	-	UNTRANSLATED	
+ga006:008	(5) 6	@	-	lihaansa␣
+ga006:008	7	%pers	3	
+ga006:008	4	%case	LOC	
+ga006:008	3	@	-	kylvää
+ga006:008	-	(,)	-	,␣
+ga006:008	11	(@)	-	se␣
+ga006:008	10 (9)	@	-	lihasta␣
+ga006:008	8	%case	LOC	
+ga006:008	12a	@	-	turmeluksen␣
+ga006:008	11	@	-	niittää
+ga006:008	12b	;	-	;␣
+ga006:008	14	@	-	mutta␣
+ga006:008	13	@	-	joka␣
+ga006:008	(17) 18	@	-	Henkeen␣
+ga006:008	16	%case	LOC	
+ga006:008	15	@	-	kylvää
+ga006:008	-	(,)	-	,␣
+ga006:008	22	(@)	-	se␣
+ga006:008	(20) 21	@	-	Hengestä␣
+ga006:008	19	%case	LOC	
+ga006:008	24a	@	-	iankaikkisen␣
+ga006:008	23	@	-	elämän␣
+ga006:008	22	@	-	niittää
+ga006:008	24b	.	-	.␣
+ga006:009	ga006:009	ga006:009	VERSE	Gal␣6:9␣
+ga006:009	2	@	-	Ja␣
+ga006:009	4	(@)	-	kun␣
+ga006:009	(1) 3	@	-	hyvää␣
+ga006:009	4	@	-	teemme
+ga006:009	-	(,)	-	,␣
+ga006:009	5	@	-	älkäämme␣
+ga006:009	6a	@	-	lannistuko
+ga006:009	6b	,	-	,␣
+ga006:009	8	@	-	sillä␣
+ga006:009	10	(@)	-	me␣
+ga006:009	tasp%10	@	-	saamme␣
+ga006:009	7	@	-	ajan␣
+ga006:009	pro%9	@	-	tullen␣
+ga006:009	10	@	-	niittää
+ga006:009	-	(,)	-	,␣
+ga006:009	11	(@)	-	jos␣
+ga006:009	11	@	-	emme␣
+ga006:009	12a	@	-	väsy
+ga006:009	12b	.	-	.␣
+ga006:010	ga006:010	ga006:010	VERSE	Gal␣6:10␣
+ga006:010	1 2	@	-	Sentähden
+ga006:010	-	(,)	-	,␣
+ga006:010	3	@	-	kun␣
+ga006:010	5a	(@)	-	meillä␣
+ga006:010	-	(@)	-	vielä␣
+ga006:010	4	@	-	aikaa␣
+ga006:010	5a	@	-	on
+ga006:010	5b	,	-	,␣
+ga006:010	6	@	-	tehkäämme␣
+ga006:010	(7) 8	@	-	hyvää␣
+ga006:010	10a	@	-	kaikille
+ga006:010	9	%case	LOC	
+ga006:010	10b	,	-	,␣
+ga006:010	12	@	-	mutta␣
+ga006:010	11	@	-	varsinkin␣
+ga006:010	(14) 15 (16) 17a	@	-	uskonveljille
+ga006:010	13	%case	LOC	
+ga006:010	17b	.	-	.␣
+ga006:011	ga006:011	ga006:011	VERSE	Gal␣6:11␣
+ga006:011	1	@	-	Katsokaa
+ga006:011	-	(,)	-	,␣
+ga006:011	2	@	-	kuinka␣
+ga006:011	2	@	-	suurilla␣
+ga006:011	4	@	-	kirjaimilla␣
+ga006:011	5	(@)	-	minä␣
+ga006:011	(6) 7 8a	@	-	omakätisesti␣
+ga006:011	3	@	-	teille␣
+ga006:011	5	@	-	kirjoitan
+ga006:011	-	(!)	-	!␣
+ga006:012	ga006:012	ga006:012	VERSE	Gal␣6:12␣
+ga006:012	1	@	-	Kaikki
+ga006:012	-	(,)	-	,␣
+ga006:012	1	@	-	jotka␣
+ga006:012	2	@	-	pyrkivät␣
+ga006:012	5a	@	-	lihassa␣
+ga006:012	4	%case	LOC	
+ga006:012	3	@	-	olemaan␣
+ga006:012	3	@	-	mieliksi
+ga006:012	5b	,	-	,␣
+ga006:012	6	@	-	ne␣
+ga006:012	7	@	-	pakottavat␣
+ga006:012	8	@	-	teitä␣
+ga006:012	9a	@	-	ympärileikkauttamaan␣
+ga006:012	9a	@	-	itsenne␣
+ga006:012	10	@	-	vain␣
+ga006:012	11	@	-	siksi
+ga006:012	-	(,)	-	,␣
+ga006:012	16	@	-	ettei␣
+ga006:012	-	(@)	-	heitä␣
+ga006:012	(14) 15	@	-	Kristuksen␣
+ga006:012	(12) 13	@	-	ristin␣
+ga006:012	case%13	@	-	tähden␣
+ga006:012	17a	@	-	vainottaisi
+ga006:012	17b	.	-	.␣
+ga006:013	ga006:013	ga006:013	VERSE	Gal␣6:13␣
+ga006:013	1	@	-	Eiväthän␣
+ga006:013	2	%clitic	hAn	
+ga006:013	3	@	-	nekään
+ga006:013	-	(,)	-	,␣
+ga006:013	3	@	-	jotka␣
+ga006:013	4	@	-	ympärileikkauttavat␣
+ga006:013	4	@	-	itsensä
+ga006:013	-	(,)	-	,␣
+ga006:013	5	@	-	itse␣
+ga006:013	7a	@	-	noudata␣
+ga006:013	6	@	-	lakia
+ga006:013	7b	,	-	,␣
+ga006:013	8	@	-	vaan␣
+ga006:013	9	(@)	-	he␣
+ga006:013	9	@	-	tahtovat␣
+ga006:013	10	@	-	teitä␣
+ga006:013	11	@	-	ympärileikkauttamaan␣
+ga006:013	11	@	-	itsenne␣
+ga006:013	pro%17a	@	-	saadakseen␣
+ga006:013	12	%case	TRA	
+ga006:013	17a	@	-	kerskata␣
+ga006:013	15	@	-	teidän␣
+ga006:013	(14) 16	@	-	lihastanne
+ga006:013	13	%case	LOC	
+ga006:013	17b	.	-	.␣
+ga006:014	ga006:014	ga006:014	VERSE	Gal␣6:14␣
+ga006:014	2	@	-	Mutta␣
+ga006:014	3 4	@	-	pois␣
+ga006:014	3 4	@	-	se␣
+ga006:014	1	@	-	minusta
+ga006:014	-	(,)	-	,␣
+ga006:014	-	(@)	-	että␣
+ga006:014	-	(@)	-	minä␣
+ga006:014	6 7	@	-	muusta␣
+ga006:014	5	@	-	kerskaisin␣
+ga006:014	6 7	@	-	kuin␣
+ga006:014	13	@	-	meidän␣
+ga006:014	(11) 12	@	-	Herramme␣
+ga006:014	14	@	-	Jeesuksen␣
+ga006:014	15a	@	-	Kristuksen␣
+ga006:014	10 (9)	@	-	rististä
+ga006:014	8	%case	LOC	
+ga006:014	15b	,	-	,␣
+ga006:014	17	@	-	jonka␣
+ga006:014	16	@	-	kautta␣
+ga006:014	19	@	-	maailma␣
+ga006:014	20	(@)	-	on␣
+ga006:014	20	@	-	ristiinnaulittu␣
+ga006:014	18	@	-	minulle
+ga006:014	-	(,)	-	,␣
+ga006:014	22	@	-	ja␣
+ga006:014	22	@	-	minä␣
+ga006:014	23a	@	-	maailmalle
+ga006:014	-	(!)	-	!␣
+ga006:015	ga006:015	ga006:015	VERSE	Gal␣6:15␣
+ga006:015	2	@	-	Sillä␣
+ga006:015	1	@	-	ei␣
+ga006:015	3	@	-	ympärileikkaus␣
+ga006:015	5	@	-	ole␣
+ga006:015	4	@	-	mitään␣
+ga006:015	6	@	-	eikä␣
+ga006:015	7	@	-	ympärileikkaamattomuus
+ga006:015	-	(,)	-	,␣
+ga006:015	8	@	-	vaan␣
+ga006:015	9	@	-	uusi␣
+ga006:015	10a	@	-	luomus
+ga006:015	10b	.	-	.␣
+ga006:016	ga006:016	ga006:016	VERSE	Gal␣6:16␣
+ga006:016	1	@	-	Ja␣
+ga006:016	2	@	-	kaikille
+ga006:016	-	(,)	-	,␣
+ga006:016	2	@	-	jotka␣
+ga006:016	5	@	-	tämän␣
+ga006:016	(3) 4	@	-	säännön␣
+ga006:016	case%4	@	-	mukaan␣
+ga006:016	6a	@	-	vaeltavat
+ga006:016	-	(,)	-	,␣
+ga006:016	-	(@)	-	kaikille␣
+ga006:016	9	@	-	heille␣
+ga006:016	8	%case	LOC	
+ga006:016	7	@	-	rauha␣
+ga006:016	10	@	-	ja␣
+ga006:016	11	@	-	laupeus
+ga006:016	-	(,)	-	,␣
+ga006:016	12	@	-	ja␣
+ga006:016	(16) 17a	@	-	Jumalan␣
+ga006:016	(14) 15	@	-	Israelille
+ga006:016	13	%case	LOC	
+ga006:016	-	(!)	-	!␣
+ga006:017	ga006:017	ga006:017	VERSE	Gal␣6:17␣
+ga006:017	5	@	-	Älköön␣
+ga006:017	(1) 2	@	-	tästedes␣
+ga006:017	5	@	-	kukaan␣
+ga006:017	4	@	-	minulle␣
+ga006:017	3	@	-	vaivoja␣
+ga006:017	6a	@	-	tuottako
+ga006:017	6b	;	-	;␣
+ga006:017	8	@	-	sillä␣
+ga006:017	7	@	-	minä␣
+ga006:017	17a	@	-	kannan␣
+ga006:017	(11) 12	@	-	Jeesuksen␣
+ga006:017	10 (9)	@	-	arvet␣
+ga006:017	(14) 15	@	-	ruumiissani
+ga006:017	16	%pers	?	
+ga006:017	13	%case	LOC	
+ga006:017	17b	.	-	.␣
+ga006:018	ga006:018	ga006:018	VERSE	Gal␣6:18␣
+ga006:018	5	@	-	Meidän␣
+ga006:018	(3) 4	@	-	Herramme␣
+ga006:018	6	@	-	Jeesuksen␣
+ga006:018	7	@	-	Kristuksen␣
+ga006:018	(1) 2	@	-	armo␣
+ga006:018	-	(@)	-	olkoon␣
+ga006:018	11a	@	-	teidän␣
+ga006:018	10 (9)	@	-	henkenne␣
+ga006:018	8	@	-	kanssa
+ga006:018	11b	,	-	,␣
+ga006:018	12a	@	-	veljet
+ga006:018	12b	.	-	.␣
+ga006:018	13a	@	-	Amen
+ga006:018	13b	.	-	.␣

@@ -1,0 +1,486 @@
+pm000:001	pm000:001	pm000:001	VERSE	Flm␣0:1␣
+pm000:001	1	@	-	Paavali
+pm000:001	-	(,)	-	,␣
+pm000:001	3	@	-	Kristuksen␣
+pm000:001	4	@	-	Jeesuksen␣
+pm000:001	2	@	-	vanki
+pm000:001	-	(,)	-	,␣
+pm000:001	5	@	-	ja␣
+pm000:001	(7) 8	@	-	veli␣
+pm000:001	6	@	-	Timoteus␣
+pm000:001	11	@	-	rakkaalle␣
+pm000:001	(10) 9	@	-	Filemonille
+pm000:001	(12)	-	UNTRANSLATED	
+pm000:001	-	(,)	-	,␣
+pm000:001	13	@	-	työtoverillemme
+pm000:001	14	%pers	?	
+pm000:001	-	(,)	-	,␣
+pm000:002	pm000:002	pm000:002	VERSE	Flm␣0:2␣
+pm000:002	1	@	-	ja␣
+pm000:002	2	@	-	Appialle
+pm000:002	-	(,)	-	,␣
+pm000:002	(3) 4	@	-	sisarellemme
+pm000:002	-	(,)	-	,␣
+pm000:002	5	@	-	ja␣
+pm000:002	6	@	-	Arkippukselle
+pm000:002	-	(,)	-	,␣
+pm000:002	(7) 8	@	-	taistelutoverillemme
+pm000:002	9	%pers	?	
+pm000:002	-	(,)	-	,␣
+pm000:002	10	@	-	ja␣
+pm000:002	14	@	-	sinun␣
+pm000:002	13	@	-	kodissasi␣
+pm000:002	pro%12	@	-	kokoontuvalle␣
+pm000:002	(11) 15a	@	-	seurakunnalle
+pm000:002	15b	.	-	.␣
+pm000:003	pm000:003	pm000:003	VERSE	Flm␣0:3␣
+pm000:003	1	@	-	Armo␣
+pm000:003	2	@	-	teille␣
+pm000:003	3	@	-	ja␣
+pm000:003	4	@	-	rauha␣
+pm000:003	6	@	-	Jumalalta
+pm000:003	5	%case	LOC	
+pm000:003	-	(,)	-	,␣
+pm000:003	8	@	-	meidän␣
+pm000:003	7	@	-	Isältämme
+pm000:003	-	(,)	-	,␣
+pm000:003	9	@	-	ja␣
+pm000:003	10	@	-	Herralta␣
+pm000:003	11	@	-	Jeesukselta␣
+pm000:003	12a	@	-	Kristukselta
+pm000:003	-	(!)	-	!␣
+pm000:004	pm000:004	pm000:004	VERSE	Flm␣0:4␣
+pm000:004	1	(@)	-	Minä␣
+pm000:004	1	@	-	kiitän␣
+pm000:004	(2) 3	@	-	Jumalaani␣
+pm000:004	4	%pers	?	
+pm000:004	5	@	-	aina
+pm000:004	-	(,)	-	,␣
+pm000:004	6 8	@	-	muistaessani␣
+pm000:004	7	@	-	sinua␣
+pm000:004	(10) 11	@	-	rukouksissani
+pm000:004	12a	%pers	?	
+pm000:004	9	%case	LOC	
+pm000:004	12b	,	-	,␣
+pm000:005	pm000:005	pm000:005	VERSE	Flm␣0:5␣
+pm000:005	1	(@)	-	sillä␣
+pm000:005	1	(@)	-	minä␣
+pm000:005	1	(@)	-	olen␣
+pm000:005	1	@	-	kuullut␣
+pm000:005	2	@	-	sinun␣
+pm000:005	(3) 4	@	-	rakkaudestasi␣
+pm000:005	5	@	-	ja␣
+pm000:005	(6) 7a	@	-	uskostasi
+pm000:005	7b	,	-	,␣
+pm000:005	8	@	-	joka␣
+pm000:005	9	(@)	-	sinulla␣
+pm000:005	9	@	-	on␣
+pm000:005	(11) 12	@	-	Herraan␣
+pm000:005	13	@	-	Jeesukseen␣
+pm000:005	10	%case	LOC	
+pm000:005	14	@	-	ja␣
+pm000:005	16	@	-	kaikkia␣
+pm000:005	(17) 18a	@	-	pyhiä␣
+pm000:005	15	@	-	kohtaan
+pm000:005	18b	;	-	;␣
+pm000:006	pm000:006	pm000:006	VERSE	Flm␣0:6␣
+pm000:006	-	(@)	-	ja␣
+pm000:006	-	(@)	-	rukoukseni␣
+pm000:006	-	(@)	-	on
+pm000:006	-	(,)	-	,␣
+pm000:006	1	@	-	että␣
+pm000:006	6	@	-	sinun␣
+pm000:006	(4) 5	@	-	uskosi
+pm000:006	-	(,)	-	,␣
+pm000:006	-	(@)	-	se␣
+pm000:006	-	(@)	-	usko
+pm000:006	-	(,)	-	,␣
+pm000:006	-	(@)	-	joka␣
+pm000:006	-	(@)	-	on␣
+pm000:006	-	(@)	-	meille␣
+pm000:006	(2) 3	@	-	yhteinen
+pm000:006	-	(,)	-	,␣
+pm000:006	8	@	-	olisi␣
+pm000:006	7	@	-	väkevä␣
+pm000:006	11	@	-	kaiken␣
+pm000:006	12	@	-	hyvän␣
+pm000:006	10	@	-	tuntemisessa
+pm000:006	9	%case	LOC	
+pm000:006	-	(,)	-	,␣
+pm000:006	13	@	-	mikä␣
+pm000:006	15	@	-	meillä␣
+pm000:006	14	%case	LOC	
+pm000:006	17a	@	-	Kristuksessa␣
+pm000:006	16	%case	LOC	
+pm000:006	-	(@)	-	on
+pm000:006	17b	.	-	.␣
+pm000:007	pm000:007	pm000:007	VERSE	Flm␣0:7␣
+pm000:007	2	@	-	Sillä␣
+pm000:007	4	(@)	-	minä␣
+pm000:007	4	(@)	-	olen␣
+pm000:007	4	@	-	saanut␣
+pm000:007	3	@	-	paljon␣
+pm000:007	1	@	-	iloa␣
+pm000:007	5	@	-	ja␣
+pm000:007	6	@	-	lohdutusta␣
+pm000:007	10a	@	-	sinun␣
+pm000:007	(8) 9	@	-	rakkaudestasi
+pm000:007	7	%case	LOC	
+pm000:007	10b	,	-	,␣
+pm000:007	11	@	-	koska␣
+pm000:007	(14) 15	@	-	pyhien␣
+pm000:007	(12) 13	@	-	sydämet␣
+pm000:007	16	(@)	-	ovat␣
+pm000:007	16	@	-	virvoittuneet␣
+pm000:007	18a	@	-	sinun␣
+pm000:007	17	@	-	kauttasi
+pm000:007	18b	,	-	,␣
+pm000:007	19a	@	-	veljeni
+pm000:007	19b	.	-	.␣
+pm000:008	pm000:008	pm000:008	VERSE	Flm␣0:8␣
+pm000:008	1	@	-	Sentähden
+pm000:008	-	(,)	-	,␣
+pm000:008	6	(@)	-	vaikka␣
+pm000:008	6	(@)	-	minulla␣
+pm000:008	4	@	-	Kristuksessa␣
+pm000:008	3	%case	LOC	
+pm000:008	6	@	-	on␣
+pm000:008	2	@	-	paljon␣
+pm000:008	5	@	-	rohkeutta␣
+pm000:008	7	@	-	käskeä␣
+pm000:008	8	@	-	sinua␣
+pm000:008	-	(@)	-	tekemään
+pm000:008	-	(,)	-	,␣
+pm000:008	10 (9)	@	-	mitä␣
+pm000:008	10 (9)	@	-	tehdä␣
+pm000:008	10 (9)	@	-	tulee
+pm000:008	-	(,)	-	,␣
+pm000:009	pm000:009	pm000:009	VERSE	Flm␣0:9␣
+pm000:009	-	(@)	-	niin␣
+pm000:009	(2) 3	@	-	rakkauden␣
+pm000:009	1	@	-	tähden␣
+pm000:009	-	(@)	-	minä␣
+pm000:009	-	(@)	-	kuitenkin␣
+pm000:009	4	@	-	mieluummin␣
+pm000:009	5a	@	-	pyydän
+pm000:009	5b	,	-	,␣
+pm000:009	7	@	-	ollen␣
+pm000:009	6	@	-	tämmöinen␣
+pm000:009	8	@	-	kuin␣
+pm000:009	-	(@)	-	olen
+pm000:009	-	(,)	-	,␣
+pm000:009	-	(@)	-	minä␣
+pm000:009	10	@	-	vanha␣
+pm000:009	9	@	-	Paavali
+pm000:009	-	(,)	-	,␣
+pm000:009	12	@	-	ja␣
+pm000:009	11	@	-	nyt␣
+pm000:009	13	@	-	myös␣
+pm000:009	15	@	-	Kristuksen␣
+pm000:009	16a	@	-	Jeesuksen␣
+pm000:009	14	@	-	vanki␣
+pm000:009	16b	-	-	-␣
+pm000:010	pm000:010	pm000:010	VERSE	Flm␣0:10␣
+pm000:010	1	@	-	pyydän␣
+pm000:010	2	@	-	sinua␣
+pm000:010	(4) 6a	@	-	poikani␣
+pm000:010	5	%pers	?	
+pm000:010	3	@	-	puolesta
+pm000:010	6b	,	-	,␣
+pm000:010	7	@	-	jonka␣
+pm000:010	8	(@)	-	minä␣
+pm000:010	(10) 11a	@	-	kahleissani␣
+pm000:010	9	%case	LOC	
+pm000:010	8	@	-	synnytin
+pm000:010	11b	,	-	,␣
+pm000:010	12a	@	-	Onesimuksen␣
+pm000:010	-	(@)	-	puolesta
+pm000:010	12b	,	-	,␣
+pm000:011	pm000:011	pm000:011	VERSE	Flm␣0:11␣
+pm000:011	3	@	-	sinulle␣
+pm000:011	2	@	-	ennen␣
+pm000:011	(1) 4	@	-	hyödyttömän
+pm000:011	-	(,)	-	,␣
+pm000:011	6a	@	-	mutta␣
+pm000:011	5	@	-	nyt␣
+pm000:011	7a	@	-	sekä␣
+pm000:011	8	@	-	sinulle␣
+pm000:011	9	@	-	että␣
+pm000:011	10	@	-	minulle␣
+pm000:011	11a	@	-	hyödyllisen
+pm000:011	11b	;	-	;␣
+pm000:012	pm000:012	pm000:012	VERSE	Flm␣0:12␣
+pm000:012	1	@	-	hänet␣
+pm000:012	2	(@)	-	minä␣
+pm000:012	2	@	-	lähetän␣
+pm000:012	3a	@	-	sinulle␣
+pm000:012	2	@	-	takaisin
+pm000:012	3b	,	-	,␣
+pm000:012	4a	@	-	hänet
+pm000:012	4b	,	-	,␣
+pm000:012	5	@	-	se␣
+pm000:012	6	@	-	on
+pm000:012	-	(:)	-	:␣
+pm000:012	8	@	-	oman␣
+pm000:012	(7) 9a	@	-	sydämeni
+pm000:012	9b	.	-	.␣
+pm000:013	pm000:013	pm000:013	VERSE	Flm␣0:13␣
+pm000:013	3	(@)	-	Olisin␣
+pm000:013	2	%pers	1S	
+pm000:013	3	@	-	tahtonut␣
+pm000:013	6a	@	-	pidättää␣
+pm000:013	1	@	-	hänet␣
+pm000:013	5	@	-	tykönäni
+pm000:013	4	%case	?	
+pm000:013	6b	,	-	,␣
+pm000:013	7	@	-	että␣
+pm000:013	-	(@)	-	hän␣
+pm000:013	9	@	-	sinun␣
+pm000:013	8	@	-	sijassasi␣
+pm000:013	11	(@)	-	olisi␣
+pm000:013	11	@	-	palvellut␣
+pm000:013	10	@	-	minua
+pm000:013	-	(,)	-	,␣
+pm000:013	-	(@)	-	joka␣
+pm000:013	-	(@)	-	olen␣
+pm000:013	(15) 16a	@	-	evankeliumin␣
+pm000:013	-	(@)	-	tähden␣
+pm000:013	(13) 14	@	-	kahleissa
+pm000:013	12	%case	LOC	
+pm000:013	16b	;	-	;␣
+pm000:014	pm000:014	pm000:014	VERSE	Flm␣0:14␣
+pm000:014	2	@	-	mutta␣
+pm000:014	1	@	-	ilman␣
+pm000:014	4	@	-	sinun␣
+pm000:014	(3) 5	@	-	suostumustasi␣
+pm000:014	6	@	-	en␣
+pm000:014	7	@	-	tahtonut␣
+pm000:014	8a	@	-	tehdä␣
+pm000:014	6	@	-	mitään
+pm000:014	8b	,	-	,␣
+pm000:014	10 9	@	-	ettei␣
+pm000:014	(14) 15	@	-	hyvyytesi␣
+pm000:014	16	%pers	?	
+pm000:014	17	@	-	olisi␣
+pm000:014	11	@	-	ikäänkuin␣
+pm000:014	13	@	-	pakollinen
+pm000:014	12	%case	NOM	
+pm000:014	-	(,)	-	,␣
+pm000:014	18	@	-	vaan␣
+pm000:014	20a	@	-	vapaaehtoinen
+pm000:014	19	%case	NOM	
+pm000:014	20b	.	-	.␣
+pm000:015	pm000:015	pm000:015	VERSE	Flm␣0:15␣
+pm000:015	2	@	-	Sillä␣
+pm000:015	1	@	-	ehkäpä␣
+pm000:015	5	(@)	-	hän␣
+pm000:015	3 4	@	-	sentähden␣
+pm000:015	tasp%5	@	-	joutui␣
+pm000:015	5	@	-	eroamaan␣
+pm000:015	-	(@)	-	sinusta␣
+pm000:015	7a	@	-	ajaksi
+pm000:015	6	%case	TRA	
+pm000:015	7b	,	-	,␣
+pm000:015	8	@	-	että␣
+pm000:015	11a	@	-	saisit␣
+pm000:015	10	@	-	hänet␣
+pm000:015	11a	@	-	takaisin␣
+pm000:015	9	@	-	iäksi
+pm000:015	11b	,	-	,␣
+pm000:016	pm000:016	pm000:016	VERSE	Flm␣0:16␣
+pm000:016	1	@	-	ei␣
+pm000:016	1	@	-	enää␣
+pm000:016	3	@	-	orjana
+pm000:016	2	%inflection	SG.ESS	
+pm000:016	-	(,)	-	,␣
+pm000:016	4	@	-	vaan␣
+pm000:016	6a	@	-	orjaa␣
+pm000:016	5	@	-	enempänä
+pm000:016	6b	:	-	:␣
+pm000:016	8a	@	-	rakkaana␣
+pm000:016	7	@	-	veljenä
+pm000:016	8b	,	-	,␣
+pm000:016	9	@	-	ylen␣
+pm000:016	-	(@)	-	rakkaana␣
+pm000:016	-	(@)	-	jo␣
+pm000:016	10a	@	-	minulle
+pm000:016	-	(,)	-	,␣
+pm000:016	11	@	-	kuinka␣
+pm000:016	11	@	-	paljoa␣
+pm000:016	13	@	-	enemmän␣
+pm000:016	12	@	-	sitten␣
+pm000:016	14	@	-	sinulle
+pm000:016	-	(,)	-	,␣
+pm000:016	15	@	-	sekä␣
+pm000:016	pro%17	@	-	ihmisenä␣
+pm000:016	16	%case	ESS	
+pm000:016	18	@	-	että␣
+pm000:016	20a	@	-	Herran␣
+pm000:016	pro%19	@	-	omana
+pm000:016	-	(!)	-	!␣
+pm000:017	pm000:017	pm000:017	VERSE	Flm␣0:17␣
+pm000:017	1	@	-	Jos␣
+pm000:017	2	@	-	siis␣
+pm000:017	4	@	-	pidät␣
+pm000:017	3	@	-	minua␣
+pm000:017	5a	@	-	toverinasi
+pm000:017	-	(,)	-	,␣
+pm000:017	-	(@)	-	niin␣
+pm000:017	6	@	-	ota␣
+pm000:017	7	@	-	hänet␣
+pm000:017	6	@	-	luoksesi␣
+pm000:017	8	@	-	niinkuin␣
+pm000:017	9a	@	-	minut
+pm000:017	9b	;	-	;␣
+pm000:018	pm000:018	pm000:018	VERSE	Flm␣0:18␣
+pm000:018	2	@	-	mutta␣
+pm000:018	1	@	-	jos␣
+pm000:018	4	(@)	-	hän␣
+pm000:018	4	(@)	-	on␣
+pm000:018	4	@	-	tehnyt␣
+pm000:018	5	@	-	sinulle␣
+pm000:018	3	@	-	jotakin␣
+pm000:018	4	@	-	vääryyttä␣
+pm000:018	6	@	-	tai␣
+pm000:018	7a	@	-	on␣
+pm000:018	-	(@)	-	sinulle␣
+pm000:018	-	(@)	-	jotakin␣
+pm000:018	7a	@	-	velkaa
+pm000:018	-	(,)	-	,␣
+pm000:018	-	(@)	-	niin␣
+pm000:018	10a	@	-	pane␣
+pm000:018	8	@	-	se␣
+pm000:018	9	@	-	minun␣
+pm000:018	10a	@	-	laskuuni
+pm000:018	10b	.	-	.␣
+pm000:019	pm000:019	pm000:019	VERSE	Flm␣0:19␣
+pm000:019	1	@	-	Minä
+pm000:019	-	(,)	-	,␣
+pm000:019	2	@	-	Paavali
+pm000:019	-	(,)	-	,␣
+pm000:019	3	@	-	kirjoitan␣
+pm000:019	5	@	-	omalla␣
+pm000:019	(4) 6a	@	-	kädelläni
+pm000:019	6b	:	-	:␣
+pm000:019	6b	@	-	"
+pm000:019	7	@	-	Minä␣
+pm000:019	-	(@)	-	sen␣
+pm000:019	8a	@	-	maksan
+pm000:019	8b	@	-	"
+pm000:019	8b	;	-	;␣
+pm000:019	9	@	-	saattaisinpa␣
+pm000:019	10	%case	?	
+pm000:019	11	@	-	sanoa
+pm000:019	-	(:)	-	:␣
+pm000:019	-	(@)	-	pane␣
+pm000:019	-	(@)	-	se␣
+pm000:019	pro%12	@	-	omaan␣
+pm000:019	pro%12	@	-	laskuusi
+pm000:019	-	(;)	-	;␣
+pm000:019	13	@	-	sillä␣
+pm000:019	17a	(@)	-	sinä␣
+pm000:019	17a	@	-	olet␣
+pm000:019	16	@	-	minulle␣
+pm000:019	17a	@	-	velkaa␣
+pm000:019	15	(@)	-	oman␣
+pm000:019	15	@	-	itsesikin
+pm000:019	14	%clitic	kin	
+pm000:019	17b	.	-	.␣
+pm000:020	pm000:020	pm000:020	VERSE	Flm␣0:20␣
+pm000:020	1	@	-	Niin
+pm000:020	-	(,)	-	,␣
+pm000:020	2a	@	-	veljeni
+pm000:020	-	(,)	-	,␣
+pm000:020	5	@	-	jospa␣
+pm000:020	5	@	-	saisin␣
+pm000:020	3	%pers	1S	
+pm000:020	4	@	-	sinusta␣
+pm000:020	5	@	-	hyötyä␣
+pm000:020	7a	@	-	Herrassa
+pm000:020	6	%case	LOC	
+pm000:020	7b	;	-	;␣
+pm000:020	8	@	-	virvoita␣
+pm000:020	(10) 11	@	-	sydäntäni␣
+pm000:020	9	%pers	?	
+pm000:020	13a	@	-	Kristuksessa
+pm000:020	12	%case	LOC	
+pm000:020	13b	.	-	.␣
+pm000:021	pm000:021	pm000:021	VERSE	Flm␣0:21␣
+pm000:021	1	@	-	Luottaen␣
+pm000:021	(2) 3	@	-	kuuliaisuuteesi␣
+pm000:021	4	%pers	?	
+pm000:021	5	(@)	-	minä␣
+pm000:021	5	@	-	kirjoitan␣
+pm000:021	6a	@	-	sinulle
+pm000:021	-	(,)	-	,␣
+pm000:021	-	(@)	-	ja␣
+pm000:021	7	(@)	-	minä␣
+pm000:021	7	@	-	tiedän
+pm000:021	-	(,)	-	,␣
+pm000:021	8	@	-	että␣
+pm000:021	13a	(@)	-	sinä␣
+pm000:021	13a	@	-	teet␣
+pm000:021	10	@	-	enemmänkin
+pm000:021	9	%clitic	kin	
+pm000:021	-	(,)	-	,␣
+pm000:021	10	@	-	kuin␣
+pm000:021	11	@	-	mitä␣
+pm000:021	12	@	-	sanon
+pm000:021	13b	.	-	.␣
+pm000:022	pm000:022	pm000:022	VERSE	Flm␣0:22␣
+pm000:022	1	@	-	Lisäksi␣
+pm000:022	2	%case	?	
+pm000:022	3	@	-	vielä
+pm000:022	-	(:)	-	:␣
+pm000:022	4	@	-	valmista␣
+pm000:022	5	@	-	minulle␣
+pm000:022	6a	@	-	maja␣
+pm000:022	-	(@)	-	luonasi
+pm000:022	6b	;	-	;␣
+pm000:022	7	@	-	toivon␣
+pm000:022	8	@	-	näet
+pm000:022	-	(,)	-	,␣
+pm000:022	9	@	-	että␣
+pm000:022	14	(@)	-	minut␣
+pm000:022	(11) 12	@	-	rukoustenne␣
+pm000:022	13	%pers	?	
+pm000:022	10	@	-	kautta␣
+pm000:022	14	@	-	lahjoitetaan␣
+pm000:022	15a	@	-	teille
+pm000:022	15b	.	-	.␣
+pm000:023	pm000:023	pm000:023	VERSE	Flm␣0:23␣
+pm000:023	1	@	-	Tervehdyksen␣
+pm000:023	1	@	-	lähettävät␣
+pm000:023	2	@	-	sinulle␣
+pm000:023	3	@	-	Epafras
+pm000:023	-	(,)	-	,␣
+pm000:023	6	@	-	minun␣
+pm000:023	(4) 5	@	-	vankitoverini␣
+pm000:023	8	@	-	Kristuksessa␣
+pm000:023	9a	@	-	Jeesuksessa
+pm000:023	7	%case	LOC	
+pm000:023	9b	,	-	,␣
+pm000:024	pm000:024	pm000:024	VERSE	Flm␣0:24␣
+pm000:024	1a	@	-	Markus
+pm000:024	1b	,	-	,␣
+pm000:024	2a	@	-	Aristarkus
+pm000:024	2b	,	-	,␣
+pm000:024	3a	@	-	Deemas␣
+pm000:024	-	(@)	-	ja␣
+pm000:024	4a	@	-	Luukas
+pm000:024	4b	,	-	,␣
+pm000:024	5	@	-	jotka␣
+pm000:024	-	(@)	-	ovat␣
+pm000:024	7a	@	-	minun␣
+pm000:024	6	@	-	työtovereitani
+pm000:024	7b	.	-	.␣
+pm000:025	pm000:025	pm000:025	VERSE	Flm␣0:25␣
+pm000:025	(3) 4	@	-	Herran␣
+pm000:025	5	@	-	Jeesuksen␣
+pm000:025	6	@	-	Kristuksen␣
+pm000:025	(1) 2	@	-	armo␣
+pm000:025	-	(@)	-	olkoon␣
+pm000:025	10a	@	-	teidän␣
+pm000:025	(8) 9	@	-	henkenne␣
+pm000:025	7	@	-	kanssa
+pm000:025	10b	.	-	.␣
