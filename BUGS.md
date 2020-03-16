@@ -1,4 +1,4 @@
-# To-Do's and Issues in the HELFI Corpus
+# Known Bugs in the HELFI Corpus
 
 1. The remaining licensing issues with the Hebrew Bible base text should be resolved.
 
