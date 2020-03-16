@@ -14,11 +14,9 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
    > You may copy and distribute the digital form of the Bible in the public domain. 
 
-1. **The Leningrad Codex of the Hebrew Bible** is in the public domain. We obtained a digital version of the Leningrad Codex through the [Open Scriptures Hebrew Bible project](https://hb.openscriptures.org/).
+1. **The Leningrad Codex of the Hebrew Bible** is in the public domain. We obtained a digital version of the Leningrad Codex through the [Open Scriptures Hebrew Bible project](https://hb.openscriptures.org/).  The Hebrew Bible in the current distribution of the HELFI corpus contains one unintended change (it will be fixed in the future).   
 
-   > Currently, we do not have a proof of integrity for the Hebrew Bible
-   base text in the HELFI corpus.  You may use the Hebrew Bible
-   alignment and its source text only at your own risk.
+   > The Hebrew Bible of the HELFI corpus are in the public domain.  You may use at your own risk.
 
 1. **Eberhard Nestle's 1904 Greek New Testament (GNT)** is in the public
 domain.  The digital version (https://sites.google.com/site/nestle1904/) was edited by Diego Renato dos Santos and is in the public domain.   The Finnish Analytical Bible Concordance Project extended the digitised Nestle 1904 with additional verses that had been translated from
