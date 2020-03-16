@@ -34,7 +34,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
    > The *description* of the digital text edition of the 1933/1938 Finnish Bible translation is licenced under a Creative Commons Attribution Share-Alike 4.0 International license https://creativecommons.org/licenses/by-sa/4.0/.  For attribution purposes, credit the Finnish Analytical Bible Concordance Project (c) 1997 and Anssi Yli-Jyrä (c) March 2020.
 
-1. **The Finnish Bible Lemmas and Morphology**.  The Finnish lemmas and morphology have been made available for noncommercial, academic use by the collaboration agreement between the University of Helsinki that held Lingsoft's License to use FINTWOL analyser in academic projects and the RV Publishing House (later Aika[media]) carrying out manual disambiguation and editing for the Finnish Analytical Bible Concordance Project of later Aika[media] Oy.  
+1. **The Finnish Bible Lemmas and Morphology**.  The Finnish lemmas and morphology have been made available for noncommercial, noderivatives use by the collaboration agreement between the University of Helsinki and the RV Publishing House (later Aika[media]) carrying out manual disambiguation and editing of the lemmas and the morphology.
 
    > If you need an explicit license to use the Finnish lemmas or morphology, please contact the sales in Aika[media] Oy, Keuruu. 
 
