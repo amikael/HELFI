@@ -1,21 +1,21 @@
-# Known Bugs in the HELFI Corpus
+# The Known Bugs in the HELFI Corpus
 
 1. The remaining licensing issues with the Hebrew Bible base text should be resolved.
 
-1. The morphological glosses of extractors (%inflection, %mod, etc.) should be reviewed and corrected where necessary.
+2. The morphological glosses of extractors (%inflection, %mod, etc.) should be reviewed and corrected where necessary.
 
-1. The Hebrew text needs non-numerical Strong's lemmas or the lemmas used in the Finnish Analytical Bible Concordance.
+3. The Hebrew text needs non-numerical lemmas
 
-1. The codes and the alignment guidelines in the corpus need to be documented.
+4. The Hebrew lemma numbers of the Finnish Analytical Bible Concordance are not yet complete.
 
-1. The inter-annotation agreement on the alignment and morphological disambiguation should be estimated.
+5. The alignment guidelines and the cross-lingual alignment codes of the corpus need to be documented.
 
-1. The included Hebrew Bible and Greek New Testament lack a few verses or tokens that were removed because of they had been      corrupted during the processing.
+6. The inter-annotation agreement on the alignment and morphological disambiguation should be estimated.
 
-1. The Hebrew transliteration does not yet comply to the SBL transliteration standard in all details, although it is close to it.
+7. The Hebrew Bible and Greek New Testament of the current distribution lack some tokens.  These were removed because they became corrupted in the processing pipeline.
 
-1. The morphological tags of all languages should be documented and veried.
+8. The Hebrew transliteration is close to the SBL transliteration standard but does not fully comply with it.
 
-1. The Hebrew text has to be compared with the Leningrad Codex and the Greek text has to be compared with the Nestle 1904 for any remaining errors in processing.
+9. The morphological tags of all languages should be documented and verified.
 
-1. The set of source language tokens has to be equivalent with the token IDs used on the Finnish side.
+10. We need to prove that the set of source language token IDs is bijectively related with the set of token IDs used on the alignment data.
