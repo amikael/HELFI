@@ -18,20 +18,21 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
    > The Hebrew Bible of the HELFI corpus are in the public domain.  You may use at your own risk.
 
-1. **Eberhard Nestle's 1904 Greek New Testament (GNT)** is in the public
-domain.  The digital version (https://sites.google.com/site/nestle1904/) was edited by Diego Renato dos Santos and is in the public domain.   The Finnish Analytical Bible Concordance Project extended the digitised Nestle 1904 with additional verses that had been translated from
-a complementary GNT edition in 1938.  The added verses are in the public domain.
+   > The Roman script transliteration of the Hebrew Bible has been developed in the spirit of the SBL transliteration standard, but does not yet capture the standard in every detail.  You may use the transliteration only at your own risk.
+
+1. **Eberhard Nestle's (1904, 1913): H Kainη ∆iaθηkη (Greek New Testament)**; Text with Critical Apparatus was published by British and Foreign Bible Society, but it is now in the public domain.  The digital version (https://sites.google.com/site/nestle1904/) was edited by Diego Renato dos Santos and is in the public domain.
+
+The Finnish Analytical Bible Concordance Project (1991-1997) extended the digitised Nestle 1904 with additional verses that had been translated from a complementary source edition in 1938.  The added verses are in the public domain.
 
    > The GNT in the HELFI corpus is a proper extension of [Nestle's 1904 GNT](https://sites.google.com/site/nestle1904/).  The extended GNT is in the **public domain**.
        
-1. The **lemma and morphology data of the Leningrad Codex** have been created by 
-the [Open Scriptures Hebrew Bible Project](https://hb.openscriptures.org/).
+1. The **lemmas and morphology data of the Leningrad Codex** have been created by the [Open Scriptures Hebrew Bible Project](https://hb.openscriptures.org/).
 
-   > The Hebrew lemma and morphology data are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the [Open Scriptures Hebrew Bible Project](https://hb.openscriptures.org/).
+   > The Hebrew lemmas and morphology data are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the [Open Scriptures Hebrew Bible Project](https://hb.openscriptures.org/).
 
 1. The **lemmas and morphological data of Nestle's 1904 GNT edition** have been created by Professor Maurice A. Robinson at Southeastern Baptist Theological Seminary, North Carolina, and Dr. Ulrik Sandborg-Petersen at the Emergence Consult and the Aalborg University, Denmark (https://github.com/biblicalhumanities/Nestle1904).
 
-   > The lemmas and morphology of the GNT in the HELFI corpus are in the **public doman**.
+   > The Greek lemmas and morphology in the HELFI corpus are in the **public doman**.
 
 ## Third-Party Components That Remain under Their Current Licenses
 
