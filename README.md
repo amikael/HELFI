@@ -13,7 +13,7 @@ This corpus is under several licenses that cover its copyrighted parts.  You mus
 * [CITING - How to cite or attribute the cross-lingual morpheme alignment](https://github.com/amikael/HELFI/blob/master/CITING.md)
 * [LICENSES - The license and the parts that remain in the public domain or under their current restrictions](https://github.com/amikael/HELFI/blob/master/LICENSES.md)
 * [ACKNOWLEDGEMENTS](https://github.com/amikael/HELFI/blob/master/ACKNOWLEDGEMENTS.md)
-* [ISSUES - To-do's and issues of the corpus](https://github.com/amikael/HELFI/blob/master/ISSUES.md)
+* [BUGS - The Known Bugs in the HELFI Corpus](https://github.com/amikael/HELFI/blob/master/BUGS.md)
 
 # Contact
 
