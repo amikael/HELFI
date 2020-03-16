@@ -1,26 +1,29 @@
           The Hebrew Bible with Lemma and Morphology Data
 
-The Leningrad Codex of the Hebrew Bible is in the public domain.
-Although the digital base text originates through the Open Scriptures
-Hebrew Bible from the Westminster Leningrad Codex, it has not been
-verified and does not present the content of WLC precisely.  You may
-use the current digital base text version of Leningrad Codex in this
-corpus at your own risk.
+The Leningrad Codex of the Hebrew Bible is in the public domain. We
+obtained a digital version of the Leningrad Codex through the Open
+Scriptures Hebrew Bible project (https://hb.openscriptures.org/).  The
+Hebrew Bible in the current distribution of the HELFI corpus contains
+one unintended change (it will be fixed in the future).
 
-The Hebrew morphological analysis and lemmas have been derived from
-the Open Scriptures Hebrew Bible.  The morphological codes has been
-replaced with Leipzig-style morphological categoes.  The translation
-may contain errors and you may use it only at your own risk.  
+   The Hebrew Bible of the HELFI corpus are in the public domain.
+   You may use at your own risk.
 
-Lemma and morphology data are licensed under a Creative Commons
-Attribution 4.0 International license. For attribution purposes,
-credit the Open Scriptures Hebrew Bible Project. The text of the WLC
-remains in the Public Domain.
+   The Roman script transliteration of the Hebrew Bible has been
+   developed in the spirit of the SBL transliteration standard, but
+   does not yet capture the standard in every detail.  You may use the
+   transliteration only at your own risk.
 
-The transliteration has been developed in the spirit of the SBL
-transliteration standard.  However, the transliteration is needs to be
-still improved.  You may use the transliteration only at your own
-risk.
+The lemmas and morphology data of the Leningrad Codex have been
+created by the Open Scriptures Hebrew Bible Project
+(https://hb.openscriptures.org/).
+
+   The Hebrew lemmas and morphology data are licensed under a Creative
+   Commons Attribution 4.0 International license
+   (https://creativecommons.org/licenses/by/4.0/). For attribution
+   purposes, credit the Open Scriptures Hebrew Bible Project
+   (https://hb.openscriptures.org/).  
+
 
 
 
