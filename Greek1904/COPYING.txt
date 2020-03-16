@@ -2,11 +2,11 @@
 
 Eberhard Nestle's (1904, 1913): H Kainη ∆iaθηkη (Greek New Testament);
 Text with Critical Apparatus was published by British and Foreign
-Bible Society, but it is now the public domain.  The digital version
-(https://sites.google.com/site/nestle1904/) was edited by Diego Renato
-dos Santos and is in the public domain.
+Bible Society, but it is now in the public domain.  The digital
+version (https://sites.google.com/site/nestle1904/) was edited by
+Diego Renato dos Santos and is in the public domain.
 
-OBThe Finnish Analytical Bible Concordance Project (1991-1997) extended
+The Finnish Analytical Bible Concordance Project (1991-1997) extended
 the digitised Nestle 1904 with additional verses that had been
 translated from a complementary source edition in 1938.  The added
 verses are in the public domain.
@@ -20,7 +20,7 @@ Theological Seminary, North Carolina, and Dr. Ulrik Sandborg-Petersen
 at the Emergence Consult and the Aalborg University, Denmark.
 (https://github.com/biblicalhumanities/Nestle1904).
 
-   The lemmas and morphology of the GNT in the HELFI corpus are in the
+   The Greek lemmas and morphology in the HELFI corpus are in the
    public doman.
 
 
