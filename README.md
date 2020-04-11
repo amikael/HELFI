@@ -2,7 +2,7 @@
 
 > **ISLRM 840-665-876-625-0**
 
-> Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).  [Authors' preprint](https://github.com/amikael/HELFI/blob/master/HELFI-Corpus.pdf)
+> Anssi Yli-Jyrä, Josi Purhonen, Matti Liljeqvist, Arto Antturi, Pekka Nieminen, Kari M. Räntilä, Valtter Luoto, authors. (2020).  [HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment](https://arxiv.org/abs/2003.07456)  _Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)_, Marseille, France, 11-16 May 2020. European Language Resources Association (ELRA).  [Authors' preprint](https://github.com/amikael/HELFI/blob/master/HELFI-Corpus.pdf)
 
 ## Parts of the HELFI Corpus
 
