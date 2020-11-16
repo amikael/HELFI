@@ -16,7 +16,7 @@ The alignment data of the HELFI corpus consist exclusively of **the alignment li
 
 > **The alignment data of the HELFI corpus are licenced under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). For attribution purposes, credit the Finnish Analytical Bible Concordance Project of Aika[media] Oy.**
 
-The alignment excludes and data does not include the Hebrew, Greek and Finnish base texts, their lemmatisation and morphological analysis.  Therefore, **the texts, lemma and morphology databases of the three languages in the corpus are not covered by our current license.**  They are just made available as open third-party components (essentially available as downloads through other open efforts) but in our custom file formats.   
+The alignment data does not include the Hebrew, Greek and Finnish base texts, their lemmatisation and morphological analysis.  Therefore, **the texts, lemma and morphology databases of the three languages in the corpus are not covered by our current license.**  They are just made available as open third-party components (essentially available as downloads through other open efforts) but in our custom file formats.   
 
 ## The In-House Version of the Alignment Database
 
