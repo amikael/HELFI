@@ -1,6 +1,6 @@
 # Licenses
 
-## The Core Component of the HELFI Corpus
+## The Core Component of the HELFI Corpus is under the CC-BY 4.0 license.
 
 **The alignment data of the HELFI corpus are copyright of the Finnish Analytical Bible Concordance Project of Aika[media] Oy.  The alignment data of the HELFI corpus consist exclusively of the alignment link numbers, the gloss extractors and the link qualifiers added to the Finnish 1933/1938 translation.**
 
