@@ -22,7 +22,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
 1. **Eberhard Nestle's (1904, 1913): H Kainη ∆iaθηkη (Greek New Testament)**; Text with Critical Apparatus was published by British and Foreign Bible Society, but it is now in the public domain.  The digital version (https://sites.google.com/site/nestle1904/) was edited by Diego Renato dos Santos and is in the public domain.
 
-The Finnish Analytical Bible Concordance Project (1991-1997) extended the digitised Nestle 1904 with additional verses that had been translated from a complementary source edition in 1938.  The added verses are in the public domain.
+   > The Finnish Analytical Bible Concordance Project (1991-1997) extended the digitised Nestle 1904 with additional verses that had been translated from a complementary source edition in 1938.  The added verses are also in the public domain.
 
    > The GNT in the HELFI corpus is a proper extension of [Nestle's 1904 GNT](https://sites.google.com/site/nestle1904/).  The extended GNT is in the **public domain**.
        
