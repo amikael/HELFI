@@ -12,7 +12,7 @@ The texts, lemma and morphology databases of the three languages in the corpus *
 
 1. **The Pyhä Raamattu Finnish Bible**.  The Finnish 1933/1938 Bible Translation (Pyhä Raamattu) is in the public domain. 
 
-   > You may copy and distribute the digital form of the Pyhä Raamattu Finnish Bible in the public domain, but the since there are multiple digital versions, you might want to also cite the FABC Text Edition to specify the version included to the HELFI corpus, see below. 
+   > You may copy and distribute the digital form of the Pyhä Raamattu Finnish Bible in the public domain, but since there are multiple digital versions with their characteristics OCR or typing errors etc., you might want to cite the FABC Text Edition to identify the description of the version included to the HELFI corpus, see below. 
 
 1. **The Leningrad Codex of the Hebrew Bible** is in the public domain. We obtained a digital version of the Leningrad Codex through the [Open Scriptures Hebrew Bible project](https://hb.openscriptures.org/).  The Hebrew Bible in the current distribution of the HELFI corpus contains one unintended change (it will be fixed in the future).   
 
